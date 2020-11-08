@@ -26,26 +26,26 @@
             { "bandName": "普通隊長", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
             { "bandName": "步行者", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
             { "bandName": "晨曦光廊", "showStartTime": "6:30 PM", "showEndTime" : "7:20 PM", "showDuration": 50},
-            { "bandName": "OVDS", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+            { "bandName": "OVDS", "showStartTime": "8:00 PM", "showEndTime" : "8:50 PM", "showDuration": 50},
             { "bandName": "卜星慧", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "帝國大亂鬥舞台",
         "stageLineUp": [
-            { "bandName": "說書人", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
-            { "bandName": "野蠻人", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
-            { "bandName": "鐵擊", "showStartTime": "4:50 PM", "showEndTime" : "5:40 PM", "showDuration": 50},
-            { "bandName": "My Cat Eats My Hand", "showStartTime": "6:10 PM", "showEndTime" : "7:00 PM", "showDuration": 50},
-            { "bandName": "187 & AMD", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
-            { "bandName": "福川組", "showStartTime": "9:00 PM", "showEndTime" : "9:50 PM", "showDuration": 50},
+            { "bandName": "說書人", "showStartTime": "2:00 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
+            { "bandName": "野蠻人", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
+            { "bandName": "鐵擊", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
+            { "bandName": "My Cat Eats My Hand", "showStartTime": "5:30 PM", "showEndTime" : "6:00 PM", "showDuration": 30},
+            { "bandName": "187 & AMD", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "福川組", "showStartTime": "7:50 PM", "showEndTime" : "8:10 PM", "showDuration": 30},
             { "bandName": "王立言", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "卡拉DJ台",
         "stageLineUp": [
-            { "bandName": "佛性金屬", "showStartTime": "4:00 PM", "showEndTime" : "7:40 PM", "showDuration": 220}
+            { "bandName": "佛性金屬", "showStartTime": "4:00 PM", "showEndTime" : "8:00 PM", "showDuration": 240}
         ]
      }
     ],
@@ -55,11 +55,11 @@
             "stageLineUp": [
                 { "bandName": "宋德赫", "showStartTime": "11:20 AM", "showEndTime" : "0:00 PM", "showDuration": 40},
                 { "bandName": "謎路人", "showStartTime": "0:30 PM", "showEndTime" : "1:00 PM", "showDuration": 30},
-                { "bandName": "老破麻", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 50},
+                { "bandName": "老破麻", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
                 { "bandName": "PEATLE 禁藥王＆栗子", "showStartTime": "2:50 PM", "showEndTime" : "3:40 PM", "showDuration": 50},
                 { "bandName": "恕", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
                 { "bandName": "固定客", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
-                { "bandName": "OBSESS", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+                { "bandName": "OBSESS", "showStartTime": "6:40 PM", "showEndTime" : "7:30 PM", "showDuration": 50},
                 { "bandName": "玖壹壹", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
                 { "bandName": "傷心欲絕", "showStartTime": "9:10 PM", "showEndTime" : "10:00 PM", "showDuration": 50}
             ]
@@ -67,9 +67,9 @@
          {
             "stage": "ROCK副舞台",
             "stageLineUp": [
-                { "bandName": "拾參羊", "showStartTime": "11:30 AM", "showEndTime" : "12:10 PM", "showDuration": 40},
-                { "bandName": "餿水", "showStartTime": "00:40 PM", "showEndTime" : "1:10 PM", "showDuration": 30},
-                { "bandName": "餵飽豬", "showStartTime": "1:50 PM", "showEndTime" : "2:20 PM", "showDuration": 30},
+                { "bandName": "拾參羊", "showStartTime": "11:30 AM", "showEndTime" : "0:10 PM", "showDuration": 40},
+                { "bandName": "餿水", "showStartTime": "0:40 PM", "showEndTime" : "1:10 PM", "showDuration": 30},
+                { "bandName": "餵飽豬", "showStartTime": "1:50 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
                 { "bandName": "反正我很閒", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
                 { "bandName": "Shoot Up", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
                 { "bandName": "魚條樂團", "showStartTime": "5:10 PM", "showEndTime" : "5:50 PM", "showDuration": 40},
@@ -81,8 +81,8 @@
          {
             "stage": "帝國大亂鬥舞台",
             "stageLineUp": [
-                { "bandName": "手骨樂隊", "showStartTime": "11:40 AM", "showEndTime" : "12:20 PM", "showDuration": 40},
-                { "bandName": "Fatuous Rump", "showStartTime": "00:50 PM", "showEndTime" : "1:30 PM", "showDuration": 40},
+                { "bandName": "手骨樂隊", "showStartTime": "11:40 AM", "showEndTime" : "0:20 PM", "showDuration": 40},
+                { "bandName": "Fatuous Rump", "showStartTime": "0:50 PM", "showEndTime" : "1:30 PM", "showDuration": 40},
                 { "bandName": "noovy", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
                 { "bandName": "海岸乾杯", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
                 { "bandName": "男子漢", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
@@ -105,13 +105,13 @@
             "stage": "COMBO主舞台",
             "stageLineUp": [
                 { "bandName": "逃走鮑伯", "showStartTime": "11:20 AM", "showEndTime" : "0:00 PM", "showDuration": 40},
-                { "bandName": "類比梭羅", "showStartTime": "00:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
+                { "bandName": "類比梭羅", "showStartTime": "0:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
                 { "bandName": "JAYRoll+MULTIVERSE", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
                 { "bandName": "米粒人", "showStartTime": "2:50 PM", "showEndTime" : "3:30 PM", "showDuration": 40},
                 { "bandName": "破繭而出", "showStartTime": "4:00 PM", "showEndTime" : "4:50 PM", "showDuration": 50},
-                { "bandName": "FUTURE AFTER A SECOND", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40}
-                { "bandName": "康士坦的變化球", "showStartTime": "6:30 PM", "showEndTime" : "7:20 PM", "showDuration": 50}
-                { "bandName": "無妄合作社", "showStartTime": "7:50 PM", "showEndTime" : "8:40 PM", "showDuration": 50}
+                { "bandName": "FUTURE AFTER A SECOND", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
+                { "bandName": "康士坦的變化球", "showStartTime": "6:30 PM", "showEndTime" : "7:20 PM", "showDuration": 50},
+                { "bandName": "無妄合作社", "showStartTime": "7:50 PM", "showEndTime" : "8:40 PM", "showDuration": 50},
                 { "bandName": "血肉果汁機", "showStartTime": "9:10 PM", "showEndTime" : "10:00 PM", "showDuration": 50}
             ]
          },
@@ -125,7 +125,7 @@
                 { "bandName": "A piece of cake 256", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
                 { "bandName": "神棍", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
                 { "bandName": "海克力斯", "showStartTime": "6:30 PM", "showEndTime" : "7:20 PM", "showDuration": 50},
-                { "bandName": "Infernal Chaos", "showStartTime": "8:00 PM", "showEndTime" : "08:50 PM", "showDuration": 50},
+                { "bandName": "Infernal Chaos", "showStartTime": "8:00 PM", "showEndTime" : "8:50 PM", "showDuration": 50},
                 { "bandName": "Wednesday&壞透", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
             ]
          },
@@ -133,7 +133,7 @@
             "stage": "帝國大亂鬥舞台",
             "stageLineUp": [
                 { "bandName": "呂杰達搖滾大樂隊", "showStartTime": "11:40 AM", "showEndTime" : "0:20 PM", "showDuration": 40},
-                { "bandName": "Wayne Band", "showStartTime": "0:50 AM", "showEndTime" : "13:30 PM", "showDuration": 40},
+                { "bandName": "Wayne Band", "showStartTime": "0:50 PM", "showEndTime" : "1:30 PM", "showDuration": 40},
                 { "bandName": "等阮返來", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
                 { "bandName": "MIZMEZ", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
                 { "bandName": "獨立人種", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
@@ -151,5 +151,5 @@
             ]
          }
     ],
-    "fourthDayLineUps" :[
+    "fourthDayLineUps" : null
 }
