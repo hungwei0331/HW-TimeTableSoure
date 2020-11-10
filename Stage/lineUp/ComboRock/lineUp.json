@@ -1,7 +1,7 @@
 {
     "days": {
         "totalDays": 3,
-        "date": ["12 | 4", "12 | 5", "12 | 6"]
+        "dateText": ["12 | 4", "12 | 5", "12 | 6"]
     },
     "eventYear": "2020",
     "startTime": "11:00 AM",
