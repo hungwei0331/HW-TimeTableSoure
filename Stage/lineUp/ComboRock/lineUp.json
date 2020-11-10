@@ -1,5 +1,8 @@
 {
-    "days": ["12 | 4", "12 | 5", "12 | 6"],
+    "days": {
+        "totalDays": 3,
+        "date": ["12 | 4", "12 | 5", "12 | 6"]
+    },
     "eventYear": "2020",
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
