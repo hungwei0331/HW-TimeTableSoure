@@ -65,7 +65,7 @@
             "ticketStatus": "onSale",
             "instagramUrl": "https://www.instagram.com/breakingmudfest/",
             "purchaseUrl": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung",
-            "description": null,
+            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
             "eventLastUpdate": "2020/10/26",
             "eventTicket": [
                 { "tickName": "一生一世早鳥票", "salePeriod": "2020/01/12 ~ 2020/01/21", "price" : 1314, "ticketStatus": "soldOut"},
@@ -87,7 +87,7 @@
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": "https://emergelivehouse2.kktix.cc/events/gkr3tjs",
-            "description": null,
+            "description": "中部首家獨立音樂廠牌，創立於1999年",
             "eventLastUpdate": "2020/09/22",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 900, "ticketStatus": "soldOut"},
@@ -107,7 +107,7 @@
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl": null,
-            "description": null,
+            "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。",
             "eventLastUpdate": "2020/11/10",
             "eventTicket": null,
             "lineUp": null
@@ -124,7 +124,7 @@
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl": null,
-            "description": null,
+            "description": "台灣最大重型搖滾音樂活動品牌",
             "eventLastUpdate": "2020/8/12",
             "eventTicket": null,
             "lineUp": null
