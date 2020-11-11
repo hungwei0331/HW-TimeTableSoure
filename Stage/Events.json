@@ -1,66 +1,70 @@
 {
-    "lastUpdate": "2020/10/26",
+    "lastUpdate": "2020/11/11",
     "currentYearEvents":
     [
      {
          "years": 2020,
-         "title": "爛泥發芽",
+         "title": "LUCfest 貴人散步音樂節",
          "imageURL": "",
-         "startDate": "2020/04/25",
-         "endDate": "2020/04/26",
-         "locationName": "環音現場",
-         "location": "新北市泰山區民生路175-3號",
-         "latestAttend": ["毀滅體制 Destroy The System"],
-         "ticketStatus": "soldOut",
-         "instagramUrl": "https://www.instagram.com/breakingmudfest/",
-         "purchaseUrl": "https://leadhome.kktix.cc/events/comborock2020tw",
-         "description": "「城市邊緣的自由搏擊戰！」獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭",
-         "eventLastUpdate": "2020/10/26",
+         "startDate": "2020/11/27",
+         "endDate": "2020/11/29",
+         "locationName": "台南市區多場館",
+         "location": "台南市區多場館",
+         "latestAttend": null,
+         "ticketStatus": "onSale",
+         "instagramUrl": "https://www.instagram.com/lucfest.tw/",
+         "purchaseUrl": "https://lucfest.kktix.cc/events/lucfest2020",
+         "description": "揪你挑戰音樂敏感帶，挖掘未知好聲音！今年11月27日～11月29日，帶著你好奇的耳朵，來貴人挑戰耳朵敏感帶，挖出心頭好音樂！貴人散步有著最獨特的選團品味，就是要你比別人搶先一步聽到即將爆紅的好聲音，每年精選海內外獨具慧眼的選團人，選出最具潛力的超級新星，揪你來挑戰小圈圈外的好聲音，挖掘未知好聲音！",
+         "eventLastUpdate": "2020/11/10",
          "eventTicket": [
-             { "tickName": "一生一世早鳥票", "salePeriod": "2020/01/12 ~ 2020/01/21", "price" : 1314, "ticketStatus": "soldOut"},
-             { "tickName": "一路發發雙日票", "salePeriod": "2020/01/28 ~ 2020/03/01", "price" : 1688, "ticketStatus": "onSale"},
-             { "tickName": "一起走吧雙日票", "salePeriod": "2020/02/29 ~ 2020/05/17", "price" : 1798, "ticketStatus": "commingSoon"},
-             { "tickName": "再不買啊雙日票", "salePeriod": "2020/05/16 ~ 2020/05/17", "price" : 1999, "ticketStatus": "commingSoon"}
+             { "tickName": "貴人小鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1800, "ticketStatus": "soldOut"},
+             { "tickName": "貴人暖鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2000, "ticketStatus": "soldOut"},
+             { "tickName": "貴人三日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2800, "ticketStatus": "onSale"},
+             { "tickName": "貴人PRO PASS", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 3000, "ticketStatus": "onSale"},
+             { "tickName": "11/27（五） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/27", "price" : 1500, "ticketStatus": "onSale"},
+             { "tickName": "11/28（六）貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/28", "price" : 1500, "ticketStatus": "onSale"},
+             { "tickName": "11/29（日） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1500, "ticketStatus": "onSale"},
+             { "tickName": "身障票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1400, "ticketStatus": "soldOut"}
          ],
-         "lineUp": ["拍謝少年 Sorry Youth", "晨曦光廊-Sun Of Morning", "非人物種 Inhuman", "イルカポリス 海豚刑警", "八十八顆芭樂籽 88balaz", "謎路人 Way of Puzzle", "OBSESS", "厭世少年 Angry Youth", "餵飽豬", "Burning Island 火燒島", "SADOG", "五五身 Fiftybodyfifty", "The Roadside Inn", "老破麻 - Old Slut Distortion", "SHOOT UP", "倒車入庫 Reversing into Garage", "討口一眾 Kenkaaaaaa", "逃走鮑伯", "荒山茉莉 Molly in Mountain", "US:WE", "後站人 Made in back station", "佬步槍 Rusty Rifles", "Bacon Slap 培根巴掌！", "納稅米老鼠", "島嶼 IslandersI", "FunkyBrothers 放客兄弟", "呂杰達搖滾大樂隊", "愚人船 Ship of Fools", "Wednesday與壞透樂團Bad to the Bone",  "BB彈", "走石", "普通隊長 Captain Ordinary", "深深一擊 DepthDot", "go go rise / 美好前程", "下面騷動", "蚋蓓死淚 Rebel Slaves", "Volcano", "WAYNE BAND", "毀容姊妹會", "石青羅林 Stoneboyz", "萬龍", "溫室雜草 Easy Weeds", "廢埕樂團", "無先生", "徐行 Cruising", "秋瀾九十九 Autumn Billows 99", "米老虎-Main live", "少年A", "FUTURE AFTER A SECOND", "李先生"]
+         "lineUp": ["落日飛車｜當代電影大師｜昏鴉｜Cicada｜Limi｜靈魂沙發｜打倒三明治｜I Mean Us｜孔雀眼｜緩緩｜四枝筆｜Easy Shen Gang｜王彙筑｜hue｜Go Go Machine Orchestra｜陳穎達四重奏｜謝明諺六重奏：給喬的讚歌｜春麵樂隊｜飛鴻｜COLD DEW｜傷心欲絕｜OVDS｜Mong Tong｜呂士軒｜莫宰羊｜周穆｜JADE｜體熊專科｜仙樂隊｜熱寫生｜Super Napkin｜地球休假日｜柯泯薰｜葉穎｜鐵擊｜白頻率｜Wednesday 與壞透樂團｜非/密閉空間｜達摩樂隊｜RPG｜SHOOT UP｜純情火山｜血肉果汁機｜海豚刑警｜吳柏蒼｜大象體操｜神棍樂團｜雨國｜Chick en Chicks｜屋塔｜G5SH｜Resa Club｜YUFU & 絲絨印象派樂隊｜薛詒丹｜火燒島｜克里夫｜記號士｜Valley Hi!｜黃子軒與山平快｜逃走鮑伯｜許含光｜唐貓｜土製炸彈｜問題總部｜萬龍｜Lazy Habits(UK)｜美秀集團｜毀容姊妹會｜舒米恩｜大支｜拍謝少年｜雷光夏"]
      },
      {
          "years": 2020,
-         "title": "Taokao",
+         "title": "搖滾連續祭 Combo Rock Festival",
          "imageURL": "",
-         "startDate": "2020/05/25",
-         "endDate": "2020/05/26",
-         "locationName": "高雄駁二",
-         "location": "高雄市鹽埕區大勇路1號",
-         "latestAttend": ["INFERNAL CHAOS"],
+         "startDate": "2020/12/04",
+         "endDate": "2020/12/06",
+         "locationName": "歷史建築帝國製糖廠臺中營業所",
+         "location": "台中市東區泉源里樂業路30號",
+         "latestAttend": null,
          "ticketStatus": "onSale",
-         "instagramUrl": "https://www.instagram.com/breakingmudfest/",
+         "instagramUrl": "https://www.instagram.com/comborocktaiwan/",
          "purchaseUrl": "https://leadhome.kktix.cc/events/comborock2020tw",
-         "description": "網羅世界上一線知名重型搖滾以及龐克樂團齊聚台灣，兩天三個舞台超過60組各類型搖滾藝人熱鬧登場！山海屯搖滾祭期望將龐克搖滾以及重型音樂帶到一個新高度，並讓世界看到台灣。",
-         "eventLastUpdate": "2020/10/26",
+         "description": "一期一會，一年一巡 全台灣各個地方都將會有我們的足跡",
+         "eventLastUpdate": "2020/11/06",
          "eventTicket": [
-             { "tickName": "一生一世早鳥票", "salePeriod": "2020/01/12 ~ 2020/01/21", "price" : 1314, "ticketStatus": "soldOut"},
-             { "tickName": "一路發發雙日票", "salePeriod": "2020/01/28 ~ 2020/03/01", "price" : 1688, "ticketStatus": "onSale"},
-             { "tickName": "一起走吧雙日票", "salePeriod": "2020/02/29 ~ 2020/05/17", "price" : 1798, "ticketStatus": "commingSoon"},
-             { "tickName": "再不買啊雙日票", "salePeriod": "2020/05/16 ~ 2020/05/17", "price" : 1999, "ticketStatus": "commingSoon"}
+             { "tickName": "三日一生一世票", "salePeriod": "2020/08/24 ~ 2020/08/30", "price" : 600, "ticketStatus": "soldOut"},
+             { "tickName": "三日六百鐵桿票", "salePeriod": "2020/08/31 ~ 2020/12/03", "price" : 600, "ticketStatus": "onSale"},
+             { "tickName": "早鳥單日票", "salePeriod": "2020/08/31 ~ 2020/11/10", "price" : 900, "ticketStatus": "soldOut"},
+             { "tickName": "三日票", "salePeriod": "2020/08/31 ~ 2020/12/03", "price" : 1700, "ticketStatus": "onSale"}
          ],
-         "lineUp": ["拍謝少年 Sorry Youth", "晨曦光廊-Sun Of Morning", "非人物種 Inhuman", "イルカポリス 海豚刑警", "八十八顆芭樂籽 88balaz", "謎路人 Way of Puzzle", "OBSESS", "厭世少年 Angry Youth", "餵飽豬", "Burning Island 火燒島", "SADOG", "五五身 Fiftybodyfifty", "The Roadside Inn", "老破麻 - Old Slut Distortion", "SHOOT UP", "倒車入庫 Reversing into Garage", "討口一眾 Kenkaaaaaa", "逃走鮑伯", "荒山茉莉 Molly in Mountain", "US:WE", "後站人 Made in back station", "佬步槍 Rusty Rifles", "Bacon Slap 培根巴掌！", "納稅米老鼠", "島嶼 IslandersI", "FunkyBrothers 放客兄弟", "呂杰達搖滾大樂隊", "愚人船 Ship of Fools", "Wednesday與壞透樂團Bad to the Bone",  "BB彈", "走石", "普通隊長 Captain Ordinary", "深深一擊 DepthDot", "go go rise / 美好前程", "下面騷動", "蚋蓓死淚 Rebel Slaves", "Volcano", "WAYNE BAND", "毀容姊妹會", "石青羅林 Stoneboyz", "萬龍", "溫室雜草 Easy Weeds", "廢埕樂團", "無先生", "徐行 Cruising", "秋瀾九十九 Autumn Billows 99", "米老虎-Main live", "少年A", "FUTURE AFTER A SECOND", "李先生"]
+         "lineUp": ["傷心欲絕｜玖壹壹｜血肉果汁機｜Marz 23｜光景消逝｜無妄合作社 | 八十八顆芭樂籽｜Infernal Chaos｜晨曦光廊｜OBSESS｜康士坦的變化球｜老破麻｜神棍｜禁藥王&栗子｜恕｜月宵◇クレシェンテ ｜OVDS｜固定客｜A Piece of Cake 256｜反正我很閒｜餵飽豬｜海克力斯｜破繭而出｜顯然樂隊｜謎路人｜SHOOT UP｜擊倒巨人｜暴行終止｜逃走鮑伯｜亥兒｜步行者｜MIZMEZ｜Future after a Second｜米粒人｜宋德鶴｜魚條｜男子漢｜JAYRoll｜187INC｜PEATLE｜FORMOZA｜李紅｜西屯純愛組｜MULTIVERSE｜毀滅體制｜白頻率｜野蠻人｜類比梭羅｜王立言｜普通隊長｜海岸乾杯｜蘭花刀｜福川組｜餿水Swill｜拾參羊｜Locu5｜Wayne Band ｜YELLOWBLACK｜卜星慧｜超音界｜WEDNESDAY與壞透樂團｜說書人｜鐵擊｜Beware the sky falling｜｜既視感｜暴噬者｜DHARMA達摩樂隊｜邱淑蟬&平衡訊號｜暴君｜等阮返來｜NOOVY｜My Cat Eats My Hand｜獨立人種｜呂杰達搖滾大樂隊｜手骨樂隊｜Fatuous Rump"]
      }
     ],
     "nextYearEvents":
     [
         {
             "years": 2021,
-            "title": "野台開唱",
+            "title": "爛泥發芽(高雄)",
             "imageURL": "",
-            "startDate": "2020/06/25",
-            "endDate": "2020/06/26",
-            "locationName": "台北花博",
-            "location": "台北市中山區玉門街1號",
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "startDate": "2020/01/30",
+            "endDate": "2020/01/31",
+            "locationName": "高雄橋頭糖廠十鼓文化園區",
+            "location": "高雄市橋頭區糖廠路24號",
+            "latestAttend": ["イルカポリス 海豚刑警"],
+            "ticketStatus": "onSale",
             "instagramUrl": "https://www.instagram.com/breakingmudfest/",
-            "purchaseUrl": "https://leadhome.kktix.cc/events/comborock2020tw",
+            "purchaseUrl": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung",
             "description": null,
             "eventLastUpdate": "2020/10/26",
             "eventTicket": [
@@ -69,11 +73,65 @@
                 { "tickName": "一起走吧雙日票", "salePeriod": "2020/02/29 ~ 2020/05/17", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "再不買啊雙日票", "salePeriod": "2020/05/16 ~ 2020/05/17", "price" : 1999, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": []
+            "lineUp": ["(神秘卡司已被李先生屏蔽)、EmptyORio、海豚刑警、孩子王、謎路人、彼岸曙光、煙雨飄渺、夕陽武士、昴宿、城市雨人、必順鄉村"]
+        },
+        {
+            "years": 2021,
+            "title": "浮現祭",
+            "imageURL": null,
+            "startDate": "2020/03/27",
+            "endDate": "2020/03/28",
+            "locationName": "山海一線－台中清水​",
+            "location": "台中市清水區中山路90號​",
+            "latestAttend": ["康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"],
+            "ticketStatus": "onSale",
+            "instagramUrl": "https://www.instagram.com/emerge_fest/​",
+            "purchaseUrl": "https://emergelivehouse2.kktix.cc/events/gkr3tjs",
+            "description": null,
+            "eventLastUpdate": "2020/09/22",
+            "eventTicket": [
+                { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 900, "ticketStatus": "soldOut"},
+                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 1000, "ticketStatus": "commingSoon"}
+            ],
+            "lineUp": ["董事長樂團．拍謝少年．持修．老王樂隊．脫拉庫．守夜人．朱頭皮普拉斯未知之境 ft. 趙一豪．甜約翰．海豚刑警．老破麻．狗吠火車．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"]
         },
         {
             "years": 2021,
             "title": "大港開唱",
+            "imageURL": null,
+            "startDate": "2020/03/27",
+            "endDate": "2020/03/28",
+            "locationName": null,
+            "location": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": null,
+            "eventLastUpdate": "2020/11/10",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2021,
+            "title": "山海屯",
+            "imageURL": null,
+            "startDate": "2020/04/30",
+            "endDate": "2020/05/02",
+            "locationName": null,
+            "location": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": null,
+            "eventLastUpdate": "2020/8/12",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2021,
+            "title": "測試",
             "imageURL": null,
             "startDate": null,
             "endDate": null,
@@ -90,3 +148,6 @@
         }
      ]
 }
+
+
+

@@ -1,9 +1,12 @@
 {
-    "days": ["12 | 4", "12 | 5", "12 | 6"],
+    "days": {
+        "totalDays": 3,
+        "dateText": ["12 | 4", "12 | 5", "12 | 6"]
+    },
     "eventYear": "2020",
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
-    "stages": ["COMBO主舞台", "ROCK副舞台", "帝國大亂鬥舞台", "卡拉DJ台"], 
+    "stages": ["COMBO主舞台", "ROCK副舞台", "帝國大亂鬥舞台", "卡拉DJ台"],
     "firstDayLineUps" :[
      {
         "stage": "COMBO主舞台",
