@@ -77,26 +77,6 @@
         },
         {
             "years": 2021,
-            "title": "浮現祭",
-            "imageURL": null,
-            "startDate": "2020/03/27",
-            "endDate": "2020/03/28",
-            "locationName": "山海一線－台中清水​",
-            "location": "台中市清水區中山路90號​",
-            "latestAttend": ["康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"],
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": "https://emergelivehouse2.kktix.cc/events/gkr3tjs",
-            "description": null,
-            "eventLastUpdate": "2020/09/22",
-            "eventTicket": [
-                { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 900, "ticketStatus": "soldOut"},
-                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 1000, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": ["董事長樂團．拍謝少年．持修．老王樂隊．脫拉庫．守夜人．朱頭皮普拉斯未知之境 ft. 趙一豪．甜約翰．海豚刑警．老破麻．狗吠火車．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"]
-        },
-        {
-            "years": 2021,
             "title": "大港開唱",
             "imageURL": null,
             "startDate": "2020/03/27",
