@@ -1,10 +1,10 @@
 {
     "days": {
         "totalDays": 3,
-        "dateText": ["11 | 27", "11 | 28", "11 | 29"]
+        "dateText": ["11 / 27", "11 / 28", "11 / 29"]
     },
     "eventYear": "2020",
-    "startTime": "13:00 PM",
+    "startTime": "1:00 PM",
     "endTime": "22:20 PM",
     "stages": ["台南城市音樂節", "南美2館", "南美里活動中心","吳園藝文中心", "B.B ART", "全美戲院A廳", "全美戲院A廳"],
     "firstDayLineUps" :[
