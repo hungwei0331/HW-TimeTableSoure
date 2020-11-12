@@ -40,7 +40,7 @@
      {
         "stage": "全美戲院A廳",
         "stageLineUp": [
-            { "bandName": "唐貓", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40}
+            { "bandName": "唐貓", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
             { "bandName": "傷心欲絕", "showStartTime": "9:10 PM", "showEndTime" : "9:50 PM", "showDuration": 40}
         ]
      }
