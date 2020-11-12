@@ -1,3 +1,10 @@
 {
-    "totalLineUp": ["lucFest","comboRock"]
+    "totalEvent": [
+        {
+            "name": "",
+            "period": "",
+            "type":"",
+            "status": ""
+        }
+    ]
 }
