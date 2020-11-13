@@ -19,8 +19,8 @@
             "years": 2020,
             "name": "SimpleLife簡單生活節",
             "period": "2020/12/12 - 2020/12/13",
-            "type":"",
-            "status": "simpleLife"
+            "type":"simpleLife",
+            "status": ""
         }
     ]
 }

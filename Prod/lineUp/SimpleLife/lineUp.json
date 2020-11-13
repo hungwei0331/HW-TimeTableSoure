@@ -1,0 +1,88 @@
+{
+    "days": {
+        "totalDays": 2,
+        "dateText": ["12 / 06", "12 / 13"]
+    },
+    "eventYear": "2020",
+    "startTime": "1:00 PM",
+    "endTime": "11:00 PM",
+    "stages": ["微風舞台", "綠意舞台", "Legacy舞台", "街聲舞台"],
+    "firstDayLineUps" :[
+     {
+        "stage": "微風舞台",
+        "stageLineUp": [
+            { "bandName": "普悠瑪家族樂團：陳建年、紀曉君、昊恩、家家、南王姊妹花", "showStartTime": "3:00 PM", "showEndTime" : "3:50 PM", "showDuration": 50},
+            { "bandName": "莫宰羊", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40}
+        ]
+     },
+     {
+        "stage": "綠意舞台",
+        "stageLineUp": [
+            { "bandName": "莫宰羊", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 40},
+            { "bandName": "RPG", "showStartTime": "9:40 PM", "showEndTime" : "10:20 PM", "showDuration": 40}
+        ]
+     },
+     {
+        "stage": "Legacy舞台",
+        "stageLineUp": [
+            { "bandName": "I Mean Us", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
+            { "bandName": "雨國", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+        ]
+     },
+     {
+        "stage": "街聲舞台",
+        "stageLineUp": []
+     }
+    ],
+    "secondDayLineUps" :[
+        {
+           "stage": "微風舞台",
+           "stageLineUp": [
+               { "bandName": "毀容姐妹會", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+               { "bandName": "海豚刑警", "showStartTime": "4:30 PM", "showEndTime" : "5:10 PM", "showDuration": 40},
+               { "bandName": "傷心欲絕", "showStartTime": "5:30 PM", "showEndTime" : "6:10 PM", "showDuration": 40},
+               { "bandName": "大支", "showStartTime": "6:30 PM", "showEndTime" : "7:10 PM", "showDuration": 40},
+               { "bandName": "雷光夏", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40}
+           ]
+        },
+        {
+           "stage": "綠意舞台",
+           "stageLineUp": [
+               { "bandName": "Go Go Machine Orchestra", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+               { "bandName": "JADE", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+               { "bandName": "血肉果汁機", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+               { "bandName": "火燒島", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
+               { "bandName": "達摩樂隊", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
+               { "bandName": "OVDS", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
+               { "bandName": "落日飛車", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+           ]
+        },
+        {
+           "stage": "Legacy舞台",
+           "stageLineUp": [
+               { "bandName": "土製炸彈", "showStartTime": "14:10 PM", "showEndTime" : "14:50 PM", "showDuration": 40},
+               { "bandName": "打倒三明治", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+               { "bandName": "SHOOT UP", "showStartTime": "4:30 PM", "showEndTime" : "5:10 PM", "showDuration": 40},
+               { "bandName": "Valley Hi!", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
+               { "bandName": "熱血生", "showStartTime": "6:50 PM", "showEndTime" : "7:30 PM", "showDuration": 40},
+               { "bandName": "體熊專科", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+               { "bandName": "Lazy Habits", "showStartTime": "9:10 PM", "showEndTime" : "9:50 PM", "showDuration": 40}
+           ]
+        },
+        {
+           "stage": "街聲舞台",
+           "stageLineUp": [
+               { "bandName": "柯泯薰", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+               { "bandName": "鐵擊", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
+               { "bandName": "Easy Shen Gang", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
+               { "bandName": "陳穎達四重奏", "showStartTime": "5:30 PM", "showEndTime" : "6:10 PM", "showDuration": 40},
+               { "bandName": "Limi", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+               { "bandName": "許含光", "showStartTime": "7:50 PM", "showEndTime" : "8:30 PM", "showDuration": 40},
+               { "bandName": "昏鴉", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
+           ]
+        },
+    ],
+    "thirdDayLineUps" : null,
+    "fourthDayLineUps" : null,
+    "fifthDayLineUps" : null
+}
