@@ -82,19 +82,16 @@
             "endDate": "2020/01/31",
             "locationName": "高雄橋頭糖廠十鼓文化園區",
             "location": "高雄市橋頭區糖廠路24號",
-            "latestAttend": "イルカポリス 海豚刑警",
+            "latestAttend": "老破麻",
             "ticketStatus": "onSale",
             "instagramUrl": "https://www.instagram.com/breakingmudfest/",
             "purchaseUrl": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung",
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
             "eventLastUpdate": "2020/10/26",
             "eventTicket": [
-                { "tickName": "一生一世早鳥票", "salePeriod": "2020/01/12 ~ 2020/01/21", "price" : 1314, "ticketStatus": "soldOut"},
-                { "tickName": "一路發發雙日票", "salePeriod": "2020/01/28 ~ 2020/03/01", "price" : 1688, "ticketStatus": "onSale"},
-                { "tickName": "一起走吧雙日票", "salePeriod": "2020/02/29 ~ 2020/05/17", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "再不買啊雙日票", "salePeriod": "2020/05/16 ~ 2020/05/17", "price" : 1999, "ticketStatus": "commingSoon"}
+                { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"}
             ],
-            "lineUp": "(神秘卡司已被李先生屏蔽)、EmptyORio、海豚刑警、孩子王、謎路人、彼岸曙光、煙雨飄渺、夕陽武士、昴宿、城市雨人、必順鄉村"
+            "lineUp": "(神秘卡司已被李先生屏蔽)、EmptyORio.、老破麻、海豚刑警、孩子王、謎路人、彼岸曙光、煙雨飄渺、夕陽武士、昴宿、城市雨人、必順鄉村"
         },
         {
             "years": 2021,
