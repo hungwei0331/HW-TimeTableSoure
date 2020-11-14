@@ -87,7 +87,7 @@
             "instagramUrl": "https://www.instagram.com/breakingmudfest/",
             "purchaseUrl": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung",
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2020/10/26",
+            "eventLastUpdate": "2020/11/14",
             "eventTicket": [
                 { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"}
             ],
@@ -101,15 +101,15 @@
             "endDate": "2020/03/28",
             "locationName": "山海一線－台中清水​",
             "location": "台中市清水區中山路90號​",
-            "latestAttend": "康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​",
+            "latestAttend": "EastWave東波​​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": "https://emergelivehouse2.kktix.cc/events/gkr3tjs",
-            "description": "中部首家獨立音樂廠牌，創立於1999年",
+            "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
             "eventLastUpdate": "2020/09/22",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 900, "ticketStatus": "soldOut"},
-                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 1000, "ticketStatus": "commingSoon"}
+                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 1000, "ticketStatus": "onSale"}
             ],
             "lineUp": "董事長樂團．拍謝少年．持修．老王樂隊．脫拉庫．守夜人．朱頭皮普拉斯未知之境 ft. 趙一豪．甜約翰．海豚刑警．老破麻．狗吠火車．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"
         },
