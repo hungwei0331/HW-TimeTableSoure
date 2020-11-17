@@ -12,8 +12,8 @@
          "location": "台南市區多場館",
          "latestAttend": null,
          "ticketStatus": "onSale",
-         "instagramUrl": "https://www.instagram.com/lucfest.tw/",
-         "purchaseUrl": "https://lucfest.kktix.cc/events/lucfest2020",
+         "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true },
+         "purchaseUrl":  {"url": "https://lucfest.kktix.cc/events/lucfest2020", "clickable": false},
          "description": "揪你挑戰音樂敏感帶，挖掘未知好聲音！今年11月27日～11月29日，帶著你好奇的耳朵，來貴人挑戰耳朵敏感帶，挖出心頭好音樂！貴人散步有著最獨特的選團品味，就是要你比別人搶先一步聽到即將爆紅的好聲音，每年精選海內外獨具慧眼的選團人，選出最具潛力的超級新星，揪你來挑戰小圈圈外的好聲音，挖掘未知好聲音！",
          "eventLastUpdate": "2020/11/10",
          "eventTicket": [
@@ -38,8 +38,8 @@
          "location": "台中市東區泉源里樂業路30號",
          "latestAttend": null,
          "ticketStatus": "onSale",
-         "instagramUrl": "https://www.instagram.com/comborocktaiwan/",
-         "purchaseUrl": "https://leadhome.kktix.cc/events/comborock2020tw",
+         "instagramUrl": {"url": "https://www.instagram.com/comborocktaiwan/", "clickable": true},
+         "purchaseUrl":  {"url": "https://leadhome.kktix.cc/events/comborock2020tw", "clickable": false},
          "description": "一期一會，一年一巡 全台灣各個地方都將會有我們的足跡",
          "eventLastUpdate": "2020/11/06",
          "eventTicket": [
@@ -60,8 +60,8 @@
          "location": "台北市中正區八德路一段1號",
          "latestAttend": null,
          "ticketStatus": "onSale",
-         "instagramUrl": "https://reurl.cc/ReYQe",
-         "purchaseUrl": "https://bit.ly/37GkAjr",
+         "instagramUrl": {"url": "https://reurl.cc/ReYQe", "clickable": true},
+         "purchaseUrl":  {"url": "https://bit.ly/37GkAjr", "clickable": false},
          "description": "「簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。",
          "eventLastUpdate": "2020/11/03",
          "eventTicket": [
@@ -84,8 +84,8 @@
             "location": "高雄市橋頭區糖廠路24號",
             "latestAttend": "老破麻",
             "ticketStatus": "onSale",
-            "instagramUrl": "https://www.instagram.com/breakingmudfest/",
-            "purchaseUrl": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung",
+            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
             "eventLastUpdate": "2020/11/14",
             "eventTicket": [
@@ -104,7 +104,7 @@
             "latestAttend": "EastWave東波​​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
-            "purchaseUrl": "https://emergelivehouse2.kktix.cc/events/gkr3tjs",
+            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
             "eventLastUpdate": "2020/09/22",
             "eventTicket": [
