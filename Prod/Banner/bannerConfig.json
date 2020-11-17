@@ -2,13 +2,13 @@
     "banners":
     [
         {
-            "imageUrl": "https://github.com/hungwei0331/HW-TimeTableSoure/blob/master/Prod/Banner/bannerImage/lucfest.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/lucfest.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
         },
         {
-            "imageUrl": "https://github.com/hungwei0331/HW-TimeTableSoure/blob/master/Prod/Banner/bannerImage/simpleLife.png",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/simpleLife.png",
             "officalUrl": null,
             "type": null,
             "status": null
@@ -32,13 +32,13 @@
             "status": null
         },
         {
-            "imageUrl": "https://github.com/hungwei0331/HW-TimeTableSoure/blob/master/Prod/Banner/bannerImage/mega.png",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/mega.png",
             "officalUrl": null,
             "type": null,
             "status": null
         },
         {
-            "imageUrl": "https://github.com/hungwei0331/HW-TimeTableSoure/blob/master/Prod/Banner/bannerImage/heartTown.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/heartTown.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
