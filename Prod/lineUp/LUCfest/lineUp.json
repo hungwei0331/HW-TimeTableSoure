@@ -99,13 +99,13 @@
         {
            "stage": "B.B ART",
            "stageLineUp": [
-               { "bandName": "hue", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "王彙筑", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "記號士", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "YUFU & 絲絨印象派樂隊", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "Chick en Chicks", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "地球休假日", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40},
-               { "bandName": "緩緩", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
+               { "bandName": "hue", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+               { "bandName": "王彙筑", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+               { "bandName": "記號士", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+               { "bandName": "YUFU & 絲絨印象派樂隊", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
+               { "bandName": "Chick en Chicks", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
+               { "bandName": "地球休假日", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
+               { "bandName": "緩緩", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
            ]
         },
         {
