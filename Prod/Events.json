@@ -41,7 +41,7 @@
          "instagramUrl": {"url": "https://www.instagram.com/comborocktaiwan/", "clickable": true},
          "purchaseUrl":  {"url": "https://leadhome.kktix.cc/events/comborock2020tw", "clickable": false},
          "description": "一期一會，一年一巡 全台灣各個地方都將會有我們的足跡",
-         "eventLastUpdate": "2020/11/06",
+         "eventLastUpdate": "2020/12/02",
          "eventTicket": [
              { "tickName": "三日一生一世票", "salePeriod": "2020/08/24 ~ 2020/08/30", "price" : 600, "ticketStatus": "soldOut"},
              { "tickName": "三日六百鐵桿票", "salePeriod": "2020/08/31 ~ 2020/12/03", "price" : 600, "ticketStatus": "onSale"},
