@@ -11,7 +11,7 @@
          "location": {"locationName": "臺南市美術館2館", "locationAddress": "台南市中西區忠義路二段1號", "latitude": 22.990638, "longitude": 120.201376},
          "mail": "hello@lucfest.com",
          "latestAttend": null,
-         "ticketStatus": "onSale",
+         "ticketStatus": "soldOut",
          "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true },
          "purchaseUrl":  {"url": "https://lucfest.kktix.cc/events/lucfest2020", "clickable": false},
          "description": "揪你挑戰音樂敏感帶，挖掘未知好聲音！今年11月27日～11月29日，帶著你好奇的耳朵，來貴人挑戰耳朵敏感帶，挖出心頭好音樂！貴人散步有著最獨特的選團品味，就是要你比別人搶先一步聽到即將爆紅的好聲音，每年精選海內外獨具慧眼的選團人，選出最具潛力的超級新星，揪你來挑戰小圈圈外的好聲音，挖掘未知好聲音！",
@@ -19,11 +19,11 @@
          "eventTicket": [
              { "tickName": "貴人小鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1800, "ticketStatus": "soldOut"},
              { "tickName": "貴人暖鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2000, "ticketStatus": "soldOut"},
-             { "tickName": "貴人三日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2800, "ticketStatus": "onSale"},
-             { "tickName": "貴人PRO PASS", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 3000, "ticketStatus": "onSale"},
-             { "tickName": "11/27（五） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/27", "price" : 1500, "ticketStatus": "onSale"},
-             { "tickName": "11/28（六）貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/28", "price" : 1500, "ticketStatus": "onSale"},
-             { "tickName": "11/29（日） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1500, "ticketStatus": "onSale"},
+             { "tickName": "貴人三日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2800, "ticketStatus": "soldOut"},
+             { "tickName": "貴人PRO PASS", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 3000, "ticketStatus": "soldOut"},
+             { "tickName": "11/27（五） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/27", "price" : 1500, "ticketStatus": "soldOut"},
+             { "tickName": "11/28（六）貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/28", "price" : 1500, "ticketStatus": "soldOut"},
+             { "tickName": "11/29（日） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1500, "ticketStatus": "soldOut"},
              { "tickName": "身障票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1400, "ticketStatus": "soldOut"}
          ],
          "lineUp": "落日飛車｜當代電影大師｜昏鴉｜Cicada｜Limi｜靈魂沙發｜打倒三明治｜I Mean Us｜孔雀眼｜緩緩｜四枝筆｜Easy Shen Gang｜王彙筑｜hue｜Go Go Machine Orchestra｜陳穎達四重奏｜謝明諺六重奏：給喬的讚歌｜春麵樂隊｜飛鴻｜COLD DEW｜傷心欲絕｜OVDS｜Mong Tong｜呂士軒｜莫宰羊｜周穆｜JADE｜體熊專科｜仙樂隊｜熱寫生｜Super Napkin｜地球休假日｜柯泯薰｜葉穎｜鐵擊｜白頻率｜Wednesday 與壞透樂團｜非/密閉空間｜達摩樂隊｜RPG｜SHOOT UP｜純情火山｜血肉果汁機｜海豚刑警｜吳柏蒼｜大象體操｜神棍樂團｜雨國｜Chick en Chicks｜屋塔｜G5SH｜Resa Club｜YUFU & 絲絨印象派樂隊｜薛詒丹｜火燒島｜克里夫｜記號士｜Valley Hi!｜黃子軒與山平快｜逃走鮑伯｜許含光｜唐貓｜土製炸彈｜問題總部｜萬龍｜Lazy Habits(UK)｜美秀集團｜毀容姊妹會｜舒米恩｜大支｜拍謝少年｜雷光夏"
@@ -82,16 +82,18 @@
             "endDate": "2020/01/31",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "老破麻",
+            "latestAttend": "一點生、札克忍者Zac Ninja、人性先覺 Between The Savage",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2020/11/14",
+            "eventLastUpdate": "2020/12/01",
             "eventTicket": [
-                { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"}
+                { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "soldOut"},
+                { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"},
+                { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "(神秘卡司已被李先生屏蔽)、EmptyORio.、老破麻、海豚刑警、孩子王、謎路人、彼岸曙光、煙雨飄渺、夕陽武士、昴宿、城市雨人、必順鄉村"
+            "lineUp": "EmptyORio、海豚刑警、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺"
         },
         {
             "years": 2021,
@@ -99,19 +101,19 @@
             "imageURL": null,
             "startDate": "2021/02/27",
             "endDate": "2021/02/28",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
+            "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "EastWave東波​​",
+            "latestAttend": "➳ 許含光 Lumi ➳ 荷爾蒙少年 Hormone Boys ➳ 溫蒂漫步 Wendy Wander​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2020/09/22",
+            "eventLastUpdate": "2020/12/01",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 900, "ticketStatus": "soldOut"},
                 { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 1000, "ticketStatus": "onSale"}
             ],
-            "lineUp": "董事長樂團．拍謝少年．持修．老王樂隊．脫拉庫．守夜人．朱頭皮普拉斯未知之境 ft. 趙一豪．甜約翰．海豚刑警．老破麻．狗吠火車．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團​"
+            "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．脫拉庫．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．．米老虎．許含光．荷爾蒙少年．溫蒂漫步"
         },
         {
             "years": 2021,
@@ -121,14 +123,18 @@
             "endDate": "2021/03/28",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "mail": "info@megaportfest.com",
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "latestAttend": "大港女神: 徐若瑄 Vivian Hsu",
+            "ticketStatus": "soldOut",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。",
-            "eventLastUpdate": "2020/11/10",
-            "eventTicket": null,
-            "lineUp": null
+            "eventLastUpdate": "2020/11/25",
+            "eventTicket": [
+                { "tickName": "預售單日票", "salePeriod": "~ 2020/3/27", "price" : 1500, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日聯票", "salePeriod": "~2020/3/27", "price" : 2500, "ticketStatus": "soldOut"},
+                { "tickName": "黃牛去死", "salePeriod": "~2020/3/27", "price" : 9999, "ticketStatus": "soldOut"}
+            ],
+            "lineUp": "徐若瑄 Vivian Hsu"
         },
         {
             "years": 2021,
