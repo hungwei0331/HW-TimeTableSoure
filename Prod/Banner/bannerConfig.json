@@ -2,12 +2,6 @@
     "banners":
     [
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/lucfest.jpg",
-            "officalUrl": null,
-            "type": null,
-            "status": null
-        },
-        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/comboRock.jpg",
             "officalUrl": null,
             "type": null,
