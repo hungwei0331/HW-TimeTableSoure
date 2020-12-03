@@ -111,7 +111,7 @@
             "eventLastUpdate": "2020/12/01",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
-                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "onSale"}
+                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"}
             ],
             "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．脫拉庫．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．．米老虎．許含光．荷爾蒙少年．溫蒂漫步"
         },
