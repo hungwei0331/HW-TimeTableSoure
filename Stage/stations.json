@@ -1,0 +1,894 @@
+{
+    "station":
+    [
+        {
+            "name": "PSYCHOBILLY",
+            "streamURL": "http://79.111.119.111:8002/psychobilly",
+            "imageURL": "http://radcap.ru/stylegraf/psychobilly.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Saykobilli (English Psychobilly) is a genre of rock music that combines the expression and aggressiveness of punk rock with country and rockabilly melodies. According to the American critic Jen Kaminsky, the genre of “cyclobili” unites all modern and post-punk rockabilly types (such as gotabilly, pankabilli, surfabilli, crastabilly, thrasabilly, etc.) As a rule, instead of a bass guitar, a bass bass (continuity with rockabilly) is used in psychobilly groups."
+        },
+        {
+            "name": "INDIE/TWEE POP",
+            "streamURL": "http://79.111.119.111:8002/indiepop",
+            "imageURL": "http://radcap.ru/stylegraf/twee.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Indie Pop, in the United States also Twi-Pop, was an alternative rock style that developed in the mid-80s of the 20th century, usually called Scottish post-punk bands, published on Postcard Records - Orange Juice, Josef K, etc. .: This music, deprived of the usual for punk rock and post-punk depression and aggression, was simple, melodic and 'positive'."
+        },
+        {
+            "name": "FOLK ROCK",
+            "streamURL": "http://79.111.14.76:8002/folkrock",
+            "imageURL": "http://radcap.ru/stylegraf/folkrock3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Folk-rock (eng. Folk rock) - a musical genre that combines elements of folk and rock. In the original and narrowest sense, the term “folk rock” refers to the genre formed in the United States and Great Britain in the mid-1960s. The pioneer of the genre is the band The Byrds from Los Angeles, which begins to perform traditional folk music and songs by Bob Dylan in typical rock instrumentation, strongly influenced by The Beatles and other British groups."
+        },
+        {
+            "name": "ROCK&ROLL",
+            "streamURL": "http://79.120.77.11:8002/rockroll",
+            "imageURL": "http://radcap.ru/stylegraf/rocknroll4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Rock and roll (from the English. Rock and roll or rock'n'roll) - a genre of popular music, which became widespread in the mid-1950s. Formed from a combination of elements of African-American and 'white' genres, like rhythm and blues and country. The style of white performers was also called rockabilly."
+        },
+        {
+            "name": "HARD ROCK",
+            "streamURL": "http://79.120.77.11:8002/hardrock",
+            "imageURL": "http://radcap.ru/stylegraf/hardrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Hard rock (English hard rock, literally hard rock or hard rock) is a genre of rock music, characterized by the highlighted role of the so-called. rhythm section, mainly bass and percussion instruments. Compositions of this genre are often built on riffs in figures with a size of 4/4. Hard rock was born in the 1960s, took on its usual forms in the late 1960s - early 1970s, and it flourished in the early 1970s, with the participation of bands such as Led Zeppelin, Deep Purple and Black Sabbath."
+        },
+        {
+            "name": "RUSSIAN ROCK/BARD ROCK",
+            "streamURL": "http://79.120.77.11:8002/rockru",
+            "imageURL": "http://radcap.ru/stylegraf/rockru4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Russian rock is rock music from Russia or in Russian. Russian rock originated in the USSR in the second half of the 20th century under the influence of world, especially Western, music, and still exists in Russia and the CIS countries."
+        },
+        {
+            "name": "GLAM ROCK/METAL",
+            "streamURL": "http://radcap.ru/stylegraf/glamrock1.jpg",
+            "imageURL": "http://radcap.ru/stylegraf/glamrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Glam rock (from Glam rock, from glamorous - “spectacular”) is a genre of rock music that originated in the UK in the very beginning of the 1970s. and became one of the dominant genres of the first half of that decade. Glam rock performers were characterized by a vivid image, expressed through theatrical showiness of exotic costumes, abundant use of makeup, androgynous appearance. Musically, glam rock was heterogeneous, combining rock and roll, hard rock, art rock and pop. Elements of the glam rock style had a significant impact on disco, punk, new wave."
+        },
+        {
+            "name": "INSTRUMENTAL ROCK",
+            "streamURL": "http://79.120.39.202:8002/instrumentalrock",
+            "imageURL": "http://radcap.ru/stylegraf/instrumentalrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Instrumental rock is a genre of rock music, in which music prevails, not vocals. It was most popular in the 1950s and 1960s. Examples of instrumental rock can be found in almost any genre. Most influential on instrumental rock are the following performers: Joe Satriani, Steve Vai, Link Rey, Eric Johnson, Chuck Berry, Surfaris, Dick Dale, The Ventures, The Shadows, Jeff Beck, Jennifer Batten, Paul Gilbert, Les Fradkin, Booker T and the MGs, The Champs and Frank Zappa."
+        },
+        {
+            "name": "DREAM POP",
+            "streamURL": "http://79.111.14.76:8002/dreampop",
+            "imageURL": "http://radcap.ru/stylegraf/dreampop5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Dream-pop is an alternative rock style formed in the early 1980s at the junction of post-punk and ethereal. Dream pop is characterized by atmospheric, “dreamy” sound, combined with “airy”, gentle pop melodies. The founders of this style is the Scottish band Cocteau Twins, published on the iconic 4AD label, which later collaborated with many dream-pop bands. In the late 1980s, musical directions such as shugaying and British space rock developed on the basis of dream-pop."
+        },
+        {
+            "name": "J-ROCK (JAPANESE ROCK)",
+            "streamURL": "http://79.111.119.111:8002/jrock",
+            "imageURL": "http://radcap.ru/stylegraf/jrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "J-Rock (jap. Dzeirokku, Japanese rock) - a generalized name for the directions of rock music, common in Japan. Often confused with Visual kei, which is incorrect, since the second is a subgenre of the first. It is often used to refer to all directions in Japan as a whole, but sometimes J-metal, J-punk and J-ska are also popular for Japanese groups of these directions."
+        },
+        {
+            "name": "JAZZ ROCK",
+            "streamURL": "http://79.111.119.111:8002/jazzrock",
+            "imageURL": "http://radcap.ru/stylegraf/jazzrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Jazz-rock (English - jazz rock). This concept can be attributed to the loudest, fiercest and electrified fusion ensembles from the jazz camp, but more often it describes those performers who are on the fatal side of the equation. Jazz-rock first appeared in the late 60s as an attempt to combine the unbridled power of rock with musical complexity and fiery improvisations of jazz."
+        },
+        {
+            "name": "PROGRESSIVE ROCK",
+            "streamURL": "http://79.111.119.111:8002/progressiverock",
+            "imageURL": "http://radcap.ru/stylegraf/progrock2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive rock (also known as prog rock, progressive and prog, Eng. Progressive rock) is a style of rock music characterized by the complication of musical forms and creative enrichment of rock through dialogue with other areas of musical art (academic music, jazz, folk music (European and eastern) and avant-garde). We can say that in terms of synthesis with other directions, progressive rock for rock music is analogous to fusion for jazz."
+        },
+        {
+            "name": "NOISE ROCK",
+            "streamURL": "http://79.120.39.202:8002/noiserock",
+            "imageURL": "http://radcap.ru/stylegraf/noiserock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Noise-rock (eng. Noise rock) - a musical genre, style of rock music, referring to its experimental and alternative branches; emerged in the 1980s as a more avant-garde and radical branch of punk rock. Noise-rock was formed as a result of mixing punk with the atonal noise characteristic of early industrial and noise and the use of dissonant guitar sound and (often) unconventional song structure."
+        },
+        {
+            "name": "CROSSOVER PROG",
+            "streamURL": "http://79.111.14.76:8002/crossoverprog",
+            "imageURL": "http://radcap.ru/stylegraf/crossoverprog.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "At its core, Crossover prog is a concession to fashion trends or, more simply, introducing elements of popular music into progressive music. In this case, the music remains with the elements of the program, but uses some simplified forms inherent in pop music. This state of affairs can also be partially regarded as mainstream- a current when the group lost its individuality and became “one of”."
+        },
+        {
+            "name": "PIANO ROCK/POP",
+            "streamURL": "http://79.111.14.76:8002/pianorock",
+            "imageURL": "http://radcap.ru/stylegraf/pianorock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Variety of alternative rock, as well as the style of popular music, which is based on the piano, and sometimes on piano-related keyboard instruments. Traditionally, piano rock, sometimes called “piano pop,” was not as common as classical rock, however, modern artists such as: Keane, The Fray, The Script, Augustana, Coldplay, OneRepublic, Muse contributed to the popularization of the genre."
+        },
+        {
+            "name": "SLOWCORE/SADCORE",
+            "streamURL": "http://79.120.39.202:8002/slowcore",
+            "imageURL": "http://radcap.ru/stylegraf/slowcore1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Sedkore (Eng. Sadcore) or Slowcore (Eng. Slowcore) is a sub-style in alternative and indie rock, which is characterized by “slow” melodies with minimalist arrangements, sad or gloomy texts, melancholic, depressive mood."
+        },
+        {
+            "name": "ETHEREAL WAVE",
+            "streamURL": "http://79.120.39.202:8002/ethereal",
+            "imageURL": "http://radcap.ru/stylegraf/ethereal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Ethereal Wave (born ethereal wave is an ethereal wave) or ethereal darkwave, ethereal-goth, and also simply ethereal-sub genre of darkwave, which is characterized differently by “gothic”, “romantic” or “otherworldly” sound. Ethereal appeared in the UK in the early 1980s, as a result of the development of gothic rock, was represented mainly by performers from the label 4AD, such as Cocteau Twins and the early Dead Can Dance."
+        },
+        {
+            "name": "SURF ROCK",
+            "streamURL": "http://79.111.119.111:8002/surfrock",
+            "imageURL": "http://radcap.ru/stylegraf/surfrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Surf (surf-rock, surf-pop, English surf rock, surf pop, surf music) is popular American music from the early 60s of the 20th century, originally beach music, that is, for resort visitors and especially for surfers. The music is mainly instrumental, the beginning of the surf is considered to be the original guitar style of Dick Dale (born Dick Dale), from which it all began."
+        },
+        {
+            "name": "PSYCHEDELIC ROCK",
+            "streamURL": "http://79.111.119.111:8002/psychedelicrock",
+            "imageURL": "http://radcap.ru/stylegraf/psychedelicrock2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Psychedelic Rock (eng. Psychedelic Rock) - a musical genre that emerged in the mid-60s in Western Europe and California (San Francisco and Los Angeles). Psychedelic rock is associated with the concepts of 'psychedelia' and 'psychedelics' (hallucinogens). He also has a close relationship with the hippie subculture and Eastern (Indian) philosophy."
+        },
+        {
+            "name": "DARK WAVE",
+            "streamURL": "http://79.111.14.76:8002/darkwave",
+            "imageURL": "http://radcap.ru/stylegraf/darkwave5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Darkwave (dark wave- “dark wave”) is a musical style, one of the directions on the gothic scene, a combination of electronic, industrial-experimental and neoclassical music."
+        },
+        {
+            "name": "PUNK ROCK",
+            "streamURL": "http://79.120.77.11:8002/punk",
+            "imageURL": "http://radcap.ru/stylegraf/punkrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Punk rock (English punk rock) - a genre of rock music, which arose in the early 1970s in the United States and, a little later, in the UK. The sense that early punk rock bands put into their genre was the desire to play, dominating the ability to do so; Thanks to this definition, a diverse early American punk scene has been formed, ranging from the lightweight Ramones to the complex and experimental Television."
+        },
+        {
+            "name": "GRUNGE",
+            "streamURL": "http://79.120.39.202:8002/grunge",
+            "imageURL": "http://radcap.ru/stylegraf/grunge.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Grunge (born Grunge, letters. Dirt) is also known as Seattle sound - a sub-style alternative rock that developed from hardcore punk in the mid-1980s in the US state of Washington, primarily in Seattle. Grange is characterized by “dirty” guitar sound, an abundance of distortion, contrasting dynamics with “loud-quiet” alternation, gloomy texts on the subject of alienation, loneliness and apathy."
+        },
+        {
+            "name": "BRITPOP",
+            "streamURL": "http://79.120.39.202:8002/britpop",
+            "imageURL": "http://radcap.ru/stylegraf/britpop2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Britpop - a genre of alternative rock, the revival of the dominant guitar style of pop music of the 60s on the UK music scene in the 90s. The style is characterized by the uncompromising “Britishness” of melodies and sound, using British traditions of both folk and rock and roll music of the 60s - 70s of the XX century."
+        },
+        {
+            "name": "NEW WAVE",
+            "streamURL": "http://79.120.39.202:8002/newwave",
+            "imageURL": "http://radcap.ru/stylegraf/newwave.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "New Wave (eng. New Wave) - musical direction; this term refers to various genres of rock music that emerged in the late 1970s and early 1980s and that they broke off stylistically and ideologically from previous genres of rock. The term “New Wave“ was quite controversial. At first, the concept classified the genre of rock music from the early 1970s by such groups as Velvet Underground and New York Dolls."
+        },
+        {
+            "name": "ART ROCK",
+            "streamURL": "http://79.120.39.202:8002/artrock",
+            "imageURL": "http://radcap.ru/stylegraf/artrock2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Art rock (eng. Art rock) - the direction of rock music, which is characterized by melodic, harmonic or rhythmic experiments, as well as a large number of artistic images in the lyrics. Art-rock often goes beyond the forms and genres of modern popular music in the direction of jazz, academic, ethnic music or experimental avant-garde."
+        },
+        {
+            "name": "GOTHIC ROCK",
+            "streamURL": "http://79.111.14.76:8002/gothicrock",
+            "imageURL": "http://radcap.ru/stylegraf/gothicrock7.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Gothic rock (English gothic rock) - a musical genre that arose as a branch of post-punk at the turn of the 1970s and 1980s. In the early 1980s, the genre became a separate direction. The music is dominated by dark themes and intellectual trends, such as romanticism, nihilism, as well as the Gothic trend in the art of the New Age."
+        },
+        {
+            "name": "POST GRUNGE",
+            "streamURL": "http://79.111.119.111:8002/postgrunge",
+            "imageURL": "http://radcap.ru/stylegraf/postgrunge.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Post-grunge (English Post-grunge) is an alternative music style that came out of grunge and became quite widespread on the big stage after 1994. The principal difference from the grunge is a softer sound, pre-calculated for convenient broadcasting. Many postgrange groups often change the direction of music from grunge to pop-rock, pop-punk or alternative metal."
+        },
+        {
+            "name": "GARAGE ROCK",
+            "streamURL": "http://79.111.119.111:8002/garagerock",
+            "imageURL": "http://radcap.ru/stylegraf/garagerock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Garage rock (eng. Garage rock) - a genre of rock music, formed in the United States and Canada in the 1960s. It is considered the main forerunner of punk rock and an important part of proto-punk."
+        },
+        {
+            "name": "OI!/STREET PUNK",
+            "streamURL": "http://79.111.119.111:8002/oistreetpunk",
+            "imageURL": "http://radcap.ru/stylegraf/oi.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Oi! (Oh!) - The musical direction that emerged in England in the late seventies as an offshoot of punk rock, designed to return the latter to its true, proletarian roots."
+        },
+        {
+            "name": "HORROR PUNK",
+            "streamURL": "http://79.120.77.11:8002/horrorpunk",
+            "imageURL": "http://radcap.ru/stylegraf/horrorpunk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Horror punk (born Horror punk) is a sub-genre of punk rock that appeared in the USA in the late 1970s to form The Misfits, and mixes texts and image derived from sci-fi and horror films with early musical punk rock, doo-wopa and, to a lesser extent, rockabilly."
+        },
+        {
+            "name": "ECLECTIC PROG",
+            "streamURL": "http://79.111.14.76:8002/eclecticprog",
+            "imageURL": "http://radcap.ru/stylegraf/eclecticprog.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "In relation to progressive music, the term “eclectic” describes the summation of elements introduced from various styles, trends, trends and genres (and not only musical ones). Progressive music itself can be defined as eclectic, in relation to rock music in general. Nevertheless, in defining a number of groups in this category, the factors of their exclusivity play a role, even in this genre."
+        },
+        {
+            "name": "HEAVY/HARD PSYCHEDELIC",
+            "streamURL": "http://79.120.39.202:8002/heavypsych",
+            "imageURL": "http://radcap.ru/stylegraf/heavypsych.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Heavy Psychedelic (eng. Heavy Psychedelic, Heavy Psych) - the direction of rock music, which originated in the late 1960s. Heavy Psych was a product of the nebulous era of Psychedelic Rock, which adopted the Blues Rock musical tendencies of the scene: heavy riffs and improvisation, together with an increased level of severity of the sound of 'dense' fuzzy guitars that created a harsh, gloomy atmosphere."
+        },
+        {
+            "name": "CHRISTIAN ROCK",
+            "streamURL": "http://79.111.119.111:8002/christianrock",
+            "imageURL": "http://radcap.ru/stylegraf/christianrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Christian rock (English Christian rock) - a type of rock music, dedicated to the theme of Christianity. Christian rock bands sing songs about God, faith, and soul, and usually consist of church christians. Christian rock stands out exclusively for the lyrics, it does not have its own musical characteristics and can be performed in the most diverse styles of rock music."
+        },
+        {
+            "name": "DANCE/DISCO/FUNK PUNK",
+            "streamURL": "http://79.120.77.11:8002/dancepunk",
+            "imageURL": "http://radcap.ru/stylegraf/dancepunk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Dance Punk, Fun Punk or Disco Punk (Eng. Dance Punk, Funk Punk, Disco Punk) is a musical genre that emerged in the late 1970s and is closely associated with post punk and new wave."
+        },
+        {
+            "name": "ROCKABILLY",
+            "streamURL": "http://79.111.14.76:8002/rockabilly",
+            "imageURL": "http://radcap.ru/stylegraf/rockabilly3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Rockabilly (born rockabilly) - a musical genre, a kind of rock and roll, which appeared in the 1950s. In essence, rockabilly is the progenitor of modern rock. The term “rockabilly” comes from the words “rock” and “healbilly” (one of the names of country music). Rockabilly has roots in country and blues and is focused on the white audience."
+        },
+        {
+            "name": "STONER ROCK",
+            "streamURL": "http://79.111.119.111:8002/stonerrock",
+            "imageURL": "http://radcap.ru/stylegraf/stonerrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "From the beginning to the mid-1990s, a number of Californian groups developed a genre, later called Stoner Rock. Kyuss's Blues for the Red Sun album was released in 1992 and was often viewed as the first stoner rock / metal album. Critics hailed him as an important milestone in hard music."
+        },
+        {
+            "name": "AOR/MELODIC HARD ROCK",
+            "streamURL": "http://79.111.14.76:8002/aor",
+            "imageURL": "http://radcap.ru/stylegraf/aor.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "AOR (stands for Album-oriented Rock - “album-oriented rock”) is a format of mainstream American FM radio stations with a focus on tracks from album rock artists."
+        },
+        {
+            "name": "ROCK/METAL BALLADS",
+            "streamURL": "http://79.120.77.11:8002/rockballads",
+            "imageURL": "http://radcap.ru/stylegraf/rockballads3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Rock ballad (born rock ballad; in English also used the name power ballad) - a type of song in rock music, which is a slow, melodic lyric composition. Ballads are often recorded using acoustic guitars and / or piano (as a result of which there are a large number of cover versions for ballads), sometimes electric guitars enter the final part of the song. Percussion parts in ballads may be absent or play a minor role."
+        },
+        {
+            "name": "BLUES ROCK",
+            "streamURL": "http://79.120.39.202:8002/bluesrock",
+            "imageURL": "http://radcap.ru/stylegraf/bluesrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Blues-rock (English Blues-rock) - a hybrid music genre, a type of rock music that combines elements of the styles blues and rock and roll. The blues-rock sound is based on an electric guitar, a bass guitar and a drum kit, and the sound of an electric guitar is subject to distortion “overdrive”, usually with the help of a tube guitar amplifier."
+        },
+        {
+            "name": "RUSSIAN PUNK ROCK",
+            "streamURL": "http://79.120.77.11:8002/punkru",
+            "imageURL": "http://radcap.ru/stylegraf/punkrockru2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "In the USSR, something similar to punk rock originated in 1979 not only in Leningrad with the creation of the group of Andrey Panov “Automatic Satisfaction”, at some time the project was called 600, but also in the Baltic States (“JMKE”, “Propeller”, “ Velikije Luki ”) and Siberia (Nick Rock and Roll”), and quite unexpectedly in the Crimea (“Second Echelon”, Yuriy Yux), almost simultaneously."
+        },
+        {
+            "name": "SYMPHONIC ROCK",
+            "streamURL": "http://79.120.39.202:8002/symphorock",
+            "imageURL": "http://radcap.ru/stylegraf/symphrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Symphonic rock (eng. Symphonic rock, Symphonic Prog) - style of rock music, a subgenre of progressive rock. The term was proposed to refer to progressive groups that are more oriented towards an academic approach to music, in contrast to experimental and psychedelic groups."
+        },
+        {
+            "name": "SOUTHERN ROCK/METAL",
+            "streamURL": "http://79.111.14.76:8002/southernrock",
+            "imageURL": "http://radcap.ru/stylegraf/southernrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Southern Rock (southern rock, 'southern rock') - a subgenre of rock music that emerged in the southern United States, was popular in the 1970s. It should be noted that the origins of rock music lie mainly in the musicians of the southern United States, in particular, Elvis Presley, Little Richard, Bo Diddley, Jerry Lee Lewis and many other rock and roll artists came from the southern United States."
+        },
+        {
+            "name": "POST ROCK",
+            "streamURL": "http://79.111.14.76:8002/postrock",
+            "imageURL": "http://radcap.ru/stylegraf/postrock4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Post-rock (English Post rock) - an experimental genre of rock music, which is characterized by the use of instruments associated with rock music, as well as rhythm, melodies, timbre and chord sequence, which are not typical for traditional rock. Representatives of the genre mainly play instrumental music. Post-rock music combines elements of various musical genres, such as ambient, jazz, electronic music, rock."
+        },
+        {
+            "name": "SHOEGAZING",
+            "streamURL": "http://79.111.119.111:8002/shoegazing",
+            "imageURL": "http://radcap.ru/stylegraf/shoegazing3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Shoegizing (or Shugeyz) (English shoegazing (shoegaze) - one of the genres of alternative rock (indie rock), originated in the late 80's. The term was coined by journalists of the British music press NME and Melody Maker and described the style of behavior of musicians during live performances that were originally a kind of mockery of non-charismatic musicians who did not make colorful shows but, on the contrary, behaved detached, passive and apathetic."
+        },
+        {
+            "name": "NEO-PROGRESSIVE ROCK",
+            "streamURL": "http://79.111.119.111:8002/neoprogrock",
+            "imageURL": "http://radcap.ru/stylegraf/neoprogrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Neo-prog (eng. Neo-progressive rock, neo-prog) is a style of rock music that appeared at the very end of the 70s. This sub-style of progressive rock appeared in the late 1970s, the first wave of neo-prog is music based on the ideas of the most popular art-rock bands of the seventies - Genesis, Pink Floyd, Camel, Rush and others."
+        },
+        {
+            "name": "INDUSTRIAL ROCK",
+            "streamURL": "http://79.120.77.11:8002/industrialrock",
+            "imageURL": "http://radcap.ru/stylegraf/industrialrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Industrial rock (from the English. Industrial rock - industrial rock) - a musical genre that combines elements of industrial with various subgenres of rock music."
+        },
+        {
+            "name": "CHAMBER/BAROQUE/POP/ROCK",
+            "streamURL": "http://79.111.14.76:8002/chamberpop",
+            "imageURL": "http://radcap.ru/stylegraf/chamberpop1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Chambers pop (or Chamber pop) or orc pop (Ork pop), abbr. Form from orchestral pop) - rock music style, characterized by an emphasis on melody and texture, abundant use of string, wind, piano, vocal harmonies and other elements from the lounge and orchestral pop music of the 1960s."
+        },
+        {
+            "name": "HEAVY PROG",
+            "streamURL": "http://79.111.14.76:8002/heavyprog",
+            "imageURL": "http://radcap.ru/stylegraf/heavyprog.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "It’s probably impossible to define the term “Heavy Prog” precisely. Moreover, many music publications and some music critics generally ignore this term, using only the definitions of 'hard rock' or 'prog rock' in relation to groups belonging to this category."
+        },
+        {
+            "name": "DARK CABARET",
+            "streamURL": "http://79.111.119.111:8002/darkcabaret",
+            "imageURL": "http://radcap.ru/stylegraf/darkcabaret1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Dark Cabaret (born dark cabaret) is a musical genre based on experiments with the sound of a German cabaret of the 1920s. Typical instruments for dark cabaret- piano, violin, cello and other instruments similar in sound to the accordion and trumpet."
+        },
+        {
+            "name": "PROGRESSIVE FOLK",
+            "streamURL": "http://79.120.39.202:8002/progfolk",
+            "imageURL": "http://radcap.ru/stylegraf/progfolk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive folk (English Progressive folk) or simply prog folk music genre, which was originally a politicized type of American folk music. In Great Britain, the term “prog-folk” was applied to traditional folk music played with any stylistic or thematic innovations."
+        },
+        {
+            "name": "SPACE ROCK",
+            "streamURL": "http://79.111.119.111:8002/spacerock",
+            "imageURL": "http://radcap.ru/stylegraf/spacerock2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Space-rock (born Space rock) - a musical genre. Originally, the music of the British progressive and psychedelic groups of the late 1960s - 1970s, such as Hawkwind and Pink Floyd, was so called."
+        },
+        {
+            "name": "RUSSIAN FOLK ROCK",
+            "streamURL": "http://79.111.14.76:8002/folkrockru",
+            "imageURL": "http://radcap.ru/stylegraf/folkrockru4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Folk-rock performers in Russia combine elements of rock music with both Russian folk music and the music of Celtic, northern peoples, as well as the peoples of Russia. An example would be the groups Yat-ha and Sak-Sok, performing respectively Tuvan and Tatar folk music based on rock music."
+        },
+        {
+            "name": "ALTERNATIVE ROCK",
+            "streamURL": "http://79.120.39.202:8002/altrock",
+            "imageURL": "http://radcap.ru/stylegraf/altrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Alternative rock (English. Alternative rock) - a term in modern music, which is understood as various styles of rock music, opposing traditional. The term appeared in the 1980s. and encompassed many styles that originated in punk rock, post-punk, etc. Currently, alternative rock is divided into two stages: the first is the bands of the 1980s."
+        },
+        {
+            "name": "POP ROCK",
+            "streamURL": "http://79.120.77.11:8002/poprock",
+            "imageURL": "http://radcap.ru/stylegraf/poprock4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Pop-rock (eng. Pop rock, Pop 'N' Rock) - a genre of music that combines elements of pop music and rock music. The songs are characterized by a simple structure, memorable melodies, repetition of musical phrases (from the pop), using electric guitars and drums as the main instruments, and aggressive mood (from the rock)."
+        },
+        {
+            "name": "INDIE ROCK",
+            "streamURL": "http://79.120.39.202:8002/indierock",
+            "imageURL": "http://radcap.ru/stylegraf/indierock2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Indie rock (English Indie rock) - a genre of alternative rock, existing mainly in the underground, in an independent information and commercial space. It takes its name from the English word 'Independent'. This is not a peculiar separate style of music, but a generic term for a wide range of musicians and styles, combined with involvement in the underground, counterculture, and having some relation to rock music."
+        },
+        {
+            "name": "CLASSIC ROCK/ROCK",
+            "streamURL": "http://79.120.77.11:8002/rock",
+            "imageURL": "http://radcap.ru/stylegraf/classicrock.gif",
+            "desc": "CAPRICE",
+            "longDesc": "Rock music (eng. Rock music) is a generalized name for a number of popular music trends. The word “rock” - download - in this case indicates the rhythmic sensations characteristic of these areas associated with a particular form of movement, by analogy with “roll”, “twist”, “swing”, “shake”, etc."
+        },
+        {
+            "name": "POST PUNK",
+            "streamURL": "http://79.120.39.202:8002/postpunk",
+            "imageURL": "http://radcap.ru/stylegraf/postpunk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Postpunk (English post-punk) - a genre of rock music that emerged in the late 1970s in the UK as a continuation of punk rock. In contrast to the latter, post-punk was distinguished by a wide variety of musical expression due to a wide range of influences on the genre."
+        },
+        {
+            "name": "POP PUNK",
+            "streamURL": "http://79.111.14.76:8002/poppunk",
+            "imageURL": "http://radcap.ru/stylegraf/poppunk1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Pop punk (English Pop Punk) is one of the basic sub-genres of punk rock, characterized by a mixture of principles and instrumental section of typical punk rock with soft pop melodies and pop music techniques (as well as other “light” genres). Having appeared along with punk rock, pop-punk experienced a “new birth” and the largest (for punk rock in general) commercial success in the 90s."
+        },
+        {
+            "name": "COUNTRY ROCK",
+            "streamURL": "http://79.111.119.111:8002/countryrock",
+            "imageURL": "http://radcap.ru/stylegraf/countryrock3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Country rock (eng. Country rock) is a musical genre that combines rock and country music. Country music has always been part of rock and roll since Elvis Presley performed at the Grand Ole Opry in 1955. He played a rhythmic mix of country music and rhythm and blues, nowadays it is called rockabilly - this is an early form rock and roll with a strong country influence."
+        },
+        {
+            "name": "KRAUTROCK",
+            "streamURL": "http://79.111.119.111:8002/krautrock",
+            "imageURL": "http://radcap.ru/stylegraf/krautrock.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Kraut-rock (him. Krautrock) - the direction of experimental and psychedelic rock music, which arose in the late 1960s - early 1970s in West Germany. The mix of rock music performed on standard rock group instruments (electric guitar, bass guitar, drums, synthesizer), with electronic music structures, as well as electronic sound processing, became the business card of the style."
+        },
+        {
+            "name": "INDIE FOLK",
+            "streamURL": "http://79.111.14.76:8002/indiefolk",
+            "imageURL": "http://radcap.ru/stylegraf/indiefolk2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Indie Folk (English Indie folk, independent folk music) is a musical genre created in the 1990s by singer-songwriters from indie rock community influenced by pop folk music of the 50s, 60s and early 70s. s, country music and indie rock."
+        },
+        {
+            "name": "MATH ROCK",
+            "streamURL": "http://79.120.39.202:8002/mathrock",
+            "imageURL": "http://radcap.ru/stylegraf/mathrock1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Mathematical rock (eng. Math rock) - the direction of rock music, which arose in the late 1980s in the United States. Mathematical rock is characterized by a complex, atypical rhythmic structure and dynamics, sharp, often inharmonious riffs."
+        },
+        {
+            "name": "AVANT-PROG/ROCK IN OPPOSITION (RIO)/CANTERBURY SCENE/ZEUHL",
+            "streamURL": "http://79.111.119.111:8002/avantprog",
+            "imageURL": "http://radcap.ru/stylegraf/avantprog2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Avant-Prog (English Avant-Prog) is a style of rock music that appeared in the late 1970s as an extension of two separate prog-rock sub-styles: Rock in Opposition (RIO) and Canterbury."
+        },
+        {
+            "name": "TWIST",
+            "streamURL": "http://79.111.119.111:8002/twist",
+            "imageURL": "http://radcap.ru/stylegraf/twist2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The twist appeared in 1960 thanks to the American singer Chubby Checker, who sang the song “The Twist” by X. Ballard (Eng.) (1959) and offered a new version of the dance to this song. Became known for the performances of Chubby Checker on Dick Clark television shows. It was widely spread among young people in many countries of the world in the 1970s."
+        },
+        {
+            "name": "PSYCHEDELIC FOLK",
+            "streamURL": "http://79.120.39.202:8002/psychfolk",
+            "imageURL": "http://radcap.ru/stylegraf/psychfolk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Psychedelic folk (born Psychedelic folk) or psycho folk (born psych folk) is a musical genre that emerged in the 1960s at the junction of progressive folk and psychedelic rock. From folk, the genre took on acoustic sound, and from psychedelic rock, elements characteristic of psychedelic music as a whole."
+        },
+        {
+            "name": "PAGAN METAL",
+            "streamURL": "http://79.111.119.111:8002/paganmetal",
+            "imageURL": "http://radcap.ru/stylegraf/pagan.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Pagan metal - direction in extreme metal, exploiting various elements of paganism. The Norwegian group In the Woods ... is considered as one of the first peygan-metal groups. Metal Hammer magazine indicates that the song To Enter Pagan from the Dark Romanticism demo of Primordial group contributed to the formation of the genre."
+        },
+        {
+            "name": "NEOCLASSICAL METAL",
+            "streamURL": "http://79.111.119.111:8002/neoclassicalmetal",
+            "imageURL": "http://radcap.ru/stylegraf/neoclassmet.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Neoclassical metal - a genre of rock music that emerged in the late 1970s in the UK. It is also a sub-genre of heavy metal, which is strongly influenced by classical music. It requires a very technical performance, consisting of elements borrowed from classical and heavy metal music. Yngwie Malmsteen, the most prominent musician in this subgenre, made a great contribution to the development of style in the 1980s."
+        },
+        {
+            "name": "SYMPHONIC BLACK METAL",
+            "streamURL": "http://79.111.119.111:8002/symphonicblackmetal",
+            "imageURL": "http://radcap.ru/stylegraf/symphoblack1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Sympho-black metal is a type of black metal, which is characterized by the extensive use of keyboard, ambient passages, sometimes orchestral arrangements and female vocals, while maintaining a sufficiently aggressive sound. Often, such performers have an indifferent attitude toward traditional black ideology. Groups playing this style are usually the most commercially successful."
+        },
+        {
+            "name": "GROOVE METAL",
+            "streamURL": "http://79.120.39.202:8002/groovemetal",
+            "imageURL": "http://radcap.ru/stylegraf/groovemetal5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Groove metal, also post-thrash (post-thrash metal) - Extreme subgenre of thrash metal, which took its present form in the 1990s. In addition to thrash metal, groove metal combines such musical genres of the 1980s. like heavy metal, hardcore and death metal."
+        },
+        {
+            "name": "SYMPHONIC METAL",
+            "streamURL": "http://79.120.77.11:8002/symphometal",
+            "imageURL": "http://radcap.ru/stylegraf/symphonicmetal4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Symphonic metal, symphonic metal or symphonic metal - musical style, which combines metal and classical orchestral music. When creating music in this style, female vocals, chorus, symphonic musical instruments or their imitation with the help of a synthesizer are often used, quite often a full-fledged symphony orchestra is used for recording."
+        },
+        {
+            "name": "DEATH DOOM METAL",
+            "streamURL": "http://79.120.39.202:8002/deathdoom",
+            "imageURL": "http://radcap.ru/stylegraf/deathdoom3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Death / Doom Metal is a metal subgenre that combines the characteristics of death metal and doom metal, and is actually formed by the fusion of these styles. This is an adjoining style that combines such characteristics as reduced tempo, dissonance in sound and an atmosphere of doom as in doom metal and more rigid and fast sound, double barrels, cruelty and growling as in death metal."
+        },
+        {
+            "name": "DARK METAL",
+            "streamURL": "http://79.111.119.111:8002/darkmetal",
+            "imageURL": "http://radcap.ru/stylegraf/darkmetal2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Dark Metal is a musical direction, a metal subtype that first appeared in the late 80s and was formed by 1994. Dark Metal doesn't have a single direction style. The first albums of this direction can be found in Germany, Brazil, Greece, USA, Switzerland and other countries."
+        },
+        {
+            "name": "DOOM METAL",
+            "streamURL": "http://79.111.14.76:8002/doom",
+            "imageURL": "http://radcap.ru/stylegraf/doom2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Dum metal is an extreme subgenre of metal, with a predominance of slow tempos. Both music and lyrics in this genre are designed to express feelings of despair, fear and doom. The Black Sabbath group, whose songs “Black Sabbath”, “Electric Funeral”, “Cornucopia” became prototypes of doom metal, had a huge influence on the genre."
+        },
+                {
+            "name": "POST METAL",
+            "streamURL": "http://79.120.39.202:8002/postmetal",
+            "imageURL": "http://radcap.ru/stylegraf/postmetal5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Post-metal is a musical genre, which is a mixture of such genres as post-rock and metal, rooted in progressive rock and industrial. The genre is mainly characterized by a distorted guitar sound, familiar to metal, a dark atmosphere, a gradual evolution of the structure of songs and minimal expressiveness of vocals."
+        },
+        {
+            "name": "PROGRESSIVE BLACK/POST-BLACK/BLACKGAZE",
+            "streamURL": "http://79.111.14.76:8002/postblack",
+            "imageURL": "http://radcap.ru/stylegraf/postblack.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive Black Metal - this genre is based on progressive metal and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The highest level of professionalism of musicians is often combined with lyrical in the form of conceptual epic texts, which result in rather long songs and conceptual albums. In terms of lyrics, it ranges from the usual Black Metal to Viking and Pagan Metal."
+        },
+        {
+            "name": "GOTHIC DOOM METAL",
+            "streamURL": "http://79.120.77.11:8002/gothicdoom",
+            "imageURL": "http://radcap.ru/stylegraf/gothicdoom.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Doom metal is related to gothic metal, which combines elements of gothic rock and doom metal. A number of musicians play music at the junction of these two types of metal. One of the first groups to receive the label 'gothic metal' was Paradise Lost, which began with death-doom-metal."
+        },
+        {
+            "name": "PROGRESSIVE POWER METAL",
+            "streamURL": "http://79.111.119.111:8002/progpowermetal",
+            "imageURL": "http://radcap.ru/stylegraf/progpowermetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive Power Metal - metal music style, which is a combination of Power Metal directly with progressive elements of sound and composition, often with complex structures, a variety of melodic and rhythmic decisions, which evoke analogies with the classics and often its direct descendant. "
+        },
+        {
+            "name": "NWOBHM",
+            "streamURL": "http://79.111.14.76:8002/nwobhm",
+            "imageURL": "http://radcap.ru/stylegraf/nwobhm.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "New wave of British heavy metal is a musical movement, a phenomenon in the world rock culture of the late 70s - early 80s of the XX century. This phrase primarily refers to the phenomenon on the music scene, which arose at a certain time and in a certain place and, to a lesser extent, some particularly specific style of music."
+        },
+        {
+            "name": "NEUE DEUTSCHE HÄRTE",
+            "streamURL": "http://79.111.119.111:8002/ndh",
+            "imageURL": "http://radcap.ru/stylegraf/ndh.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Neue Deutsche Härte, also dance metal (German Tanzmetal) - direction in German metal music, originated in the 1990s, as a result of adding to EBM sound industrial metal elements. Neue Deutsche Härte is characterized by a mix of deep and clean vocals, lyrics mostly in German and the use of electric guitar, bass guitar, drums and synthesizer."
+        },
+        {
+            "name": "VIKING METAL",
+            "streamURL": "http://79.111.14.76:8002/vikingmetal",
+            "imageURL": "http://radcap.ru/stylegraf/vikingmetal4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Viking metal - a kind of music in the metal genre, based on Scandinavian culture and mythology. Formed in the late 80s - early 90s in Sweden and Norway. The founders of the Viking metal as a separate genre is considered to be the Swedish band Bathory, who previously performed black metal."
+        },
+
+        {
+            "name": "BLACK METAL",
+            "streamURL": "http://79.120.77.11:8002/blackmetal",
+            "imageURL": "http://radcap.ru/stylegraf/blackmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Black metal, or simply black, is a musical style, one of the extreme metal directions. The genre originated in the 1980s as a branch of thrash metal. The pioneers of black metal are considered to be the English group Venom and the Swedish Bathory. "
+        },
+        {
+            "name": "DEATH METAL",
+            "streamURL": "http://79.120.77.11:8002/deathmetal",
+            "imageURL": "http://radcap.ru/stylegraf/deathmetal3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Death metal is an extreme subgenre of metal. Having absorbed the speed and complexity of the performance of thrash metal, death metal first separated into a separate subgenre of this trend (it is sometimes called a proto-death), and then into an independent genre in the mid-1980s."
+        },
+        {
+            "name": "PROGRESSIVE DEATH METAL",
+            "streamURL": "http://79.111.119.111:8002/progdeath",
+            "imageURL": "http://radcap.ru/stylegraf/progdeath.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive death metal is a subgenre of death metal, focused on complex rhythms, riffs and structures. Phill Freeman, ex-editor of Metal Edge, describes this sub-genre as 'a hidden side that has more in common with prog-rock and jazz than with mechanical satanic swotting that prevail in the public view of such music.' Experiments inside the death metal movement began in the late 1980s with the work of Death, Atheist and Cynic."
+        },
+        {
+            "name": "NU METAL",
+            "streamURL": "http://79.111.14.76:8002/numetal",
+            "imageURL": "http://radcap.ru/stylegraf/numetal8.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Nu metal is a subgenre of alternative rock. It is a fusion of heavy metal elements with such styles as grunge, hardcore punk, hip-hop. This genre was one of the most popular in the late 1990s and early 2000s."
+        },
+        {
+            "name": "SLUDGE METAL",
+            "streamURL": "http://79.120.77.11:8002/sludgemetal",
+            "imageURL": "http://radcap.ru/stylegraf/sludgemetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Sludge Metal (eng. Sludge metal) is a musical genre, at the junction of thought and hardcore punk; kind of metal punk. It originated in the south of the United States in the early 1990s, not without the influence of the reviving Saturn Rock. The genre is characterized by heavy, aggressive sound, “screaming” hardcore vocals and sharply contrasting tempos."
+        },
+        {
+            "name": "POWER METAL",
+            "streamURL": "http://79.120.77.11:8002/powermetal",
+            "imageURL": "http://radcap.ru/stylegraf/powermetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Power metal - one of the directions of metal that took shape in the second half of the 80s of the XX century."
+        },
+        {
+            "name": "BLACK/BLACKENED DEATH METAL",
+            "streamURL": "http://79.111.14.76:8002/blackdeath",
+            "imageURL": "http://radcap.ru/stylegraf/blackdeath2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Black death metal is a border style that incorporates elements of black metal and death metal. There are guitar tremolo and blast beats, characteristic of black metal, technical playing of percussion instruments and guitars, typical of death metal. Growing is often the vocals. The theme of the texts, as in black, is anti-religious or occult."
+        },
+        {
+            "name": "INSTRUMENTAL METAL",
+            "streamURL": "http://79.111.119.111:8002/instrumentalmetal",
+            "imageURL": "http://radcap.ru/stylegraf/instrmetal2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Instrumental metal - heavy music, not directly related to any particular metallore. Perhaps the main common feature in such compositions is the lack of vocals and vocals. And terms such as 'Guitar Virtuoso' and 'Neoclassical Metal' should not be unconditionally categorized as instrumental metal in genera."
+        },
+        {
+            "name": "AVANT-GARDE/EXPERIMENTAL METAL",
+            "streamURL": "http://79.111.14.76:8002/avantgardemetal",
+            "imageURL": "http://radcap.ru/stylegraf/avantmetal4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Avant-garde metal is one of the metal styles that incorporates elements of progressive, symphonic, folklore, industrial, black metal and some other metal subgenres. Differs in a large number of musical experiments with sounds, instruments and structure of songs."
+        },
+        {
+            "name": "HEAVY POWER METAL",
+            "streamURL": "http://79.111.14.76:8002/heavypowermetal",
+            "imageURL": "http://radcap.ru/stylegraf/heavypowermetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Heavy Power Metal is a metal music style that combines typical heavy riffs, the sound characteristic of Heavy and Power Metal. Coarser vocals are possible than in Power. Often the high speed of performance of compositions. "
+        },
+        {
+            "name": "MELODIC HEAVY METAL",
+            "streamURL": "http://79.111.119.111:8002/melodicheavy",
+            "imageURL": "http://radcap.ru/stylegraf/melodicheavy1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Melodic Heavy Metal - musical direction, is one of the variations of heavy metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional heavy metal - medium or accelerated tempo, the central role of the lead guitarist, the lengthy and technical guitar solos. But in general, there is a clear emphasis on melody in the compositions of this style. "
+        },
+        {
+            "name": "SYMPHONIC POWER METAL",
+            "streamURL": "http://79.120.39.202:8002/symphopower",
+            "imageURL": "http://radcap.ru/stylegraf/symphopower1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Symphonic Power Metal is a subgenre of Power Metal; a successful and beautiful symbiosis of symphonic and power metal, the birth of which is due to the introduction of keyboard bands and synthesizers to the power groups. Synthesizers first performed the function of a background instrument, usually depicting symphonic or folk instruments such as flute, violin, or horn."
+        },
+        {
+            "name": "SYMPHONIC GOTHIC METAL",
+            "streamURL": "http://79.120.39.202:8002/symphogothmet",
+            "imageURL": "http://radcap.ru/stylegraf/symphogothmet2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "lready in 1985, Celtic Frost used female operatic vocals on some songs from the To Mega Therion album. Paradise Lost also used female operatic vocals on their first album Lost Paradise. The Gathering also included female vocals on Always's debut album ... with Marike Groot accompanying Bart Smits."
+        },
+        {
+            "name": "MEDIEVAL METAL/ROCK",
+            "streamURL": "http://79.111.119.111:8002/medievalmetal",
+            "imageURL": "http://radcap.ru/stylegraf/medievalmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Medieval Metal is a folk metal subgenre that combines hard rock or metal with medieval music. The genre originated in the mid-90s, thanks to the experiments of the Subway to Sally, In Extremo and Corvus Corax groups. It is characterized by the use of a wide range of folk and medieval instruments."
+        },
+        {
+            "name": "JAZZ/FUSION METAL",
+            "streamURL": "http://79.111.14.76:8002/jazzmetal",
+            "imageURL": "http://radcap.ru/stylegraf/jazzmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Jazz / Fusion Metal / Rock. Not many musical groups represent this genre direction. At first it was only Atheist, who for his commitment to jazz parties often ended up in the technical thrash metal section. The band members liked to declare that only they are representatives of jazz in extreme music, and that only they can get real pleasure from attending a jazz concert."
+        },
+        {
+            "name": "MELODIC DEATH METALM",
+            "streamURL": "http://79.120.77.11:8002/melodicdeath",
+            "imageURL": "http://radcap.ru/stylegraf/mdm.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Melodic death metal is a subgenre of death metal, characterized by pronounced melodiousness; pretty close to power metal and speed metal. The genre differs from the traditional death metal by a wide variety of guitar riffs that are close to thrash metal and speed metal, the frequency and melody of solo parts and acoustic guitar inserts."
+        },
+
+
+
+        {
+            "name": "PROGRESSIVE METAL",
+            "streamURL": "http://79.120.77.11:8002/progmetal",
+            "imageURL": "http://radcap.ru/stylegraf/progmetal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive metal is a metal understyle. This genre is based on progressive rock and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The high level of professionalism of musicians is often combined with lyric in the form of conceptual epic texts, the result of which are rather long songs and conceptual albums."
+        },
+        {
+            "name": "HEAVY METAL",
+            "streamURL": "http://79.111.14.76:8002/heavymetal",
+            "imageURL": "http://radcap.ru/stylegraf/heavymetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Heavy metal is a genre of rock music, the first and original direction of metal. Usually, this word is called 'classic' metal in the form in which it was created in the 1970s by groups such as Black Sabbath and Judas Priest. Sometimes heavy metal is the name for all metal in general, which is wrong."
+        },
+        {
+            "name": "FOLK METAL",
+            "streamURL": "http://79.120.39.202:8002/folkmetal",
+            "imageURL": "http://radcap.ru/stylegraf/folkmetal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Folk metal - one of the directions of metal, which has incorporated elements of folk music. This includes the widespread use of folk instruments and, to a lesser extent, traditional singing styles (such as the Dutch Heidevolk, the Danes Sylvatica and the Spaniards the Stone of Erech). An early example of folk metal is the 1984 Mignon 'Dangerous Games' of the English group Golgotha, which contains a mixture of NWOBHM and folk. However, the genre did not receive further development, until the appearance of another English group in 1990 - Skyclad."
+        },
+        {
+            "name": "GOTHIC METAL",
+            "streamURL": "http://79.120.77.11:8002/gothicmetal",
+            "imageURL": "http://radcap.ru/stylegraf/gothicmetal11.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Gothic metal or gothic metal is a musical genre, a type of metal that combines the weight and aggression of metal with the grim melancholy of gothic rock. Gothic metal originated as a branch from death / doom metal in the early 1990s."
+        },
+        {
+            "name": "STONER METAL",
+            "streamURL": "http://79.120.77.11:8002/stonermetal",
+            "imageURL": "http://radcap.ru/stylegraf/stonermetal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Stoner metal (eng. Stoner metal) and stoner rock (eng. Stoner rock) are close concepts that imply certain subgenres of rock and metal music. Stoner rock is usually slow or medium tempo music with low tuned guitars and bass. Includes elements of psychedelic rock, blues rock and doom metal with repetitive guitar riffs."
+        },
+        {
+            "name": "THRASH METAL",
+            "streamURL": "http://79.120.77.11:8002/thrashmetal",
+            "imageURL": "http://radcap.ru/stylegraf/thrash.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Thrash metal is a musical direction in metal that gave rise to all its extreme varieties. Often the musical term in English is written by THRASH as an abbreviation (Temp - tempo, High Rhythm - high-speed rhythm, Attack - attack, Speed ​​- speed, Horror - horror), the decoding of which characterizes the basis of this musical direction."
+        },
+        {
+            "name": "BRUTAL/SLAMMING BRUTAL DEATH",
+            "streamURL": "http://79.111.119.111:8002/brutaldeathmetal",
+            "imageURL": "http://radcap.ru/stylegraf/brutal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Brutal death metal is a term used to describe death metal bands that focus on the speed of the game, the severity of sound effects, the aggressiveness of the vocals, giving the style a tougher and more brutal sound than regular death metal. The style very often echoes the grindcore. Brutal death metal began to develop in the early 1990s, as a subgenre of death metal."
+        },
+        {
+            "name": "SPEED METAL",
+            "streamURL": "http://79.111.119.111:8002/speedmetal",
+            "imageURL": "http://radcap.ru/stylegraf/speedmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Speed ​​metal is characterized by a fairly high speed of performance (greater than that of the “classic” heavy metal). The speed metal genre is characterized by a high tempo of the game and short losses between the couplets. Vocals in speed metal are more often more aggressive than in heavy metal, it can be hoarse, with splitting of the ligaments (screaming), both in low and shrill falsetto."
+        },
+        {
+            "name": "DRONE/DRONE DOOM METAL",
+            "streamURL": "http://79.120.39.202:8002/dronemetal",
+            "imageURL": "http://radcap.ru/stylegraf/dronemetal1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Drone metal is a metal music style that combines the slow pace and weight of doom metal with the long sound of drone music. Drone-dum is also often associated with post-metal or art metal."
+        },
+        {
+            "name": "ORIENTAL METAL",
+            "streamURL": "http://79.111.119.111:8002/orientalmetal",
+            "imageURL": "http://radcap.ru/stylegraf/orientalmetal2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Oriental Metal is a folk metal subgenre that originated in the mid-90s in Israel, Singapore and Armenia. The pioneers of the genre were Israeli groups Orphaned Land, Melechesh, Salem, Singaporean Rudra and Armenian Ayas."
+        },
+        {
+            "name": "EPIC METAL",
+            "streamURL": "http://79.111.119.111:8002/epicmetal",
+            "imageURL": "http://radcap.ru/stylegraf/epicmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Epic metal, epic metal - metal music style covering the themes of mythology, fantasy, epics. Epic metal has no particular musical characteristics. It is not possible to tie an epic metal to any particular style or direction of metal music, since it is not a musical genre, but serves as a generalized term uniting groups according to their lyrics and the concept of compositions."
+        },
+        {
+            "name": "MELODIC POWER METAL",
+            "streamURL": "http://79.111.119.111:8002/melodicpower",
+            "imageURL": "http://radcap.ru/stylegraf/melodicpower.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Melodic Power Metal - musical direction, is one of the types of power metal. Although as a genre, power metal has a great melody in comparison with the same heavy metal, this trend has a pronounced melodic harmony in the usual sense for most listeners."
+        },
+        {
+            "name": "PROGRESSIVE HEAVY METAL",
+            "streamURL": "http://79.120.39.202:8002/progheavymetal",
+            "imageURL": "http://radcap.ru/stylegraf/progheavymet.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Progressive heavy metal is a genre of metal music, a subgenre of Heavy Metal. Like any other genre of progressive music, Progressive Heavy has inherent non-standard composition of songs, a departure from typical musical clichés, although the main features of Heavy Metal still dominate."
+        },
+        {
+            "name": "CROSSOVER THRASH",
+            "streamURL": "http://79.111.14.76:8002/crossoverthrash",
+            "imageURL": "http://radcap.ru/stylegraf/crossoverthrash1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Crossover Thrash - musical style, which is a form of thrash metal or hardcore punk, influenced each other, or their merger. The crossover is one of the directions of punk metal, which includes other very similar styles."
+        },
+        {
+            "name": "SPEED HEAVY",
+            "streamURL": "http://79.120.77.11:8002/speedheavy",
+            "imageURL": "http://radcap.ru/stylegraf/speedheavy.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Speed ​​Heavy Metal is a sub-style of metal music within the Heavy Metal direction. As the name implies, this subgenre has the main features of Heavy Metal, but with a large share of high-speed performance of tracks."
+        },
+        {
+            "name": "TRASH BLACK METAL",
+            "streamURL": "http://79.120.39.202:8002/thrashblack",
+            "imageURL": "http://radcap.ru/stylegraf/thrashblack.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Thrash Black - metal music style. As the name suggests, there are elements of thrash and black metal in the sound. Their combination forms this style."
+        },
+
+
+
+        {
+            "name": "SYMPHONIC DEATH METAL",
+            "streamURL": "http://79.120.39.202:8002/symphodeathmet",
+            "imageURL": "http://radcap.ru/stylegraf/symphodeathmet.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Symphonic Death Metal is a subgenre of Death Metal, characterized by the use of symphonic musical instruments or their imitation using a synthesizer. The compositions also include the female 'operatic vocals'."
+        },
+        {
+            "name": "FUNERAL DOOM METAL",
+            "streamURL": "http://79.120.77.11:8002/funeraldoom",
+            "imageURL": "http://radcap.ru/stylegraf/fdm2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Funer Doom Metal - a subgenre of doom metal, but not so much from doom, but from death doom metal. Groups playing in the style of funeral doom took a slow pace from doom / death metal and slowed it down even more; The focus is on an atmosphere of despair, emptiness, grief, unhappiness, deep depression and focused grief."
+        },
+        {
+            "name": "INDUSTRIAL/CYBER METAL",
+            "streamURL": "http://79.120.39.202:8002/industrialmetal",
+            "imageURL": "http://radcap.ru/stylegraf/industrialmetal5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Industrial metal - a musical direction in rock music, formed in the late 80s supposedly in the US and UK as a result of the merger of two genres - industrial and heavy metal. The direction under discussion is characterized by the use of heavy metal riffs, an “industrial” synthesizer, a highly distorted guitar sound and distorted vocals."
+        },
+        {
+            "name": "TECHNICAL DEATH METAL",
+            "streamURL": "http://79.120.77.11:8002/techdeathmetal",
+            "imageURL": "http://radcap.ru/stylegraf/tdm3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Technical death metal (technical death metal) is a high-tech trend within death metal. Characterized by the search for new, special sound and music effects. This may be the addition of keyboards or other unusual instruments, the most complex guitar parts or mix, the addition of elements of other styles that are very far from traditional death styles, including those not related to rock music. Progressive metal had a significant effect on the subgenre."
+        },
+        {
+            "name": "MELODIC BLACK METAL",
+            "streamURL": "http://79.111.119.111:8002/melodicblackmetal",
+            "imageURL": "http://radcap.ru/stylegraf/mbm.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Melodic black metal - musical direction, is one of the varieties of black metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional black metal - screaming, speedy pace of the game, tremolo, blast beat, but there are some differences: the guitar has a much smaller distortion, that is, the characteristic dry “black” “buzz” is absent much less so. As the name suggests, melodic black is more melodic and, therefore, psychologically accessible to the masses of listeners."
+        },
+        {
+            "name": "THRASH DEATH METAL",
+            "streamURL": "http://79.111.14.76:8002/thrashdeath",
+            "imageURL": "http://radcap.ru/stylegraf/thrashdeath1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Thrash Death Metal is a musical sub-genre of heavy music. A kind of blending of directions like Thrash and Death in metal music. Depending on the greater influence of one of the styles, it can be interpreted as Thrash Death or Death Thrash."
+        },
+        {
+            "name": "MATH METAL/DJENT",
+            "streamURL": "http://79.120.39.202:8002/mathmetal",
+            "imageURL": "http://radcap.ru/stylegraf/atmosdoom.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Mat metal - the direction of metal, characterized by atonality, complex construction of compositions and the use of non-standard musical dimensions. As a rule, rhythmic knocks appear when a strong beat is deliberately transferred to a weak one by cutting or lengthening a phrase along with an increase / decrease in dimension for one of the instruments in any one measure of the desired phrase."
+        },
+        {
+            "name": "ATMOSPHERIC DOOM",
+            "streamURL": "http://79.111.119.111:8002/atmosdoom",
+            "imageURL": "http://radcap.ru/stylegraf/atmosdoom.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Atmospheric Doom is a sub-genre of Doom Metal. In the sound, a sufficiently noticeable emphasis is placed precisely on the guitar melody (close to the European death / doom melody), the almost complete elimination of any heavy elements, the addition of acoustic inserts and synthesizers, keyboards, sometimes choirs, etc. In general, this music draws sound lanshafty with a melancholic, detached atmosphere."
+        },
+        {
+            "name": "DEPRESSIVE BLACK METAL",
+            "streamURL": "http://79.111.119.111:8002/dsbm",
+            "imageURL": "http://radcap.ru/stylegraf/depressive1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Depressive Black metal, also known as Suicidal Black Metal, or Depressive Suicidal Black Metal (DSBM), is a musical genre that is common in black metal, characterized by a special length and looped structure of compositions, monotony, 'humming' guitars, sometimes -'accenting' keyboards. Some performers are characterized by a fast tempo and a tense manner of performance (Abyssic Hate, Nyktalgia, Silencer, Malvery), for others, on the contrary, a low tempo and general hypnotic atmosphere (Xasthur, ColdWorld, Defaillance)."
+        },
+        {
+            "name": "ALTERNATIVE METAL",
+            "streamURL": "http://79.120.77.11:8002/altmetal",
+            "imageURL": "http://radcap.ru/stylegraf/altmetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Alternative metal along with grunge began to gain popularity in the early 1990s. The genre is a merging of heavy metal with alternative rock (especially with the indie rock of the 1980s). For alternative metal, there are also heavy guitar riffs inherent in metal, and features of alternative music - unconventional lyrics, unusual techniques, rejection of the conventions and traditions of heavy music, the connection of metal with a wide variety of music genres."
+        },
+        {
+            "name": "ATMOSPHERIC/AMBIENT BLACK/DUNGEON SYNTH",
+            "streamURL": "http://79.120.39.202:8002/aabmds",
+            "imageURL": "http://radcap.ru/stylegraf/abm4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Usually between atmospheric and ambient black metal there is no distinction. However, the latter is often confused with black ambient (subgenre of dark ambient), since ambient side projects of black metal musicians, such as Moevot, are related to this direction. As performers of ambient black metal, Wolves in the Throne Room, Darkspace, Paysage D'Hiver, Striborg are more often called."
+        },
+        {
+            "name": "FEMALE VOCAL IN METAL",
+            "streamURL": "http://79.111.14.76:8002/femalemetal",
+            "imageURL": "http://radcap.ru/stylegraf/femalemetal.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Female vocals in rock, metal music since the 90s of the last century, confidently gained popularity. A certain amount of monotony and relative stagnation in the development of the main directions of extreme music contributed a lot to this. Hundreds of groups similar to each other daily appeared and disappeared from the musical horizon without leaving a noticeable trace behind them."
+        },
+        {
+            "name": "BLACK/BLACKENED DOOM METAL",
+            "streamURL": "http://79.120.77.11:8002/blackdoom",
+            "imageURL": "http://radcap.ru/stylegraf/blackdoom.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Black doom style combining elements of black metal and doom metal. Subgenre, also called blackened doom metal. DSBM often has something in common with black / doom, which combines doom metal and black metal. Usually the vocals are screaming and shrike, and guitars are weighted distortion, which is typical of black metal. But also characterized by a slow pace and dissonance, which is typical for doom metal."
+        },
+        {
+            "name": "THRASH HEAVY METAL",
+            "streamURL": "http://79.120.39.202:8002/thrashheavy",
+            "imageURL": "http://radcap.ru/stylegraf/thrashheavy1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Thrash Heavy Metal or simply Thrash Heavy is a subgenre of metal music, a kind of fusion of such directions as Thrash and Heavy Metal. It originated in the 1990s, during the period when the collectives that performed in the genre of classical thrash metal began to be regarded as atavisms, since many thrashers experimented with new genre directions. "
+        }
+     ]
+}

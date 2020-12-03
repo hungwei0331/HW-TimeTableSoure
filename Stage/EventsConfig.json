@@ -1,3 +1,29 @@
 {
-    "totalLineUp": ["貴人散步音樂節","搖滾連續祭"]
+    "totalEvent":
+    [
+        {
+            "years": 2020,
+            "name": "貴人散步音樂節",
+            "period": "2020/11/27 - 2020/11/29",
+            "type":"lucFest",
+            "location": {"locationName": "臺南市美術館2館", "locationAddress": "台南市中西區忠義路二段1號", "latitude": 22.990638, "longitude": 120.201376},
+            "status": ""
+        },
+        {
+            "years": 2020,
+            "name": "搖滾連續祭",
+            "period": "2020/12/04 - 2020/12/06",
+            "type":"comboRock",
+            "location": {"locationName": "歷史建築帝國製糖廠臺中營業所", "locationAddress": "台中市東區泉源里樂業路30號", "latitude": 24.137981, "longitude": 120.692164},
+            "status": ""
+        },
+        {
+            "years": 2020,
+            "name": "SimpleLife簡單生活節",
+            "period": "2020/12/12 - 2020/12/13",
+            "type":"simpleLife",
+            "location": {"locationName": "華山 1914 文化創意產業園區", "locationAddress": "台北市中正區八德路一段1號", "latitude": 25.043474, "longitude": 121.529283},
+            "status": ""
+        }
+    ]
 }

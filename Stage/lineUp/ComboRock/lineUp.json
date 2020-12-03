@@ -1,12 +1,12 @@
 {
     "days": {
         "totalDays": 3,
-        "dateText": ["12 | 4", "12 | 5", "12 | 6"]
+        "dateText": ["12 / 4", "12 / 5", "12 / 6"]
     },
     "eventYear": "2020",
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
-    "stages": ["COMBO主舞台", "ROCK副舞台", "帝國大亂鬥舞台", "卡拉DJ台"], 
+    "stages": ["COMBO主舞台", "ROCK副舞台", "帝國大亂鬥舞台", "卡拉DJ台"],
     "firstDayLineUps" :[
      {
         "stage": "COMBO主舞台",
@@ -70,7 +70,7 @@
             "stageLineUp": [
                 { "bandName": "拾參羊", "showStartTime": "11:30 AM", "showEndTime" : "0:10 PM", "showDuration": 40},
                 { "bandName": "餿水", "showStartTime": "0:40 PM", "showEndTime" : "1:10 PM", "showDuration": 30},
-                { "bandName": "餵飽豬", "showStartTime": "1:50 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
+                { "bandName": "餵飽豬", "showStartTime": "1:50 PM", "showEndTime" : "2:30 PM", "showDuration": 40},
                 { "bandName": "反正我很閒", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
                 { "bandName": "Shoot Up", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
                 { "bandName": "魚條樂團", "showStartTime": "5:10 PM", "showEndTime" : "5:50 PM", "showDuration": 40},
@@ -120,7 +120,7 @@
             "stage": "ROCK副舞台",
             "stageLineUp": [
                 { "bandName": "黃裕翔&Life Jazz", "showStartTime": "11:30 AM", "showEndTime" : "0:10 PM", "showDuration": 40},
-                { "bandName": "月宵◇クレシェンテ", "showStartTime": "0:40 AM", "showEndTime" : "1:20 PM", "showDuration": 40},
+                { "bandName": "月宵◇クレシェンテ", "showStartTime": "0:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
                 { "bandName": "擊倒巨人", "showStartTime": "1:50 PM", "showEndTime" : "2:30 PM", "showDuration": 40},
                 { "bandName": "暴噬者", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
                 { "bandName": "A piece of cake 256", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
