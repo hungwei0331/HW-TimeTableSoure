@@ -1,33 +1,7 @@
 {
-    "lastUpdate": "2020/11/11",
+    "lastUpdate": "2020/12/03",
     "currentYearEvents":
     [
-     {
-         "years": 2020,
-         "title": "貴人散步音樂節",
-         "imageURL": "",
-         "startDate": "2020/11/27",
-         "endDate": "2020/11/29",
-         "location": {"locationName": "臺南市美術館2館", "locationAddress": "台南市中西區忠義路二段1號", "latitude": 22.990638, "longitude": 120.201376},
-         "mail": "hello@lucfest.com",
-         "latestAttend": null,
-         "ticketStatus": "soldOut",
-         "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true },
-         "purchaseUrl":  {"url": "https://lucfest.kktix.cc/events/lucfest2020", "clickable": false},
-         "description": "揪你挑戰音樂敏感帶，挖掘未知好聲音！今年11月27日～11月29日，帶著你好奇的耳朵，來貴人挑戰耳朵敏感帶，挖出心頭好音樂！貴人散步有著最獨特的選團品味，就是要你比別人搶先一步聽到即將爆紅的好聲音，每年精選海內外獨具慧眼的選團人，選出最具潛力的超級新星，揪你來挑戰小圈圈外的好聲音，挖掘未知好聲音！",
-         "eventLastUpdate": "2020/11/10",
-         "eventTicket": [
-             { "tickName": "貴人小鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1800, "ticketStatus": "soldOut"},
-             { "tickName": "貴人暖鳥票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2000, "ticketStatus": "soldOut"},
-             { "tickName": "貴人三日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 2800, "ticketStatus": "soldOut"},
-             { "tickName": "貴人PRO PASS", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 3000, "ticketStatus": "soldOut"},
-             { "tickName": "11/27（五） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/27", "price" : 1500, "ticketStatus": "soldOut"},
-             { "tickName": "11/28（六）貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/28", "price" : 1500, "ticketStatus": "soldOut"},
-             { "tickName": "11/29（日） 貴人單日票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1500, "ticketStatus": "soldOut"},
-             { "tickName": "身障票", "salePeriod": "2020/07/15 ~ 2020/11/29", "price" : 1400, "ticketStatus": "soldOut"}
-         ],
-         "lineUp": "落日飛車｜當代電影大師｜昏鴉｜Cicada｜Limi｜靈魂沙發｜打倒三明治｜I Mean Us｜孔雀眼｜緩緩｜四枝筆｜Easy Shen Gang｜王彙筑｜hue｜Go Go Machine Orchestra｜陳穎達四重奏｜謝明諺六重奏：給喬的讚歌｜春麵樂隊｜飛鴻｜COLD DEW｜傷心欲絕｜OVDS｜Mong Tong｜呂士軒｜莫宰羊｜周穆｜JADE｜體熊專科｜仙樂隊｜熱寫生｜Super Napkin｜地球休假日｜柯泯薰｜葉穎｜鐵擊｜白頻率｜Wednesday 與壞透樂團｜非/密閉空間｜達摩樂隊｜RPG｜SHOOT UP｜純情火山｜血肉果汁機｜海豚刑警｜吳柏蒼｜大象體操｜神棍樂團｜雨國｜Chick en Chicks｜屋塔｜G5SH｜Resa Club｜YUFU & 絲絨印象派樂隊｜薛詒丹｜火燒島｜克里夫｜記號士｜Valley Hi!｜黃子軒與山平快｜逃走鮑伯｜許含光｜唐貓｜土製炸彈｜問題總部｜萬龍｜Lazy Habits(UK)｜美秀集團｜毀容姊妹會｜舒米恩｜大支｜拍謝少年｜雷光夏"
-     },
      {
          "years": 2020,
          "title": "搖滾連續祭",
