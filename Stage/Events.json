@@ -1,29 +1,7 @@
 {
-    "lastUpdate": "2020/12/03",
+    "lastUpdate": "2020/12/07",
     "currentYearEvents":
     [
-     {
-         "years": 2020,
-         "title": "搖滾連續祭",
-         "imageURL": "",
-         "startDate": "2020/12/04",
-         "endDate": "2020/12/06",
-         "location": {"locationName": "歷史建築帝國製糖廠臺中營業所", "locationAddress": "台中市東區泉源里樂業路30號", "latitude": 24.137981, "longitude": 120.692164},
-         "mail": "heartownfest@gmail.com",
-         "latestAttend": "DJ T-Pump、DJ DoubleK、DJ Roman、DJ Allen、DJ YU feat. 島輝、風格老師、Dennis、81",
-         "ticketStatus": "onSale",
-         "instagramUrl": {"url": "https://www.instagram.com/comborocktaiwan/", "clickable": true},
-         "purchaseUrl":  {"url": "https://leadhome.kktix.cc/events/comborock2020tw", "clickable": false},
-         "description": "一期一會，一年一巡 全台灣各個地方都將會有我們的足跡",
-         "eventLastUpdate": "2020/12/02",
-         "eventTicket": [
-             { "tickName": "三日一生一世票", "salePeriod": "2020/08/24 ~ 2020/08/30", "price" : 600, "ticketStatus": "soldOut"},
-             { "tickName": "三日六百鐵桿票", "salePeriod": "2020/08/31 ~ 2020/12/03", "price" : 600, "ticketStatus": "onSale"},
-             { "tickName": "早鳥單日票", "salePeriod": "2020/08/31 ~ 2020/11/10", "price" : 900, "ticketStatus": "soldOut"},
-             { "tickName": "三日票", "salePeriod": "2020/08/31 ~ 2020/12/03", "price" : 1700, "ticketStatus": "onSale"}
-         ],
-         "lineUp": "傷心欲絕｜玖壹壹｜血肉果汁機｜Marz 23｜光景消逝｜無妄合作社 | 八十八顆芭樂籽｜Infernal Chaos｜晨曦光廊｜OBSESS｜康士坦的變化球｜老破麻｜神棍｜禁藥王&栗子｜恕｜月宵◇クレシェンテ ｜OVDS｜固定客｜A Piece of Cake 256｜反正我很閒｜餵飽豬｜海克力斯｜破繭而出｜顯然樂隊｜謎路人｜SHOOT UP｜擊倒巨人｜暴行終止｜逃走鮑伯｜亥兒｜步行者｜MIZMEZ｜Future after a Second｜米粒人｜宋德鶴｜魚條｜男子漢｜JAYRoll｜187INC｜PEATLE｜FORMOZA｜李紅｜西屯純愛組｜MULTIVERSE ｜毀滅體制｜白頻率｜野蠻人｜類比梭羅｜王立言｜普通隊長｜海岸乾杯｜蘭花刀｜福川組｜餿水Swill｜拾參羊｜Locu5｜Wayne Band ｜YELLOWBLACK｜卜星慧｜超音界｜WEDNESDAY與壞透樂團｜說書人｜鐵擊｜Beware the sky falling｜｜既視感｜暴噬者｜DHARMA達摩樂隊｜邱淑蟬&平衡訊號｜暴君｜等阮返來｜NOOVY｜My Cat Eats My Hand｜獨立人種｜呂杰達搖滾大樂隊｜手骨樂隊｜Fatuous Rump｜SPYKEE | Billy Drummed | JBL | DRINN | DENKI DADA  | INN | DJ EX咖哩棒｜DJ BALAWOLF | DJ魏小｜Uncal AJ｜電視兒童官靖剛｜DJ TENTEN｜RAY"
-     },
      {
          "years": 2020,
          "title": "Simple Life簡單生活節",
@@ -56,18 +34,18 @@
             "endDate": "2021/01/31",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "康士坦的變化球",
+            "latestAttend": "末日之猩、福川組、螺紋",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2020/12/02",
+            "eventLastUpdate": "2020/12/07",
             "eventTicket": [
                 { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "soldOut"},
                 { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "EmptyORio、海豚刑警、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺"
+            "lineUp": "EmptyORio、海豚刑警、康士坦的變化球、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺、末日之猩、福川組、螺紋"
         },
         {
             "years": 2021,
