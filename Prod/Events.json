@@ -55,17 +55,17 @@
             "endDate": "2021/02/28",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "➳ 許含光 Lumi ➳ 荷爾蒙少年 Hormone Boys ➳ 溫蒂漫步 Wendy Wander​",
+            "latestAttend": "➳ 八三夭 831 ➳ 麋先生 MIXER ➳ 魏嘉瑩 Arrow Wei​​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2020/12/01",
+            "eventLastUpdate": "2020/12/10",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
                 { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．脫拉庫．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．．米老虎．許含光．荷爾蒙少年．溫蒂漫步"
+            "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．脫拉庫．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．米老虎．許含光．荷爾蒙少年．溫蒂漫步．八三夭．麋先生．魏嘉瑩"
         },
         {
             "years": 2021,
@@ -80,7 +80,7 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。",
-            "eventLastUpdate": "2020/11/25",
+            "eventLastUpdate": "2020/12/10",
             "eventTicket": [
                 { "tickName": "大港鐵鳥單日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 1400, "ticketStatus": "soldOut"},
                 { "tickName": "大港鐵鳥雙日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 2300, "ticketStatus": "soldOut"},
