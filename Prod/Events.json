@@ -28,6 +28,28 @@
     [
         {
             "years": 2021,
+            "title": "台大音樂節 NTU Music Festival",
+            "imageURL": "",
+            "startDate": "2021/01/30",
+            "endDate": "2021/01/31",
+            "location": {"locationName": "臺灣大學舊體育館及舊體育館後草皮", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.019875665434647, "longitude": 121.53622158194536},
+            "mail": "ntumusicfestival07@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival/", "clickable": true},
+            "purchaseUrl":  {"url": "https://www.indievox.com/activity/detail/21_iV00774b6", "clickable": false},
+            "description": "以音樂為糧，迷樂島與島民召集一群音樂志士上島，譜出一場音樂盛事，進入音樂建構的保護層，噪音拒於圈外，沉浸在迷迷音樂中！趁我們還是學生，我們想挑戰現實，勇敢地完成一場夢。台大音樂節至今已邁入第七屆，我們由不同大專院校學生組成，期望作為學生樂團推手，並建構出一套完善音樂節系統，讓「台大音樂節」成為具影響力的學生音樂節品牌，同時提升大眾對音樂文化、產業及價值的重視。",
+            "eventLastUpdate": "2020/12/08",
+            "eventTicket": [
+                { "tickName": "早鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 600, "ticketStatus": "soldOut"},
+                { "tickName": "孤鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 700, "ticketStatus": "onSale"},
+                { "tickName": "鴛鴦雙人票", "salePeriod": "~ 2021/01/30", "price" : 1300, "ticketStatus": "onSale"},
+                { "tickName": "鳥巢四人票", "salePeriod": "~ 2021/01/30", "price" : 2400, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "鄭宜農 、陳以恆、問題總部、The Tic Tac、南方壞男孩 South Bad Boy、徐子權、尋找尼歐 Finding Neo、熱寫生、EastWave東波"
+        },
+        {
+            "years": 2021,
             "title": "爛泥發芽(高雄)",
             "imageURL": "",
             "startDate": "2021/01/30",
