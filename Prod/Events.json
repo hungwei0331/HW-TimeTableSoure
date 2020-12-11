@@ -17,9 +17,9 @@
          "description": "「簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。",
          "eventLastUpdate": "2020/11/03",
          "eventTicket": [
-             { "tickName": "12/12單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "onSale"},
-             { "tickName": "12/13單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "onSale"},
-             { "tickName": "雙日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 2000, "ticketStatus": "onSale"}
+             { "tickName": "12/12單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "soldOut"},
+             { "tickName": "12/13單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "soldOut"},
+             { "tickName": "雙日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 2000, "ticketStatus": "soldOut"}
          ],
          "lineUp": "陳綺貞、普悠瑪家族樂團：陳建年、紀曉君、昊恩、家家、南王姊妹花、落差草原WWWW X 巴奈&那布、持修、Ado 阿洛、守夜人 Night Keepers、傷心欲絕、拍謝少年、老王樂隊與神秘嘉賓、理想混蛋、Theseus 忒修斯、荒山茉莉、尋人啟事、愛人眼睛、落日飛車、LINION、SoulFa 靈魂沙發、YUFU & the Velvet Impressionism、熱寫生、百合花、青虫 aoi、ØZI ft. 血肉果汁機、張震嶽Ayal Komod、山下民謠家族：生祥樂隊 x 米莎 x 東京中央線、跑跑機器人 Go Go Machine Orchestra ft. 陳珊妮、余佩真、告五人、Chick en Chicks、戴曉君 Sauljaljui、Vast & Hazy、甜約翰、大象體操、傻子與白痴 + 神秘嘉賓、五五身、許含光 Lumi、YELLOW、JADE、I Mean Us、問題總部 It’s Your Fault、荷爾蒙少年Hormone Boys、打倒三明治、緩緩 Huan Huan、凹與山 、瘦子E.SO"
      }
