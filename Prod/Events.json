@@ -11,11 +11,11 @@
          "location": {"locationName": "華山 1914 文化創意產業園區", "locationAddress": "台北市中正區八德路一段1號", "latitude": 25.043474, "longitude": 121.529283},
          "mail": "service@simplelifetw.com",
          "latestAttend": null,
-         "ticketStatus": "onSale",
+         "ticketStatus": "soldOut",
          "instagramUrl": {"url": "https://reurl.cc/ReYQe", "clickable": true},
          "purchaseUrl":  {"url": "https://bit.ly/37GkAjr", "clickable": false},
          "description": "「簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。",
-         "eventLastUpdate": "2020/11/03",
+         "eventLastUpdate": "2020/12/11",
          "eventTicket": [
              { "tickName": "12/12單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "soldOut"},
              { "tickName": "12/13單日預售票", "salePeriod": "2020/11/01 ~ 2020/12/11", "price" : 1200, "ticketStatus": "soldOut"},
