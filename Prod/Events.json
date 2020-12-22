@@ -73,19 +73,19 @@
             "endDate": "2021/02/28",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "➳ OBSESS ➳ FORMOZA ➳ Buns N’ Roses 麵包與玫瑰樂團 ➳ 步行者 Pacers ➳ Dharma 達摩樂隊​​​",
+            "latestAttend": "➳ 林生祥 Lin Sheng Xiang X 大竹研　Ken Ohtake ➳農村武裝青年  ➳ 黃宇寒 Han ➳ 王喬尹Joyin ➳ 消波塊樂團 Bah Tsang Kak​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2020/12/16",
+            "eventLastUpdate": "2020/12/22",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
                 { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"},
                 { "tickName": "預售單日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 1400, "ticketStatus": "onSale"},
                 { "tickName": "預售雙日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 2300, "ticketStatus": "onSale"}
             ],
-            "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．脫拉庫．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．米老虎．許含光．荷爾蒙少年．溫蒂漫步．八三夭．麋先生．魏嘉瑩．OBSESS．FORMOZA． Buns N' Roses 麵包與玫瑰．步行者．達摩樂隊"
+            "lineUp": "拍謝少年．持修．守夜人．老破麻．老王樂隊．海豚刑警．甜約翰．狗吠火車．董事長樂團．朱頭皮普拉斯未知之境 ft. 趙一豪．康士坦的變化球．逃走鮑伯．EastWave．BIKE機踏車樂團．P!SCO．dizLike．月宵◇クレシェンテ．Carnival．無妄合作社．宋德鶴．SADOG．米老虎．許含光．荷爾蒙少年．溫蒂漫步．八三夭．麋先生．魏嘉瑩．OBSESS．FORMOZA． Buns N' Roses 麵包與玫瑰．步行者．達摩樂隊．林生祥 X 大竹研．農村武裝青年．黃宇寒．王喬尹．消波塊樂團"
         },
         {
             "years": 2021,
