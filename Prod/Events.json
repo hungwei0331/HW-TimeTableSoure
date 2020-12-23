@@ -30,7 +30,7 @@
             "endDate": "2021/01/31",
             "location": {"locationName": "臺灣大學舊體育館及舊體育館後草皮", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.019875665434647, "longitude": 121.53622158194536},
             "mail": "ntumusicfestival07@gmail.com",
-            "latestAttend": null,
+            "latestAttend": "#王立 #林以樂 #溫蒂漫步",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival/", "clickable": true},
             "purchaseUrl":  {"url": "https://www.indievox.com/activity/detail/21_iV00774b6", "clickable": false},
@@ -109,6 +109,28 @@
                 { "tickName": "黃牛去死", "salePeriod": "2020/11/25 ~2020/3/27", "price" : 9999, "ticketStatus": "soldOut"}
             ],
             "lineUp": "徐若瑄Vivian｜Leo王｜唐鳳｜美秀集團｜持修｜FUTURE AFTER A SECOND｜非人物種｜厭世少年｜熱寫生｜The Fur.｜逃走鮑伯｜南西肯恩｜倒車入庫｜眠腦｜謎路人｜緩緩｜萬龍｜My Cat Eats My Hand"
+        },
+        {
+            "years": 2021,
+            "title": "諸羅祭 Jurassic Festival",
+            "imageURL": null,
+            "startDate": "2021/04/10",
+            "endDate": "2021/04/11",
+            "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
+            "mail": "jurassicfestival@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
+            "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
+            "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
+            "eventLastUpdate": "2021/12/23",
+            "eventTicket": [
+                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "onSale"},
+                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "onSale"},
+                { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
+                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band"
         },
         {
             "years": 2021,
