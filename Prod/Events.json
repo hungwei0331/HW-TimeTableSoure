@@ -35,14 +35,14 @@
             "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival/", "clickable": true},
             "purchaseUrl":  {"url": "https://www.indievox.com/activity/detail/21_iV00774b6", "clickable": false},
             "description": "以音樂為糧，迷樂島與島民召集一群音樂志士上島，譜出一場音樂盛事，進入音樂建構的保護層，噪音拒於圈外，沉浸在迷迷音樂中！趁我們還是學生，我們想挑戰現實，勇敢地完成一場夢。台大音樂節至今已邁入第七屆，我們由不同大專院校學生組成，期望作為學生樂團推手，並建構出一套完善音樂節系統，讓「台大音樂節」成為具影響力的學生音樂節品牌，同時提升大眾對音樂文化、產業及價值的重視。",
-            "eventLastUpdate": "2020/12/08",
+            "eventLastUpdate": "2020/12/22",
             "eventTicket": [
                 { "tickName": "早鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 600, "ticketStatus": "soldOut"},
                 { "tickName": "孤鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 700, "ticketStatus": "onSale"},
                 { "tickName": "鴛鴦雙人票", "salePeriod": "~ 2021/01/30", "price" : 1300, "ticketStatus": "onSale"},
                 { "tickName": "鳥巢四人票", "salePeriod": "~ 2021/01/30", "price" : 2400, "ticketStatus": "onSale"}
             ],
-            "lineUp": "鄭宜農 、陳以恆、問題總部、The Tic Tac、南方壞男孩 South Bad Boy、徐子權、尋找尼歐 Finding Neo、熱寫生、EastWave東波"
+            "lineUp": "鄭宜農 、陳以恆、問題總部、The Tic Tac、南方壞男孩 South Bad Boy、徐子權、尋找尼歐 Finding Neo、熱寫生、EastWave東波、王立、林以樂、溫蒂漫步、Humanity Mirror 人性魔鏡、後站人、張仁與、郭宗瑋 青石、感覺莓果 Feeling Berry"
         },
         {
             "years": 2021,
@@ -52,18 +52,18 @@
             "endDate": "2021/01/31",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "OBSESS",
+            "latestAttend": "無妄合作社 No-nonsense Collective",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2020/12/16",
+            "eventLastUpdate": "2020/12/23",
             "eventTicket": [
                 { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
                 { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "EmptyORio、海豚刑警、康士坦的變化球、OBSESS、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺、末日之猩、福川組、螺紋、廢埕、莎賓娜大樂隊、21世紀無聊男子"
+            "lineUp": "無妄合作社 No-nonsense Collective、EmptyORio、 イルカポリス 海豚刑警、 康士坦的變化球、 OBSESS、 老破麻 - Old Slut Distortion.、 孩子王 、 謎路人 Way of Puzzle、 彼岸曙光 Stay Wide Awake、 煙雨飄渺 Rain of Sorrow、 鐵擊、 夕陽武士 Sunset Samurai、 昴宿 Pleiades 、 城市雨人 Urban Rain Man 、 必順鄉村 Bison Country、 討口一眾 Kenkaaaaaa、 海岸乾杯 、 米老虎-Main live、 宇宙計程車、 羅浮宮的帽子 Louvre’s Hat、烏賊紳士 、 奮樂團、 輻射魚市 Nuclear Fish Market、 普通隊長 Captain Ordinary、 一點生、 札克忍者 、 人性先覺 Between The Savage、 末日之猩 、 福川組、螺紋、 廢埕樂團、 Sabrina band 莎賓娜大樂隊、 21世紀無聊男子"
         },
         {
             "years": 2021,
@@ -73,12 +73,12 @@
             "endDate": "2021/02/28",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "➳ 林生祥 Lin Sheng Xiang X 大竹研　Ken Ohtake ➳農村武裝青年  ➳ 黃宇寒 Han ➳ 王喬尹Joyin ➳ 消波塊樂團 Bah Tsang Kak​",
+            "latestAttend": "≫ 步行者 Pacers ≪",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2020/12/22",
+            "eventLastUpdate": "2020/12/23",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
                 { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"},
