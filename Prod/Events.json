@@ -2,26 +2,6 @@
     "lastUpdate": "2020/12/12",
     "currentYearEvents":
     [
-     {
-        "years": 2020,
-        "title": "2020基隆嗨轟跨年音樂節",
-        "imageURL": "",
-        "startDate": "2020/12/31",
-        "endDate": "2021/01/01",
-        "location": {"locationName": "基隆港西三倉庫旁停車場", "locationAddress": "基隆市仁愛區港西街16號", "latitude": 25.134638273555012, "longitude": 121.74090793985222},
-        "mail": "ymh0103@mail.klcg.gov.tw",
-        "latestAttend": "亥兒樂隊、清醒夢 Wake Back To Bed、Slowing Oscillation 斯洛頻率",
-        "ticketStatus": "onSale",
-        "instagramUrl": {"url": "https://www.facebook.com/KeelungCrazyNewYearCountdownFestival", "clickable": true},
-        "purchaseUrl":  null,
-        "description": "2020基隆嗨轟跨年音樂節 Keelung Crazy New Year Countdown Festival",
-        "eventLastUpdate": "2020/12/16",
-        "eventTicket": null,
-        "lineUp": "宇宙人｜麋先生｜Vast & Hazy｜告五人｜拍謝少年｜農村武裝青年｜I Mean Us｜鹿洐人｜Control T｜亥兒樂隊｜斯洛頻率｜清醒夢｜LiveYubin（KR）｜StorySeller（KR）｜鄭欽樂隊（KR"
-    }
-    ],
-    "nextYearEvents":
-    [
         {
             "years": 2021,
             "title": "台大音樂節 NTU Music Festival",
@@ -149,5 +129,6 @@
             "eventTicket": null,
             "lineUp": null
         }
-     ]
+    ],
+    "nextYearEvents": []
 }
