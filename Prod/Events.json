@@ -32,18 +32,19 @@
             "endDate": "2021/01/31",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "滅火器 Fire EX.",
+            "latestAttend": "DJ小宜",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/01/04",
+            "eventLastUpdate": "2021/01/12",
             "eventTicket": [
+                { "tickName": "愛心票", "salePeriod": "~ 2021/01/31", "price" : 749, "ticketStatus": "onSale"},
                 { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
                 { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp":"滅火器 Fire EX.、 無妄合作社 No-nonsense Collective、EmptyORio、 イルカポリス 海豚刑警、 康士坦的變化球、 OBSESS、 老破麻 - Old Slut Distortion.、孩子王、 謎路人 Way of Puzzle、 彼岸曙光 Stay Wide Awake、 煙雨飄渺 Rain of Sorrow、 鐵擊 、 夕陽武士 Sunset Samurai、 昴宿 Pleiades、 城市雨人 Urban Rain Man、 必順鄉村 Bison Country、 討口一眾 Kenkaaaaaa、海岸乾杯、 米老虎-Main live、 宇宙計程車、 羅浮宮的帽子 Louvre’s Hat、烏賊紳士 、 奮樂團、 輻射魚市 Nuclear Fish Market、 普通隊長 Captain Ordinary、 一點生、札克忍者、 人性先覺 Between The Savage、末日之猩、 福川組、 螺紋、 廢埕樂團、 Sabrina band 莎賓娜大樂隊、21世紀無聊男子"
+            "lineUp":"滅火器、無妄合作社、EmptyORio、海豚刑警、康士坦的變化球、OBSESS、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺、末日之猩、福川組、螺紋、廢埕、莎賓娜大樂隊、21世紀無聊男子、DJ小宜"
         },
         {
             "years": 2021,
@@ -75,12 +76,12 @@
             "endDate": "2021/03/28",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "mail": "info@megaportfest.com",
-            "latestAttend": "YELLOW ｜鼓鼓 呂思緯 | 康士坦的變化球 ｜イルカポリス 海豚刑警 | Asiaboy & Lizi 禁藥王 & 栗子Liz ｜ 水源 Xueiyuan | 魚條樂團 Fish Stick ｜ Midi 楊士弘",
+            "latestAttend": "滅火器 Fire EX.｜隨性 Random | 孩子王（Kid King)｜ 彼岸曙光 Stay Wide Awake | JADE｜EmptyORio | 風籟坊 windmill｜ 一點生",
             "ticketStatus": "soldOut",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。",
-            "eventLastUpdate": "2021/01/07",
+            "eventLastUpdate": "2021/01/12",
             "eventTicket": [
                 { "tickName": "大港鐵鳥單日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 1400, "ticketStatus": "soldOut"},
                 { "tickName": "大港鐵鳥雙日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 2300, "ticketStatus": "soldOut"},
@@ -88,7 +89,7 @@
                 { "tickName": "預售雙日聯票", "salePeriod": "2020/11/25 ~2020/3/27", "price" : 2500, "ticketStatus": "soldOut"},
                 { "tickName": "黃牛去死", "salePeriod": "2020/11/25 ~2020/3/27", "price" : 9999, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "徐若瑄Vivian｜Leo王｜Tizzy Bac｜唐鳳｜血肉果汁機｜美秀集團｜傷心欲絕｜康士坦的變化球｜鼓鼓 呂思緯｜持修｜Green!Eyes｜吳柏蒼｜海豚刑警｜FUTURE AFTER A SECOND｜YELLOW｜非人物種｜Infernal Chaos｜Easy Shen Gang｜punkhoo 胖虎｜Asiaboy 禁藥王 & Lizi 栗子｜Beyond Cure ft. Ru味春捲｜厭世少年｜熱寫生｜The Fur.｜阿飛西雅｜逃走鮑伯｜必順鄉村｜水源｜南西肯恩｜倒車入庫｜眠腦｜謎路人｜緩緩｜萬龍｜魚條｜Crescent Lament 恆月三途｜My Cat Eats My Hand ｜楊士弘｜煙雨飄渺｜TOBE｜ＭIND THE GAP"
+            "lineUp": "徐若瑄Vivian｜滅火器｜Leo王｜Tizzy Bac｜唐鳳｜血肉果汁機｜美秀集團｜傷心欲絕｜康士坦的變化球｜鼓鼓 呂思緯｜隨性｜持修｜Green!Eyes｜吳柏蒼｜海豚刑警｜FUTURE AFTER A SECOND｜YELLOW｜非人物種｜Infernal Chaos｜EmptyORio｜Easy Shen Gang｜punkhoo 胖虎｜Asiaboy 禁藥王 & Lizi 栗子｜Beyond Cure ft. Ru味春捲｜JADE｜厭世少年｜熱寫生｜The Fur.｜阿飛西雅｜孩子王｜逃走鮑伯｜必順鄉村｜彼岸曙光｜水源｜南西肯恩｜風籟坊｜倒車入庫｜一點生｜眠腦｜謎路人｜緩緩｜萬龍｜魚條｜Crescent Lament 恆月三途｜My Cat Eats My Hand ｜楊士弘｜煙雨飄渺｜TOBE｜ＭIND THE GAP"
         },
         {
             "years": 2021,
