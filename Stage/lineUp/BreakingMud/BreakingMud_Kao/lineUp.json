@@ -39,8 +39,8 @@
         "stage": "KARAOKE舞台",
         "stageLineUp": [
             { "bandName": "小黃老師上課啦", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 15},
-            { "bandName": "DJ小宜", "showStartTime": "3:31 PM", "showEndTime" : "5:30 PM", "showDuration": 119},
-            { "bandName": "卡拉OK時間", "showStartTime": "5:31 PM", "showEndTime" : "10:30 PM", "showDuration": 299}
+            { "bandName": "DJ小宜", "showStartTime": "3:30 PM", "showEndTime" : "5:30 PM", "showDuration": 120},
+            { "bandName": "卡拉OK時間", "showStartTime": "5:30 PM", "showEndTime" : "10:30 PM", "showDuration": 300}
         ]
      }
     ],
@@ -77,8 +77,8 @@
             "stage": "KARAOKE舞台",
             "stageLineUp": [
                 { "bandName": "快樂的工人調酒教學", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 40},
-                { "bandName": "DJ小宜", "showStartTime": "3:31 PM", "showEndTime" : "5:30 PM", "showDuration": 119},
-                { "bandName": "卡拉OK時間", "showStartTime": "5:31 PM", "showEndTime" : "10:30 PM", "showDuration": 299}
+                { "bandName": "DJ小宜", "showStartTime": "3:30 PM", "showEndTime" : "5:30 PM", "showDuration": 120},
+                { "bandName": "卡拉OK時間", "showStartTime": "5:30 PM", "showEndTime" : "10:30 PM", "showDuration": 300}
             ]
          }
     ],
