@@ -24,6 +24,14 @@
             "type":"simpleLife",
             "location": {"locationName": "華山 1914 文化創意產業園區", "locationAddress": "台北市中正區八德路一段1號", "latitude": 25.043474, "longitude": 121.529283},
             "status": ""
+        },
+        {
+            "years": 2021,
+            "name": "台大音樂節",
+            "period": "2021/01/30 - 2020/01/31",
+            "type":"ntu",
+            "location": {"locationName": "臺灣大學舊體育館及舊體育館後草皮", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.019875665434647, "longitude": 121.53622158194536},
+            "status": ""
         }
     ]
 }
