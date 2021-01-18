@@ -48,15 +48,15 @@
         {
             "stage": "橋頭霸王",
             "stageLineUp": [
-                { "bandName": "手合鐵鼓 Cross Metal Band", "showStartTime": "3:00 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
-                { "bandName": "必順鄉村", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "鐵擊", "showStartTime": "5:40 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
-                { "bandName": "孩子王", "showStartTime": "7:20 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
-                { "bandName": "夕陽武士", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "EmptyORio", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "海豚刑警", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "康士坦的變化球", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "無妄合作社", "showStartTime": "9:00 PM", "showEndTime" : "9:50 PM", "showDuration": 40}
+                { "bandName": "手合鐵鼓 Cross Metal Band", "showStartTime": "10:40 AM", "showEndTime" : "11:20 AM", "showDuration": 40},
+                { "bandName": "必順鄉村", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
+                { "bandName": "鐵擊", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
+                { "bandName": "孩子王", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
+                { "bandName": "夕陽武士", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
+                { "bandName": "EmptyORio", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
+                { "bandName": "海豚刑警", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+                { "bandName": "康士坦的變化球", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+                { "bandName": "無妄合作社", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
             ]
          },
          {
