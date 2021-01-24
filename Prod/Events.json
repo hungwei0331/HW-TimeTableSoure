@@ -163,18 +163,18 @@
             "endDate": "2021/04/24",
             "location": null,
             "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "latestAttend": "李浩瑋 Howard Lee",
+            "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "人家都說宜蘭好山好水好無聊\n所以所謂回來了！！！o(-`д´- ｡)！！！\n多一倍的樂團陣容！！！一樣的大草皮！！！\n2021.04.24 回龜礁溪♡初心不變",
-            "eventLastUpdate": "2020/01/09",
+            "eventLastUpdate": "2021/01/24",
             "eventTicket": [
                 { "tickName": "望你早龜-單人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 800, "ticketStatus": "onSale"},
-                { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 750, "ticketStatus": "onSale"},
-                { "tickName": "望你早龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
+                { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 1500, "ticketStatus": "onSale"},
+                { "tickName": "賓至如龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": null
+            "lineUp": "餵飽豬×反正我很閒、毀容姐妹會、熱寫生、百合花、李浩瑋 Howard Lee"
         },
         {
             "years": 2021,
