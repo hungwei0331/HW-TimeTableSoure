@@ -33,11 +33,11 @@
             "location": null,
             "mail": "88balaz@gmail.com",
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "B FESTIVAL 像我們這樣的樂團，20年來某種程度來說也還是建立了一些我們自己的美學觀點啦，而且我的覺得這樣很讚。開始覺得好像可以自傲又自豪對大家呼喊：對！我們就是這樣B，B了20年也活得很漂亮的，怎樣！\n B也有它的價值的，在這個每個人都追求更A級的舞台，更A級的注目，更A級的讚數的時代，大家都在追求A的時候，做社會文化調查畫金字塔圖的時候最上面那層都很肥。幹，那塔不就翻了嗎？人生不是只有值得那種東西吧 。我的夢想會是整面牆的漫畫書，會是整個攤子的炸雞，會是超白爛的搞笑電影，會是在草原上狂奔，會是每天說的垃圾話。B是一種初衷，儘管常被當成是次等選擇，但你和我都很清楚，B代表的是另一條路線，另一種方式，B是不願和你們這些王八蛋為伍，B就是孤高的帥，你們是高牆我們是炸雞！！\n各位朋友！！B FESTIVAL來了，這次一樣是一個不甩什麼遠大抱負但一樣帥到改變宇宙規律的音樂祭，一樣隨興的來隨興的玩，愛怎樣就怎樣，沒有長篇大論的論述沒有累死人的主題，因為他媽的所有的事情你我早就都已經了然於心了，我們慶祝今天又是超讚的一天，沒為什麼，因為人活著的每一天就是要過的爽快，不甩那些什麼被網路.政治.人生觀的長輩文綁架的社會和群體規則，拎杯就是站這麼挺，活得這麼帥！\n不用猶豫了，讓我們用這句八年前的台詞來呼籲你一起來：你已經不帥了，趕快過來B一下！",
-            "eventLastUpdate": "2021/01/21",
+            "eventLastUpdate": "2021/01/25",
             "eventTicket": [
                 { "tickName": "「四個人+4B」", "salePeriod": "~ 2021/3/20", "price" : 3800, "ticketStatus": "onSale"},
                 { "tickName": "「一匹狼+B」", "salePeriod": "~ 2021/3/20", "price" : 1000, "ticketStatus": "onSale"},
@@ -96,19 +96,19 @@
             "endDate": "2021/04/11",
             "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
             "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "克里夫 Cliff",
+            "latestAttend": "普通隊長",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/12/23",
+            "eventLastUpdate": "2021/01/26",
             "eventTicket": [
-                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "onSale"},
-                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "onSale"},
+                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
+                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
                 { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"}
             ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff"
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary"
         },
         {
             "years": 2021,
@@ -118,18 +118,18 @@
             "endDate": "2021/04/24",
             "location": null,
             "mail": "soulwavefest2018@gmail.com",
-            "latestAttend": "李浩瑋 Howard Lee",
+            "latestAttend": "溫室雜草",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/soulwavefest/", "clickable": true},
             "purchaseUrl": null,
             "description": "人家都說宜蘭好山好水好無聊\n所以所謂回來了！！！o(-`д´- ｡)！！！\n多一倍的樂團陣容！！！一樣的大草皮！！！\n2021.04.24 回龜礁溪♡初心不變",
-            "eventLastUpdate": "2021/01/24",
+            "eventLastUpdate": "2021/01/27",
             "eventTicket": [
                 { "tickName": "望你早龜-單人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 800, "ticketStatus": "onSale"},
                 { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 1500, "ticketStatus": "onSale"},
                 { "tickName": "賓至如龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "餵飽豬×反正我很閒、毀容姐妹會、熱寫生、百合花、李浩瑋 Howard Lee"
+            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋、溫室雜草"
         },
         {
             "years": 2021,
