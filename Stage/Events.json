@@ -4,70 +4,25 @@
     [
         {
             "years": 2021,
-            "title": "台大音樂節 NTU Music Festival",
-            "imageURL": "",
-            "startDate": "2021/01/30",
-            "endDate": "2021/01/31",
-            "location": {"locationName": "臺灣大學舊體育館及舊體育館後草皮", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.019875665434647, "longitude": 121.53622158194536},
-            "mail": "ntumusicfestival07@gmail.com",
-            "latestAttend": "謝俊彥X洪申豪",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival/", "clickable": true},
-            "purchaseUrl":  {"url": "https://www.indievox.com/activity/detail/21_iV00774b6", "clickable": false},
-            "description": "以音樂為糧，迷樂島與島民召集一群音樂志士上島，譜出一場音樂盛事，進入音樂建構的保護層，噪音拒於圈外，沉浸在迷迷音樂中！趁我們還是學生，我們想挑戰現實，勇敢地完成一場夢。台大音樂節至今已邁入第七屆，我們由不同大專院校學生組成，期望作為學生樂團推手，並建構出一套完善音樂節系統，讓「台大音樂節」成為具影響力的學生音樂節品牌，同時提升大眾對音樂文化、產業及價值的重視。",
-            "eventLastUpdate": "2021/01/17",
-            "eventTicket": [
-                { "tickName": "早鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 600, "ticketStatus": "soldOut"},
-                { "tickName": "孤鳥單人票", "salePeriod": "~ 2021/01/30", "price" : 700, "ticketStatus": "onSale"},
-                { "tickName": "鴛鴦雙人票", "salePeriod": "~ 2021/01/30", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "鳥巢四人票", "salePeriod": "~ 2021/01/30", "price" : 2400, "ticketStatus": "soldOut"}
-            ],
-            "lineUp": "鄭宜農 、陳以恆、問題總部、The Tic Tac、南方壞男孩 South Bad Boy、徐子權、尋找尼歐 Finding Neo、熱寫生、EastWave東波、王立、林以樂、溫蒂漫步、荒山茉莉、張仁與、郭宗瑋 青石、厭世少年、後站人、感覺莓果 Feeling Berry、五五身、吳青原、Humanity Mirror 人性魔鏡、大象體操\n⇥ 短講卡司：瞎槓Shotgun （傷心欲絕金剛 X 美秀集團修齊）and 謝俊彥（deca joins）X洪申豪（透明雜誌、VOOID）"
-        },
-        {
-            "years": 2021,
-            "title": "爛泥發芽(高雄)",
-            "imageURL": "",
-            "startDate": "2021/01/30",
-            "endDate": "2021/01/31",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
-            "mail": "surroundingsound@gmail.com",
-            "latestAttend": "手合鐵鼓樂團Cross Metal",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/01/17",
-            "eventTicket": [
-                { "tickName": "愛心票", "salePeriod": "~ 2021/01/31", "price" : 749, "ticketStatus": "onSale"},
-                { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
-                { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "soldOut"},
-                { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/01/31", "price" : 1649, "ticketStatus": "onSale"},
-                { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
-            ],
-            "lineUp":"滅火器、手合鐵鼓CROSSMETAL、無妄合作社、EmptyORio、海豚刑警、康士坦的變化球、OBSESS、老破麻.、孩子王、謎路人、彼岸曙光、煙雨飄渺、鐵擊、夕陽武士、昴宿、城市雨人、必順鄉村、討口一眾、海岸乾杯、米老虎、宇宙計程車、羅浮宮的帽子、烏賊紳士、奮樂團、輻射魚市、普通隊長、一點生、札克忍者、人性先覺、末日之猩、福川組、螺紋、廢埕、莎賓娜大樂隊、21世紀無聊男子、DJ小宜、小黃老師."
-        },
-        {
-            "years": 2021,
             "title": "浮現祭",
             "imageURL": null,
             "startDate": "2021/02/27",
             "endDate": "2021/02/28",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "🌊最終波樂團陣容公開🌊​ ➳ 魏如萱 waa wei ➳",
+            "latestAttend": "🌊鹿洐人 HumanHart🌊​",
             "ticketStatus": "onSale",
-            "instagramUrl": null,
+            "instagramUrl": {"url": "https://www.instagram.com/emerge_fest/", "clickable": true},
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
             "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2021/01/12",
+            "eventLastUpdate": "2021/01/30",
             "eventTicket": [
                 { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
                 { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"},
-                { "tickName": "預售單日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 1400, "ticketStatus": "onSale"},
-                { "tickName": "預售雙日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 2300, "ticketStatus": "onSale"}
+                { "tickName": "預售單日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 1400, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 2300, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "魏如萱．董事長樂團．八三夭．拍謝少年．麋先生．告五人．林生祥 X 大竹研．持修．老王樂隊．魏嘉瑩．許含光．甜約翰．守夜人．康士坦的變化球．無妄合作社．海豚刑警 ．P!SCO． 朱頭皮普拉斯未知之境 ft. 趙一豪． 農村武裝青年．老破麻．荷爾蒙少年．OBSESS．南西肯恩．黃宇寒．FORMOZA．步行者．SADOG．逃走鮑伯．dizLike．月宵◇クレシェンテ．Buns N' Roses 麵包與玫瑰．宋德鶴．溫蒂漫步．達摩樂隊．BIKE機踏車樂團．EastWave．Carnival．狗吠火車 ．王喬尹．消波塊樂團．米老虎．I Mean Us．溫室雜草．麥琪麥琪．karei & ooo．陽光◆スペクトラ"
+            "lineUp": "鹿洐人．表兒．魏如萱．董事長樂團．八三夭．拍謝少年．麋先生．告五人．林生祥 X 大竹研．持修．老王樂隊．魏嘉瑩．許含光．甜約翰．守夜人．康士坦的變化球．無妄合作社．海豚刑警 ．P!SCO． 朱頭皮普拉斯未知之境 ft. 趙一豪． 農村武裝青年．老破麻．荷爾蒙少年．OBSESS．南西肯恩．黃宇寒．FORMOZA．步行者．SADOG．逃走鮑伯．dizLike．月宵◇クレシェンテ．Buns N' Roses 麵包與玫瑰．宋德鶴．溫蒂漫步．達摩樂隊．BIKE機踏車樂團．EastWave．Carnival．狗吠火車 ．王喬尹．消波塊樂團．米老虎．I Mean Us．溫室雜草．麥琪麥琪．karei & ooo．陽光◆スペクトラ"
         },
         {
             "years": 2021,
@@ -78,13 +33,20 @@
             "location": null,
             "mail": "88balaz@gmail.com",
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "B FESTIVAL 像我們這樣的樂團，20年來某種程度來說也還是建立了一些我們自己的美學觀點啦，而且我的覺得這樣很讚。開始覺得好像可以自傲又自豪對大家呼喊：對！我們就是這樣B，B了20年也活得很漂亮的，怎樣！\n B也有它的價值的，在這個每個人都追求更A級的舞台，更A級的注目，更A級的讚數的時代，大家都在追求A的時候，做社會文化調查畫金字塔圖的時候最上面那層都很肥。幹，那塔不就翻了嗎？人生不是只有值得那種東西吧 。我的夢想會是整面牆的漫畫書，會是整個攤子的炸雞，會是超白爛的搞笑電影，會是在草原上狂奔，會是每天說的垃圾話。B是一種初衷，儘管常被當成是次等選擇，但你和我都很清楚，B代表的是另一條路線，另一種方式，B是不願和你們這些王八蛋為伍，B就是孤高的帥，你們是高牆我們是炸雞！！\n各位朋友！！B FESTIVAL來了，這次一樣是一個不甩什麼遠大抱負但一樣帥到改變宇宙規律的音樂祭，一樣隨興的來隨興的玩，愛怎樣就怎樣，沒有長篇大論的論述沒有累死人的主題，因為他媽的所有的事情你我早就都已經了然於心了，我們慶祝今天又是超讚的一天，沒為什麼，因為人活著的每一天就是要過的爽快，不甩那些什麼被網路.政治.人生觀的長輩文綁架的社會和群體規則，拎杯就是站這麼挺，活得這麼帥！\n不用猶豫了，讓我們用這句八年前的台詞來呼籲你一起來：你已經不帥了，趕快過來B一下！",
-            "eventLastUpdate": "2021/01/08",
-            "eventTicket": null,
-            "lineUp": null
+            "eventLastUpdate": "2021/01/25",
+            "eventTicket": [
+                { "tickName": "「四個人+4B」", "salePeriod": "~ 2021/3/20", "price" : 3800, "ticketStatus": "onSale"},
+                { "tickName": "「一匹狼+B」", "salePeriod": "~ 2021/3/20", "price" : 1000, "ticketStatus": "onSale"},
+                { "tickName": "「四乘廿五一百」四人票 ", "salePeriod": "~ 2021/3/20", "price" : 3000, "ticketStatus": "onSale"},
+                { "tickName": "「廿五歲一匹狼」單人票", "salePeriod": "~ 2021/3/20", "price" : 888, "ticketStatus": "onSale"},
+                { "tickName": "「我到時候再說」現場票", "salePeriod": "~ 2021/3/20", "price" : 1200, "ticketStatus": "onSale"},
+                { "tickName": "「我真的有夠B」現場票(如果到時候還有的話)", "salePeriod": "~ 2021/3/20", "price" : 600, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "滅火器、拍謝少年、槍擊潑辣、漂流出口、輻射魚市、夢遺如來、漫遊年代俱樂部、佬步槍、毀容姊妹會、八十八顆芭樂籽"
         },
         {
             "years": 2021,
@@ -94,12 +56,12 @@
             "endDate": "2021/03/28",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "mail": "info@megaportfest.com",
-            "latestAttend": "辰辰大丈夫_Empty ORio Fan Club | 胖虎 punkhoo | 台灣雅典娜-陳思妏",
+            "latestAttend": "9m88｜鄭宜農 Enno Cheng | Misi Ke 柯泯薰｜The Tic Tac | 米莎 Misa與戇仔｜林以樂 Yile Lin | 雅維·茉芮Yaway‧Mawring｜毀容姐妹會 | 麥琪麥琪 MakeMake｜吾橋有水 FloodingBridge",
             "ticketStatus": "soldOut",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。",
-            "eventLastUpdate": "2021/01/14",
+            "eventLastUpdate": "2021/01/30",
             "eventTicket": [
                 { "tickName": "大港鐵鳥單日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 1400, "ticketStatus": "soldOut"},
                 { "tickName": "大港鐵鳥雙日票", "salePeriod": "2020/11/17 ~ 2020/3/27", "price" : 2300, "ticketStatus": "soldOut"},
@@ -107,7 +69,7 @@
                 { "tickName": "預售雙日聯票", "salePeriod": "2020/11/25 ~2020/3/27", "price" : 2500, "ticketStatus": "soldOut"},
                 { "tickName": "黃牛去死", "salePeriod": "2020/11/25 ~2020/3/27", "price" : 9999, "ticketStatus": "soldOut"}
             ],
-            "lineUp": "徐若瑄Vivian｜滅火器｜Leo王｜Tizzy Bac｜唐鳳｜血肉果汁機｜美秀集團｜傷心欲絕｜康士坦的變化球｜鼓鼓 呂思緯｜隨性｜持修｜Green!Eyes｜吳柏蒼｜海豚刑警｜FUTURE AFTER A SECOND｜YELLOW｜非人物種｜Infernal Chaos｜EmptyORio｜Easy Shen Gang｜punkhoo 胖虎｜Asiaboy 禁藥王 & Lizi 栗子｜Beyond Cure ft. Ru味春捲｜JADE｜台灣雅典娜｜厭世少年｜熱寫生｜The Fur.｜阿飛西雅｜孩子王｜逃走鮑伯｜必順鄉村｜彼岸曙光｜水源｜南西肯恩｜風籟坊｜倒車入庫｜一點生｜眠腦｜謎路人｜緩緩｜萬龍｜魚條｜Crescent Lament 恆月三途｜My Cat Eats My Hand ｜楊士弘｜煙雨飄渺｜TOBE｜ＭIND THE GAP"
+            "lineUp": "徐若瑄Vivian｜陳珊妮｜滅火器｜Leo王｜Tizzy Bac｜唐鳳｜9m88｜拍謝少年｜鄭宜農｜血肉果汁機｜美秀集團｜傷心欲絕｜康士坦的變化球｜鼓鼓 呂思緯｜隨性｜持修｜聲子蟲｜Green!Eyes｜吳柏蒼｜來吧！焙焙！｜海豚刑警｜FUTURE AFTER A SECOND｜YELLOW｜柯泯薰｜落差草原WWWW｜非人物種｜Infernal Chaos｜EmptyORio｜Easy Shen Gang｜punkhoo 胖虎｜Asiaboy 禁藥王 & Lizi 栗子｜Beyond Cure ft. Ru味春捲｜JADE｜台灣雅典娜｜厭世少年｜熱寫生｜五五身｜The Fur.｜黃子軒與山平快｜阿飛西雅｜The Tic Tac｜孩子王｜逃走鮑伯｜東京中央線｜必順鄉村｜彼岸曙光｜百合花｜LINION｜林以樂｜水源｜2HRS｜南西肯恩｜風籟坊｜米莎與戇仔｜ＯBSESS｜倒車入庫｜一點生｜眠腦｜謎路人｜毀容姐妹會｜緩緩｜萬龍｜雅維·茉芮｜魚條｜Crescent Lament 恆月三途｜My Cat Eats My Hand ｜楊士弘｜麥琪麥琪｜煙雨飄渺｜吾橋有水｜Rain and Picture｜TOBE｜ＭIND THE GAP"
         },
         {
             "years": 2021,
@@ -134,19 +96,19 @@
             "endDate": "2021/04/11",
             "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
             "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "克里夫 Cliff",
+            "latestAttend": "普通隊長",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/12/23",
+            "eventLastUpdate": "2021/01/26",
             "eventTicket": [
-                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "onSale"},
-                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "onSale"},
+                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
+                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
                 { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"}
             ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff"
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary"
         },
         {
             "years": 2021,
@@ -155,19 +117,19 @@
             "startDate": "2021/04/24",
             "endDate": "2021/04/24",
             "location": null,
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
-            "instagramUrl": null,
+            "mail": "soulwavefest2018@gmail.com",
+            "latestAttend": "溫室雜草",
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/soulwavefest/", "clickable": true},
             "purchaseUrl": null,
             "description": "人家都說宜蘭好山好水好無聊\n所以所謂回來了！！！o(-`д´- ｡)！！！\n多一倍的樂團陣容！！！一樣的大草皮！！！\n2021.04.24 回龜礁溪♡初心不變",
-            "eventLastUpdate": "2020/01/09",
+            "eventLastUpdate": "2021/01/27",
             "eventTicket": [
                 { "tickName": "望你早龜-單人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 800, "ticketStatus": "onSale"},
-                { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 750, "ticketStatus": "onSale"},
-                { "tickName": "望你早龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
+                { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/04/24", "price" : 1500, "ticketStatus": "soldOut"},
+                { "tickName": "賓至如龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": null
+            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋、溫室雜草"
         },
         {
             "years": 2021,
