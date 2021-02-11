@@ -23,7 +23,7 @@
      {
         "stage": "光景舞台",
         "stageLineUp": [
-            { "bandName": "逃走鮑伯", "showStartTime": "10:40 PM", "showEndTime" : "11:20 PM", "showDuration": 40},
+            { "bandName": "逃走鮑伯", "showStartTime": "10:40 AM", "showEndTime" : "11:20 PM", "showDuration": 40},
             { "bandName": "南西肯恩", "showStartTime": "00:10 PM", "showEndTime" : "00:50 PM", "showDuration": 40},
             { "bandName": "荷爾蒙少年", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
             { "bandName": "FORMOZA", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
@@ -91,7 +91,7 @@
         {
            "stage": "希望舞台",
            "stageLineUp": [
-               { "bandName": "尋找尼歐", "showStartTime": "10:20 PM", "showEndTime" : "11:00 PM", "showDuration": 40},
+               { "bandName": "尋找尼歐", "showStartTime": "10:20 AM", "showEndTime" : "11:00 PM", "showDuration": 40},
                { "bandName": "Carnival", "showStartTime": "11:30 PM", "showEndTime" : "00:00 PM", "showDuration": 30},
                { "bandName": "陽光◆スペクトラ​", "showStartTime": "00:30 PM", "showEndTime" : "1:00 PM", "showDuration": 30},
                { "bandName": "Karei & ooo", "showStartTime": "1:30 PM", "showEndTime" : "2:00 PM", "showDuration": 30},
