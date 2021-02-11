@@ -50,7 +50,7 @@
      {
         "stage": "勇氣舞台",
         "stageLineUp": [
-            { "bandName": "遙控飛機飛行表演", "showStartTime": "10:20 AM", "showEndTime" : "10:40 PM", "showDuration": 20},
+            { "bandName": "遙控飛機飛行表演", "showStartTime": "10:20 AM", "showEndTime" : "10:40 AM", "showDuration": 20},
             { "bandName": "震樂堂", "showStartTime": "1:40 PM", "showEndTime" : "2:00 PM", "showDuration": 20},
             { "bandName": "海諾音大樂隊", "showStartTime": "2:00 PM", "showEndTime" : "4:30 PM", "showDuration": 150},
             { "bandName": "Open Jam", "showStartTime": "5:00 PM", "showEndTime" : "8:00 PM", "showDuration": 180}
@@ -79,7 +79,7 @@
         {
            "stage": "光景舞台",
            "stageLineUp": [
-               { "bandName": "許含光", "showStartTime": "11:00 AM", "showEndTime" : "11:30 PM", "showDuration": 30},
+               { "bandName": "許含光", "showStartTime": "11:00 AM", "showEndTime" : "11:30 AM", "showDuration": 30},
                { "bandName": "BIKE 機踏車樂團", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
                { "bandName": "表兒樂團", "showStartTime": "1:50 PM", "showEndTime" : "2:30 PM", "showDuration": 40},
                { "bandName": "林生祥 X 大竹研", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
@@ -91,8 +91,8 @@
         {
            "stage": "希望舞台",
            "stageLineUp": [
-               { "bandName": "尋找尼歐", "showStartTime": "10:20 AM", "showEndTime" : "11:00 PM", "showDuration": 40},
-               { "bandName": "Carnival", "showStartTime": "11:30 PM", "showEndTime" : "00:00 PM", "showDuration": 30},
+               { "bandName": "尋找尼歐", "showStartTime": "10:20 AM", "showEndTime" : "11:00 AM", "showDuration": 40},
+               { "bandName": "Carnival", "showStartTime": "11:30 AM", "showEndTime" : "00:00 PM", "showDuration": 30},
                { "bandName": "陽光◆スペクトラ​", "showStartTime": "00:30 PM", "showEndTime" : "1:00 PM", "showDuration": 30},
                { "bandName": "Karei & ooo", "showStartTime": "1:30 PM", "showEndTime" : "2:00 PM", "showDuration": 30},
                { "bandName": "王喬尹", "showStartTime": "2:30 PM", "showEndTime" : "3:00 PM", "showDuration": 30},
