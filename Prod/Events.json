@@ -183,6 +183,26 @@
             "eventLastUpdate": "2021/01/05",
             "eventTicket": null,
             "lineUp": null
+        },
+        {
+            "years": 2021,
+            "title": "赤聲躁動音樂祭",
+            "imageURL": null,
+            "startDate": "2021/07/24",
+            "endDate": "2021/07/25",
+            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
+            "mail": "emergemusiclive@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
+            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
+            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
+            "eventLastUpdate": "2021/02/09",
+            "eventTicket": [
+                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "onSale"},
+                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "onSale"}
+            ],
+            "lineUp": null
         }
     ],
     "nextYearEvents": []
