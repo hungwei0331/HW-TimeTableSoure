@@ -96,19 +96,19 @@
             "endDate": "2021/04/11",
             "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
             "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "達摩樂隊",
+            "latestAttend": "神棍樂團",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/02/06",
+            "eventLastUpdate": "2021/02/10",
             "eventTicket": [
                 { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
                 { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"}
             ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、達摩樂隊"
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團"
         },
         {
             "years": 2021,
@@ -118,12 +118,12 @@
             "endDate": "2021/04/24",
             "location": null,
             "mail": "soulwavefest2018@gmail.com",
-            "latestAttend": "美秀集團",
+            "latestAttend": " 一頁 One Page",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/soulwavefest/", "clickable": true},
             "purchaseUrl": null,
             "description": "人家都說宜蘭好山好水好無聊\n所以所謂回來了！！！o(-`д´- ｡)！！！\n多一倍的樂團陣容！！！一樣的大草皮！！！\n2021.04.24 回龜礁溪♡初心不變",
-            "eventLastUpdate": "2021/02/05",
+            "eventLastUpdate": "2021/02/10",
             "eventTicket": [
                 { "tickName": "望你早龜-單人票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 800, "ticketStatus": "soldOut"},
                 { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 1500, "ticketStatus": "soldOut"},
@@ -131,7 +131,7 @@
                 { "tickName": "滿載而龜-雙人票", "salePeriod": "2021/02/06 ~ 2021/04/23", "price" : 1700, "ticketStatus": "onSale"},
                 { "tickName": "賓至如龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋 Howard Lee、溫室雜草、SADOG、類比梭羅、走石、無先生、美秀集團"
+            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋 Howard Lee、溫室雜草、SADOG、類比梭羅、走石、無先生、美秀集團、Kid Town、一頁 One Page"
         },
         {
             "years": 2021,
