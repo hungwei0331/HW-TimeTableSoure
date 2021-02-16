@@ -118,19 +118,19 @@
             "endDate": "2021/04/25",
             "location": {"locationName": "白沙灣半島秘境", "locationAddress": "新北市石門區下員坑15號", "latitude": 25.286951850360058, "longitude": 121.51079015519521},
             "mail": null,
-            "latestAttend": "魏如萱 waa wei",
+            "latestAttend": "拍謝少年 Sorry Youth",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/springwavemusic/", "clickable": true },
             "purchaseUrl":  {"url": "https://www.instagram.com/springwavemusic/", "clickable": false },
             "description": "春浪音樂節今年邁入第十六周年，將在4月23日至4月25日展開全新年度升級版演出計劃！本次活動名稱為「2021春浪音樂節．海線」，有別於以往在墾丁，此次春浪從最南端跨越至最北端，選在場地＂半島秘境＂盛大舉辦！第16週年，全新升級版春浪將結合免裝備式豪華露營體驗以及流行音樂、電子音樂與世界音樂的聽覺饗宴，更搭上特邀精選美食市集以及場地的無敵海景，將為所有觀眾打造一場難忘又浪漫的音樂之旅！",
-            "eventLastUpdate": "2021/02/11",
+            "eventLastUpdate": "2021/02/15",
             "eventTicket": [
                 { "tickName": "【兩日票】春民玩五六", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "commingSoon"},
                 { "tickName": "【兩日票】春民玩六日", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "commingSoon"},
                 { "tickName": "【三日票】春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 3300, "ticketStatus": "commingSoon"},
                 { "tickName": "【三日票】愛心春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1700, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "美秀集團、JADE、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼"
+            "lineUp": "美秀集團、JADE、拍謝少年、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼"
         },
         {
             "years": 2021,
@@ -235,17 +235,17 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": null,
+            "latestAttend": "👨‍🚀 台空人 1 號出動：怕胖團 👨‍🚀​",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/02/09",
+            "eventLastUpdate": "2021/02/16",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "commingSoon"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": null
+            "lineUp": "怕胖團"
         }
     ],
     "nextYearEvents": []
