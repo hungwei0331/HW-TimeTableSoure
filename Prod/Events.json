@@ -39,12 +39,12 @@
             "description": "B FESTIVAL 像我們這樣的樂團，20年來某種程度來說也還是建立了一些我們自己的美學觀點啦，而且我的覺得這樣很讚。開始覺得好像可以自傲又自豪對大家呼喊：對！我們就是這樣B，B了20年也活得很漂亮的，怎樣！\n B也有它的價值的，在這個每個人都追求更A級的舞台，更A級的注目，更A級的讚數的時代，大家都在追求A的時候，做社會文化調查畫金字塔圖的時候最上面那層都很肥。幹，那塔不就翻了嗎？人生不是只有值得那種東西吧 。我的夢想會是整面牆的漫畫書，會是整個攤子的炸雞，會是超白爛的搞笑電影，會是在草原上狂奔，會是每天說的垃圾話。B是一種初衷，儘管常被當成是次等選擇，但你和我都很清楚，B代表的是另一條路線，另一種方式，B是不願和你們這些王八蛋為伍，B就是孤高的帥，你們是高牆我們是炸雞！！\n各位朋友！！B FESTIVAL來了，這次一樣是一個不甩什麼遠大抱負但一樣帥到改變宇宙規律的音樂祭，一樣隨興的來隨興的玩，愛怎樣就怎樣，沒有長篇大論的論述沒有累死人的主題，因為他媽的所有的事情你我早就都已經了然於心了，我們慶祝今天又是超讚的一天，沒為什麼，因為人活著的每一天就是要過的爽快，不甩那些什麼被網路.政治.人生觀的長輩文綁架的社會和群體規則，拎杯就是站這麼挺，活得這麼帥！\n不用猶豫了，讓我們用這句八年前的台詞來呼籲你一起來：你已經不帥了，趕快過來B一下！",
             "eventLastUpdate": "2021/01/25",
             "eventTicket": [
-                { "tickName": "「四個人+4B」", "salePeriod": "~ 2021/3/20", "price" : 3800, "ticketStatus": "onSale"},
+                { "tickName": "「四個人+4B」", "salePeriod": "~ 2021/3/20", "price" : 3800, "ticketStatus": "soldOut"},
                 { "tickName": "「一匹狼+B」", "salePeriod": "~ 2021/3/20", "price" : 1000, "ticketStatus": "onSale"},
                 { "tickName": "「四乘廿五一百」四人票 ", "salePeriod": "~ 2021/3/20", "price" : 3000, "ticketStatus": "onSale"},
                 { "tickName": "「廿五歲一匹狼」單人票", "salePeriod": "~ 2021/3/20", "price" : 888, "ticketStatus": "onSale"},
                 { "tickName": "「我到時候再說」現場票", "salePeriod": "~ 2021/3/20", "price" : 1200, "ticketStatus": "onSale"},
-                { "tickName": "「我真的有夠B」現場票(如果到時候還有的話)", "salePeriod": "~ 2021/3/20", "price" : 600, "ticketStatus": "onSale"}
+                { "tickName": "「我真的有夠B」現場票(如果到時候還有的話)", "salePeriod": "~ 2021/3/20", "price" : 600, "ticketStatus": "commingSoon"}
             ],
             "lineUp": "滅火器、拍謝少年、槍擊潑辣、漂流出口、輻射魚市、夢遺如來、漫遊年代俱樂部、佬步槍、毀容姊妹會、八十八顆芭樂籽"
         },
@@ -96,19 +96,20 @@
             "endDate": "2021/04/11",
             "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
             "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "達摩樂隊",
+            "latestAttend": "【 Flesh Juicer 血肉果汁機 】",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/02/06",
+            "eventLastUpdate": "2021/02/17",
             "eventTicket": [
                 { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"}
+                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"},
+                { "tickName": "愛心票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 300, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、達摩樂隊"
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團、康士坦的變化球、血肉果汁機"
         },
         {
             "years": 2021,
@@ -118,7 +119,7 @@
             "endDate": "2021/04/25",
             "location": {"locationName": "白沙灣半島秘境", "locationAddress": "新北市石門區下員坑15號", "latitude": 25.286951850360058, "longitude": 121.51079015519521},
             "mail": null,
-            "latestAttend": "拍謝少年 Sorry Youth",
+            "latestAttend": "原子邦妮 Astro Bunny",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/springwavemusic/", "clickable": true },
             "purchaseUrl":  {"url": "https://www.instagram.com/springwavemusic/", "clickable": false },
@@ -130,15 +131,15 @@
                 { "tickName": "【三日票】春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 3300, "ticketStatus": "commingSoon"},
                 { "tickName": "【三日票】愛心春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1700, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "美秀集團、JADE、拍謝少年、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼"
+            "lineUp": "美秀集團、JADE、拍謝少年、原子邦妮Astro Bunny、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、夕陽武士、蕭秉治、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼"
         },
         {
             "years": 2021,
-            "title": "Soul Wave Fest 所謂音樂祭",
+            "title": "所謂音樂祭",
             "imageURL": null,
             "startDate": "2021/04/24",
             "endDate": "2021/04/24",
-            "location": null,
+            "location": {"locationName": "五峰旗風景區", "locationAddress": "宜蘭縣礁溪鄉五峰路81巷6號", "latitude": 24.832390816606413, "longitude": 121.74688804018994},
             "mail": "soulwavefest2018@gmail.com",
             "latestAttend": "淺堤 Shallow Levée",
             "ticketStatus": "onSale",
@@ -168,7 +169,7 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
-            "eventLastUpdate": "2020/12/16",
+            "eventLastUpdate": "2021/02/18",
             "eventTicket": null,
             "lineUp": null
         },
@@ -221,8 +222,12 @@
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
             "eventLastUpdate": "2021/02/15",
             "eventTicket": [
-                { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
-                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1450, "ticketStatus": "commingSoon"},
+                { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
+                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
+                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1688, "ticketStatus": "commingSoon"},
+                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
+                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
+                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
             "lineUp": null
