@@ -118,7 +118,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/02/17",
+            "eventLastUpdate": "2021/02/25",
             "eventTicket": [
                 { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
@@ -126,7 +126,7 @@
                 { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 300, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團、康士坦的變化球、血肉果汁機"
+            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團、康士坦的變化球、血肉果汁機、Xmoraz、BreakDawn破曉、Bunnlysium、Polyvirus技術病毒、Unknown無定義樂團、Radius of Gyration迴轉半徑"
         },
         {
             "years": 2021,
