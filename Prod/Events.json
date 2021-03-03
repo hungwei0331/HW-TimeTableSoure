@@ -166,9 +166,9 @@
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
             "eventLastUpdate": "2021/03/01",
             "eventTicket": [
-                { "tickName": "單日預售小草票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 800, "ticketStatus": "commingSoon"},
-                { "tickName": "雙日預售大根票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 1500, "ticketStatus": "commingSoon"},
-                { "tickName": "單日現場撐到最後才買票", "salePeriod": "2021/02/06 ~ 2021/04/23", "price" : 900, "ticketStatus": "commingSoon"}
+                { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 800, "ticketStatus": "commingSoon"},
+                { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1500, "ticketStatus": "commingSoon"},
+                { "tickName": "單日現場撐到最後才買票", "salePeriod": "~ 2021/04/25", "price" : 900, "ticketStatus": "commingSoon"}
             ],
             "lineUp": null
         },
