@@ -4,28 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "浮現祭",
-            "imageURL": null,
-            "startDate": "2021/02/27",
-            "endDate": "2021/02/28",
-            "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "🌊鹿洐人 HumanHart🌊​",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/emerge_fest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/gkr3tjs", "clickable": false},
-            "description": "【浮現祭2021】海線的浮現．海派的澎湃 和愛團來趟海線輕旅行？2021浮現祭發車！",
-            "eventLastUpdate": "2021/02/06",
-            "eventTicket": [
-                { "tickName": "早鳥雙日票", "salePeriod": "2020/10/19 ~ 2020/11/30", "price" : 1800, "ticketStatus": "soldOut"},
-                { "tickName": "慢鳥雙日票", "salePeriod": "2020/11/11 ~ 2020/12/13", "price" : 2000, "ticketStatus": "soldOut"},
-                { "tickName": "預售單日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 1400, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日票", "salePeriod": "2020/12/07 ~ 2021/2/26", "price" : 2300, "ticketStatus": "soldOut"}
-            ],
-            "lineUp": "八三夭．麋先生．持修．老王樂隊．魏嘉瑩．甜約翰．海豚刑警．I Mean Us．朱頭皮普拉斯未知之境 ft. 趙一豪．荷爾蒙少年．OBSESS．南西肯恩．FORMOZA．步行者．SADOG．逃走鮑伯．宋德鶴．溫蒂漫步．打倒三明治．EastWave．麥琪麥琪．狗吠火車．消波塊樂團．米老虎​．遙控飛機飛行表演．魏如萱．董事長樂團．拍謝少年．告五人．林生祥 X 大竹研．表兒樂團．許含光．守夜人．康士坦的變化球．無妄合作社．P!SCO．農村武裝青年．老破麻．黃宇寒．鹿洐人．dizLike．月宵◇クレシェンテ．Buns N' Roses 麵包與玫瑰．達摩樂隊．溫室雜草．BIKE機踏車樂團．王喬尹．尋找尼歐．Carnival．Karei & ooo．陽光◆スペクトラ​"
-        },
-        {
-            "years": 2021,
             "title": "2021催下去音樂節",
             "imageURL": null,
             "startDate": "2021/03/13",
