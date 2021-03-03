@@ -101,7 +101,7 @@
                 { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
                 { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1150, "ticketStatus": "onSale"},
+                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 2300, "ticketStatus": "soldOut"},
                 { "tickName": "愛心票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 300, "ticketStatus": "commingSoon"}
             ],
             "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團、康士坦的變化球、血肉果汁機、Xmoraz、BreakDawn破曉、Bunnlysium、Polyvirus技術病毒、Unknown無定義樂團、Radius of Gyration迴轉半徑"
@@ -121,10 +121,10 @@
             "description": "春浪音樂節今年邁入第十六周年，將在4月23日至4月25日展開全新年度升級版演出計劃！本次活動名稱為「2021春浪音樂節．海線」，有別於以往在墾丁，此次春浪從最南端跨越至最北端，選在場地＂半島秘境＂盛大舉辦！第16週年，全新升級版春浪將結合免裝備式豪華露營體驗以及流行音樂、電子音樂與世界音樂的聽覺饗宴，更搭上特邀精選美食市集以及場地的無敵海景，將為所有觀眾打造一場難忘又浪漫的音樂之旅！",
             "eventLastUpdate": "2021/02/23",
             "eventTicket": [
-                { "tickName": "【兩日票】春民玩五六", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "commingSoon"},
-                { "tickName": "【兩日票】春民玩六日", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "commingSoon"},
-                { "tickName": "【三日票】春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 3300, "ticketStatus": "commingSoon"},
-                { "tickName": "【三日票】愛心春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1700, "ticketStatus": "commingSoon"}
+                { "tickName": "【兩日票】春民玩五六", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "onSale"},
+                { "tickName": "【兩日票】春民玩六日", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 2800, "ticketStatus": "onSale"},
+                { "tickName": "【三日票】春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 3300, "ticketStatus": "onSale"},
+                { "tickName": "【三日票】愛心春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1700, "ticketStatus": "onSale"}
             ],
             "lineUp": "美秀集團、JADE、拍謝少年、原子邦妮Astro Bunny、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、夕陽武士、蕭秉治、持修、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼"
         },
@@ -157,14 +157,18 @@
             "imageURL": null,
             "startDate": "2021/04/25",
             "endDate": "2021/04/26",
-            "location": null,
+            "location": {"locationName": "Ocean Day by Day 日日旅海", "locationAddress": "屏東縣滿州鄉興海路33號", "latitude": 21.96768039130285,  "longitude": 120.8419843},
             "mail": null,
             "latestAttend": null,
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
-            "eventLastUpdate": "2021/02/18",
+            "eventLastUpdate": [
+                { "tickName": "單日預售小草票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 800, "ticketStatus": "commingSoon"},
+                { "tickName": "雙日預售大根票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 1500, "ticketStatus": "commingSoon"},
+                { "tickName": "單日現場撐到最後才買票", "salePeriod": "2021/02/06 ~ 2021/04/23", "price" : 900, "ticketStatus": "commingSoon"}
+            ],
             "eventTicket": null,
             "lineUp": null
         },
