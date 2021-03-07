@@ -68,6 +68,23 @@
         },
         {
             "years": 2021,
+            "title": "台灣祭",
+            "imageURL": null,
+            "startDate": "2021/04/02",
+            "endDate": "2021/04/03",
+            "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "超過二十年的孕育，屏東造就出台灣一個世代的音樂浪潮，即使在各類大環境的起伏裡，原創音樂的種子每年都在墾丁的舞台上生生不息。去年，我們以【屏東獨立音樂季－唱給海聽】造就了過往記憶中曾經的美好；今年，我們以更大的高度與格局打造未來下一個世代浪潮聚焦的重點。兩天半，四個舞台，近百組原創音樂人與樂團將回到墾丁齊聚高唱，大家！回來吧！讓我們在墾丁的沙灘上見證這最接地氣的一刻！",
+            "eventLastUpdate": "2021/03/06",
+            "eventTicket": null,
+            "lineUp": "Vast & Hazy | 董事長 | 無妄合作社 | 玖壹壹 | 傷心欲絕 | 甜約翰 | 怕胖團 | P!SCO | 八十八顆芭樂籽 | I MEAN US | OBSESS | 神棍樂團 | 固定客 | 鹿洐人 | 海岸乾杯 | 打倒三明治 | 男子漢樂團 | 台客電力公司 | 老破麻 | Triple Deer...and More"
+        },
+        {
+            "years": 2021,
             "title": "Spring Scream 春天吶喊",
             "imageURL": null,
             "startDate": "2021/04/02",
