@@ -136,12 +136,12 @@
             "endDate": "2021/04/24",
             "location": {"locationName": "五峰旗風景區", "locationAddress": "宜蘭縣礁溪鄉五峰路81巷6號", "latitude": 24.832390816606413, "longitude": 121.74688804018994},
             "mail": "soulwavefest2018@gmail.com",
-            "latestAttend": "淺堤 Shallow Levée",
+            "latestAttend": "🧯 滅火器 Fire EX. 演出確認🧯",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/soulwavefest/", "clickable": true},
             "purchaseUrl": null,
             "description": "人家都說宜蘭好山好水好無聊\n所以所謂回來了！！！o(-`д´- ｡)！！！\n多一倍的樂團陣容！！！一樣的大草皮！！！\n2021.04.24 回龜礁溪♡初心不變",
-            "eventLastUpdate": "2021/02/12",
+            "eventLastUpdate": "2021/03/07",
             "eventTicket": [
                 { "tickName": "望你早龜-單人票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 800, "ticketStatus": "soldOut"},
                 { "tickName": "望你早龜-雙人票", "salePeriod": "2021/01/23 ~ 2021/02/06", "price" : 1500, "ticketStatus": "soldOut"},
@@ -149,7 +149,7 @@
                 { "tickName": "滿載而龜-雙人票", "salePeriod": "2021/02/06 ~ 2021/04/23", "price" : 1700, "ticketStatus": "onSale"},
                 { "tickName": "賓至如龜-愛心票", "salePeriod": "2021/01/23 ~ 2021/04/23", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋 Howard Lee、溫室雜草、SADOG、類比梭羅、走石、無先生、美秀集團、Kid Town、一頁 One Page、淺堤 Shallow Levée"
+            "lineUp": "餵飽豬X反正我很閒、毀容姊妹會、熱寫生、百合花、李浩瑋 Howard Lee、溫室雜草、SADOG、類比梭羅、無先生、美秀集團、Kid Town、一頁 One Page、淺堤 Shallow Levée、Empty ORio、A Piece of Cake 256、滅火器Fire EX."
         },
         {
             "years": 2021,
@@ -164,13 +164,13 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
-            "eventLastUpdate": "2021/03/01",
+            "eventLastUpdate": "2021/03/04",
             "eventTicket": [
                 { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 800, "ticketStatus": "commingSoon"},
                 { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1500, "ticketStatus": "commingSoon"},
                 { "tickName": "單日現場撐到最後才買票", "salePeriod": "~ 2021/04/25", "price" : 900, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": null
+            "lineUp": "王立 Wanglee、ノロイ（諾羅院）、Whale Fall、呂杰達搖滾大樂隊、AROB 樂團、FunkyBrothers 放客兄弟、Ghost Money All-stars、Point 22 (.22) 點二二、Ape Apocalypse 末日之猩 主唱Spare Ape（寂寞之猩）、The Combobulators、Morocco 'n' Roll"
         },
         {
             "years": 2021,
