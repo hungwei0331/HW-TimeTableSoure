@@ -267,8 +267,8 @@
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
                 { "tickName": "一路發發單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1688, "ticketStatus": "commingSoon"},
                 { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1999, "ticketStatus": "onSale"},
+                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
+                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
             "lineUp": null
