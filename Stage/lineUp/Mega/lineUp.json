@@ -86,9 +86,9 @@
      {
         "stage": "藍寶石",
         "stageLineUp": [
-            { "bandName": "毀容姐妹會", "showStartTime": "1:30 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
-            { "bandName": "開樂亭凡笑", "showStartTime": "1:30 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
-            { "bandName": "[零捌卡好笑] 黃豪平 X 凱莉(百靈果)", "showStartTime": "1:30 PM", "showEndTime" : "2:00 PM", "showDuration": 40}
+            { "bandName": "毀容姐妹會", "showStartTime": "1:30 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
+            { "bandName": "開樂亭凡笑", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
+            { "bandName": "[零捌卡好笑] 黃豪平 X 凱莉(百靈果)", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40}
         ]
      },
      {
