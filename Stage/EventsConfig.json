@@ -48,6 +48,14 @@
             "type":"emergeLive",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "status": ""
+        },
+        {
+            "years": 2021,
+            "name": "大港開唱",
+            "period": "2021/03/27 - 2021/03/28",
+            "type":"mega",
+            "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
+            "status": ""
         }
     ]
 }
