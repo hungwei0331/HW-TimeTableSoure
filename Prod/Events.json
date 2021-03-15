@@ -221,12 +221,12 @@
             "endDate": "2021/05/16",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "Ape Apocalypse 末日之猩、札克忍者Zac Ninja、輻射魚市 Nuclear Fish Market、烏賊紳士GentleSquid、羅浮宮的帽子 Louvre’s Hat、宇宙計程車、昴宿 Pleiades、人性先覺 Between The Savage、螺紋Rovens",
+            "latestAttend": "米老虎-Main live、廢埕樂團、21世紀無聊男子 21st Century Bored Guys、海岸乾杯Coastal Kanpai、Sabrina band 莎賓娜大樂隊 ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/03/12",
+            "eventLastUpdate": "2021/03/15",
             "eventTicket": [
                 { "tickName": "愛心票", "salePeriod": "~ 2021/05/16", "price" : 749, "ticketStatus": "onSale"},
                 { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
@@ -234,7 +234,7 @@
                 { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/05/16", "price" : 1649, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp":"滅火器、無妄合作社、EmptyORio、海豚刑警、康士坦的變化球、老破麻.、孩子王、謎路人、夕陽武士、城市雨人、一點生、必順鄉村、鐵擊、煙雨飄渺、彼岸曙光、奮樂團、普通隊長、人性先覺、末日之猩、札克忍者、輻射魚市、烏賊紳士、羅浮宮的帽子、宇宙計程車、昴宿、人性先覺、螺紋"
+            "lineUp":"滅火器、無妄合作社、EmptyORio、海豚刑警、康士坦的變化球、老破麻、孩子王、謎路人、夕陽武士、城市雨人、一點生、必順鄉村、鐵擊、煙雨飄渺、彼岸曙光、奮樂團、普通隊長、人性先覺、末日之猩、札克忍者、輻射魚市、烏賊紳士、羅浮宮的帽子、宇宙計程車、昴宿、人性先覺、螺紋、米老虎、廢埕樂團、21世紀無聊男子、海岸乾杯、莎賓娜大樂隊"
         },
         {
             "years": 2021,
@@ -303,17 +303,18 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "👨‍🚀 台空人 1 號出動：怕胖團 👨‍🚀​",
+            "latestAttend": "老破麻 ．恕SOLEMN ．EFTC破繭而出．蘭花刀 ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/02/17",
+            "eventLastUpdate": "2021/03/15",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "onSale"}
+                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
+                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "怕胖團"
+            "lineUp": "怕胖團．甜約翰． 老破麻 - Old Slut Distortion． 恕 solemn． EMERGING FROM THE COCOON 破繭而出．蘭花刀Orchid Sword "
         }
     ],
     "nextYearEvents": []
