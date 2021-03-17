@@ -136,12 +136,12 @@
             "endDate": "2021/04/25",
             "location": {"locationName": "白沙灣半島秘境", "locationAddress": "新北市石門區下員坑15號", "latitude": 25.286951850360058, "longitude": 121.51079015519521},
             "mail": null,
-            "latestAttend": ">>> Feng E 馮羿 你不能不知道的烏克麗麗天才 ❗<<<",
+            "latestAttend": ">>> Julia Wu 吳卓源 你是不是有點動心，是❗<<<",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/springwavemusic/", "clickable": true },
             "purchaseUrl":  {"url": "https://www.instagram.com/springwavemusic/", "clickable": false },
             "description": "春浪音樂節今年邁入第十六周年，將在4月23日至4月25日展開全新年度升級版演出計劃！本次活動名稱為「2021春浪音樂節．海線」，有別於以往在墾丁，此次春浪從最南端跨越至最北端，選在場地＂半島秘境＂盛大舉辦！第16週年，全新升級版春浪將結合免裝備式豪華露營體驗以及流行音樂、電子音樂與世界音樂的聽覺饗宴，更搭上特邀精選美食市集以及場地的無敵海景，將為所有觀眾打造一場難忘又浪漫的音樂之旅！",
-            "eventLastUpdate": "2021/03/05",
+            "eventLastUpdate": "2021/03/16",
             "eventTicket": [
                 { "tickName": "【單日票】春民一日遊", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1500, "ticketStatus": "onSale"},
                 { "tickName": "【單日票】愛心春民一日遊", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 750, "ticketStatus": "onSale"},
@@ -150,7 +150,7 @@
                 { "tickName": "【三日票】春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 3300, "ticketStatus": "onSale"},
                 { "tickName": "【三日票】愛心春民玩三天", "salePeriod": "2021/02/25 ~ 2021/04/22", "price" : 1700, "ticketStatus": "onSale"}
             ],
-            "lineUp": "美秀集團、JADE、拍謝少年、原子邦妮Astro Bunny、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、夕陽武士、蕭秉治、持修、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼、李友廷、馮羿"
+            "lineUp": "美秀集團、JADE、拍謝少年、原子邦妮Astro Bunny、老王樂隊、許含光 Lumi​、顯然樂隊、伍佰 & China Blue、魏如萱 waa wei、夕陽武士、蕭秉治、持修、Lyn Chang 張牧喬、魚條FishStick​、J.Sheon、婁峻碩SHOU、JADE EYES 孔雀眼、李友廷、馮羿、Crispy脆樂團、Julia 吳卓源​"
         },
         {
             "years": 2021,
