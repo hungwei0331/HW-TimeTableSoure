@@ -107,6 +107,23 @@
         },
         {
             "years": 2021,
+            "title": "湖畔音樂季",
+            "imageURL": null,
+            "startDate": "2021/04/08",
+            "endDate": "2021/04/11",
+            "location": {"locationName": "中興大學行政後草、雲平前草", "locationAddress": "臺中市南區興大路145號", "latitude": 24.123405106631218, "longitude": 120.6753796420041},
+            "mail": "nchulakesidefest@gmail.com",
+            "latestAttend": "DSPS｜許含光",
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/lakeside_fest.7/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "【湖畔音樂季 ✕ 遊夢者 #夢境預約所】\n各位遊夢者，歡迎來到夢境預約所。\n我們將透過簡單的互動，量身打造出屬於你的夢境指南，無論是什麼個性的你，都可以在這裡找到最適合的夢！",
+            "eventLastUpdate": "2021/03/20",
+            "eventTicket": null,
+            "lineUp": "李友廷｜南西肯恩｜貝克小姐｜老破麻｜好樂團｜溫室雜草｜霧虹｜甜約翰｜宋德鶴｜步行者｜Limi｜後站人｜壞特?te｜羅莎莎｜Control T｜鹿洐人｜Hello Nico｜DSPS｜許含光"
+        },
+        {
+            "years": 2021,
             "title": "諸羅祭 Jurassic Festival",
             "imageURL": null,
             "startDate": "2021/04/10",
