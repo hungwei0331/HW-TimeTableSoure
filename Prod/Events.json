@@ -79,14 +79,14 @@
             "endDate": "2021/04/03",
             "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
             "mail": null,
-            "latestAttend": "反正我很閒 X 餵飽豬 | 宋德鶴Iron Horn X 諾堤-Naughty",
+            "latestAttend": null,
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "超過二十年的孕育，屏東造就出台灣一個世代的音樂浪潮，即使在各類大環境的起伏裡，原創音樂的種子每年都在墾丁的舞台上生生不息。去年，我們以【屏東獨立音樂季－唱給海聽】造就了過往記憶中曾經的美好；今年，我們以更大的高度與格局打造未來下一個世代浪潮聚焦的重點。兩天半，四個舞台，近百組原創音樂人與樂團將回到墾丁齊聚高唱，大家！回來吧！讓我們在墾丁的沙灘上見證這最接地氣的一刻！",
-            "eventLastUpdate": "2021/03/12",
+            "eventLastUpdate": "2021/03/18",
             "eventTicket": null,
-            "lineUp": "落日飛車｜南方大唱全國熱門音樂大賽冠軍賽 | 玖壹壹｜傷心欲絕｜甜約翰｜神棍樂團｜怕胖團｜胖虎｜P!SCO｜I MEAN US｜老破麻｜固定客｜打倒三明治｜Triple Deer| Matzka｜Tizzy Bac｜麋先生｜董事長樂團｜Vast & Hazy｜無妄合作社｜八十八顆芭樂籽｜OBSESS｜鹿洐人｜台客電力公司｜男子漢樂團｜海岸乾杯 | 反正我很閒 X 餵飽豬 | 宋德鶴Iron Horn X 諾堤-Naughty"
+            "lineUp": "落日飛車｜南方大唱全國熱門音樂大賽冠軍賽 | 玖壹壹｜傷心欲絕｜甜約翰｜神棍樂團｜怕胖團｜胖虎｜P!SCO｜I MEAN US｜老破麻｜固定客｜打倒三明治｜Triple Deer｜步行者｜少女卡拉｜庸俗禿鷹｜jIMMY｜Lastwinking｜偏執狂｜阿法卡門.狄莉休斯｜24HZ｜漫遊年代俱樂部｜芒果醬｜Nico｜Gan Da｜Zoc｜原lit覺醒特別單元｜慶記KTV特別單元|宋德鶴｜諾提彰化之聲｜Matzka｜Tizzy Bac｜麋先生｜董事長樂團｜Vast & Hazy｜無妄合作社｜八十八顆芭樂籽｜OBSESS｜鹿洐人｜台客電力公司｜男子漢樂團｜海岸乾杯｜LOIS.C陳洛｜王喬伊｜Wednesday &壞透樂團｜薄暮｜時光旅行｜Ampathy｜留聲機｜毀滅體制｜六區查理｜不明霧｜Zoc｜Nico｜你抽我放特別單元｜慶記KTV特別單元"
         },
         {
             "years": 2021,
@@ -190,9 +190,9 @@
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
             "eventLastUpdate": "2021/03/13",
             "eventTicket": [
-                { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 1000, "ticketStatus": "commingSoon"},
-                { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1800, "ticketStatus": "commingSoon"},
-                { "tickName": "單日現場撐到最後才買票", "salePeriod": "~ 2021/04/25", "price" : 1200, "ticketStatus": "commingSoon"}
+                { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 1000, "ticketStatus": "onSale"},
+                { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1800, "ticketStatus": "onSale"},
+                { "tickName": "單日現場撐到最後才買票", "salePeriod": "~ 2021/04/25", "price" : 1200, "ticketStatus": "onSale"}
             ],
             "lineUp": "王立 Wanglee 、 ノロイ（諾羅院） 、#SpareApe寂寞之猩、Whale Fall 、 呂杰達搖滾大樂隊、AROB 樂團 、 FunkyBrothers 放客兄弟、Ghost Money All-stars、 Point 22 (.22) 點二二、The Combobulators 、 Morocco 'n' Roll、BunsNRoses麵包與玫瑰樂團、Mafana、Seaweed 藻、鐵擊、白頻率 White Frequency、Yilith、二手菸 Second Wave、#雨城時刻(前RCM 激進主義）、吸引力樂團、#HADOKOWA、TFAP、Karei & ooo"
         },
@@ -266,9 +266,9 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "食歸祭取自兒時阿嬤的問候語：「欲食果子某？」食果子，可以是問候，也可以是一場交流的開端...\n以一句「食果子」貫穿主軸，透過音樂傳遞那些開不了口的關切；用「歸來」作結，邀請來自不同世代的你，共同感受樂音與情感的交織。",
-            "eventLastUpdate": "2021/03/12",
+            "eventLastUpdate": "2021/03/17",
             "eventTicket": null,
-            "lineUp": "荷爾蒙少年 Hormone Boys、 昏鴉 The Murky Crows、 淺堤 Shallow Levée."
+            "lineUp": "荷爾蒙少年 Hormone Boys、 昏鴉 The Murky Crows、 淺堤 Shallow Levée.、 毀容姐妹會 "
         },
         {
             "years": 2021,
