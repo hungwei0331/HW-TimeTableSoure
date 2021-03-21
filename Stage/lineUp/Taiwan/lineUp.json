@@ -12,7 +12,8 @@
         "stage": "南方主舞台",
         "stageLineUp": [
             { "bandName": "南方大唱總決賽", "showStartTime": "2:00 PM", "showEndTime" : "6:30 PM", "showDuration": 270},
-            { "bandName": "DJ Time", "showStartTime": "6:30 PM", "showEndTime" : "7:00 PM", "showDuration": 30},
+            { "bandName": "南方大唱大賽頒獎", "showStartTime": "6:30 PM", "showEndTime" : "7:00 PM", "showDuration": 30},
+            { "bandName": "DJ Time", "showStartTime": "8:30 PM", "showEndTime" : "9:00 PM", "showDuration": 30},
             { "bandName": "落日飛車", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
         ]
      },
