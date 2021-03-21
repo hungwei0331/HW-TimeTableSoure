@@ -62,7 +62,11 @@
          {
             "stage": "日暮DJ舞台",
             "stageLineUp": [
-
+                { "bandName": "Nico", "showStartTime": "2:00 PM", "showEndTime" : "3:00 PM", "showDuration": 60},
+                { "bandName": "Gan DA", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 60},
+                { "bandName": "原Lit覺醒 Feat. 神秘嘉賓", "showStartTime": "4:30 PM", "showEndTime" : "8:00 PM", "showDuration": 210},
+                { "bandName": "Zoc", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
+                { "bandName": "慶記KTV", "showStartTime": "10:00 PM", "showEndTime" : "11:58 PM", "showDuration": 118}
             ]
          }
     ],
