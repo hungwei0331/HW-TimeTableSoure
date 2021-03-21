@@ -106,7 +106,7 @@
      {
         "stage": "春漾小舞台",
         "stageLineUp": [
-            { "bandName": "不明霜", "showStartTime": "10:50 AM", "showEndTime" : "11:30 PM", "showDuration": 40},
+            { "bandName": "不明霜", "showStartTime": "10:50 AM", "showEndTime" : "11:30 AM", "showDuration": 40},
             { "bandName": "六區查理", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
             { "bandName": "毀滅體制", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
             { "bandName": "留聲機", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
