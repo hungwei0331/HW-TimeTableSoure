@@ -79,7 +79,8 @@
             ]
          }
     ],
-    "thirdDayLineUps" :      {
+    "thirdDayLineUps" : [
+    {
         "stage": "南方主舞台",
         "stageLineUp": [
             { "bandName": "Vast & Hazy", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
