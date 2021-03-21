@@ -57,22 +57,12 @@
             "stage": "春漾小舞台",
             "stageLineUp": [
 
-                { "bandName": "偏執狂", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
-                { "bandName": "jimmy", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
-                { "bandName": "阿法卡鬥。狄莉休斯", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
-                { "bandName": "Lastwinking", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
-                { "bandName": "24HZ", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
-                { "bandName": "庸俗禿鷹", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
-                { "bandName": "Triple Deer", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-                { "bandName": "少女卡拉", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
-                { "bandName": "步行者", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40},
-                { "bandName": "宋德鶴 X 諾提彰化之聲", "showStartTime": "10:30 PM", "showEndTime" : "11:50 PM", "showDuration": 80}
             ]
          },
          {
             "stage": "日暮DJ舞台",
             "stageLineUp": [
-                
+
             ]
          }
     ],
