@@ -126,7 +126,7 @@
             { "bandName": "NICO", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
             { "bandName": "慶記KTV", "showStartTime": "10:00 PM", "showEndTime" : "11:59 PM", "showDuration": 119}
         ]
-     },
+    }],
     "fourthDayLineUps" : null,
     "fifthDayLineUps" : null
 }
