@@ -107,7 +107,7 @@
      {
         "stage": "春漾小舞台",
         "stageLineUp": [
-            { "bandName": "不明霧", "showStartTime": "10:50 PM", "showEndTime" : "11:30 PM", "showDuration": 40},
+            { "bandName": "不明霧", "showStartTime": "10:50 AM", "showEndTime" : "11:30 AM", "showDuration": 40},
             { "bandName": "六區查理", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
             { "bandName": "毀滅體制", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
             { "bandName": "留聲機", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
@@ -123,7 +123,7 @@
      {
         "stage": "日暮DJ舞台",
         "stageLineUp": [
-            { "bandName": "Zoc", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 59},
+            { "bandName": "Zoc", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 60},
             { "bandName": "你抽我放", "showStartTime": "4:00 PM", "showEndTime" : "8:00 PM", "showDuration": 240},
             { "bandName": "NICO", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
             { "bandName": "慶記KTV\n(*活動至24:00)", "showStartTime": "10:00 PM", "showEndTime" : "11:00 PM", "showDuration": 60}
