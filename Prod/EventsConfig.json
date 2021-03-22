@@ -3,6 +3,14 @@
     [
         {
             "years": 2021,
+            "name": "台灣祭",
+            "period": "2021/04/01 - 2021/04/03",
+            "type":"taiwan",
+            "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
+            "status": ""
+        },
+        {
+            "years": 2021,
             "name": "大港開唱",
             "period": "2021/03/27 - 2021/03/28",
             "type":"mega",
