@@ -123,7 +123,7 @@
      {
         "stage": "日暮DJ舞台",
         "stageLineUp": [
-            { "bandName": "Zoc", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+            { "bandName": "Zoc", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 60},
             { "bandName": "你抽我放", "showStartTime": "4:00 PM", "showEndTime" : "8:00 PM", "showDuration": 240},
             { "bandName": "NICO", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
             { "bandName": "慶記KTV\n(*活動至24:00)", "showStartTime": "10:00 PM", "showEndTime" : "11:00 PM", "showDuration": 60}
