@@ -5,7 +5,7 @@
     },
     "eventYear": "2021",
     "startTime": "10:00 AM",
-    "endTime": "00:00 AM",
+    "endTime": "11:00 PM",
     "stages": ["南方主舞台", "大唱副舞台", "春漾小舞台", "日暮DJ舞台"],
     "firstDayLineUps" :[
      {
@@ -56,6 +56,17 @@
          {
             "stage": "春漾小舞台",
             "stageLineUp": [
+                { "bandName": "芒果醬", "showStartTime": "10:50 AM", "showEndTime" : "11:30 AM", "showDuration": 40},
+                { "bandName": "偏執狂", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
+                { "bandName": "jimmy", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
+                { "bandName": "阿法卡鬥。狄莉休斯", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+                { "bandName": "Lastwinking", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+                { "bandName": "24HZ", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+                { "bandName": "庸俗禿鷹", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
+                { "bandName": "Triple Deer", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
+                { "bandName": "少女卡拉", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
+                { "bandName": "步行者", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40},
+                { "bandName": "宋德鶴 X 諾提彰化之聲\n(*活動至23:50)", "showStartTime": "10:30 PM", "showEndTime" : "11:00 PM", "showDuration": 30}
 
             ]
          },
@@ -66,7 +77,7 @@
                 { "bandName": "Gan DA", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 60},
                 { "bandName": "原Lit覺醒 Feat. 神秘嘉賓", "showStartTime": "4:30 PM", "showEndTime" : "8:00 PM", "showDuration": 210},
                 { "bandName": "Zoc", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
-                { "bandName": "慶記KTV", "showStartTime": "10:00 PM", "showEndTime" : "11:59 PM", "showDuration": 60}
+                { "bandName": "慶記KTV\n(*活動至24:00)", "showStartTime": "10:00 PM", "showEndTime" : "11:00 PM", "showDuration": 60}
             ]
          }
     ],
@@ -106,7 +117,7 @@
             { "bandName": "Wednesday & 壞透", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
             { "bandName": "王喬尹", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40},
             { "bandName": "LOIS.C 陳洛", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40},
-            { "bandName": "反正我很閒 X 餵飽豬", "showStartTime": "10:30 PM", "showEndTime" : "11:50 PM", "showDuration": 80}
+            { "bandName": "反正我很閒 X 餵飽豬\n(*活動至23:50)", "showStartTime": "10:30 PM", "showEndTime" : "11:00 PM", "showDuration": 30}
         ]
      },
      {
@@ -114,7 +125,8 @@
         "stageLineUp": [
             { "bandName": "Zoc", "showStartTime": "3:00 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
             { "bandName": "你抽我放", "showStartTime": "4:00 PM", "showEndTime" : "8:00 PM", "showDuration": 240},
-            { "bandName": "NICO", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60}
+            { "bandName": "NICO", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60},
+            { "bandName": "慶記KTV\n(*活動至24:00)", "showStartTime": "10:00 PM", "showEndTime" : "11:00 PM", "showDuration": 60}
         ]
     }],
     "fourthDayLineUps" : null,
