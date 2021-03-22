@@ -4,30 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "B Festival",
-            "imageURL": null,
-            "startDate": "2021/03/20",
-            "endDate": "2021/03/21",
-            "location": null,
-            "mail": "88balaz@gmail.com",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "B FESTIVAL 像我們這樣的樂團，20年來某種程度來說也還是建立了一些我們自己的美學觀點啦，而且我的覺得這樣很讚。開始覺得好像可以自傲又自豪對大家呼喊：對！我們就是這樣B，B了20年也活得很漂亮的，怎樣！\n B也有它的價值的，在這個每個人都追求更A級的舞台，更A級的注目，更A級的讚數的時代，大家都在追求A的時候，做社會文化調查畫金字塔圖的時候最上面那層都很肥。幹，那塔不就翻了嗎？人生不是只有值得那種東西吧 。我的夢想會是整面牆的漫畫書，會是整個攤子的炸雞，會是超白爛的搞笑電影，會是在草原上狂奔，會是每天說的垃圾話。B是一種初衷，儘管常被當成是次等選擇，但你和我都很清楚，B代表的是另一條路線，另一種方式，B是不願和你們這些王八蛋為伍，B就是孤高的帥，你們是高牆我們是炸雞！！\n各位朋友！！B FESTIVAL來了，這次一樣是一個不甩什麼遠大抱負但一樣帥到改變宇宙規律的音樂祭，一樣隨興的來隨興的玩，愛怎樣就怎樣，沒有長篇大論的論述沒有累死人的主題，因為他媽的所有的事情你我早就都已經了然於心了，我們慶祝今天又是超讚的一天，沒為什麼，因為人活著的每一天就是要過的爽快，不甩那些什麼被網路.政治.人生觀的長輩文綁架的社會和群體規則，拎杯就是站這麼挺，活得這麼帥！\n不用猶豫了，讓我們用這句八年前的台詞來呼籲你一起來：你已經不帥了，趕快過來B一下！",
-            "eventLastUpdate": "2021/01/25",
-            "eventTicket": [
-                { "tickName": "「四個人+4B」", "salePeriod": "~ 2021/3/20", "price" : 3800, "ticketStatus": "soldOut"},
-                { "tickName": "「一匹狼+B」", "salePeriod": "~ 2021/3/20", "price" : 1000, "ticketStatus": "onSale"},
-                { "tickName": "「四乘廿五一百」四人票 ", "salePeriod": "~ 2021/3/20", "price" : 3000, "ticketStatus": "onSale"},
-                { "tickName": "「廿五歲一匹狼」單人票", "salePeriod": "~ 2021/3/20", "price" : 888, "ticketStatus": "onSale"},
-                { "tickName": "「我到時候再說」現場票", "salePeriod": "~ 2021/3/20", "price" : 1200, "ticketStatus": "onSale"},
-                { "tickName": "「我真的有夠B」現場票(如果到時候還有的話)", "salePeriod": "~ 2021/3/20", "price" : 600, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": "滅火器、拍謝少年、槍擊潑辣、漂流出口、輻射魚市、夢遺如來、漫遊年代俱樂部、佬步槍、毀容姊妹會、八十八顆芭樂籽"
-        },
-        {
-            "years": 2021,
             "title": "河岸二十音樂祭之西門慶與紅樓夢",
             "imageURL": null,
             "startDate": "2021/03/25",
@@ -75,7 +51,7 @@
             "years": 2021,
             "title": "台灣祭",
             "imageURL": null,
-            "startDate": "2021/04/01",
+            "startDate": "2021/04/02",
             "endDate": "2021/04/03",
             "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
             "mail": null,
