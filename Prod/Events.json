@@ -89,14 +89,14 @@
             "endDate": "2021/04/11",
             "location": {"locationName": "中興大學行政後草、雲平前草", "locationAddress": "臺中市南區興大路145號", "latitude": 24.123405106631218, "longitude": 120.6753796420041},
             "mail": "nchulakesidefest@gmail.com",
-            "latestAttend": "DSPS｜許含光",
+            "latestAttend": "怕胖團​",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/lakeside_fest.7/", "clickable": true},
             "purchaseUrl": null,
             "description": "【湖畔音樂季 ✕ 遊夢者 #夢境預約所】\n各位遊夢者，歡迎來到夢境預約所。\n我們將透過簡單的互動，量身打造出屬於你的夢境指南，無論是什麼個性的你，都可以在這裡找到最適合的夢！",
-            "eventLastUpdate": "2021/03/20",
+            "eventLastUpdate": "2021/03/23",
             "eventTicket": null,
-            "lineUp": "李友廷｜南西肯恩｜貝克小姐｜老破麻｜好樂團｜溫室雜草｜霧虹｜甜約翰｜宋德鶴｜步行者｜Limi｜後站人｜壞特?te｜羅莎莎｜Control T｜鹿洐人｜Hello Nico｜DSPS｜許含光"
+            "lineUp": "李友廷｜南西肯恩｜貝克小姐｜老破麻｜好樂團｜溫室雜草｜霧虹｜甜約翰｜宋德鶴｜步行者｜Limi｜後站人｜壞特?te｜羅莎莎｜Control T｜鹿洐人｜Hello Nico｜DSPS｜許含光｜彡拾SENSES｜Burning Beak｜Resa Club｜好大一把勇者劍｜彼特涅 Peter’s nerd｜Traveller旅人｜黑色島民Blackliver｜東波East Wave｜尋找尼歐｜中興嘻研｜知性傀儡｜雜碎巷弄｜怕胖團​"
         },
         {
             "years": 2021,
@@ -181,7 +181,7 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
-            "eventLastUpdate": "2021/03/13",
+            "eventLastUpdate": "2021/03/22",
             "eventTicket": [
                 { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 1000, "ticketStatus": "onSale"},
                 { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1800, "ticketStatus": "onSale"},
@@ -296,18 +296,18 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "老破麻 ．恕SOLEMN ．EFTC破繭而出．蘭花刀 ",
+            "latestAttend": "溫蒂漫步．Wayne Band ．阿丹玩球球",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/03/15",
+            "eventLastUpdate": "2021/03/23",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "怕胖團．甜約翰． 老破麻 - Old Slut Distortion． 恕 solemn． EMERGING FROM THE COCOON 破繭而出．蘭花刀Orchid Sword "
+            "lineUp": "怕胖團．甜約翰． 老破麻． 溫蒂漫步 Wendy Wander．恕SOLEMN．EFTC破繭而出．蘭花刀． WAYNE BAND． 阿丹玩球球 ​ and more​"
         }
     ],
     "nextYearEvents": []
