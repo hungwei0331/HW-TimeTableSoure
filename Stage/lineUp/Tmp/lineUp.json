@@ -85,7 +85,7 @@
                { "bandName": "張仲麟(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
                { "bandName": "超音界(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:30 PM", "showDuration": 30},
                { "bandName": "Isey(釵)", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 30},
-               { "bandName": "DJ Question Mark(釵)", "showStartTime": "9:10 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
+               { "bandName": "DJ Question Mark(釵)", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
                
            ]
         },
@@ -97,7 +97,7 @@
                { "bandName": "龍才頎", "showStartTime": "3:40 PM", "showEndTime" : "4:10 PM", "showDuration": 30},
                { "bandName": "清醒夢", "showStartTime": "4:30 PM", "showEndTime" : "5:00 PM", "showDuration": 30},
                { "bandName": "情緒活塞", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
-               { "bandName": "羣楊島", "showStartTime": "6:10 PM", "showEndTime" : "6:40 PM", "showDuration": 30},
+               { "bandName": "羣羊島", "showStartTime": "6:10 PM", "showEndTime" : "6:40 PM", "showDuration": 30},
                { "bandName": "思語紅", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
                { "bandName": "胡鬧戰隊", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30}
            ]
