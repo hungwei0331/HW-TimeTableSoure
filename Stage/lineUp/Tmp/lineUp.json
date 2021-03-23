@@ -119,6 +119,7 @@
            "stageLineUp": [
                { "bandName": "大地之歌", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
                { "bandName": "NAWAN", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
+               { "bandName": "原味醞釀", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
                { "bandName": "JS", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "尷尬美聲", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40}
                
