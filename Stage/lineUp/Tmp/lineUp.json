@@ -141,9 +141,9 @@
                { "bandName": "陳侑彤(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "綠繡眼(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "吳青原(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-               { "bandName": "April Red 紅(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:30 PM", "showDuration": 29},
-               { "bandName": "G5SH(釵)", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 39},
-               { "bandName": "CODE WU(釵)", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 59}
+               { "bandName": "April Red 紅(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:30 PM", "showDuration": 30},
+               { "bandName": "G5SH(釵)", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 40},
+               { "bandName": "CODE WU(釵)", "showStartTime": "9:10 PM", "showEndTime" : "10:00 PM", "showDuration": 50}
            ]
         },
         {
