@@ -137,7 +137,7 @@
         {
            "stage": "鳳/釵",
            "stageLineUp": [
-               { "bandName": "高如影(鳳)", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
+               { "bandName": "高如穎(鳳)", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
                { "bandName": "陳侑彤(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "綠繡眼(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "吳青原(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
@@ -153,7 +153,7 @@
                { "bandName": "一頁 One Page", "showStartTime": "2:50 PM", "showEndTime" : "3:20 PM", "showDuration": 30},
                { "bandName": "Whale Fail", "showStartTime": "3:40 PM", "showEndTime" : "4:10 PM", "showDuration": 30},
                { "bandName": "Biggie萬", "showStartTime": "4:30 PM", "showEndTime" : "5:00 PM", "showDuration": 30},
-               { "bandName": "JIMMY", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
+               { "bandName": "jiMMY", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
                { "bandName": "Mango Street Papa", "showStartTime": "6:10 PM", "showEndTime" : "6:40 PM", "showDuration": 30},
                { "bandName": "Grandson on the wall", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
                { "bandName": "EmusicE 紅南花鵝", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30}
