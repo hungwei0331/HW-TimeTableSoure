@@ -4,9 +4,9 @@
         "dateText": ["03 / 25", "03 / 26", "03 / 27", "03 / 28"]
     },
     "eventYear": "2021",
-    "startTime": "2:00 PM",
+    "startTime": "00:00 PM",
     "endTime": "11:00 PM",
-    "stages": ["慶", "寶", "夢", "鳳/釵", "玉"],
+    "stages": ["慶", "寶", "夢", "鳳/釵", "玉", "紅樓茶坊"],
     "firstDayLineUps" :[
      {
         "stage": "慶",
@@ -16,17 +16,18 @@
      {
         "stage": "寶",
         "stageLineUp": [
-            { "bandName": "林以樂", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-            { "bandName": "詹森淮", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
-            { "bandName": "王榆鈞", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
-            { "bandName": "巴奈", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
+            { "bandName": "開幕式", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
+            { "bandName": "林以樂", "showStartTime": "5:30 PM", "showEndTime" : "6:10 PM", "showDuration": 40},
+            { "bandName": "詹森淮", "showStartTime": "6:30 PM", "showEndTime" : "7:10 PM", "showDuration": 40},
+            { "bandName": "王榆鈞", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
+            { "bandName": "巴奈", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 40}
             
         ]
      },
      {
         "stage": "夢",
         "stageLineUp": [
-            { "bandName": "G8 JAM", "showStartTime": "9:20 PM", "showEndTime" : "11:00 PM", "showDuration": 100}
+            { "bandName": "G8 JAM", "showStartTime": "9:30 PM", "showEndTime" : "11:00 PM", "showDuration": 90}
         ]
      },
      {
@@ -44,6 +45,13 @@
             { "bandName": "笨小孩", "showStartTime": "7:50 PM", "showEndTime" : "8:10 PM", "showDuration": 30},
             { "bandName": "行草樂團", "showStartTime": "8:40 PM", "showEndTime" : "9:10 PM", "showDuration": 30}
         ]
+     },
+     {
+      "stage": "紅樓茶坊",
+      "stageLineUp": [
+         { "bandName": "小樹 X 馬世芳", "showStartTime": "2:00 PM", "showEndTime" : "3:30 PM", "showDuration": 90},
+         { "bandName": "阿哼 X 林哲儀", "showStartTime": "4:00 PM", "showEndTime" : "5:30 PM", "showDuration": 90}
+      ]
      }
     ],
     "secondDayLineUps" :[
@@ -68,6 +76,7 @@
         {
            "stage": "夢",
            "stageLineUp": [
+               { "bandName": "APOC256", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
                { "bandName": "城市雨人", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
                { "bandName": "白頻率", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
                { "bandName": "白目樂隊", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
@@ -83,10 +92,9 @@
                { "bandName": "A new(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "克里夫(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "張仲麟(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-               { "bandName": "超音界(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:30 PM", "showDuration": 30},
                { "bandName": "Isey(釵)", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 30},
-               { "bandName": "DJ Question Mark(釵)", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
-               
+               { "bandName": "超音界(釵)", "showStartTime": "10:00 PM", "showEndTime" : "10:30 PM", "showDuration": 30},
+               { "bandName": "DJ Question Mark(釵)(活動至十二點)", "showStartTime": "10:30 PM", "showEndTime" : "11:00 PM", "showDuration": 30}
            ]
         },
         {
@@ -99,8 +107,16 @@
                { "bandName": "情緒活塞", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
                { "bandName": "羣羊島", "showStartTime": "6:10 PM", "showEndTime" : "6:40 PM", "showDuration": 30},
                { "bandName": "思語紅", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
-               { "bandName": "胡鬧戰隊", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30}
+               { "bandName": "胡鬧戰隊", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30},
+               { "bandName": "林依霖&沙沙小樂團", "showStartTime": "8:40 PM", "showEndTime" : "9:10 PM", "showDuration": 30}
            ]
+        },
+        {
+         "stage": "紅樓茶坊",
+         "stageLineUp": [
+            { "bandName": "黃少雍 X 李孝祖", "showStartTime": "0:00 PM", "showEndTime" : "1:30 PM", "showDuration": 90},
+            { "bandName": "左光平 X BRIEN", "showStartTime": "2:00 PM", "showEndTime" : "3:30 PM", "showDuration": 90}
+         ]
         }
        ],
     "thirdDayLineUps" : [
@@ -108,7 +124,7 @@
            "stage": "慶",
            "stageLineUp": [
                { "bandName": "四分衛", "showStartTime": "4:30 PM", "showEndTime" : "5:10 PM", "showDuration": 40},
-               { "bandName": "神棍樂團", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
+               { "bandName": "神棍樂團", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
                { "bandName": "ECHO 回聲樂團", "showStartTime": "7:00 PM", "showEndTime" : "7:50 PM", "showDuration": 50},
                { "bandName": "乩童秩序", "showStartTime": "8:30 PM", "showEndTime" : "9:20 PM", "showDuration": 50}
                
@@ -141,9 +157,9 @@
                { "bandName": "陳侑彤(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "綠繡眼(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "吳青原(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-               { "bandName": "April Red 紅(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:30 PM", "showDuration": 30},
-               { "bandName": "G5SH(釵)", "showStartTime": "8:30 PM", "showEndTime" : "9:10 PM", "showDuration": 40},
-               { "bandName": "CODE WU(釵)", "showStartTime": "9:10 PM", "showEndTime" : "10:00 PM", "showDuration": 50}
+               { "bandName": "G5SH(釵)", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 60},
+               { "bandName": "April Red 紅(釵)", "showStartTime": "9:40 PM", "showEndTime" : "10:40 PM", "showDuration": 60},
+               { "bandName": "CODE WU(釵)(活動至11:30)", "showStartTime": "10:40 PM", "showEndTime" : "11:00 PM", "showDuration": 20}
            ]
         },
         {
@@ -158,6 +174,12 @@
                { "bandName": "Grandson on the wall", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
                { "bandName": "EmusicE 紅南花鵝", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30}
            ]
+        },
+        {
+         "stage": "紅樓茶坊",
+         "stageLineUp": [
+            { "bandName": "簡妙如\n李明璁\n葉雲平", "showStartTime": "0:30 PM", "showEndTime" : "2:00 PM", "showDuration": 90}
+         ]
         }
        ],
     "fourthDayLineUps" : [
@@ -193,7 +215,7 @@
                { "bandName": "陳庭儀(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "愛人眼睛(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "乾淨的房間(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-               { "bandName": "DJ Adi(釵)", "showStartTime": "8:00 PM", "showEndTime" : "8:50 PM", "showDuration": 50}
+               { "bandName": "DJ Adi(釵)", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
            ]
         },
         {
@@ -208,6 +230,11 @@
                { "bandName": "無定義", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
                { "bandName": "義團", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30}
            ]
+        },
+        {
+         "stage": "紅樓茶坊",
+         "stageLineUp": [
+         ]
         }
        ],
     "fifthDayLineUps" : null
