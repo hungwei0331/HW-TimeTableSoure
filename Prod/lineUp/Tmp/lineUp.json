@@ -157,7 +157,7 @@
                { "bandName": "陳侑彤(鳳)", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
                { "bandName": "綠繡眼(鳳)", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
                { "bandName": "吳青原(鳳)", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-               { "bandName": "G5SH(釵)", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 60},
+               { "bandName": "G5SH(釵)", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40},
                { "bandName": "April Red 紅(釵)", "showStartTime": "9:40 PM", "showEndTime" : "10:40 PM", "showDuration": 60},
                { "bandName": "CODE WU(釵)(活動至11:30)", "showStartTime": "10:40 PM", "showEndTime" : "11:00 PM", "showDuration": 20}
            ]
@@ -178,7 +178,7 @@
         {
          "stage": "紅樓茶坊",
          "stageLineUp": [
-            { "bandName": "簡妙如\n李明璁\n葉雲平", "showStartTime": "0:30 PM", "showEndTime" : "2:00 PM", "showDuration": 90}
+            { "bandName": "簡妙如\n李明璁\n葉雲平", "showStartTime": "00:30 PM", "showEndTime" : "2:00 PM", "showDuration": 90}
          ]
         }
        ],
@@ -205,7 +205,6 @@
                { "bandName": "不是桃樂絲", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
                { "bandName": "伯爵白", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
                { "bandName": "鹿洐人", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
-               
            ]
         },
         {
