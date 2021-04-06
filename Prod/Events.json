@@ -274,7 +274,7 @@
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
+                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
             "lineUp": "怕胖團．魏嘉瑩 Arrow Wei．甜約翰．P!SCO．DSPS．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出．蘭花刀． BIKE機踏車樂團．WAYNE BAND． 阿丹玩球球 ​"
         }
