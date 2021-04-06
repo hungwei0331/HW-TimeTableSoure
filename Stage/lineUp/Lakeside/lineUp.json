@@ -27,7 +27,7 @@
         {
             "stage": "雲平本站",
             "stageLineUp": [
-                { "bandName": "Resa Club", "showStartTime": "5:00 PM", "showEndTime" : "5:30 PM", "showDuration": 30},
+                { "bandName": "Resa Club", "showStartTime": "5:30 PM", "showEndTime" : "6:00 PM", "showDuration": 30},
                 { "bandName": "Limi", "showStartTime": "6:30 PM", "showEndTime" : "7:00 PM", "showDuration": 30},
                 { "bandName": "好大一把勇者劍", "showStartTime": "7:30 PM", "showEndTime" : "8:00 PM", "showDuration": 30},
                 { "bandName": "甜約翰", "showStartTime": "9:00 PM", "showEndTime" : "9:30 PM", "showDuration": 30}
