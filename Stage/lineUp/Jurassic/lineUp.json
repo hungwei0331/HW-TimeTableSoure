@@ -52,7 +52,8 @@
                { "bandName": "Unknown 無定義", "showStartTime": "00:10 PM", "showEndTime" : "00:45 PM", "showDuration": 35},
                { "bandName": "Polyvirus 技術病毒", "showStartTime": "1:40 PM", "showEndTime" : "2:25 PM", "showDuration": 35},
                { "bandName": "BreakDawn 破曉", "showStartTime": "3:10 PM", "showEndTime" : "3:45 PM", "showDuration": 35},
-               { "bandName": "王彙筑\n鍾雅", "showStartTime": "4:40 PM", "showEndTime" : "5:40 PM", "showDuration": 60},
+               { "bandName": "王彙筑", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+               { "bandName": "鍾雅", "showStartTime": "5:20 PM", "showEndTime" : "5:40 PM", "showDuration": 20},
                { "bandName": "克里夫 Cliff", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 30},
                { "bandName": "吳青原", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 30}
            ]
