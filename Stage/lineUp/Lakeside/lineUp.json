@@ -45,7 +45,7 @@
             "stageLineUp": [
                 { "bandName": "許含光", "showStartTime": "3:00 PM", "showEndTime" : "3:30 PM", "showDuration": 30},
                 { "bandName": "Traveller旅人", "showStartTime": "4:00 PM", "showEndTime" : "4:30 PM", "showDuration": 30},
-                { "bandName": "尋找尼歐", "showStartTime": "5:00 PM", "showEndTime" : "5:30 PM", "showDuration": 30},
+                { "bandName": "後站人", "showStartTime": "5:00 PM", "showEndTime" : "5:30 PM", "showDuration": 30},
                 { "bandName": "好樂團", "showStartTime": "6:15 PM", "showEndTime" : "6:45 PM", "showDuration": 30},
                 { "bandName": "怕胖團", "showStartTime": "7:55 PM", "showEndTime" : "8:35 PM", "showDuration": 40}
             ]
@@ -79,7 +79,7 @@
             "stageLineUp": [
                 { "bandName": "知性魁儡", "showStartTime": "2:30 PM", "showEndTime" : "3:00 PM", "showDuration": 30},
                 { "bandName": "東波\nEastWave", "showStartTime": "3:30 PM", "showEndTime" : "4:00 PM", "showDuration": 30},
-                { "bandName": "後站人", "showStartTime": "4:30 PM", "showEndTime" : "5:00 PM", "showDuration": 30},
+                { "bandName": "尋找尼歐", "showStartTime": "4:30 PM", "showEndTime" : "5:00 PM", "showDuration": 30},
                 { "bandName": "中興嘻研", "showStartTime": "5:30 PM", "showEndTime" : "6:00 PM", "showDuration": 30},
                 { "bandName": "壞特?te", "showStartTime": "7:00 PM", "showEndTime" : "7:30 PM", "showDuration": 30},
                 { "bandName": "Hello Nico", "showStartTime": "8:50 PM", "showEndTime" : "9:30 PM", "showDuration": 40}
