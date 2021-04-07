@@ -11,7 +11,7 @@
      {
         "stage": "噶瑪蘭舞台",
         "stageLineUp": [
-            { "bandName": "李浩瑋", "showStartTime": "11:30 PM", "showEndTime" : "00:10 PM", "showDuration": 40},
+            { "bandName": "李浩瑋", "showStartTime": "11:30 AM", "showEndTime" : "00:10 PM", "showDuration": 40},
             { "bandName": "淺堤", "showStartTime": "00:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
             { "bandName": "溫室雜草", "showStartTime": "1:30 PM", "showEndTime" : "2:10 PM", "showDuration": 40},
             { "bandName": "餵飽豬 X \n反正我很閒", "showStartTime": "2:30 PM", "showEndTime" : "3:50 PM", "showDuration": 80},
