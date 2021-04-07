@@ -215,12 +215,12 @@
             "endDate": "2021/07/18",
             "location": null,
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "荒山茉莉",
+            "latestAttend": "八十八顆芭樂籽",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/04/05",
+            "eventLastUpdate": "2021/04/07",
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
@@ -230,7 +230,7 @@
                 { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "老破麻 | 昏鴉 |共犯結構| 荒山茉莉 | 當代電影大師"
+            "lineUp": "八十八顆芭樂籽 | 老破麻 | 昏鴉 | 共犯結構 | 荒山茉莉 | 當代電影大師"
         },
         {
             "years": 2021,
@@ -240,12 +240,12 @@
             "endDate": "2021/07/11",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "拍謝少年",
+            "latestAttend": "淺堤",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/04/06",
+            "eventLastUpdate": "2021/04/07",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
@@ -255,7 +255,7 @@
                 { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "commingSoon"}
                 
             ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年"
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤"
         },
         {
             "years": 2021,
