@@ -1,60 +1,41 @@
 {
     "days": {
-        "totalDays": 2,
-        "dateText": ["01 / 30", "01 / 31"]
+        "totalDays": 1,
+        "dateText": ["04 / 24"]
     },
     "eventYear": "2021",
     "startTime": "11:00 AM",
-    "endTime": "10:00 PM",
-    "stages": ["迷音舞台", "樂浪舞台"],
+    "endTime": "9:00 PM",
+    "stages": ["噶瑪蘭舞台", "龜將軍舞台"],
     "firstDayLineUps" :[
      {
-        "stage": "迷音舞台",
+        "stage": "噶瑪蘭舞台",
         "stageLineUp": [
-            { "bandName": "五五身", "showStartTime": "2:00 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
-            { "bandName": "後站人", "showStartTime": "3:10 PM", "showEndTime" : "3:40 PM", "showDuration": 30},
-            { "bandName": "尋找尼歐", "showStartTime": "4:20 PM", "showEndTime" : "4:50 PM", "showDuration": 30},
-            { "bandName": "荒山茉莉", "showStartTime": "5:30 PM", "showEndTime" : "6:00 PM", "showDuration": 30},
-            { "bandName": "南方壞男孩", "showStartTime": "6:40 PM", "showEndTime" : "7:10 PM", "showDuration": 30},
-            { "bandName": "溫蒂漫步", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30},
-            { "bandName": "鄭宜農", "showStartTime": "9:00 PM", "showEndTime" : "9:30 PM", "showDuration": 30}
+            { "bandName": "李浩瑋", "showStartTime": "11:30 AM", "showEndTime" : "00:10 PM", "showDuration": 40},
+            { "bandName": "淺堤", "showStartTime": "00:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
+            { "bandName": "溫室雜草", "showStartTime": "1:30 PM", "showEndTime" : "2:10 PM", "showDuration": 40},
+            { "bandName": "餵飽豬 X \n反正我很閒", "showStartTime": "2:30 PM", "showEndTime" : "3:50 PM", "showDuration": 80},
+            { "bandName": "百合花", "showStartTime": "4:30 PM", "showEndTime" : "5:10 PM", "showDuration": 40},
+            { "bandName": "毀容姐妹會", "showStartTime": "5:30 PM", "showEndTime" : "6:10 PM", "showDuration": 40},
+            { "bandName": "美秀集團", "showStartTime": "6:30 PM", "showEndTime" : "7:10 PM", "showDuration": 40},
+            { "bandName": "滅火器", "showStartTime": "8:30 PM", "showEndTime" : "9:00 PM", "showDuration": 30}
         ]
      },
      {
-        "stage": "樂浪舞台",
+        "stage": "龜將軍舞台",
         "stageLineUp": [
-            { "bandName": "吳青原", "showStartTime": "3:50 PM", "showEndTime" : "4:20 PM", "showDuration": 30},
-            { "bandName": "郭宗偉 青石", "showStartTime": "6:10 PM", "showEndTime" : "6:40 PM", "showDuration": 30},
-            { "bandName": "陳以恆", "showStartTime": "7:20 PM", "showEndTime" : "7:50 PM", "showDuration": 30},
-            { "bandName": "謝俊彥 洪申豪", "showStartTime": "8:00 PM", "showEndTime" : "9:00 PM", "showDuration": 60}
+            { "bandName": "無先生", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
+            { "bandName": "熱寫生", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
+            { "bandName": "A Piece of Cake 256", "showStartTime": "2:50 PM", "showEndTime" : "3:20 PM", "showDuration": 30},
+            { "bandName": "Kid Town", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+            { "bandName": "Empty ORio", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
+            { "bandName": "SADOG", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "一頁One Page", "showStartTime": "6:50 PM", "showEndTime" : "7:30 PM", "showDuration": 40},
+            { "bandName": "類比梭羅", "showStartTime": "7:50 PM", "showEndTime" : "8:30 PM", "showDuration": 40}
         ]
      }
     ],
-    "secondDayLineUps" :[
-        {
-           "stage": "迷音舞台",
-           "stageLineUp": [
-               { "bandName": "厭世少年", "showStartTime": "11:40 AM", "showEndTime" : "00:10 PM", "showDuration": 30},
-               { "bandName": "感覺苺果", "showStartTime": "00:50 PM", "showEndTime" : "01:20 PM", "showDuration": 30},
-               { "bandName": "東波 EastWave", "showStartTime": "2:00 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
-               { "bandName": "熱寫生", "showStartTime": "3:10 PM", "showEndTime" : "3:40 PM", "showDuration": 30},
-               { "bandName": "張仁與", "showStartTime": "4:20 PM", "showEndTime" : "4:50 PM", "showDuration": 30},
-               { "bandName": "The Tic Tac", "showStartTime": "5:30 PM", "showEndTime" : "6:00 PM", "showDuration": 30},
-               { "bandName": "人性魔鏡", "showStartTime": "6:40 PM", "showEndTime" : "7:10 PM", "showDuration": 30},
-               { "bandName": "問題總部", "showStartTime": "7:50 PM", "showEndTime" : "8:20 PM", "showDuration": 30},
-               { "bandName": "大象體操", "showStartTime": "9:00 PM", "showEndTime" : "9:30 PM", "showDuration": 30}
-           ]
-        },
-        {
-           "stage": "樂浪舞台",
-           "stageLineUp": [
-               { "bandName": "王立", "showStartTime": "3:40 PM", "showEndTime" : "4:10 PM", "showDuration": 30},
-               { "bandName": "徐子權", "showStartTime": "4:50 PM", "showEndTime" : "5:20 PM", "showDuration": 30},
-               { "bandName": "瞎槓", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
-               { "bandName": "林以樂", "showStartTime": "8:30 PM", "showEndTime" : "9:00 PM", "showDuration": 30}
-           ]
-        }
-    ],
+    "secondDayLineUps" : null,
     "thirdDayLineUps" : null,
     "fourthDayLineUps" : null,
     "fifthDayLineUps" : null
