@@ -120,35 +120,18 @@
             "endDate": "2021/04/26",
             "location": {"locationName": "Ocean Day by Day 日日旅海", "locationAddress": "屏東縣滿州鄉興海路33號", "latitude": 21.96768039130285,  "longitude": 120.8419843},
             "mail": null,
-            "latestAttend": "Mafana、Seaweed 藻、鐵擊、白頻率 White Frequency、Yilith、二手菸 Second Wave、#雨城時刻(前RCM 激進主義）、吸引力樂團、#HADOKOWA、TFAP、Karei & ooo",
+            "latestAttend": "Trash",
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會",
-            "eventLastUpdate": "2021/03/22",
+            "eventLastUpdate": "2021/04/11",
             "eventTicket": [
                 { "tickName": "單日預售小草票", "salePeriod": "~ 2021/04/25", "price" : 1000, "ticketStatus": "onSale"},
                 { "tickName": "雙日預售大根票", "salePeriod": "~ 2021/04/25", "price" : 1800, "ticketStatus": "onSale"},
                 { "tickName": "單日現場撐到最後才買票", "salePeriod": "~ 2021/04/25", "price" : 1200, "ticketStatus": "onSale"}
             ],
-            "lineUp": "王立 Wanglee 、 ノロイ（諾羅院） 、#SpareApe寂寞之猩、Whale Fall 、 呂杰達搖滾大樂隊、AROB 樂團 、 FunkyBrothers 放客兄弟、Ghost Money All-stars、 Point 22 (.22) 點二二、The Combobulators 、 Morocco 'n' Roll、BunsNRoses麵包與玫瑰樂團、Mafana、Seaweed 藻、鐵擊、白頻率 White Frequency、Yilith、二手菸 Second Wave、#雨城時刻(前RCM 激進主義）、吸引力樂團、#HADOKOWA、TFAP、Karei & ooo"
-        },
-        {
-            "years": 2021,
-            "title": "山海屯",
-            "imageURL": null,
-            "startDate": "2021/04/30",
-            "endDate": "2021/05/02",
-            "location": null,
-            "mail": "heartownfest@gmail.com",
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "台灣最大重型搖滾音樂活動品牌",
-            "eventLastUpdate": "2020/8/12",
-            "eventTicket": null,
-            "lineUp": null
+            "lineUp": "王立 Wanglee、 ノロイ（諾羅院）、#SpareApe寂寞之猩、Whale Fall 、呂杰達搖滾大樂隊、AROB 樂團、FunkyBrothers 放客兄弟、Ghost Money All-stars、Point 22 (.22) 點二二、The Combobulators、Morocco 'n' Roll、Buns N’ Roses 麵包與玫瑰樂團、Mafana、Seaweed 藻、鐵擊、白頻率 White Frequency、Yilith、二手菸 Second Wave、雨城時刻(前RCM 激進主義 ）、吸引力樂團、HADOKOWA、TFAP、Karei & ooo"
         },
         {
             "years": 2021,
@@ -224,7 +207,7 @@
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
-                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "commingSoon"},
+                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "onSale"},
                 { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
                 { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
@@ -240,22 +223,22 @@
             "endDate": "2021/07/11",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "淺堤",
+            "latestAttend": "黃玠｜鄭宜農 Enno Cheng｜拍謝少年 Sorry Youth｜淺堤 Shallow Levée｜青虫 aoi｜張心柔（Shivanii Chang）",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/04/07",
+            "eventLastUpdate": "2021/04/11",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
-                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "soldOut"},
+                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "onSale"},
                 { "tickName": "海鳥學生票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
                 { "tickName": "超海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
-                { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "commingSoon"}
+                { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
                 
             ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤"
+            "lineUp": "黃玠｜鄭宜農 Enno Cheng｜拍謝少年 Sorry Youth｜淺堤 Shallow Levée｜青虫 aoi｜張心柔（Shivanii Chang）"
         },
         {
             "years": 2021,
@@ -270,13 +253,13 @@
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/04/06",
+            "eventLastUpdate": "2021/04/11",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "怕胖團．魏嘉瑩 Arrow Wei．甜約翰．P!SCO．DSPS．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出．蘭花刀． BIKE機踏車樂團．WAYNE BAND． 阿丹玩球球 ​"
+            "lineUp": "怕胖團．魏嘉瑩．甜約翰．P!SCO．DSPS．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出．蘭花刀． BIKE機踏車樂團．WAYNE BAND． 阿丹玩球球​"
         }
     ],
     "nextYearEvents": []
