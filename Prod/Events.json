@@ -4,46 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "湖畔音樂季",
-            "imageURL": null,
-            "startDate": "2021/04/08",
-            "endDate": "2021/04/11",
-            "location": {"locationName": "中興大學行政後草、雲平前草", "locationAddress": "臺中市南區興大路145號", "latitude": 24.123405106631218, "longitude": 120.6753796420041},
-            "mail": "nchulakesidefest@gmail.com",
-            "latestAttend": "怕胖團​",
-            "ticketStatus": "commingSoon",
-            "instagramUrl": {"url": "https://www.instagram.com/lakeside_fest.7/", "clickable": true},
-            "purchaseUrl": null,
-            "description": "【湖畔音樂季 ✕ 遊夢者 #夢境預約所】\n各位遊夢者，歡迎來到夢境預約所。\n我們將透過簡單的互動，量身打造出屬於你的夢境指南，無論是什麼個性的你，都可以在這裡找到最適合的夢！",
-            "eventLastUpdate": "2021/03/23",
-            "eventTicket": null,
-            "lineUp": "李友廷｜南西肯恩｜貝克小姐｜老破麻｜好樂團｜溫室雜草｜霧虹｜甜約翰｜宋德鶴｜步行者｜Limi｜後站人｜壞特?te｜羅莎莎｜Control T｜鹿洐人｜Hello Nico｜DSPS｜許含光｜彡拾SENSES｜Burning Beak｜Resa Club｜好大一把勇者劍｜彼特涅 Peter’s nerd｜Traveller旅人｜黑色島民Blackliver｜東波East Wave｜尋找尼歐｜中興嘻研｜知性傀儡｜雜碎巷弄｜怕胖團​"
-        },
-        {
-            "years": 2021,
-            "title": "諸羅祭 Jurassic Festival",
-            "imageURL": null,
-            "startDate": "2021/04/10",
-            "endDate": "2021/04/11",
-            "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
-            "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "【Kanit 卡尼特 】【鐘雅 】",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
-            "purchaseUrl": {"url": "https://jurassicfestival.kktix.cc/events/0410", "clickable": false},
-            "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。\n為了改變校園演唱會的形式，以及提升嘉大的社團風氣，在2019年「諸羅祭Jurassic Festival」誕生了，並得到廣大的迴響與支持，使我們有再辦下去的動力。\n諸羅祭，希望降低音樂祭的參與門檻，帶領大眾認識好音樂，更透過策展介紹嘉義這塊土地，也打造藝能表演舞台，創造音樂祭更多不同的可能。\n這次我們領悟前人的經驗，再一次站起來，打造諸羅限定的音樂祭，讓學生站上大舞台，也讓觀眾認識這塊土地，更讓在地人能以此為榮耀。",
-            "eventLastUpdate": "2021/04/05",
-            "eventTicket": [
-                { "tickName": "火雞票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 850, "ticketStatus": "soldOut"},
-                { "tickName": "火雞肉票", "salePeriod": "2020/12/28 ~ 2021/01/25", "price" : 1050, "ticketStatus": "soldOut"},
-                { "tickName": "火雞肉飯票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "雙人套票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 2300, "ticketStatus": "soldOut"},
-                { "tickName": "愛心票", "salePeriod": "2021/01/25 ~ 2021/04/08", "price" : 300, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": "吳青原、王彙筑、生炒鴨肉羹 HJ Band、美秀集團、The Tic Tac、東波EastWave、Crispy脆樂團、青虫 aoi、胡凱兒、粗大Band、克里夫 Cliff、普通隊長 Captain Ordinary、鹿洐人、老破麻、達摩樂隊、怕胖團 、神棍樂團、康士坦的變化球、血肉果汁機、hue、Xmoraz、BreakDawn破曉、Bunnlysium、Polyvirus技術病毒、Unknown無定義樂團、Radius of Gyration迴轉半徑、KaNiT卡尼特樂團、鍾雅"
-        },
-        {
-            "years": 2021,
             "title": "意識不能招待所〖肆〗 林森北二泊三日音樂祭 2021",
             "imageURL": null,
             "startDate": "2021/04/16",
@@ -223,12 +183,12 @@
             "endDate": "2021/07/11",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "黃玠｜鄭宜農 Enno Cheng｜拍謝少年 Sorry Youth｜淺堤 Shallow Levée｜青虫 aoi｜張心柔（Shivanii Chang）",
+            "latestAttend": "南西肯恩",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/04/11",
+            "eventLastUpdate": "2021/04/13",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
@@ -238,7 +198,7 @@
                 { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
                 
             ],
-            "lineUp": "黃玠｜鄭宜農 Enno Cheng｜拍謝少年 Sorry Youth｜淺堤 Shallow Levée｜青虫 aoi｜張心柔（Shivanii Chang）"
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩"
         },
         {
             "years": 2021,
@@ -248,18 +208,18 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "魏嘉瑩．南西肯恩．P!SCO​​",
+            "latestAttend": "體熊專科​．恆月三途​．步行者．麥琪麥琪​​​​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/04/11",
+            "eventLastUpdate": "2021/04/13",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "怕胖團．魏嘉瑩．甜約翰．P!SCO．DSPS．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出．蘭花刀． BIKE機踏車樂團．WAYNE BAND． 阿丹玩球球​"
+            "lineUp": "AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．P!SCO．DSPS． 體熊專科。Major in Body Bear．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出． Crescent Lament 恆月三途． 步行者 Pacers．蘭花刀． BIKE機踏車樂團． 麥琪麥琪 MakeMake．WAYNE BAND． 阿丹玩球球​"
         }
     ],
     "nextYearEvents": []
