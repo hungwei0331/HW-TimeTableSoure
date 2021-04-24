@@ -14,12 +14,6 @@
             "status": null
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/breakingMudFestKao.jpg",
-            "officalUrl": null,
-            "type": null,
-            "status": null
-        },
-        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/garage103official.jpg",
             "officalUrl": null,
             "type": null,
@@ -27,6 +21,12 @@
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/vagabond1.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/breakingMudFestKao.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
