@@ -12,7 +12,7 @@
         "stage": "車庫103搖滾派對",
         "stageLineUp": [
          { "bandName": "孩在搖滾", "showStartTime": "9:50 AM", "showEndTime" : "10:20 AM", "showDuration": 30},
-         { "bandName": "BLACKGREEN 佈雷閣林", "showStartTime": "10:30 AM", "showEndTime" : "11:00 AM", "showDuration": 30},
+         { "bandName": "BLACKGREEN 怖雷閣林", "showStartTime": "10:30 AM", "showEndTime" : "11:00 AM", "showDuration": 30},
          { "bandName": "漫遊年代俱樂部 WANDERING", "showStartTime": "11:10 AM", "showEndTime" : "11:40 AM", "showDuration": 30},
          { "bandName": "米老虎 MAIN LNE", "showStartTime": "11:50 AM", "showEndTime" : "00:20 PM", "showDuration": 30},
          { "bandName": "魏公子", "showStartTime": "00:30 PM", "showEndTime" : "1:00 PM", "showDuration": 30},
