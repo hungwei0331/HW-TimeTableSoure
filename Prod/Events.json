@@ -157,14 +157,14 @@
             "endDate": "2021/05/30",
             "location": null,
             "mail": "tsiahkuetsifestival@gmail.com",
-            "latestAttend": "庸俗救星、 噪鬱部長、 縮影 Epitome",
+            "latestAttend": "王立 Wanglee、乾淨的房間 TheCleanroom、你太白了，去曬黑 ",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "食歸祭取自兒時阿嬤的問候語：「欲食果子某？」食果子，可以是問候，也可以是一場交流的開端...\n以一句「食果子」貫穿主軸，透過音樂傳遞那些開不了口的關切；用「歸來」作結，邀請來自不同世代的你，共同感受樂音與情感的交織。",
-            "eventLastUpdate": "2021/04/20",
+            "eventLastUpdate": "2021/04/24",
             "eventTicket": null,
-            "lineUp": "荷爾蒙少年 Hormone Boys、 昏鴉 The Murky Crows、 淺堤 Shallow Levée、 毀容姐妹會、 拍謝少年 Sorry Youth、 農村武裝青年、 溫室雜草 Easy Weeds、 青虫 aoi 、庸俗救星、 噪鬱部長、 縮影 Epitome"
+            "lineUp": " 荷爾蒙少年 Hormone Boys、 昏鴉 The Murky Crows、 淺堤 Shallow Levée、 毀容姐妹會、 拍謝少年 Sorry Youth、 農村武裝青年、 溫室雜草 Easy Weeds、 青虫 aoi 、 庸俗救星、 噪鬱部長、 縮影 Epitome、王立、乾淨的房間、你太白了，去曬黑"
         },
         {
             "years": 2021,
@@ -174,12 +174,12 @@
             "endDate": "2021/07/11",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "厭世少年",
+            "latestAttend": "SADOG",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/04/20",
+            "eventLastUpdate": "2021/04/24",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
@@ -189,7 +189,7 @@
                 { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
                 
             ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年"
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG "
         },
         {
             "years": 2021,
@@ -199,14 +199,19 @@
             "endDate": "2021/07/04",
             "location": {"locationName": "屏東縣體育館", "locationAddress": "屏東縣屏東市勝利路9號​​", "latitude": 22.677795818512767, "longitude": 120.4938240686413},
             "mail": "heartownfest@gmail.com",
-            "latestAttend": null,
+            "latestAttend": "美秀集團",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "國海風，炎陽高照\n熱浪下的噪音炸裂天地\n一群勇猛的Diehard在台下群魔亂舞\n我們是搖滾連續祭\n全台灣最炸裂的現場，即將屏東登入\n準備好了嗎？Line Up拳拳到肉\n熱身好了嗎？Line Up首首大唱\n球鞋穿好，大口喝水，毛巾飛舞，塵土飛楊\n誰在跟你chill啦！這裡都開三圈以上的啦！",
-            "eventLastUpdate": "2021/04/15",
-            "eventTicket": null,
-            "lineUp": null
+            "eventLastUpdate": "2021/04/24",
+            "eventTicket": [
+                { "tickName": "早鳥單日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 800, "ticketStatus": "onSale"},
+                { "tickName": "早鳥雙日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 1200, "ticketStatus": "onSale"},
+                { "tickName": "預售單日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1000, "ticketStatus": "commingSoon"},
+                { "tickName": "預售雙日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1500, "ticketStatus": "commingSoon"}
+            ],,
+            "lineUp": "美秀集團"
         },
         {
             "years": 2021,
@@ -216,12 +221,12 @@
             "endDate": "2021/07/18",
             "location": null,
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "傷心欲絕",
+            "latestAttend": "固定客GOODICK",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/04/15",
+            "eventLastUpdate": "2021/04/24",
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
@@ -231,7 +236,7 @@
                 { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "傷心欲絕 | 八十八顆芭樂籽 | 老破麻 | 昏鴉 | 共犯結構 | 荒山茉莉 | 當代電影大師"
+            "lineUp": " 傷心欲絕｜八十八顆芭樂籽 | 老破麻 | 昏鴉 | 固定客｜餵飽豬｜共犯結構 | SHOOT UP |荒山茉莉 | 當代電影大師"
         },
         {
             "years": 2021,
@@ -241,18 +246,18 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "イルカポリス 海豚刑警​",
+            "latestAttend": "兩棲人．獨立人種 INDEPENDENT RACE．地下道樂團．等阮返來 Downwind Daylight​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/04/20",
+            "eventLastUpdate": "2021/04/24",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 體熊專科．南西肯恩．老破麻．荷爾蒙少年．溫蒂漫步．恕SOLEMN．EFTC破繭而出．恆月三途． 步行者 x 多多&以捷．蘭花刀．BIKE機踏車樂團．麥琪麥琪．WAYNE BAND． 阿丹玩球球​"
+            "lineUp": "AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．步行者 x 多多&以捷．恕SOLEMN．EFTC破繭而出．恆月三途． 蘭花刀．兩棲人．Amphibious．BIKE機踏車樂團．麥琪麥琪．獨立人種 INDEPENDENT RACE．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來 Downwind Daylight​"
         }
     ],
     "nextYearEvents": []
