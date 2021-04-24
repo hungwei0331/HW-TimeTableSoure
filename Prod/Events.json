@@ -210,7 +210,7 @@
                 { "tickName": "早鳥雙日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 1200, "ticketStatus": "onSale"},
                 { "tickName": "預售單日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1000, "ticketStatus": "commingSoon"},
                 { "tickName": "預售雙日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1500, "ticketStatus": "commingSoon"}
-            ],,
+            ],
             "lineUp": "美秀集團"
         },
         {
