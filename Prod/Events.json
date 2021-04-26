@@ -199,19 +199,19 @@
             "endDate": "2021/07/04",
             "location": {"locationName": "屏東縣體育館", "locationAddress": "屏東縣屏東市勝利路9號​​", "latitude": 22.677795818512767, "longitude": 120.4938240686413},
             "mail": "heartownfest@gmail.com",
-            "latestAttend": "美秀集團",
+            "latestAttend": "無妄合作社",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "國海風，炎陽高照\n熱浪下的噪音炸裂天地\n一群勇猛的Diehard在台下群魔亂舞\n我們是搖滾連續祭\n全台灣最炸裂的現場，即將屏東登入\n準備好了嗎？Line Up拳拳到肉\n熱身好了嗎？Line Up首首大唱\n球鞋穿好，大口喝水，毛巾飛舞，塵土飛楊\n誰在跟你chill啦！這裡都開三圈以上的啦！",
-            "eventLastUpdate": "2021/04/24",
+            "eventLastUpdate": "2021/04/26",
             "eventTicket": [
                 { "tickName": "早鳥單日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 800, "ticketStatus": "onSale"},
                 { "tickName": "早鳥雙日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 1200, "ticketStatus": "onSale"},
                 { "tickName": "預售單日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1000, "ticketStatus": "commingSoon"},
                 { "tickName": "預售雙日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1500, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "美秀集團"
+            "lineUp": "美秀集團｜無妄合作社"
         },
         {
             "years": 2021,
@@ -246,18 +246,18 @@
             "endDate": "2021/07/25",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "兩棲人．獨立人種 INDEPENDENT RACE．地下道樂團．等阮返來 Downwind Daylight​",
+            "latestAttend": "deca joins​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/04/24",
+            "eventLastUpdate": "2021/04/26",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．步行者 x 多多&以捷．恕SOLEMN．EFTC破繭而出．恆月三途． 蘭花刀．兩棲人．Amphibious．BIKE機踏車樂團．麥琪麥琪．獨立人種 INDEPENDENT RACE．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來 Downwind Daylight​"
+            "lineUp": "deca joins．AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．步行者 x 多多&以捷．恕SOLEMN．EFTC破繭而出．恆月三途． 蘭花刀．兩棲人．BIKE機踏車樂團．麥琪麥琪．獨立人種．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來​"
         }
     ],
     "nextYearEvents": []
