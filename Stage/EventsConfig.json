@@ -3,6 +3,14 @@
     [
         {
             "years": 2021,
+            "name": "爛泥發芽(高雄)",
+            "period": "2021/05/15 - 2020/05/16",
+            "type":"breakingMudKao",
+            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
+            "status": ""
+        },
+        {
+            "years": 2021,
             "name": "車庫103搖滾派對",
             "period": "2021/05/01 - 2021/05/01",
             "type":"tmp1",
@@ -63,14 +71,6 @@
             "period": "2021/02/27 - 2021/02/28",
             "type":"emergeLive",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
-            "status": ""
-        },
-        {
-            "years": 2021,
-            "name": "爛泥發芽(高雄)",
-            "period": "2021/01/30 - 2020/01/31",
-            "type":"breakingMudKao",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "status": ""
         },
         {
