@@ -11,14 +11,6 @@
         },
         {
             "years": 2021,
-            "name": "墾丁草根音樂會",
-            "period": "2021/04/25 - 2021/04/26",
-            "type":"tmp1",
-            "location": {"locationName": "北灣俱場", "locationAddress": "台北市北投區大度路一段21號", "latitude": 25.121145208607352, "longitude": 121.49748855767852},
-            "status": ""
-        },
-        {
-            "years": 2021,
             "name": "所謂音樂祭",
             "period": "2021/04/24 - 2021/04/24",
             "type":"soulWave",
