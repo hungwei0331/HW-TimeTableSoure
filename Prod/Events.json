@@ -83,28 +83,6 @@
         },
         {
             "years": 2021,
-            "title": "搖滾連續祭。屏東大亂鬥",
-            "imageURL": null,
-            "startDate": "延期",
-            "endDate": "延期",
-            "location": {"locationName": "屏東縣體育館", "locationAddress": "屏東縣屏東市勝利路9號​​", "latitude": 22.677795818512767, "longitude": 120.4938240686413},
-            "mail": "heartownfest@gmail.com",
-            "latestAttend": "步行者 Pacers｜遊樂 ULove｜獨立人種 INDEPENDENT RACE｜黃丞 Bruce Huang｜Kanit 卡尼特｜人生勝利組｜21世紀無聊男子 21st Century Bored Guys｜Tsukimi月三ナヤミ｜帕崎拉 Pachila",
-            "ticketStatus": "commingSoon",
-            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
-            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
-            "description": "國海風，炎陽高照\n熱浪下的噪音炸裂天地\n一群勇猛的Diehard在台下群魔亂舞\n我們是搖滾連續祭\n全台灣最炸裂的現場，即將屏東登入\n準備好了嗎？Line Up拳拳到肉\n熱身好了嗎？Line Up首首大唱\n球鞋穿好，大口喝水，毛巾飛舞，塵土飛楊\n誰在跟你chill啦！這裡都開三圈以上的啦！",
-            "eventLastUpdate": "2021/05/11",
-            "eventTicket": [
-                { "tickName": "早鳥單日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 800, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 1200, "ticketStatus": "soldOut"},
-                { "tickName": "預售單日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1000, "ticketStatus": "onSale"},
-                { "tickName": "預售雙日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1500, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "美秀集團｜無妄合作社｜康士坦的變化球｜怕胖團｜海豚刑警｜溫蒂漫步｜神棍樂團｜晨曦光廊｜賀爾蒙少年｜Future after a Second｜南西肯恩｜達摩樂隊｜P!SCO｜OBSESS｜八十八顆芭樂籽｜固定客｜恕樂團｜倒車入庫｜破繭而出｜SHOOT UP｜男子漢｜米老虎｜6XT7｜A piece of cake 256｜步行者｜暴噬者｜獨立人種｜海岸乾杯｜遊樂｜二十一世紀無聊男子｜卡尼特｜黃丞＆刺鳥｜帕崎拉｜Tsukimi月三ナヤミ｜人生勝利組｜多多&以捷ft.憂鬱死了｜and More！"
-        },
-        {
-            "years": 2021,
             "title": "浪人祭",
             "imageURL": null,
             "startDate": "2021/07/09",
