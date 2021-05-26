@@ -66,48 +66,6 @@
         },
         {
             "years": 2021,
-            "title": "食歸祭",
-            "imageURL": null,
-            "startDate": "延期",
-            "endDate": "延期",
-            "location": null,
-            "mail": "tsiahkuetsifestival@gmail.com",
-            "latestAttend": "【 ♬ 任性發光的能量場：鄭宜農 ♬ 】",
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "食歸祭取自兒時阿嬤的問候語：「欲食果子某？」食果子，可以是問候，也可以是一場交流的開端...\n以一句「食果子」貫穿主軸，透過音樂傳遞那些開不了口的關切；用「歸來」作結，邀請來自不同世代的你，共同感受樂音與情感的交織。",
-            "eventLastUpdate": "2021/04/30",
-            "eventTicket": null,
-            "lineUp": "荷爾蒙少年 Hormone Boys、昏鴉 The Murky Crows、淺堤 Shallow Levée、毀容姐妹會、拍謝少年 Sorry Youth、農村武裝青年、溫室雜草 Easy Weeds、青虫 aoi、 庸俗救星、 噪鬱部長、 縮影 Epitome、 王立 Wanglee、 乾淨的房間 TheCleanroom、 你太白了，去曬黑、 廢埕樂團、26R、 鄭宜農 Enno Cheng"
-        },
-        {
-            "years": 2021,
-            "title": "浪人祭",
-            "imageURL": null,
-            "startDate": "2021/07/09",
-            "endDate": "2021/07/11",
-            "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
-            "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "➼ ﾟ.*‧。 2021浪人祭｜第六波演出號 非人物種 Inhuman",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
-            "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
-            "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/05/16",
-            "eventTicket": [
-                { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
-                { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
-                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "soldOut"},
-                { "tickName": "海鳥學生票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
-                { "tickName": "超海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
-                { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
-                
-            ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種"
-        },
-        {
-            "years": 2021,
             "title": "爛泥發芽(台北)",
             "imageURL": null,
             "startDate": "2021/07/17",
@@ -151,6 +109,31 @@
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
             "lineUp": "deca joins．麋先生．AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途． 蘭花刀．倒車入庫．BIKE機踏車樂團．麥琪麥琪． icyball冰球樂團．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種． 米老虎​​​"
+        },
+        {
+            "years": 2021,
+            "title": "浪人祭",
+            "imageURL": null,
+            "startDate": "2021/10/29",
+            "endDate": "2021/10/31",
+            "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
+            "mail": "vagabond.fest.tw@gmail.com",
+            "latestAttend": "➼ ﾟ.*‧。 2021浪人祭｜第六波演出號 非人物種 Inhuman",
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
+            "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
+            "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
+            "eventLastUpdate": "2021/05/16",
+            "eventTicket": [
+                { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
+                { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
+                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "soldOut"},
+                { "tickName": "海鳥學生票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
+                { "tickName": "超海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
+                { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
+                
+            ],
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種"
         }
     ],
     "nextYearEvents": []
