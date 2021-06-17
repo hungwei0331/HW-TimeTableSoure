@@ -66,31 +66,6 @@
         },
         {
             "years": 2021,
-            "title": "爛泥發芽(台北)",
-            "imageURL": null,
-            "startDate": "2021/07/17",
-            "endDate": "2021/07/18",
-            "location": null,
-            "mail": "surroundingsound@gmail.com",
-            "latestAttend": "麥琪麥琪",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/05/16",
-            "eventTicket": [
-                { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
-                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
-                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "onSale"},
-                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
-                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
-                { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": "傷心欲絕｜八十八顆芭樂籽 | 老破麻 | 昏鴉 | 固定客｜餵飽豬｜共犯結構 | SHOOT UP |荒山茉莉 | 當代電影大師 | SADOG | 麥琪麥琪"
-        },
-        {
-            "years": 2021,
             "title": "赤聲躁動音樂祭",
             "imageURL": null,
             "startDate": "2021/10/16",
@@ -136,5 +111,31 @@
             "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種"
         }
     ],
-    "nextYearEvents": []
+    "nextYearEvents": [
+        {
+            "years": 2022,
+            "title": "爛泥發芽(台北)",
+            "imageURL": null,
+            "startDate": "2021/01/01",
+            "endDate": "2021/01/02",
+            "location": null,
+            "mail": "surroundingsound@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
+            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
+            "eventLastUpdate": "2021/06/17",
+            "eventTicket": [
+                { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
+                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "soldOut"},
+                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "onSale"},
+                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
+                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
+                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
+                { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
+            ],
+            "lineUp": "延期後將重新釋出"
+        }
+    ]
 }
