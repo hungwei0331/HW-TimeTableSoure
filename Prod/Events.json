@@ -6,11 +6,11 @@
             "years": 2021,
             "title": "爛泥發芽(高雄)",
             "imageURL": "",
-            "startDate": "延期",
-            "endDate": "延期",
+            "startDate": "2021/09/25",
+            "endDate": "2021/09/26",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "非人物種",
+            "latestAttend": null,
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
@@ -23,46 +23,7 @@
                 { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/05/16", "price" : 1649, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp":"滅火器、非人物種、EmptyORio、海豚刑警、康士坦的變化球、老破麻.、孩子王、謎路人、夕陽武士、城市雨人、一點生、必順鄉村、鐵擊、煙雨飄渺、彼岸曙光、奮樂團、普通隊長、人性先覺、末日之猩、札克忍者、輻射魚市、烏賊紳士、羅浮宮的帽子、宇宙計程車、昴宿、人性先覺、螺紋、米老虎、廢埕樂團、21世紀無聊男子、海岸乾杯、莎賓娜大樂隊、深深一擊、離岸流、渣男迷幻"
-        },
-        {
-            "years": 2021,
-            "title": "般若電司音樂祭 More Than Dance Festival",
-            "imageURL": null,
-            "startDate": "延期",
-            "endDate": "延期",
-            "location": {"locationName": "台北 三創Clapper Studio", "locationAddress": "台北市中正區市民大道三段2號", "latitude": 25.045533444861807, "longitude": 121.5312048541177},
-            "mail": "piscoband@gmail.com",
-            "latestAttend": "糖果超新星奔走來襲｜CANDY☆STAR",
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "『般若電司音樂祭= More Than Dance Festival』\n生日嘛，總是想要熱熱鬧鬧，那就把老朋友跟新朋友通通揪在一起來到P!SCO的小世界，我們邀請了超過好多組樂團與偶像，要一起在三創瘋狂派對！！不只是跳舞這麼簡單，歡笑與感動的淚水才是P!SCO最喜歡的愛哭包組合。",
-            "eventLastUpdate": "2021/04/14",
-            "eventTicket": [
-                { "tickName": "盲鳥雙日", "salePeriod": "2021/04/09 ~ 2021/04/13", "price" : 1100, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日", "salePeriod": "2021/04/14 ~ 2021/05/20", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "雙日身障票", "salePeriod": "2021/04/14 ~ 2021/05/20", "price" : 600, "ticketStatus": "onSale"},
-                { "tickName": "單日票4/21起販售，與現場票完整資訊即將公佈", "salePeriod": "2021/04/21 ~ 2021/05/20", "price" : 9999, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": "劈開般若電司的封印｜P!SCO, 公主夜夢中誕生而出｜Carnival, 黑暗中尋找光的出口｜Vast & Hazy, 環繞在宇宙行星軌道｜麥琪麥琪 MakeMake, 照射月亮魔法而生長｜月宵◇クレシェンテ, 糖果超新星奔走來襲｜CANDY STAR, 水果少女起身戰鬥吧｜Ruka Banana, 使用幻彩照耀爆破彈｜幻色プリンセス, 光合作用恣意下灑落｜陽光◆スペクトラ, 幻化蝴蝶成花思慕著｜ゲシュタルト乙女 Gestalt Girl, 墜落在眷戀的迷宮裡｜DizLike, 糖果超新星奔走來襲｜CANDY☆STAR"
-        },
-        {
-            "years": 2021,
-            "title": "2021新北市河海音樂季-淡水漁人舞台",
-            "imageURL": null,
-            "startDate": "延期",
-            "endDate": "延期",
-            "location": {"locationName": "淡水漁人舞台", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "音樂、日落、啤酒、魚，就是「淡水漁人舞台」的一切。快帶著你的熱血精神，跟我們一起在搖滾區裡痛快衝撞放聲吶喊吧！",
-            "eventLastUpdate": "2021/05/10",
-            "eventTicket": null,
-            "lineUp": "🎸05/22(六)\n七字輩 Generation7、鹿角樂團 - Nuka、 槍擊潑辣 Guntzepaula、 神棍樂團 ZenKwun、 告五人 Accusefive\n\n🎸05/23(日)\nThe Silent City 沈默城市、丘與樂、胖虎 punkhoo、 南西肯恩、 麋先生 MIXER\n\n🎸05/29(六)\n鹿洐人 HumanHart、The Tic Tac、五五身 Fiftybodyfifty、好樂團 GoodBand、怕胖團 PA PUN BAND\n\n🎸05/30(日)\n山姆要不要、YoYo Group、表兒 ChildrenSucker、夕陽武士 Sunset Samurai、滅火器 Fire EX.\n\n🎸06/05(六)\n城市音雄 City Music Hero、WoodyWoody樂團、尋找尼歐Finding NEO、八十八顆芭樂籽 88balaz、1976樂團\n\n🎸06/06(日)\n遊樂 ULove、Unknown 無定義、固定客GOODICK、老破麻 - Old Slut Distortion、魏如萱 waa wei\n\n"
+            "lineUp":" #正在協調維持卡司將近快公布"
         },
         {
             "years": 2021,
