@@ -6,11 +6,11 @@
             "years": 2021,
             "title": "爛泥發芽(高雄)",
             "imageURL": "",
-            "startDate": "2021/05/15",
-            "endDate": "2021/05/16",
+            "startDate": "2021/09/25",
+            "endDate": "2021/09/26",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "非人物種",
+            "latestAttend": null,
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
@@ -23,140 +23,80 @@
                 { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/05/16", "price" : 1649, "ticketStatus": "onSale"},
                 { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
             ],
-            "lineUp":"滅火器、非人物種、EmptyORio、海豚刑警、康士坦的變化球、老破麻.、孩子王、謎路人、夕陽武士、城市雨人、一點生、必順鄉村、鐵擊、煙雨飄渺、彼岸曙光、奮樂團、普通隊長、人性先覺、末日之猩、札克忍者、輻射魚市、烏賊紳士、羅浮宮的帽子、宇宙計程車、昴宿、人性先覺、螺紋、米老虎、廢埕樂團、21世紀無聊男子、海岸乾杯、莎賓娜大樂隊、深深一擊、離岸流、渣男迷幻"
+            "lineUp":" #正在協調維持卡司將近快公布"
         },
         {
             "years": 2021,
-            "title": "般若電司音樂祭 More Than Dance Festival",
+            "title": "赤聲躁動音樂祭",
             "imageURL": null,
-            "startDate": "2021/05/21",
-            "endDate": "2021/05/22",
-            "location": {"locationName": "台北 三創Clapper Studio", "locationAddress": "台北市中正區市民大道三段2號", "latitude": 25.045533444861807, "longitude": 121.5312048541177},
-            "mail": "piscoband@gmail.com",
-            "latestAttend": "糖果超新星奔走來襲｜CANDY☆STAR",
+            "startDate": "2021/10/16",
+            "endDate": "2021/10/17",
+            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
+            "mail": "emergemusiclive@gmail.com",
+            "latestAttend": "👨‍🚀台空人最終波出動： 麋先生 MIXER👨‍🚀​​",
             "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "『般若電司音樂祭= More Than Dance Festival』\n生日嘛，總是想要熱熱鬧鬧，那就把老朋友跟新朋友通通揪在一起來到P!SCO的小世界，我們邀請了超過好多組樂團與偶像，要一起在三創瘋狂派對！！不只是跳舞這麼簡單，歡笑與感動的淚水才是P!SCO最喜歡的愛哭包組合。",
-            "eventLastUpdate": "2021/04/14",
-            "eventTicket": [
-                { "tickName": "盲鳥雙日", "salePeriod": "2021/04/09 ~ 2021/04/13", "price" : 1100, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日", "salePeriod": "2021/04/14 ~ 2021/05/20", "price" : 1300, "ticketStatus": "onSale"},
-                { "tickName": "雙日身障票", "salePeriod": "2021/04/14 ~ 2021/05/20", "price" : 600, "ticketStatus": "onSale"},
-                { "tickName": "單日票4/21起販售，與現場票完整資訊即將公佈", "salePeriod": "2021/04/21 ~ 2021/05/20", "price" : 9999, "ticketStatus": "commingSoon"}
-            ],
-            "lineUp": "劈開般若電司的封印｜P!SCO, 公主夜夢中誕生而出｜Carnival, 黑暗中尋找光的出口｜Vast & Hazy, 環繞在宇宙行星軌道｜麥琪麥琪 MakeMake, 照射月亮魔法而生長｜月宵◇クレシェンテ, 糖果超新星奔走來襲｜CANDY STAR, 水果少女起身戰鬥吧｜Ruka Banana, 使用幻彩照耀爆破彈｜幻色プリンセス, 光合作用恣意下灑落｜陽光◆スペクトラ, 幻化蝴蝶成花思慕著｜ゲシュタルト乙女 Gestalt Girl, 墜落在眷戀的迷宮裡｜DizLike, 糖果超新星奔走來襲｜CANDY☆STAR"
-        },
-        {
-            "years": 2021,
-            "title": "食歸祭",
-            "imageURL": null,
-            "startDate": "2021/05/29",
-            "endDate": "2021/05/30",
-            "location": null,
-            "mail": "tsiahkuetsifestival@gmail.com",
-            "latestAttend": "【 ♬ 任性發光的能量場：鄭宜農 ♬ 】",
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "食歸祭取自兒時阿嬤的問候語：「欲食果子某？」食果子，可以是問候，也可以是一場交流的開端...\n以一句「食果子」貫穿主軸，透過音樂傳遞那些開不了口的關切；用「歸來」作結，邀請來自不同世代的你，共同感受樂音與情感的交織。",
-            "eventLastUpdate": "2021/04/30",
-            "eventTicket": null,
-            "lineUp": "荷爾蒙少年 Hormone Boys、昏鴉 The Murky Crows、淺堤 Shallow Levée、毀容姐妹會、拍謝少年 Sorry Youth、農村武裝青年、溫室雜草 Easy Weeds、青虫 aoi、 庸俗救星、 噪鬱部長、 縮影 Epitome、 王立 Wanglee、 乾淨的房間 TheCleanroom、 你太白了，去曬黑、 廢埕樂團、26R、 鄭宜農 Enno Cheng"
-        },
-        {
-            "years": 2021,
-            "title": "搖滾連續祭。屏東大亂鬥",
-            "imageURL": null,
-            "startDate": "2021/07/03",
-            "endDate": "2021/07/04",
-            "location": {"locationName": "屏東縣體育館", "locationAddress": "屏東縣屏東市勝利路9號​​", "latitude": 22.677795818512767, "longitude": 120.4938240686413},
-            "mail": "heartownfest@gmail.com",
-            "latestAttend": "P!SCO｜八十八顆芭樂籽｜OBSESS｜男子漢｜OBSESS ",
-            "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
-            "description": "國海風，炎陽高照\n熱浪下的噪音炸裂天地\n一群勇猛的Diehard在台下群魔亂舞\n我們是搖滾連續祭\n全台灣最炸裂的現場，即將屏東登入\n準備好了嗎？Line Up拳拳到肉\n熱身好了嗎？Line Up首首大唱\n球鞋穿好，大口喝水，毛巾飛舞，塵土飛楊\n誰在跟你chill啦！這裡都開三圈以上的啦！",
-            "eventLastUpdate": "2021/04/30",
+            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
+            "eventLastUpdate": "2021/05/16",
             "eventTicket": [
-                { "tickName": "早鳥單日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 800, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日", "salePeriod": "2021/04/25 ~ 2021/05/25", "price" : 1200, "ticketStatus": "soldOut"},
-                { "tickName": "預售單日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1000, "ticketStatus": "onSale"},
-                { "tickName": "預售雙日", "salePeriod": "2021/05/26 ~ 2021/07/02", "price" : 1500, "ticketStatus": "onSale"}
+                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
+                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "秀集團｜無妄合作社｜康士坦的變化球｜怕胖團｜海豚刑警｜溫蒂漫步｜神棍樂團｜Future after a Second｜達摩樂隊｜P!SCO｜OBSESS｜八十八顆芭樂籽｜固定客｜恕樂團｜SHOOT UP｜男子漢｜米老虎｜6XT7｜A piece of cake 256｜暴噬者｜海岸乾杯"
+            "lineUp": "deca joins．麋先生．AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途． 蘭花刀．倒車入庫．BIKE機踏車樂團．麥琪麥琪． icyball冰球樂團．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種． 米老虎​​​"
         },
         {
             "years": 2021,
             "title": "浪人祭",
             "imageURL": null,
-            "startDate": "2021/07/09",
-            "endDate": "2021/07/11",
+            "startDate": "2021/10/29",
+            "endDate": "2021/10/31",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "Lazy Habits、槍擊潑辣 X R-flow",
+            "latestAttend": "➼ ﾟ.*‧。 2021浪人祭｜第六波演出號 非人物種 Inhuman",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/05/06",
+            "eventLastUpdate": "2021/05/16",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
-                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "onSale"},
+                { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "soldOut"},
                 { "tickName": "海鳥學生票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
                 { "tickName": "超海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
                 { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
                 
             ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow"
-        },
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、甜約翰、南西肯恩、溫蒂漫步、靈魂沙發、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種"
+        }
+    ],
+    "nextYearEvents": [
         {
-            "years": 2021,
+            "years": 2022,
             "title": "爛泥發芽(台北)",
             "imageURL": null,
-            "startDate": "2021/07/17",
-            "endDate": "2021/07/18",
+            "startDate": "2021/01/01",
+            "endDate": "2021/01/02",
             "location": null,
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "麥琪麥琪",
+            "latestAttend": null,
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/04/30",
+            "eventLastUpdate": "2021/06/17",
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
-                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "onSale"},
+                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "soldOut"},
                 { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "onSale"},
                 { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
                 { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "傷心欲絕｜八十八顆芭樂籽 | 老破麻 | 昏鴉 | 固定客｜餵飽豬｜共犯結構 | SHOOT UP |荒山茉莉 | 當代電影大師 | SADOG | 麥琪麥琪"
-        },
-        {
-            "years": 2021,
-            "title": "赤聲躁動音樂祭",
-            "imageURL": null,
-            "startDate": "2021/07/24",
-            "endDate": "2021/07/25",
-            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "倒車入庫",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
-            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
-            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/05/02",
-            "eventTicket": [
-                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "deca joins．AKB48 Team TP．怕胖團．魏嘉瑩．甜約翰．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓．EFTC破繭而出．恆月三途． 蘭花刀．倒車入庫．兩棲人．BIKE機踏車樂團．麥琪麥琪．陽光◆スペクトラ ．獨立人種．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．毀滅體制．倒車入庫"
+            "lineUp": "延期後將重新釋出"
         }
-    ],
-    "nextYearEvents": []
+    ]
 }
