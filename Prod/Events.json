@@ -57,14 +57,14 @@
             "endDate": "2021/09/26",
             "location": null,
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "Vast & Hazy．海豚刑警．荷爾蒙少年．老破麻",
+            "latestAttend": "魏嘉瑩 Arrow Wei．Crispy脆樂團 ．南西肯恩 ． Bike機踏車樂團 ​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
             "purchaseUrl":  null,
             "description": "【臺中原創音樂大賽2021】​#線上見\n精彩賽事 x 講唱 x 講座 x 熱力開唱​\n直播日期：2021/9/18-19​\n",
             "eventLastUpdate": "2021/08/11",
             "eventTicket": null,
-            "lineUp": "Vast & Hazy．海豚刑警．荷爾蒙少年．老破麻"
+            "lineUp": "EastWave 東波．EMERGING FROM THE COCOON．LadyTrouble 草包小姐．Locu5・WarmWall 暖巢．Wednesday and Bad To The Bone．Yilith．王彙筑 Hui Chu Wang．沛莉小子Paleee Dot．兩棲人．草屯囝仔．張仁與．陳翰．深深一擊．庸俗救星．等阮返來．遊樂 ULove．潛夢島 Dreamdive Island．隱分子．靈魂咆哮 Roaring Atman．​Tizzy Bac． 麋先生． 守夜人． P!SCO．克里夫． 王立言． jiMMY and more​"
         },
         {
             "years": 2021,
@@ -95,7 +95,7 @@
             "endDate": "2021/10/31",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
             "mail": "vagabond.fest.tw@gmail.com",
-            "latestAttend": "➼ ﾟ.*‧。 2021浪人祭｜第七波演出號 TEMPO POPO ",
+            "latestAttend": "➼ ﾟ.*‧。 2021浪人祭｜第八波演出號 理想混蛋 Bestards ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
@@ -110,7 +110,7 @@
                 { "tickName": "愛心票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 999, "ticketStatus": "onSale"}
                 
             ],
-            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、南西肯恩、溫蒂漫步、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種、隨性、彼岸曙光、煙雨漂渺、DJ.呱吉、DJ.鴨豚＠＠、TEMPO POPO"
+            "lineUp": "黃玠、鄭宜農、拍謝少年、淺堤、青虫、張心柔、南西肯恩、溫蒂漫步、hue、王品裙、海豚刑警、厭世少年、熱寫生、everfor、怕胖團、SADOG、春艷 X 李權哲、榕幫、PUZZLEMAN、South Bad Boy、我是機車少女、溫室雜草、大象體操 feat.呱吉、血肉果汁機、Lazy Habits、槍擊潑辣 X R-flow、Skaraoke、黑色收音機派對、老破麻、OBSESS、非人物種、隨性、彼岸曙光、煙雨漂渺、DJ.呱吉、DJ.鴨豚＠＠、TEMPO POPO、DJ.ILLPA、DJ.BENJAMINSE7EN Ｘ ÜSAL、理想混蛋... and more！"
         }
     ],
     "nextYearEvents": [
@@ -147,7 +147,7 @@
             "endDate": "2022/02/13",
             "location": {"locationName": "清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路70號​​", "latitude": 24.272529922074817, "longitude": 120.58274994177026},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": null,
+            "latestAttend": "【浮現祭2022】第四波老朋友回歸 #瞬光再閃",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
@@ -158,7 +158,7 @@
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 1300, "ticketStatus": "commingSoon"},
                 { "tickName": "大探險家 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 1800, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "滅火器．棉花糖．拍謝少年 and more！​"
+            "lineUp": "滅火器．棉花糖．拍謝少年．閃閃閃閃 and more！​​"
         },
         {
             "years": 2022,
