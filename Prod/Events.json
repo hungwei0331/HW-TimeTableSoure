@@ -4,30 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "2021 陰涼祭",
-            "imageURL": "",
-            "startDate": "2021/08/27",
-            "endDate": "2021/08/28",
-            "location": {"locationName": "實體演出場地 │ LoFi Bistro （濕地Venue 1 F), 線上直播平台 │ KKTIX 虛擬場館", "locationAddress": "臺北市中山區林森北路107巷10號1F", "latitude": 25.050261818915434, "longitude": 121.52540252647319},
-            "mail": "muziu@windmusic.com.tw",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "月光光～心慌慌～\n暗陰涼！樂團界的藍色水玲瓏回來了！\n讓四組獨立樂團的恐怖故事大賽與Live演出，\n帶來夏日最透心涼的微解封同樂會，\n鬼門打開毋免驚，\n毛起來的消暑暢快都在2021陰涼祭！",
-            "eventLastUpdate": "2021/08/02",
-            "eventTicket": [
-                { "tickName": "8/27 單日現場票+暗陰涼禮盒組", "salePeriod": "~ 2021/08/27", "price" : 799, "ticketStatus": "onSale"},
-                { "tickName": "8/28 單日現場票+暗陰涼禮盒組", "salePeriod": "~ 2021/08/28", "price" : 799, "ticketStatus": "soldOut"},
-                { "tickName": "8/27 單日線上納涼票+暗陰涼禮盒組", "salePeriod": "~ 2021/08/27", "price" : 150, "ticketStatus": "onSale"},
-                { "tickName": "8/27 線上納涼票", "salePeriod": "~ 2021/08/27", "price" : 150, "ticketStatus": "onSale"},
-                { "tickName": "8/28 單日線上納涼票+暗陰涼禮盒組", "salePeriod": "~ 2021/08/28", "price" : 599, "ticketStatus": "onSale"},
-                { "tickName": "8/28 線上納涼票", "salePeriod": "~ 2021/08/28", "price" : 150, "ticketStatus": "onSale"}
-            ],
-            "lineUp":" The Tic Tac、淺堤、怕胖團、老破麻"
-        },
-        {
-            "years": 2021,
             "title": "爛泥發芽(高雄)",
             "imageURL": "",
             "startDate": "2021/09/25",
