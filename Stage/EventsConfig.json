@@ -5,7 +5,7 @@
             "years": 2021,
             "name": "爛泥發芽(高雄)",
             "period": "2021/05/15 - 2020/05/16",
-            "type":"breakingMudKao",
+            "type":"BreakingMudKao",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "status": ""
         },
@@ -13,7 +13,7 @@
             "years": 2021,
             "name": "車庫103搖滾派對",
             "period": "2021/05/01 - 2021/05/01",
-            "type":"tmp1",
+            "type":"Tmp1",
             "location": {"locationName": "北灣俱場", "locationAddress": "台北市北投區大度路一段21號", "latitude": 25.121145208607352, "longitude": 121.49748855767852},
             "status": ""
         },
@@ -21,7 +21,7 @@
             "years": 2021,
             "name": "所謂音樂祭",
             "period": "2021/04/24 - 2021/04/24",
-            "type":"soulWave",
+            "type":"SoulWave",
             "location": {"locationName": "五峰旗風景區", "locationAddress": "宜蘭縣礁溪鄉五峰路81巷6號", "latitude": 24.832390816606413, "longitude": 121.74688804018994},
             "status": ""
         },
@@ -29,7 +29,7 @@
             "years": 2021,
             "name": "諸羅祭",
             "period": "2021/04/10 - 2021/04/11",
-            "type":"jurassic",
+            "type":"Jurassic",
             "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.477113041261845, "longitude": 120.4398425840031},
             "status": ""
         },
@@ -37,7 +37,7 @@
             "years": 2021,
             "name": "湖畔音樂節",
             "period": "2021/04/08 - 2021/04/11",
-            "type":"lakeSide",
+            "type":"LakeSide",
             "location": {"locationName": "中興大學行政後草、雲平前草", "locationAddress": "臺中市南區興大路145號", "latitude": 24.123405106631218, "longitude": 120.6753796420041},
             "status": ""
         },
@@ -45,7 +45,7 @@
             "years": 2021,
             "name": "台灣祭",
             "period": "2021/04/01 - 2021/04/03",
-            "type":"taiwan",
+            "type":"Taiwan",
             "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
             "status": ""
         },
@@ -53,7 +53,7 @@
             "years": 2021,
             "name": "大港開唱",
             "period": "2021/03/27 - 2021/03/28",
-            "type":"mega",
+            "type":"Mega",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "status": ""
         },
@@ -61,7 +61,7 @@
             "years": 2021,
             "name": "河岸二十音樂祭之西門慶與紅樓夢",
             "period": "2021/03/25 - 2021/03/28",
-            "type":"tmp",
+            "type":"Tmp",
             "location": {"locationName": "河岸留言西門紅樓展演館", "locationAddress": "臺北市萬華區西寧南路177號", "latitude": 25.042806840052833,  "longitude": 121.50671934461703},
             "status": ""
         },
@@ -69,7 +69,7 @@
             "years": 2021,
             "name": "浮現祭",
             "period": "2021/02/27 - 2021/02/28",
-            "type":"emergeLive",
+            "type":"EmergeLive",
             "location": {"locationName": "山海一線－台中清水​", "locationAddress": "台中市清水區中山路90號​", "latitude": 24.265556817801844, "longitude": 120.57407563994859},
             "status": ""
         },
@@ -77,7 +77,7 @@
             "years": 2021,
             "name": "台大音樂節",
             "period": "2021/01/30 - 2020/01/31",
-            "type":"ntu",
+            "type":"Ntu",
             "location": {"locationName": "臺灣大學舊體育館及舊體育館後草皮", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.019875665434647, "longitude": 121.53622158194536},
             "status": ""
         },
@@ -85,7 +85,7 @@
             "years": 2020,
             "name": "SimpleLife簡單生活節",
             "period": "2020/12/12 - 2020/12/13",
-            "type":"simpleLife",
+            "type":"SimpleLife",
             "location": {"locationName": "華山 1914 文化創意產業園區", "locationAddress": "台北市中正區八德路一段1號", "latitude": 25.043474, "longitude": 121.529283},
             "status": ""
         },
@@ -93,7 +93,7 @@
             "years": 2020,
             "name": "搖滾連續祭",
             "period": "2020/12/04 - 2020/12/06",
-            "type":"comboRock",
+            "type":"ComboRock",
             "location": {"locationName": "歷史建築帝國製糖廠臺中營業所", "locationAddress": "台中市東區泉源里樂業路30號", "latitude": 24.137981, "longitude": 120.692164},
             "status": ""
         },
@@ -101,7 +101,7 @@
             "years": 2020,
             "name": "貴人散步音樂節",
             "period": "2020/11/27 - 2020/11/29",
-            "type":"lucFest",
+            "type":"LucFest",
             "location": {"locationName": "臺南市美術館2館", "locationAddress": "台南市中西區忠義路二段1號", "latitude": 22.990638, "longitude": 120.201376},
             "status": ""
         }
