@@ -4,43 +4,20 @@
     [
         {
             "years": 2021,
-            "title": "爛泥發芽(高雄)",
-            "imageURL": "",
-            "startDate": "2021/09/25",
-            "endDate": "2021/09/26",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
-            "mail": "surroundingsound@gmail.com",
-            "latestAttend": "末日之猩、札克忍者、烏賊紳士、宇宙計程車、莎賓娜大樂隊、昴宿、21世紀無聊男子、螺紋",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/09/05",
-            "eventTicket": [
-                { "tickName": "愛心票", "salePeriod": "~ 2021/05/16", "price" : 749, "ticketStatus": "onSale"},
-                { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
-                { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "soldOut"},
-                { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/05/16", "price" : 1649, "ticketStatus": "onSale"},
-                { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
-            ],
-            "lineUp":"滅火器 Fire EX.老破麻 、海豚刑警 、無妄合作社、夕陽武士 、孩子王、謎路人、EmptyORio、一點生、普通隊長、輻射魚市、必順鄉村、鐵擊、城市雨人、煙雨飄渺 、彼岸曙光、人性先覺、末日之猩、札克忍者、烏賊紳士、宇宙計程車、莎賓娜大樂隊、昴宿、21世紀無聊男子、螺紋"
-        },
-        {
-            "years": 2021,
             "title": "搖滾台中線上音樂節",
             "imageURL": "",
             "startDate": "2021/09/24",
             "endDate": "2021/09/26",
             "location": null,
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "鄭宜農 Enno Cheng ．棉花糖_katncandix2 ．P!SCO  x 月宵◇クレシェンテ (Toyplaトイプラ)． Misi Ke 柯泯薰 ． 步行者 Pacers ​​",
+            "latestAttend": "tricot (JP)​．the telephones (JP)​．Broken By The Scream (JP)​． Ritalinn (Official)(TH)．The Filters (MY)．​라이브유빈 LiveYubin (KR)​ ​​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
             "purchaseUrl":  null,
             "description": "【臺中原創音樂大賽2021】​#線上見\n精彩賽事 x 講唱 x 講座 x 熱力開唱​\n直播日期：2021/9/18-19​\n",
-            "eventLastUpdate": "2021/09/05",
+            "eventLastUpdate": "2021/09/13",
             "eventTicket": null,
-            "lineUp": "滅火器．宇宙人．鄭宜農．黃玠．棉花糖．拍謝少年．the band apart(JP)．怕胖團．Vast & Hazy．脆樂團．海豚刑警．P!SCO&月宵◇クレシェンテ．流氓阿德．魏嘉瑩．柯泯薰．南西肯恩．荷爾蒙少年．OBSESS．老破麻．FUTURE AFTER A SECOND．固定客．BIKE．步行者．最後一擊 and more​​​​"
+            "lineUp": "滅火器．宇宙人．鄭宜農．黃玠．棉花糖．拍謝少年．the band apart(JP)．tricot(JP)．怕胖團．the telephones(JP)．Vast & Hazy．脆樂團．海豚刑警．P!SCOx月宵◇クレシェンテ．流氓阿德．魏嘉瑩．柯泯薰．南西肯恩．荷爾蒙少年．Ritalinn(TH)．OBSESS．老破麻．FUTURE AFTER A SECOND．The Filters(MY)．固定客．BIKE．步行者．最後一擊．Broken By The Scream(JP)．LiveYubin(KR)"
         },
         {
             "years": 2021,
@@ -50,18 +27,18 @@
             "endDate": "2021/10/17",
             "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "🚀溫室雜草ー爛漫世代火箭​🚀​​",
+            "latestAttend": "🚀 Flesh Juicer 血肉果汁機 ー粗殘宇宙🚀​​​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
             "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/09/05",
+            "eventLastUpdate": "2021/09/13",
             "eventTicket": [
                 { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
-            "lineUp": "deca joins．麋先生．AKB48 Team TP．怕胖團．魏嘉瑩．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途．icyball冰球樂團．蘭花刀．BIKE機踏車樂團．麥琪麥琪． 溫室雜草．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種 and more"
+            "lineUp": "deca joins．麋先生．血肉果汁機．AKB48 Team TP．怕胖團．魏嘉瑩．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途．icyball冰球樂團．蘭花刀．BIKE機踏車樂團．麥琪麥琪． 溫室雜草．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種 and more​"
         },
         {
             "years": 2021,
@@ -76,7 +53,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw/", "clickable": true },
             "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
             "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2021/08/29",
+            "eventLastUpdate": "2021/09/13",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
                 { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},

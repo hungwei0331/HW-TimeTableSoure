@@ -37,3 +37,26 @@
     "eventTicket": null,
     "lineUp": "🎸05/22(六)\n七字輩 Generation7、鹿角樂團 - Nuka、 槍擊潑辣 Guntzepaula、 神棍樂團 ZenKwun、 告五人 Accusefive\n\n🎸05/23(日)\nThe Silent City 沈默城市、丘與樂、胖虎 punkhoo、 南西肯恩、 麋先生 MIXER\n\n🎸05/29(六)\n鹿洐人 HumanHart、The Tic Tac、五五身 Fiftybodyfifty、好樂團 GoodBand、怕胖團 PA PUN BAND\n\n🎸05/30(日)\n山姆要不要、YoYo Group、表兒 ChildrenSucker、夕陽武士 Sunset Samurai、滅火器 Fire EX.\n\n🎸06/05(六)\n城市音雄 City Music Hero、WoodyWoody樂團、尋找尼歐Finding NEO、八十八顆芭樂籽 88balaz、1976樂團\n\n🎸06/06(日)\n遊樂 ULove、Unknown 無定義、固定客GOODICK、老破麻 - Old Slut Distortion、魏如萱 waa wei\n\n"
 },
+{
+    "years": 2021,
+    "title": "爛泥發芽(高雄)",
+    "imageURL": "",
+    "startDate": "2021/09/25",
+    "endDate": "2021/09/26",
+    "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
+    "mail": "surroundingsound@gmail.com",
+    "latestAttend": "末日之猩、札克忍者、烏賊紳士、宇宙計程車、莎賓娜大樂隊、昴宿、21世紀無聊男子、螺紋",
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
+    "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
+    "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
+    "eventLastUpdate": "2021/09/05",
+    "eventTicket": [
+        { "tickName": "愛心票", "salePeriod": "~ 2021/05/16", "price" : 749, "ticketStatus": "onSale"},
+        { "tickName": "現在要出征票", "salePeriod": "~ 2021/01/31", "price" : 1249, "ticketStatus": "soldOut"},
+        { "tickName": "高雄場YES I DO單人雙日票", "salePeriod": "~ 2021/01/31", "price" : 1499, "ticketStatus": "soldOut"},
+        { "tickName": "最後關頭 17:11 票", "salePeriod": "~ 2021/05/16", "price" : 1649, "ticketStatus": "onSale"},
+        { "tickName": "鋼鐵爛粉雙人票", "salePeriod": "~ 2021/01/31", "price" : 1998, "ticketStatus": "soldOut"}
+    ],
+    "lineUp":"滅火器 Fire EX.老破麻 、海豚刑警 、無妄合作社、夕陽武士 、孩子王、謎路人、EmptyORio、一點生、普通隊長、輻射魚市、必順鄉村、鐵擊、城市雨人、煙雨飄渺 、彼岸曙光、人性先覺、末日之猩、札克忍者、烏賊紳士、宇宙計程車、莎賓娜大樂隊、昴宿、21世紀無聊男子、螺紋"
+},
