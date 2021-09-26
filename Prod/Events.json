@@ -4,44 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "搖滾台中線上音樂節",
-            "imageURL": "",
-            "startDate": "2021/09/24",
-            "endDate": "2021/09/26",
-            "location": null,
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "tricot (JP)​．the telephones (JP)​．Broken By The Scream (JP)​． Ritalinn (Official)(TH)．The Filters (MY)．​라이브유빈 LiveYubin (KR)​ ​​",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "【臺中原創音樂大賽2021】​#線上見\n精彩賽事 x 講唱 x 講座 x 熱力開唱​\n直播日期：2021/9/18-19​\n",
-            "eventLastUpdate": "2021/09/13",
-            "eventTicket": null,
-            "lineUp": "滅火器．宇宙人．鄭宜農．黃玠．棉花糖．拍謝少年．the band apart(JP)．tricot(JP)．怕胖團．the telephones(JP)．Vast & Hazy．脆樂團．海豚刑警．P!SCOx月宵◇クレシェンテ．流氓阿德．魏嘉瑩．柯泯薰．南西肯恩．荷爾蒙少年．Ritalinn(TH)．OBSESS．老破麻．FUTURE AFTER A SECOND．The Filters(MY)．固定客．BIKE．步行者．最後一擊．Broken By The Scream(JP)．LiveYubin(KR)"
-        },
-        {
-            "years": 2021,
-            "title": "赤聲躁動音樂祭",
-            "imageURL": null,
-            "startDate": "2021/10/16",
-            "endDate": "2021/10/17",
-            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "🚀 Flesh Juicer 血肉果汁機 ー粗殘宇宙🚀​​​",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
-            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
-            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/09/13",
-            "eventTicket": [
-                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "deca joins．麋先生．血肉果汁機．AKB48 Team TP．怕胖團．魏嘉瑩．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途．icyball冰球樂團．蘭花刀．BIKE機踏車樂團．麥琪麥琪． 溫室雜草．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種 and more​"
-        },
-        {
-            "years": 2021,
             "title": "浪人祭",
             "imageURL": null,
             "startDate": "2021/10/29",
@@ -105,7 +67,28 @@
                 { "tickName": "旅宿套票", "salePeriod": "2021/04/02 ~ 2021/11/25", "price" : 99999, "ticketStatus": "onSale"}
             ],
             "lineUp": null
-        }
+        },
+        {
+            "years": 2021,
+            "title": "赤聲躁動音樂祭",
+            "imageURL": null,
+            "startDate": "2021/12/18",
+            "endDate": "2021/12/19",
+            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
+            "mail": "emergemusiclive@gmail.com",
+            "latestAttend": "🚀 Flesh Juicer 血肉果汁機 ー粗殘宇宙🚀​​​",
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
+            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
+            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
+            "eventLastUpdate": "2021/09/13",
+            "eventTicket": [
+                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
+                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "deca joins．麋先生．血肉果汁機．AKB48 Team TP．怕胖團．魏嘉瑩．Vast & Hazy．P!SCO．DSPS． 南西肯恩．體熊專科．老破麻．荷爾蒙少年．溫蒂漫步．月宵◇クレシェンテ ．步行者 x 多多&以捷．恕SOLEMN．午夜乒乓． 黃宇寒．EFTC破繭而出．恆月三途．icyball冰球樂團．蘭花刀．BIKE機踏車樂團．麥琪麥琪． 溫室雜草．陽光◆スペクトラ ．兩棲人．毀滅體制．地下道樂團．WAYNE BAND． 阿丹玩球球．等阮返來．獨立人種 and more​"
+        },
     ],
     "nextYearEvents": [
         {
