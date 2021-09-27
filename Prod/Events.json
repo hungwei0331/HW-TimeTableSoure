@@ -124,12 +124,12 @@
             "endDate": "2022/02/13",
             "location": {"locationName": "清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路70號​​", "latitude": 24.272529922074817, "longitude": 120.58274994177026},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "告五人 Accusefive​",
-            "ticketStatus": "commingSoon",
+            "latestAttend": "怕胖團．神棍樂團．A PIECE OF CAKE 256​",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "海線的浮現，陽光下隨節奏跳躍，海風中輕輕鬆鬆在小鎮漫步，衝撞後尋尋覓覓清水美食；要山有山、要海有海，高美海景、大肚山夜景，難得相見的音樂祭朋友，一起出發去旅行，海派的澎派，冒險的開場。​\n浮現祭2022．大冒險解禁！​\n生活總是太多煩惱，這世界總是不如預期，誰能懂我的節奏？看來只能自己去探索！​\n期待已久的冒險，目標是山的頂點，面對所有的考驗！You know you're not afraid！​",
-            "eventLastUpdate": "2021/08/29",
+            "eventLastUpdate": "2021/09/27",
             "eventTicket": [
                 { "tickName": "福袋票", "salePeriod": "2022/08/17 ~ 2022/02/12", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 1300, "ticketStatus": "soldOut"},
@@ -139,7 +139,7 @@
                 { "tickName": "冒險末班 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 2300, "ticketStatus": "commingSoon"},
                 { "tickName": "愛心票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 650, "ticketStatus": "onSale"},
             ],
-            "lineUp": "宇宙人．黃玠．拍謝少年．the band apart(JP)．Vast & Hazy．脆樂團．海豚刑警．流氓阿德．魏嘉瑩．南西肯恩．荷爾蒙少年．老破麻．BIKE．最後一擊．告五人 Accusefive and more​"
+            "lineUp": "滅火器．棉花糖．告五人．拍謝少年．閃閃閃閃．理想混蛋．怕胖團．神棍樂團．A PIECE OF CAKE 256 and more！​​"
         },
         {
             "years": 2022,
