@@ -21,6 +21,23 @@
         },
         {
             "years": 2021,
+            "title": "2021大路邊之聲x台式搖滾⁣",
+            "imageURL": null,
+            "startDate": "2021/10/23",
+            "endDate": "2021/10/24",
+            "location": {"locationName": "三創 1F 市民廣場⁣⁣", "locationAddress": "10058台北市中正區市民大道三段2號​​", "latitude": 25.046139319896827, "longitude": 121.53136161534523},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/syntrend/?fbclid=IwAR3VmglOwgp2-YbcMrwoFTdTTdDbzGFLDgHA5EY-0-SNDyJntj6u-N0Cjlk", "clickable": true },
+            "purchaseUrl":  {"url": "https://www.instagram.com/syntrend/?fbclid=IwAR3VmglOwgp2-YbcMrwoFTdTTdDbzGFLDgHA5EY-0-SNDyJntj6u-N0Cjlk", "clickable": false },
+            "description": null,
+            "eventLastUpdate": "2021/10/13",
+            "eventTicket": null,
+            "lineUp": "溫蒂漫步｜SADOG ｜美秀集團 |溫室雜草 |賀爾蒙少年 |拍謝少年 ⁣"
+        },
+        {
+            "years": 2021,
             "title": "呷涼祭⁣",
             "imageURL": null,
             "startDate": "2021/10/23",
@@ -52,7 +69,7 @@
             "eventLastUpdate": "2021/09/13",
             "eventTicket": [
                 { "tickName": "獵愛欲售票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1999, "ticketStatus": "onSale"},
-                { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "onSale"},
+                { "tickName": "雙人疾走票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 3598, "ticketStatus": "soldOut"},
                 { "tickName": "海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1599, "ticketStatus": "soldOut"},
                 { "tickName": "海鳥學生票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
                 { "tickName": "超海鳥票", "salePeriod": "2021/04/02 ~ 2021/07/08", "price" : 1399, "ticketStatus": "soldOut"},
