@@ -109,8 +109,8 @@
         {
            "stage": "風獅",
            "stageLineUp": [
-            { "bandName": "彼岸曙光", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
-            { "bandName": "熱血生", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+            { "bandName": "熱血生", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
+            { "bandName": "彼岸曙光", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
             { "bandName": "DJ ILLPA", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
             { "bandName": "PUZZLEMAN", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
             { "bandName": "DJ 鴨豚＠＠", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
