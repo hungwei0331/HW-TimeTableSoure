@@ -80,6 +80,28 @@
                 { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
             ],
             "lineUp": "deca joins、麋先生、血肉果汁機、AKB48 Team TP、Vast & Hazy​、怕胖團、魏嘉瑩、P!SCO．DSPS．南西肯恩​、荷爾蒙少年​、恕樂團、老破麻、溫蒂漫步、鹿洐人、步行者X多多&以捷、黃宇寒、王彙筑、月宵◇クレシェンテ x 陽光◆スペクトラ、Blueburn、EFTFC破繭而出、icyball冰球樂團、蘭花刀、黃嬉皮、BIKE​​、恆月三途、麥琪麥琪、遊樂ULove、庸俗救星、等阮返來、毀滅體制、兩棲人、地下道、狗吠火車、獨立人種、娜卡希子、Grandson on the Wall、震樂堂 昼食彼女 Lunch Girls、CANDY☆STAR、Viral404▽バイラルエラー、無妄合作社"
+        },
+        {
+            "years": 2021,
+            "title": "般若電司音樂祭 More Than Dance Festival",
+            "imageURL": null,
+            "startDate": "2021/12/25",
+            "endDate": "2021/12/26",
+            "location": {"locationName": "台北 三創Clapper Studio", "locationAddress": "台北市中正區市民大道三段2號", "latitude": 25.045533444861807, "longitude": 121.5312048541177},
+            "mail": "piscoband@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "『般若電司音樂祭= More Than Dance Festival』\n生日嘛，總是想要熱熱鬧鬧，那就把老朋友跟新朋友通通揪在一起來到P!SCO的小世界，我們邀請了超過好多組樂團與偶像，要一起在三創瘋狂派對！！不只是跳舞這麼簡單，歡笑與感動的淚水才是P!SCO最喜歡的愛哭包組合。",
+            "eventLastUpdate": "2021/11/10",
+            "eventTicket": [
+                { "tickName": "12/25單日預售票", "salePeriod": "2021/10/29 ~ 2021/12/24", "price" : 800, "ticketStatus": "onSale"},
+                { "tickName": "12/26單日預售票", "salePeriod": "2021/10/29 ~ 2021/12/24", "price" : 1000, "ticketStatus": "onSale"},
+                { "tickName": "12/25現場票", "salePeriod": "2021/12/25 ~ 2021/12/25", "price" : 1000, "ticketStatus": "commingSoon"},
+                { "tickName": "12/25現場票", "salePeriod": "2021/12/26 ~ 2021/12/26", "price" : 1200, "ticketStatus": "commingSoon"}
+            ],
+            "lineUp": "P!SCO 、Vast & Hazy 、ゲシュタルト乙女 、dizLike、麥琪麥琪、Carnival 、月宵◇クレシェンテ 、CANDY☆STAR、幻色プリンセス、陽光◆スペクトラ、Ruka Banana、日蝕エクリプス，更多演出陣容待公布。"
         }
     ],
     "nextYearEvents": [
