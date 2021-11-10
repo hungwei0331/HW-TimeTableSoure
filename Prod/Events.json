@@ -25,7 +25,7 @@
             "imageURL": null,
             "startDate": "2021/11/20",
             "endDate": "2021/11/20",
-            "location": null,
+            "location": {"locationName": "艋舺清水巖祖師廟前", "locationAddress": "108台北市萬華區康定路81號", "latitude": 25.041080614133367, "longitude": 121.50270079999999},
             "mail": "service@mail.create.org.tw",
             "latestAttend": null,
             "ticketStatus": "onSale",
