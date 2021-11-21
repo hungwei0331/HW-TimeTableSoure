@@ -2,18 +2,6 @@
     "banners":
     [
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/unlimitedFreedom.jpg",
-            "officalUrl": null,
-            "type": null,
-            "status": null
-        },
-        {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/roar.jpg",
-            "officalUrl": null,
-            "type": null,
-            "status": null
-        },
-        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/lucfest.jpg",
             "officalUrl": null,
             "type": null,
