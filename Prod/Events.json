@@ -77,14 +77,14 @@
             "instagramUrl": null,
             "purchaseUrl": null,
             "description": "『般若電司音樂祭= More Than Dance Festival』\n生日嘛，總是想要熱熱鬧鬧，那就把老朋友跟新朋友通通揪在一起來到P!SCO的小世界，我們邀請了超過好多組樂團與偶像，要一起在三創瘋狂派對！！不只是跳舞這麼簡單，歡笑與感動的淚水才是P!SCO最喜歡的愛哭包組合。",
-            "eventLastUpdate": "2021/11/10",
+            "eventLastUpdate": "2021/11/22",
             "eventTicket": [
                 { "tickName": "12/25單日預售票", "salePeriod": "2021/10/29 ~ 2021/12/24", "price" : 800, "ticketStatus": "onSale"},
                 { "tickName": "12/26單日預售票", "salePeriod": "2021/10/29 ~ 2021/12/24", "price" : 1000, "ticketStatus": "onSale"},
                 { "tickName": "12/25現場票", "salePeriod": "2021/12/25 ~ 2021/12/25", "price" : 1000, "ticketStatus": "commingSoon"},
                 { "tickName": "12/25現場票", "salePeriod": "2021/12/26 ~ 2021/12/26", "price" : 1200, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "P!SCO 、Vast & Hazy 、ゲシュタルト乙女 、dizLike、麥琪麥琪、Carnival 、月宵◇クレシェンテ 、CANDY☆STAR、幻色プリンセス、陽光◆スペクトラ、Ruka Banana、日蝕エクリプス，更多演出陣容待公布。"
+            "lineUp": "P!SCO 、Vast & Hazy 、ゲシュタルト乙女 、dizLike、麥琪麥琪、Carnival 、月宵◇クレシェンテ 、CANDY☆STAR、幻色プリンセス、陽光◆スペクトラ、Ruka Banana、日蝕エクリプス、昼食彼女 Lunch Girls ……and more！​"
         }
     ],
     "nextYearEvents": [
@@ -96,12 +96,12 @@
             "endDate": "2021/01/02",
             "location": null,
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "Toxic Bald 河童鄉 | Kid Town  | 林同學樂團  | BB彈 | 21世紀無聊男子 21st Century Bored Guys  | 呂杰達搖滾大樂隊 | 討口一眾 Kenkaaaaaa | 渣男迷幻psychedelic douchebag  ",
+            "latestAttend": "步行者 Pacers | 非我 Feel | 蘭花刀Orchid Sword ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/11/15",
+            "eventLastUpdate": "2021/11/22",
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "soldOut"},
@@ -111,7 +111,7 @@
                 { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
                 { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "傷心欲絕 | 老破麻 | 八十八顆芭樂籽 | 當代電影大師 | 荒山茉莉 | 餵飽豬 | SADOG | SHOOTUP | 麥琪麥琪 | 固定客 | 倒車入庫 | 黑色收音機派對 | OBSESS | 河童鄉 | 少年A | KID TOWN | 林同學樂團 | BB彈 | 21世紀無聊男子 | 呂杰達搖滾大樂隊 | 討口一眾 | 渣男迷幻 ....and more "
+            "lineUp": "傷心欲絕 | 老破麻 | 八十八顆芭樂籽 | 當代電影大師 | 荒山茉莉 | 餵飽豬 | SADOG | SHOOTUP | 麥琪麥琪 | 固定客 | 倒車入庫 | 黑色收音機派對 | OBSESS | 河童鄉 | 少年A | KID TOWN | 林同學樂團 | BB彈 | 21世紀無聊男子 | 呂杰達搖滾大樂隊 | 討口一眾 | 渣男迷幻 | 宇宙計程車 | 海岸乾杯 | 培根巴掌 | 莎賓娜大樂隊 | 石青羅林 | 布萊梅 | 夢遺如來 | Wednesday與壞透樂團 | 烏鴉公寓 | 庸俗禿鷹 | 離岸流 | 徐行 | 逆瓣膜 | 深深一擊 | 梅西的房間 | 廢埕 | 普通隊長 | 步行者 | 非我 | 蘭花刀....and more"
         },
         {
             "years": 2022,
