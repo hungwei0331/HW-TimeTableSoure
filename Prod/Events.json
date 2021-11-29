@@ -4,30 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "貴人散步音樂節",
-            "imageURL": null,
-            "startDate": "2021/11/25",
-            "endDate": "2021/11/28",
-            "location": null,
-            "mail": "hello@lucfest.com",
-            "latestAttend": "SADOG｜妮可醬｜The Dinosaur's Skin 恐龍的皮｜李權哲 Jerry Li｜春艷 Chunyan｜I am Puzzleman｜FUTURE AFTER A SECOND｜榕幫 Banyan Gang｜邱比 chovbe｜G5SH｜OVDS｜Dope Purple｜邱淑蟬與Stereo 平衡訊號｜五五身 Fiftybodyfifty｜熱寫生 heat sketch｜睡後故事｜毀容姐妹會｜Ruby Fatale 鹿比 ∞ 吠陀| CNCS - Chich en Chicks | Finn 黃士勛｜阿雞 GLOJ｜李友廷｜Locu5｜濫情游泳池 Sentimental Pool｜Blueburn｜YILE LIN 林以樂｜Lazy Habits (UK)｜WOODEE (FR)｜SONIKKU (UK)｜Alena Murang (MY)｜RYOTA 片山凉太 (MY)｜Bennett Bay (SG)｜Clara Benin (PH)｜N’famady Kouyaté and The Successors of the Mandingue (UK)｜Big Phony (KR)",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true },
-            "purchaseUrl":  {"url": "https://vagabondfest.kktix.cc/events/vagabond-fest-2021?fbclid=IwAR3wecIdi7bHJ0n_jIkX4y26-tUVnse3oWevjE0vWODvY0ANksQgjKUXy6U", "clickable": false },
-            "description": "從2017年首屆貴人散步海報上的台南市景、2018年打開全新的門、2019年代表「孵育」的彩蛋、2020年邀請大家打開耳朵；邁入第五年的貴人散步2021主視覺，以繽紛的幾何圖形與顏色呈現，象徵來到貴人散步，你可以在這裡體驗台灣與國際的最新多元音樂風格、穿梭在古城的街景巷弄之中、產生化學變化與碰撞，只有貴人散步才能讓你擁有。",
-            "eventLastUpdate": "2021/10/11",
-            "eventTicket": [
-                { "tickName": "限量暖鳥票", "salePeriod": "2021/08/30 ~ 2021/11/25", "price" : 2400, "ticketStatus": "onSale"},
-                { "tickName": "3+1日票", "salePeriod": "2021/08/30 ~ 2021/11/25", "price" : 2999, "ticketStatus": "onSale"},
-                { "tickName": "PRO PASS", "salePeriod": "2021/08/30 ~ 2021/11/25", "price" : 3199, "ticketStatus": "onSale"},
-                { "tickName": "單日票", "salePeriod": "2021/09/01 ~ 2021/11/25", "price" : 1500, "ticketStatus": "onSale"},
-                { "tickName": "高鐵套票", "salePeriod": "2021/04/02 ~ 2021/11/25", "price" : 99999, "ticketStatus": "soldOut"},
-                { "tickName": "旅宿套票", "salePeriod": "2021/04/02 ~ 2021/11/25", "price" : 99999, "ticketStatus": "soldOut"}
-            ],
-            "lineUp": "HUSH｜阿飛西雅 APHASIA｜蘇珮卿 Paige Su + The Flying Monkeys｜hue｜Limi｜梗年 A Stuck Year｜COLD DEW｜南西肯恩｜布萊梅 bremen.entertainment.inc｜輻射魚市 Nuclear Fish Market｜我是機車少女i'mdifficult｜Chang Wu / 張伍｜RPG｜紫音 Jill Stark｜Everydaze｜緩緩 Huan Huan｜Qzzy 怪奇｜王水源 Lifloo｜Indoor Trip｜柔 米 Zoomie｜羅莎莎，Sabrina Lo｜葉穎 Leaf Yeh｜麥琪麥琪 MakeMake｜SoulFa 靈魂沙發｜KEI-LI & HMLT (CA)｜I Wear* Experiment (ES)｜TUYS (LU)｜Reality Club (ID)｜VicSantoroMusic (UK)｜WHIZZ (HK)｜FOLK9 (TH)｜薛詒丹 Dan Hsueh｜戴曉君 Sauljaljui｜Go Go Machine Orchestra 跑跑機器人｜體熊專科。Major in Body Bear｜嬉班子樂團｜Mong Tong｜溫蒂漫步 Wendy Wander｜周穆 Murky Ghost｜羅妍婷 YenTing Lo｜#LÜCY｜LINION｜Robot Swing ft. 陳以恆 Yi Heng Chen｜問題總部 It's Your Fault｜假日貞操 Virgin Vacation (HK)｜Maika  Loubté (JP)｜TONTRAKUL (TH)｜Numcha (TH)｜Ginevra Nervi (IT)｜BROTHER SUN SISTER MOON (JP)｜Melancholia (IT)｜Mark Diamond (US)|SADOG｜妮可醬｜The Dinosaur's Skin 恐龍的皮｜李權哲 Jerry Li｜春艷 Chunyan｜I am Puzzleman｜FUTURE AFTER A SECOND｜榕幫 Banyan Gang｜邱比 chovbe｜G5SH｜OVDS｜Dope Purple｜邱淑蟬與Stereo 平衡訊號｜五五身 Fiftybodyfifty｜熱寫生 heat sketch｜睡後故事｜毀容姐妹會｜Ruby Fatale 鹿比 ∞ 吠陀| CNCS - Chich en Chicks | Finn 黃士勛｜阿雞 GLOJ｜李友廷｜Locu5｜濫情游泳池 Sentimental Pool｜Blueburn｜YILE LIN 林以樂｜Lazy Habits (UK)｜WOODEE (FR)｜SONIKKU (UK)｜Alena Murang (MY)｜RYOTA 片山凉太 (MY)｜Bennett Bay (SG)｜Clara Benin (PH)｜N’famady Kouyaté and The Successors of the Mandingue (UK)｜Big Phony (KR)"
-        },
-        {
-            "years": 2021,
             "title": "洄游祭",
             "imageURL": null,
             "startDate": "2021/12/11",
