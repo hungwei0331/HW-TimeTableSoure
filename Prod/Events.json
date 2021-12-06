@@ -147,10 +147,10 @@
             "eventLastUpdate": "2021/12/06",
             "eventTicket": [
                 { "tickName": "開門見山票", "salePeriod": "2021/12/06", "price" : 999, "ticketStatus": "soldOut"},
-                { "tickName": "一十二鳥票", "salePeriod": "2021/12/12", "price" : 1200, "ticketStatus": "soldOut"},
-                { "tickName": "山山不來遲aka早鳥票", "salePeriod": "2021/12/12", "price" : 1500, "ticketStatus": "onSale"},
-                { "tickName": "票阿票阿單日票​", "salePeriod": "2021/12/15", "price" : 1500, "ticketStatus": "soldOut"},
-                { "tickName": "票阿票阿雙日票​", "salePeriod": "2021/12/15", "price" : 2500, "ticketStatus": "soldOut"}
+                { "tickName": "一十二鳥票", "salePeriod": "2021/12/12", "price" : 1200, "ticketStatus": "commingSoon"},
+                { "tickName": "山山不來遲aka早鳥票", "salePeriod": "2021/12/12", "price" : 1500, "ticketStatus": "commingSoon"},
+                { "tickName": "票阿票阿單日票​", "salePeriod": "2021/12/15", "price" : 1500, "ticketStatus": "commingSoon"},
+                { "tickName": "票阿票阿雙日票​", "salePeriod": "2021/12/15", "price" : 2500, "ticketStatus": "commingSoon"}
             ],
             "lineUp": "📍3.5（六）Tizzy Bac、好樂團...​\n📍3.6（日）deca joins 、老王樂隊…​"
         }
