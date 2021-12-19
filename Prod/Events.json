@@ -4,27 +4,6 @@
     [
         {
             "years": 2021,
-            "title": "赤聲躁動音樂祭",
-            "imageURL": null,
-            "startDate": "2021/12/18",
-            "endDate": "2021/12/19",
-            "location": {"locationName": "台中洲際小巨蛋", "locationAddress": "台中市北屯區崇德路三段833號​​", "latitude": 24.198226013915313, "longitude": 120.68537978400973},
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "👨‍🚀 無妄合作社 No-nonsense Collective ​​​",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.facebook.com/redhotsummerfestival", "clickable": true },
-            "purchaseUrl":  {"url": "https://emergelivehouse2.kktix.cc/events/2dwt57", "clickable": false },
-            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台、浩瀚無垠！",
-            "eventLastUpdate": "2021/11/15",
-            "eventTicket": [
-                { "tickName": "雙日福袋票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1450, "ticketStatus": "soldOut"},
-                { "tickName": "預售雙日票", "salePeriod": "2021/02/17 ~ 2021/03/17", "price" : 1798, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "deca joins、麋先生、血肉果汁機、AKB48 Team TP、Vast & Hazy、無妄合作社、怕胖團、魏嘉瑩、P!SCO、DSPS、南西肯恩、荷爾蒙少年、恕樂團、溫蒂漫步、老破麻、鹿洐人、步行者X多多&以捷、黃宇寒、BIKE、王彙筑、月宵◇クレシェンテ x 陽光◆スペクトラ、Blueburn、EFTC破繭而出、icyball冰球樂團、蘭花刀、黃嬉皮、恆月三途、麥琪麥琪、遊樂ULove、庸俗救星、等阮返來、阿丹玩球球、毀滅體制、兩棲人、地下道樂團、獨立人種、張心柔、Grandson on the Wall、狗吠火車、娜卡希子、震樂堂、PIZZALI X PEATLE・SiNNER MOON (Wolf pacc) ft. LAZYFINGA (DJ)、昼食彼女 Lunch Girls、CANDY☆STAR、Viral404▽バイラルエラー"
-        },
-        {
-            "years": 2021,
             "title": "般若電司音樂祭 More Than Dance Festival",
             "imageURL": null,
             "startDate": "2021/12/25",
