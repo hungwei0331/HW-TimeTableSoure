@@ -51,22 +51,22 @@
             "endDate": "2021/01/02",
             "location": null,
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "宋德鶴Iron Horn | 佬步槍 Rusty Rifles | 時不我予As Time Goes By ",
+            "latestAttend": "拍謝少年",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/11/24",
+            "eventLastUpdate": "2021/12/20",
             "eventTicket": [
                 { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "soldOut"},
-                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/07/18", "price" : 1688, "ticketStatus": "onSale"},
-                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2021/07/18", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2021/07/18", "price" : 1999, "ticketStatus": "commingSoon"},
-                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 750, "ticketStatus": "onSale"},
-                { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 600, "ticketStatus": "commingSoon"}
+                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/11/24", "price" : 1688, "ticketStatus": "onSale"},
+                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2022/01/02", "price" : 1798, "ticketStatus": "commingSoon"},
+                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2022/01/02", "price" : 1999, "ticketStatus": "commingSoon"},
+                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2022/01/02", "price" : 750, "ticketStatus": "onSale"},
+                { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2022/01/02", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "傷心欲絕 | 老破麻 | 八十八顆芭樂籽 | 當代電影大師 | 荒山茉莉 | 餵飽豬 | SADOG | SHOOTUP | 麥琪麥琪 | 固定客 | 倒車入庫 | 黑色收音機派對 | OBSESS | 河童鄉 | 少年A | KID TOWN | 林同學樂團 | BB彈 | 21世紀無聊男子 | 呂杰達搖滾大樂隊 | 討口一眾 | 渣男迷幻 | 宇宙計程車 | 海岸乾杯 | 培根巴掌 | 莎賓娜大樂隊 | 石青羅林 | 布萊梅 | 夢遺如來 | Wednesday與壞透樂團 | 烏鴉公寓 | 庸俗禿鷹 | 離岸流 | 徐行 | 逆瓣膜 | 深深一擊 | 梅西的房間 | 廢埕 | 普通隊長 | 步行者 | 非我 | 蘭花刀 | 宋德鶴 | 佬步槍 | 時不我予....and more"
+            "lineUp": "傷心欲絕 | 拍謝少年 | 老破麻 | 八十八顆芭樂籽 | 當代電影大師 | 荒山茉莉 | 餵飽豬 | SADOG | SHOOTUP | 麥琪麥琪 | 固定客 | 倒車入庫 | 黑色收音機派對 | OBSESS | 河童鄉 | 少年A | KID TOWN | 林同學樂團 | BB彈 | 21世紀無聊男子 | 呂杰達搖滾大樂隊 | 討口一眾 | 渣男迷幻 | 宇宙計程車 | 海岸乾杯 | 培根巴掌 | 莎賓娜大樂隊 | 石青羅林 | 布萊梅 | 夢遺如來 | Wednesday與壞透樂團 | 烏鴉公寓 | 庸俗禿鷹 | 離岸流 | 徐行 | 逆瓣膜 | 深深一擊 | 梅西的房間 | 廢埕 | 普通隊長 | 步行者 | 非我 | 蘭花刀 | 宋德鶴 | 佬步槍 | 時不我予....and more"
         },
         {
             "years": 2022,
@@ -76,12 +76,12 @@
             "endDate": "2022/02/13",
             "location": {"locationName": "清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路70號​​", "latitude": 24.272529922074817, "longitude": 120.58274994177026},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "#黃霆睿 #陳乃榮​",
+            "latestAttend": "👧 Codie ♨️ COLD DEW 🎥 當代電影大師 Modern Cinema Master ​ ​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "海線的浮現，陽光下隨節奏跳躍，海風中輕輕鬆鬆在小鎮漫步，衝撞後尋尋覓覓清水美食；要山有山、要海有海，高美海景、大肚山夜景，難得相見的音樂祭朋友，一起出發去旅行，海派的澎派，冒險的開場。​\n浮現祭2022．大冒險解禁！​\n生活總是太多煩惱，這世界總是不如預期，誰能懂我的節奏？看來只能自己去探索！​\n期待已久的冒險，目標是山的頂點，面對所有的考驗！You know you're not afraid！​",
-            "eventLastUpdate": "2021/12/15",
+            "eventLastUpdate": "2021/12/20",
             "eventTicket": [
                 { "tickName": "福袋票", "salePeriod": "2022/08/17 ~ 2022/02/12", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 1300, "ticketStatus": "soldOut"},
@@ -91,7 +91,7 @@
                 { "tickName": "冒險末班 單人雙日票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 2300, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "2022/08/18 ~ 2022/09/30", "price" : 650, "ticketStatus": "onSale"}
             ],
-            "lineUp": "演出陣容：滅火器．棉花糖．告五人．美秀集團．康士坦的變化球．Crispy脆樂團．拍謝少年．閃閃閃閃．理想混蛋．怕胖團．李友廷．溫妮WINNI & Onsen Tamago．OVDS．老破麻．潮州土狗．神棍樂團．羅莎莎．月宵◇クレシェンテ．緋村宗祐．小卡比．dizLike．Ruka Banana with Neon Hops．South Bad Boy．A PIECE OF CAKE 256．hue．Siàu-lú khah-lah / 少女卡拉．Carnival．清醒夢．最後一擊．宝島材料行．時不我予．黃霆睿．陳乃榮...and more！​\nꕥ GO!GO! IDOL FEST 演出陣容： CANDY☆STAR​．L'Étoile リットーエル​．人魚童話 マーメイドメルヘン​．陽光◆スペクトラ​．Ruka Banana (SOLO)​．昼食彼女Lunch Girls​ Twinkle Twinkle​．姬Revolt​．萌エリア．月宵◇クレシェンテ．V.V.V.．日蝕エクリプス​​ \nꕥ 嘻哈跑跳碰（ﾟДﾟ）σ─★°演出陣容：潮州土狗．緋村宗祐．小卡比．王水源 ft. 桃子A1J．E1and and more"
+            "lineUp": "演出陣容：滅火器．棉花糖．告五人．美秀集團．康士坦的變化球．Crispy脆樂團．拍謝少年．閃閃閃閃．理想混蛋．怕胖團．李友廷．溫妮WINNI & Onsen Tamago．陳乃榮．OVDS．黃奕儒．琳誼．黃霆睿．老破麻．當代電影大師．A PIECE OF CAKE 256．EmptyOrio．神棍樂團．COLD DEW．月宵◇クレシェンテ．dizLike．羅莎莎．Ruka Banana with Neon Hops．South Bad Boy．hue．Siàu-lú khah-lah / 少女卡拉．codie．清醒夢．最後一擊．宝島材料行．Carnival．時不我予 and more！​​\nꕥ GO!GO! IDOL FEST 演出陣容： CANDY☆STAR​．L'Étoile リットーエル​．人魚童話 マーメイドメルヘン​．陽光◆スペクトラ​．Ruka Banana (SOLO)​．昼食彼女Lunch Girls​ Twinkle Twinkle​．姬Revolt​．萌エリア．月宵◇クレシェンテ．V.V.V.．日蝕エクリプス​​ \nꕥ 嘻哈跑跳碰（ﾟДﾟ）σ─★°演出陣容：潮州土狗．緋村宗祐．小卡比．王水源 ft. 桃子A1J．E1and and more"
         },
         {
             "years": 2022,
@@ -118,20 +118,21 @@
             "endDate": "2021/03/06",
             "location": {"locationName": "台中森渼原​​", "locationAddress": "台中市外埔區二崁路700號​​", "latitude": 24.32953347261891, "longitude": 120.62046038389356},
             "mail": "springwavemusic@gmail.com",
-            "latestAttend": "告五人、美秀集團",
+            "latestAttend": "大象體操｜理想混蛋｜甜約翰​",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "春浪希望透過音樂讓人們走進大自然，沉浸在音樂中和陽光、海浪、清風一同調整呼吸，為此我們打造戶外多舞台的演出，讓流行音樂、獨立搖滾樂、電子音樂及世界音樂能多元並存，且提供更豐富的感官體驗及選擇；我們也重視環境，不定期舉辦環保活動，希望春浪和土地達到共存共生；在活動設計上，春浪提供免裝備式露營體驗、精選美食及療癒互動市集，期待參與者們有場難忘的音樂之旅。\n和春浪來場約會吧，讓我們與音樂一起——走進山，奔向海。",
-            "eventLastUpdate": "2021/12/15",
+            "eventLastUpdate": "2021/12/20",
             "eventTicket": [
                 { "tickName": "開門見山票", "salePeriod": "2021/12/06", "price" : 999, "ticketStatus": "soldOut"},
                 { "tickName": "一十二鳥票", "salePeriod": "2021/12/12", "price" : 1200, "ticketStatus": "soldOut"},
                 { "tickName": "山山不來遲aka早鳥票", "salePeriod": "2021/12/12", "price" : 1500, "ticketStatus": "soldOut"},
                 { "tickName": "票阿票阿單日票​", "salePeriod": "2021/12/15", "price" : 1500, "ticketStatus": "onSale"},
-                { "tickName": "票阿票阿雙日票​", "salePeriod": "2021/12/15", "price" : 2500, "ticketStatus": "onSale"}
+                { "tickName": "票阿票阿雙日票​", "salePeriod": "2021/12/15", "price" : 2500, "ticketStatus": "onSale"},
+                { "tickName": "優惠套票​", "salePeriod": "2021/12/15", "price" : 2500, "ticketStatus": "onSale"}
             ],
-            "lineUp": "📍3.5（六）Tizzy Bac、好樂團...​\n📍3.6（日）deca joins 、老王樂隊…​"
+            "lineUp": "📍3.5（六）Tizzy Bac、好樂團、告五人、甜約翰...​\n 📍3.6（日）deca joins 、老王樂隊、美秀集團、滅火器、大象體操、理想混蛋…​​"
         }
     ]
 }
