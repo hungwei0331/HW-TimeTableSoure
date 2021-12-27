@@ -1,7 +1,7 @@
 {
     "days": {
         "totalDays": 2,
-        "dateText": ["01 / 02", "01 / 01"]
+        "dateText": ["01 / 01", "01 / 02"]
     },
     "eventYear": "2022",
     "startTime": "11:00 AM",
