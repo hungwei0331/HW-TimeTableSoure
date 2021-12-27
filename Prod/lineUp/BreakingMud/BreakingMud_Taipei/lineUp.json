@@ -24,7 +24,7 @@
         "stage": "絕處逢生舞台",
         "stageLineUp": [
             { "bandName": "梅西的房間", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
-            { "bandName": "渣男迷幻", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 30},
+            { "bandName": "渣男迷幻", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
             { "bandName": "Wednesday與壞透樂團", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
             { "bandName": "林同學樂團", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
             { "bandName": "烏鴉公寓", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
