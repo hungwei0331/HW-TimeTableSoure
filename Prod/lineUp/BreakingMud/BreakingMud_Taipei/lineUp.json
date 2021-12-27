@@ -64,7 +64,7 @@
          {
             "stage": "絕處逢生舞台",
             "stageLineUp": [
-                { "bandName": "離岸流", "showStartTime": "11:00 PM", "showEndTime" : "11:40 PM", "showDuration": 40},
+                { "bandName": "離岸流", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
                 { "bandName": "佬步槍", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
                 { "bandName": "KID TOWN", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
                 { "bandName": "河童鄉", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
