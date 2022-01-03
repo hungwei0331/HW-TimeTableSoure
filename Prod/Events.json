@@ -1,51 +1,6 @@
 {
     "lastUpdate": "2020/12/12",
-    "currentYearEvents":
-    [
-        {
-            "years": 2021,
-            "title": "基隆市跨年晚會",
-            "imageURL": null,
-            "startDate": "2021/12/31",
-            "endDate": "2022/01/01",
-            "location": {"locationName": "基隆港西三倉庫旁停車場", "locationAddress": "基隆市仁愛區港西街16號", "latitude": 25.135356911940622, "longitude": 121.74046600698912},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl": null,
-            "description": "搖滾大步走！\n2021 基隆跨年晚會！\nKeelung New Year Countdown 2021\n\n2021跨年晚會\n將於下午5點熱鬧登場！",
-            "eventLastUpdate": "2021/12/15",
-            "eventTicket": null,
-            "lineUp": "#TRASH #神棍樂團 #YELLOW #老王樂隊 #血肉果汁機 #無妄合作社 #皇后皮箱 #拾參樂團 #FUTUREAFTERASECOND #先知瑪莉 #農村武裝青年 #楊肅浩與貝洛樂團 ​"
-        }
-    ],
-    "nextYearEvents": [
-        {
-            "years": 2022,
-            "title": "爛泥發芽(台北)",
-            "imageURL": null,
-            "startDate": "2021/01/01",
-            "endDate": "2021/01/02",
-            "location": {"locationName": "新北大都會公園(三重婚紗廣場)​", "locationAddress": "新北市三重區疏洪五路二段​​", "latitude": 25.05519783388496, "longitude": 121.4783721},
-            "mail": "surroundingsound@gmail.com",
-            "latestAttend": "拍謝少年",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2021/12/20",
-            "eventTicket": [
-                { "tickName": "挺啦!超級鐵粉雙人票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1998, "ticketStatus": "soldOut"},
-                { "tickName": "一生一世單人雙日早鳥票", "salePeriod": "2021/02/19 ~ 2021/07/18", "price" : 1314, "ticketStatus": "soldOut"},
-                { "tickName": "一路發發單人雙日票", "salePeriod": "2021/03/26 ~ 2021/11/24", "price" : 1688, "ticketStatus": "onSale"},
-                { "tickName": "一起走吧單人雙日票", "salePeriod": "2021/05/07 ~ 2022/01/02", "price" : 1798, "ticketStatus": "commingSoon"},
-                { "tickName": "再不買啊單人雙日票", "salePeriod": "2021/07/01 ~ 2022/01/02", "price" : 1999, "ticketStatus": "commingSoon"},
-                { "tickName": "超衰高雄延期補償單人雙日票", "salePeriod": "2021/02/19 ~ 2022/01/02", "price" : 750, "ticketStatus": "onSale"},
-                { "tickName": "單人雙日愛心票", "salePeriod": "2021/02/19 ~ 2022/01/02", "price" : 600, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "傷心欲絕 | 拍謝少年 | 老破麻 | 八十八顆芭樂籽 | 當代電影大師 | 荒山茉莉 | 餵飽豬 | SADOG | SHOOTUP | 麥琪麥琪 | 固定客 | 倒車入庫 | 黑色收音機派對 | OBSESS | 河童鄉 | 少年A | KID TOWN | 林同學樂團 | BB彈 | 21世紀無聊男子 | 呂杰達搖滾大樂隊 | 討口一眾 | 渣男迷幻 | 宇宙計程車 | 海岸乾杯 | 培根巴掌 | 莎賓娜大樂隊 | 石青羅林 | 布萊梅 | 夢遺如來 | Wednesday與壞透樂團 | 烏鴉公寓 | 庸俗禿鷹 | 離岸流 | 徐行 | 逆瓣膜 | 深深一擊 | 梅西的房間 | 廢埕 | 普通隊長 | 步行者 | 非我 | 蘭花刀 | 宋德鶴 | 佬步槍 | 時不我予....and more"
-        },
+    "currentYearEvents": [
         {
             "years": 2022,
             "title": "浮現祭2022．海線大冒險",
@@ -129,5 +84,6 @@
             "eventTicket": null,
             "lineUp": null
         }
-    ]
+    ],
+    "nextYearEvents": null,
 }
