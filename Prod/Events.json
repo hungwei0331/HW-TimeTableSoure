@@ -69,6 +69,23 @@
         },
         {
             "years": 2022,
+            "title": "B Festival",
+            "imageURL": null,
+            "startDate": "2021/03/19",
+            "endDate": "2021/03/20",
+            "location": null,
+            "mail": "88balaz@gmail.com",
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "『我B，我驕傲！』\n2022年把時間留下來給B FESTIVAL！\n但是我還是不知道會在哪一週！！！！\n共勉之！讓我們世世代代B下去～～～",
+            "eventLastUpdate": "2022/01/12",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2022,
             "title": "大港開唱",
             "imageURL": null,
             "startDate": "2021/03/26",
@@ -76,13 +93,20 @@
             "location": {"locationName": "高雄駁二藝術特區​​", "locationAddress": "台灣高雄市鹽埕區大勇路1號​​", "latitude": 22.620134945130477, "longitude": 120.28165359736516},
             "mail": "megaportfest@gmail.com",
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "soldOut",
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。\n人生的音樂祭，音樂祭的人生。",
-            "eventLastUpdate": "2021/12/27",
-            "eventTicket": null,
-            "lineUp": null
+            "eventLastUpdate": "2022/01/12",
+            "eventTicket": [
+                { "tickName": "鐵鳥雙日票", "salePeriod": "2022/01/03", "price" : 2500, "ticketStatus": "soldOut"},
+                { "tickName": "鐵鳥雙日毛巾套票", "salePeriod": "2022/01/03", "price" : 2950, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日聯票", "salePeriod": "2022/01/08", "price" : 2700, "ticketStatus": "soldOut"},
+                { "tickName": "預售雙日毛巾套票", "salePeriod": "2022/01/08", "price" : 3150, "ticketStatus": "soldOut"},
+                { "tickName": "預售單日票​", "salePeriod": "2021/01/08", "price" : 1700, "ticketStatus": "soldOut"},
+                { "tickName": "愛心票​", "salePeriod": "2021/12/15", "price" : 1000, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "Flesh Juicer 血肉果汁機  ft.  炎亞綸 Aaron Yan | 康士坦的變化球 ｜ 溫蒂漫步 Wendy Wander ｜ 李權哲 Jerry Li ｜ OVDS ｜ INFERNAL CHAOS ｜ 五五身 Fiftybodyfifty ｜ 擊沈女孩 DESTROYERS ｜ 孩子王（Kid King)  ｜ CNCS- Chick en Chicks｜  春麵樂隊ChuNoodle  ｜ 必順鄉村 Bison Country  ｜ 一點生  ｜ Everydaze ｜ 烏流 Kuroshio"
         }
     ],
     "nextYearEvents": []
