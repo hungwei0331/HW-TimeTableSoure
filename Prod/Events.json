@@ -84,7 +84,7 @@
             "eventTicket": [
                 { "tickName": "一匹狼的B友票", "salePeriod": "2022/01/24 ~ 2022/03/", "price" : 888, "ticketStatus": "onSale"},
                 { "tickName": "有朋友的B友票", "salePeriod": "2022/01/24 ~ 2022/03/18", "price" : 3333, "ticketStatus": "onSale"}
-            ],,
+            ],
             "lineUp": "#88balaz 、#yellow黃宣 、#餵飽豬 、#潮州土狗 ​​"
         },
         {
