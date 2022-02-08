@@ -36,8 +36,8 @@
      {
         "stage": "冒險",
         "stageLineUp": [
-            { "bandName": "Ruka Banana with Neon Hops", "showStartTime": "10:30 AM", "showEndTime" : "11:00 PM", "showDuration": 30},
-            { "bandName": "Carnival", "showStartTime": "11:40 PM", "showEndTime" : "00:10 PM", "showDuration": 30},
+            { "bandName": "Ruka Banana with Neon Hops", "showStartTime": "10:30 AM", "showEndTime" : "11:00 AM", "showDuration": 30},
+            { "bandName": "Carnival", "showStartTime": "11:40 AM", "showEndTime" : "00:10 PM", "showDuration": 30},
             { "bandName": "South Bad Boy", "showStartTime": "00:50 PM", "showEndTime" : "1:20 PM", "showDuration": 30},
             { "bandName": "蘭花刀", "showStartTime": "2:00 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
             { "bandName": "清醒夢", "showStartTime": "3:10 PM", "showEndTime" : "3:40 PM", "showDuration": 30},
@@ -86,7 +86,7 @@
         {
             "stage": "浮現",
             "stageLineUp": [
-                { "bandName": "南西肯恩", "showStartTime": "10:40 AM", "showEndTime" : "11:20 PM", "showDuration": 40},
+                { "bandName": "南西肯恩", "showStartTime": "10:40 AM", "showEndTime" : "11:20 AM", "showDuration": 40},
                 { "bandName": "賀爾蒙少年", "showStartTime": "00:10 PM", "showEndTime" : "00:50 PM", "showDuration": 40},
                 { "bandName": "持修", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
                 { "bandName": "康士坦的變化球", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
@@ -99,7 +99,7 @@
             "stage": "光景",
             "stageLineUp": [
                 { "bandName": "魏嘉瑩", "showStartTime": "10:00 AM", "showEndTime" : "10:40 AM", "showDuration": 40},
-                { "bandName": "當代電影大師", "showStartTime": "11:30 PM", "showEndTime" : "00:00 PM", "showDuration": 40},
+                { "bandName": "當代電影大師", "showStartTime": "11:30 AM", "showEndTime" : "00:00 PM", "showDuration": 40},
                 { "bandName": "閃閃閃閃", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
                 { "bandName": "EmptyORio", "showStartTime": "2:30 PM", "showEndTime" : "3:10 PM", "showDuration": 40},
                 { "bandName": "OBSESS", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
@@ -110,8 +110,8 @@
          {
             "stage": "冒險",
             "stageLineUp": [
-                { "bandName": "宝島材料行", "showStartTime": "10:20 AM", "showEndTime" : "10:50 PM", "showDuration": 30},
-                { "bandName": "時不我予", "showStartTime": "11:30 PM", "showEndTime" : "00:00 PM", "showDuration": 30},
+                { "bandName": "宝島材料行", "showStartTime": "10:20 AM", "showEndTime" : "10:50 AM", "showDuration": 30},
+                { "bandName": "時不我予", "showStartTime": "11:30 AM", "showEndTime" : "00:00 PM", "showDuration": 30},
                 { "bandName": "Siàu-lú khah-lah/少女卡拉", "showStartTime": "00:40 PM", "showEndTime" : "1:10 PM", "showDuration": 30},
                 { "bandName": "羅莎莎", "showStartTime": "1:50 PM", "showEndTime" : "2:20 PM", "showDuration": 30},
                 { "bandName": "COLD DEW", "showStartTime": "3:00 PM", "showEndTime" : "3:30 PM", "showDuration": 30},
@@ -124,7 +124,7 @@
          {
             "stage": "清水",
             "stageLineUp": [
-                { "bandName": "狗吠火車", "showStartTime": "11:20 AM", "showEndTime" : "11:50 PM", "showDuration": 30},
+                { "bandName": "狗吠火車", "showStartTime": "11:20 AM", "showEndTime" : "11:50 AM", "showDuration": 30},
                 { "bandName": "Twinkle Twinkle", "showStartTime": "00:20 PM", "showEndTime" : "00:40 PM", "showDuration": 20},
                 { "bandName": "萌エリア", "showStartTime": "00:40 PM", "showEndTime" : "1:00 PM", "showDuration": 20},
                 { "bandName": "L'Étoile リットーエル", "showStartTime": "1:00 PM", "showEndTime" : "1:20 PM", "showDuration": 20},
