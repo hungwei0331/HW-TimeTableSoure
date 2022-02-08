@@ -149,7 +149,7 @@
          {
             "stage": "嗨風廣場",
             "stageLineUp": [
-                { "bandName": "[講座]李政瀚 用設計為音樂做旁白", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40}
+                { "bandName": "[講座]李政瀚 用設計為音樂做旁白", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
                 { "bandName": "冒險藏路小旅行", "showStartTime": "2:00 PM", "showEndTime" : "2:30 PM", "showDuration": 30},
                 { "bandName": "冒險藏路小旅行", "showStartTime": "3:00 PM", "showEndTime" : "3:30 PM", "showDuration": 30},
                 { "bandName": "冒險藏路小旅行", "showStartTime": "4:00 PM", "showEndTime" : "4:30 PM", "showDuration": 30}
