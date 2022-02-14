@@ -120,7 +120,7 @@
             "eventTicket": [
                 { "tickName": "單人票", "salePeriod": "2022/01/03", "price" : 800, "ticketStatus": "onSale"},
                 { "tickName": "雙人票", "salePeriod": "2022/01/03", "price" : 1500, "ticketStatus": "onSale"}
-            ],,
+            ],
             "lineUp": "Triple Deer| 昴宿| TFAP| Ego-Fugue 自我意識神遊| 荒山茉莉"
         },
         {
