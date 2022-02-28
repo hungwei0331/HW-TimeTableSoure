@@ -3,23 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "蚵寮漁村小搖滾",
-            "imageURL": null,
-            "startDate": "2022/02/26",
-            "endDate": "2022/02/27",
-            "location": {"locationName": "高雄市梓官區蚵仔寮​", "locationAddress": "高雄市梓官區蚵仔寮南邊沙灘​​", "latitude": 22.73973784895742, "longitude": 120.24917617532753},
-            "mail": "smalloysterrock@gmail.com",
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": null,
-            "eventLastUpdate": "2022/01/11",
-            "eventTicket": null,
-            "lineUp": "蚵寮國小醒獅團 | 人性先覺 Between The Savage | #郭達年與香港遊唱部落 | 孩子王（Kid King) | OC #experiment | 百合花 | 非人物種 | 血肉果汁機 | 淺堤 | 農村武裝青年 | 桑布伊 | 蚵寮國小合唱團 | 北區男孩 | 男子漢樂團 | 青山在co. | 風籟坊 | 大竹研 | 最後大浪 | 薄荷葉 | 蚵寮國中表演 | 阿飛西雅 | 林生祥 | 陳明章音樂 | 蚵寮國中三太子 | 必順鄉村 | EmptyOrio | 才能有限公司 | 龍珠慈人 | 庵心自在所 | 裝咖人 | 米莎Misa | 蚵寮國中表演 | 拍謝少年 | 麵包車樂團 | 鋼琴詩人王俊傑(營養彩蛋黃）| 鄉親卡拉(營養彩蛋白)"
-        },
-        {
-            "years": 2022,
             "title": "春浪音樂節",
             "imageURL": null,
             "startDate": "2022/03/05",
