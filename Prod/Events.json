@@ -129,7 +129,7 @@
             "imageURL": null,
             "startDate": "2022/04/22",
             "endDate": "2022/04/23",
-            "location": null,
+            "location": {"locationName": "國立政治大學四維堂​​​", "locationAddress": "116台北市文山區指南路二段64號​​", "latitude": 24.987970154412455,  "longitude": 121.57737675322423},
             "mail": "nccumusicfestival@gmail.com",
             "latestAttend": "► 百合花 ​► 張藝 ►吳羿伶",
             "ticketStatus": "onSale",
