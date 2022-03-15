@@ -26,6 +26,12 @@
             "status": null
         },
         {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/logout.png",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/roving.jpg",
             "officalUrl": null,
             "type": null,
@@ -33,6 +39,18 @@
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/ntu.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/ftf.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/insidecreative.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
