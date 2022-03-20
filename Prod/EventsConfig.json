@@ -3,6 +3,14 @@
     [
         {
             "years": 2022,
+            "name": "大港開唱",
+            "period": "2022/03/26 - 2021/03/27",
+            "type":"Mega",
+            "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
+            "status": ""
+        },
+        {
+            "years": 2022,
             "name": "浮現祭",
             "period": "2022/02/12 - 2022/02/13",
             "type": "EmergeLive",
@@ -63,14 +71,6 @@
             "period": "2021/04/01 - 2021/04/03",
             "type":"Taiwan",
             "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁路596號", "latitude": 21.945446631123755,  "longitude": 120.79506716931313},
-            "status": ""
-        },
-        {
-            "years": 2021,
-            "name": "大港開唱",
-            "period": "2021/03/27 - 2021/03/28",
-            "type":"Mega",
-            "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "status": ""
         }
     ]
