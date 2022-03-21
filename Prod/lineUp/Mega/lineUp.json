@@ -27,7 +27,7 @@
             { "bandName": "體熊專科", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
             { "bandName": "溫室雜草", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
             { "bandName": "INFERNAL CHAOS", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
-            { "bandName": "昏鴉", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 80},
+            { "bandName": "昏鴉", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
             { "bandName": "OVDS", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
             { "bandName": "聲子蟲", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40} 
         ]
@@ -68,7 +68,7 @@
      {
         "stage": "海波浪",
         "stageLineUp": [
-            { "bandName": "MassMan", "showStartTime": "1:10 AM", "showEndTime" : "1:50 PM", "showDuration": 40},
+            { "bandName": "MassMan", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
             { "bandName": "島國\n未來主義", "showStartTime": "2:30 PM", "showEndTime" : "3:10 PM", "showDuration": 40},
             { "bandName": "孩子王", "showStartTime": "3:50 PM", "showEndTime" : "4:30 PM", "showDuration": 40},
             { "bandName": "破繭而出", "showStartTime": "5:10 PM", "showEndTime" : "5:50 PM", "showDuration": 40},
@@ -119,7 +119,7 @@
                { "bandName": "潮州土狗+\n禁藥王&\n栗子", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
                { "bandName": "壞特?te", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
                { "bandName": "傷心欲絕", "showStartTime": "4:30 PM", "showEndTime" : "5:10 PM", "showDuration": 40},
-               { "bandName": "宇宙人\nft.\n蔡昌憲", "showStartTime": "5:50 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+               { "bandName": "宇宙人\nft.\n蔡昌憲", "showStartTime": "5:50 PM", "showEndTime" : "6:40 PM", "showDuration": 50},
                { "bandName": "拍謝少年", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
                { "bandName": "美秀集團\nft.\n盧廣仲", "showStartTime": "9:00 PM", "showEndTime" : "9:50 PM", "showDuration": 50}
            ]
@@ -208,7 +208,7 @@
         {
            "stage": "小港祭",
            "stageLineUp": [
-               { "bandName": "DJ TAKA", "showStartTime": "3:20 PM", "showEndTime" : "4:20 PM", "showDuration": 50},
+               { "bandName": "DJ TAKA", "showStartTime": "3:20 PM", "showEndTime" : "4:20 PM", "showDuration": 60},
                { "bandName": "DJ AFURO\nGEORGE", "showStartTime": "4:20 PM", "showEndTime" : "5:20 PM", "showDuration": 60},
                { "bandName": "國語作業簿: \nAUTO TUNE\nK歌大會", "showStartTime": "5:20 PM", "showEndTime" : "5:50 PM", "showDuration": 30},
                { "bandName": "DJ MR. SKIN", "showStartTime": "5:50 PM", "showEndTime" : "7:20 PM", "showDuration": 90}
