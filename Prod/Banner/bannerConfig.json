@@ -2,12 +2,6 @@
     "banners":
     [
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/taiwan.jpg",
-            "officalUrl": null,
-            "type": null,
-            "status": null
-        },
-        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/nccu.jpg",
             "officalUrl": null,
             "type": null,
@@ -26,7 +20,13 @@
             "status": null
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/ntu.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/taiwan.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/chiayi.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
@@ -42,6 +42,12 @@
             "officalUrl": null,
             "type": null,
             "status": null
-        }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/jurassic.png",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
     ]
 }

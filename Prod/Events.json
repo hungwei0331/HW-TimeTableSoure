@@ -3,23 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "台灣祭",
-            "imageURL": null,
-            "startDate": "2022/04/01",
-            "endDate": "2022/04/03",
-            "location": null,
-            "mail": null,
-            "latestAttend": "滅火器 Fire EX.",
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "不管多少風風雨雨｜至少我們還有音樂\n一年一期。台灣祭開催確定！\n2022年4月1日(五)至4月3日(日)三天\n四大舞台｜近百樂團｜市集趣味活動\n恆春墾丁大灣遊憩區 免費入場\n讓我們一路向南，相擁彼此放聲大唱\n你各位，這次不要再錯過了。",
-            "eventLastUpdate": "2022/03/15",
-            "eventTicket": null,
-            "lineUp": "張震嶽｜滅火器｜玖壹壹｜美秀集團｜拍謝少年｜怕胖團｜血肉果汁機｜康士坦的變化球｜傻子與白痴｜無妄合作社｜晨曦光廊｜南西肯恩｜海豚刑警｜溫室雜草｜神棍樂團｜P!SCO｜胖虎｜OBSESS｜固定客｜謝和弦｜淺堤｜Multiverse｜荷爾蒙少年｜溫蒂漫步｜打倒三明治｜A PIECE OF CAKE 256｜老破麻｜張三李四ft.DAPUN｜鹿洐人｜餵飽豬｜冰球｜潮州土狗｜西屯純愛組｜Wolf Pacc & PIZZALI｜JAYRoll｜琳誼｜步行者｜破繭而出｜海岸乾杯｜男子漢｜SADOG｜月宵◇クレシェンテ（樂團編制）｜宋德鶴｜等阮返來｜悟飛Luffy｜潤少｜Gambler｜深深一擊｜鐵擊｜時不我予｜王水源｜粗大BAND｜遊樂｜福馬林｜薄荷綠工廠｜秋山｜宝島材料行｜辣鄰居｜火熱巨棒｜慶記KTV"
-        },
-        {
-            "years": 2022,
             "title": "秋波音樂節",
             "imageURL": null,
             "startDate": "2022/04/15",
@@ -112,6 +95,23 @@
         },
         {
             "years": 2022,
+            "title": "嘉義音樂節",
+            "imageURL": null,
+            "startDate": "2022/05/07",
+            "endDate": "2022/05/08",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": null,
+            "eventLastUpdate": "2022/04/06",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2022,
             "title": "台大音樂節",
             "imageURL": null,
             "startDate": "2022/05/14",
@@ -189,6 +189,23 @@
             "eventLastUpdate": "2022/04/01",
             "eventTicket": null,
             "lineUp": "滅火器....and more!"
+        },
+        {
+            "years": 2022,
+            "title": "諸羅祭",
+            "imageURL": null,
+            "startDate": "2022/08/13",
+            "endDate": "2022/08/14",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。",
+            "eventLastUpdate": "2022/04/06",
+            "eventTicket": null,
+            "lineUp": null
         }
     ],
     "nextYearEvents": []
