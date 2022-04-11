@@ -29,17 +29,18 @@
             "endDate": "2022/04/23",
             "location": {"locationName": "國立政治大學四維堂​​​", "locationAddress": "116台北市文山區指南路二段64號​​", "latitude": 24.987970154412455,  "longitude": 121.57737675322423},
             "mail": "nccumusicfestival@gmail.com",
-            "latestAttend": "►曾稔文 AMI from DSPS、Tempo Popo｜前夜祭限定 X DJ演出",
+            "latestAttend": "▚ :‧ 第七屆政大音樂節｜最後一波卡司釋出 康士坦的變化球KST ‧: ▞ ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "政大音樂節\n\n作為媒合新媒體藝術與音樂的平台。\n希望能提供新媒體藝術家和音樂人之間交流的機會，創造不同的感官體驗，讓表演有更多不同的可能。帶著我們重新認識音樂表演、聽見更多不同的聲音。",
-            "eventLastUpdate": "2022/04/01",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": [
                 { "tickName": "四人放傘套票", "salePeriod": "~2022/04/21", "price" : 2800, "ticketStatus": "onSale"},
                 { "tickName": "雙人放傘套票", "salePeriod": "~2022/04/21", "price" : 1500, "ticketStatus": "onSale"},
                 { "tickName": "一支小雨傘單人票", "salePeriod": "~2022/04/21", "price" : 800, "ticketStatus": "onSale"},
-                { "tickName": "傘電前夜祭單日票", "salePeriod": "~2022/04/21", "price" : 250, "ticketStatus": "onSale"}
+                { "tickName": "傘電前夜祭單日票", "salePeriod": "~2022/04/21", "price" : 250, "ticketStatus": "onSale"},
+                { "tickName": "找回我ㄉ傘雨山限定單人票", "salePeriod": "~2022/04/21", "price" : 650, "ticketStatus": "soldOut"}
             ],
             "lineUp": "⇝ 演出陣容：傷心欲絕｜鄭宜農x VJ徐紹恩｜百合花ft.張藝x VJ吳羿伶｜露波合唱團｜POPO J x 八八男｜五五身x VJ王駝｜COLD DEW x VJ 簡宇｜DJ曾稔文｜DJ阿強｜康士坦的變化球"
         },
@@ -51,22 +52,23 @@
             "endDate": "2022/04/23",
             "location": {"locationName": "帝國製糖廠台中營業所​​​", "locationAddress": "台中市東區樂業路30號​​", "latitude": 24.138451369730785, "longitude": 120.69245342275079},
             "mail": "nccumusicfestival@gmail.com",
-            "latestAttend": "⧃ 無情世代中愛的EMO　◖ OBSESS  ◗​\n⧃ 解救你庸俗的K-indie　◖ 庸俗救星  ◗​\n⧃ 指引你前行的後搖 　　◖ 步行者 Pacers  ◗​​",
+            "latestAttend": "ヨルマチダイス (JP)​​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "登出城市，短暫地與現實抽離，盡情感受音樂的美好。\n在水泥牆林立的都市叢林中，人們汲汲營營地生活著，忘記放鬆、停止思考，彷彿成為日復一日工作的機器。我們邀請大家登出自己日復一日工作的城市，拋開生活中的種種束縛，抽離現實、透過音樂找回最純粹真實的自我。",
-            "eventLastUpdate": "2022/04/01",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": [
                 { "tickName": "音樂帶我登出雙日票", "salePeriod": "~2022/03/07", "price" : 1399, "ticketStatus": "soldOut"},
                 { "tickName": "逃避有用登出雙日票", "salePeriod": "~2022/03/07", "price" : 1599, "ticketStatus": "soldOut"},
                 { "tickName": "擦了再上登出雙日票", "salePeriod": "~2022/04/22", "price" : 1699, "ticketStatus": "soldOut"},
                 { "tickName": "醉生夢死登出雙日票", "salePeriod": "~2022/04/22", "price" : 1799, "ticketStatus": "onSale"},
                 { "tickName": "小孩子才做選擇雙日票", "salePeriod": "~2022/04/22", "price" : 2199, "ticketStatus": "onSale"},
+                { "tickName": "特約學生登出雙日票", "salePeriod": "~2022/04/22", "price" : 999, "ticketStatus": "onSale"},
                 { "tickName": "阿姨我不想努力了雙日票", "salePeriod": "~2022/04/22", "price" : 2400, "ticketStatus": "commingSoon"},
                 { "tickName": "週休沒二日只登出單日票", "salePeriod": "~2022/04/22", "price" : 1300, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "➤現場演出：晨曦光廊・EFTC 破繭而出・非人物種・OBSESS・老破麻・固定客GOODICK ft. Peatle・溫蒂漫步・餵飽豬・步行者・SHOOTUP・恐龍的皮・汝妮 Dungi Sapor・庸俗救星・絕命青年・Primulav・無用男Rain・DJ CROSSROADS・DJ MACRO・夜咲兎璃 … and more​\n\n➤視訊演出：King Ly Chee 荔枝王(HK)・BLOOD STAIN CHILD(JP)・R.O.O.T(HK)・奏手候 kanadete sourou (JP)・TYNT(HK)、ヨルマチダイス (JP) ​​​"
+            "lineUp": "➤現場演出：旺福・晨曦光廊・EFTC 破繭而出・非人物種・OBSESS・老破麻・固定客GOODICK ft. Peatle・溫蒂漫步・鐵擊・餵飽豬・Wednesday與壞透樂團・步行者・SHOOTUP・恐龍的皮・Endtrocity 暴行終止・UN AVEC DEUX・汝妮 Dungi Sapor・庸俗救星・絕命青年・Whaleholic・Primulav・無用男Rain・DJ CROSSROADS・DJ MACRO・夜咲兎璃​\n\n➤視訊演出：King Ly Chee 荔枝王(HK)・BLOOD STAIN CHILD(JP)・R.O.O.T(HK)・奏手候 kanadete sourou (JP)・TYNT(HK)、ヨルマチダイス (JP) ​"
         },
         {
             "years": 2022,
@@ -76,26 +78,26 @@
             "endDate": "2022/05/01",
             "location": null,
             "mail": "insidecreative@rovation.com",
-            "latestAttend": "​ ⍄ 宋柏緯 Edison Song ⍈​​",
+            "latestAttend": "➵ 2nd 漂遊者 #全陣容公開​​​",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
-            "eventLastUpdate": "2022/04/01",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": [
                 { "tickName": "超早鳥三日票券", "salePeriod": "~2022/04/28", "price" : 2400, "ticketStatus": "onSale"},
                 { "tickName": "超早鳥二日票券", "salePeriod": "~2022/04/28", "price" : 2000, "ticketStatus": "soldOut"},
-                { "tickName": "早鳥三日票券", "salePeriod": "~2022/04/28", "price" : 3500, "ticketStatus": "commingSoon"},
+                { "tickName": "早鳥三日票券", "salePeriod": "~2022/04/28", "price" : 3500, "ticketStatus": "onSale"},
                 { "tickName": "早鳥二日票", "salePeriod": "~2022/04/28", "price" : 3000, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2022/04/28", "price" : 1900, "ticketStatus": "onSale"},
                 { "tickName": "兒童票", "salePeriod": "~2022/04/28", "price" : 800, "ticketStatus": "onSale"},
-                { "tickName": "原價二日票", "salePeriod": "~2022/04/28", "price" : 4500, "ticketStatus": "onSale"}
+                { "tickName": "原價二日票", "salePeriod": "~2022/04/28", "price" : 4500, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "楊乃文、陳建年、滅火器、李友廷、宋柏緯、鄭宜農、麋先生、怕胖團、血肉果汁機、拍謝少年、傷心欲絕、康士坦的變化球、胖虎、李權哲、體熊專科、LINION、溫蒂漫步、溫室雜草、西屯純愛組、Multiverse、雷擎​​"
+            "lineUp": "楊乃文、陳建年、滅火器、李友廷、宋柏緯、鄭宜農、Tizzy Bac、麋先生、怕胖團、血肉果汁機、拍謝少年、傷心欲絕、康士坦的變化球、胖虎、OBSESS、李權哲、體熊專科、LINION、溫蒂漫步、溫室雜草、西屯純愛組、Multiverse、雷擎​​​"
         },
         {
             "years": 2022,
-            "title": "嘉義音樂節",
+            "title": "嘉義搖滾音樂祭",
             "imageURL": null,
             "startDate": "2022/05/07",
             "endDate": "2022/05/08",
@@ -106,7 +108,7 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": null,
-            "eventLastUpdate": "2022/04/06",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": null,
             "lineUp": null
         },
@@ -143,14 +145,14 @@
             "endDate": "2022/05/22",
             "location": {"locationName": "台北小巨蛋​​​", "locationAddress": "臺北市松山區南京東路4段2號", "latitude": 25.0510161346548, "longitude": 121.5500127690583},
             "mail": "insidecreative@rovation.com",
-            "latestAttend": "蔡明仁 Ft.壞特 ☑️\nVH(Vast & Hazy) Ft韋禮安",
+            "latestAttend": "TRASH Feat. 戴愛玲 ",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "未來世界的外星人來到台北小巨蛋\n送給地球人一場前所未見的音樂盛典\n［25.050708.121.5500887］",
-            "eventLastUpdate": "2022/04/01",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": null,
-            "lineUp": "滅火器｜魏如萱｜盧廣仲｜楊乃文｜拍謝少年｜Tizzy Bac｜康士坦的變化球｜VH(Vast & Hazy) ｜韋禮安｜美秀集團｜麋先生｜許含光｜宋柏緯｜VIBER｜吳獻｜Codie｜安柏兒Amber｜蔡明仁｜壞特｜荷爾蒙少年｜and more....."
+            "lineUp": "滅火器｜魏如萱｜盧廣仲｜楊乃文｜拍謝少年｜Tizzy Bac｜康士坦的變化球｜TRASH｜VH(Vast & Hazy) ｜韋禮安｜美秀集團｜麋先生｜TRASH｜戴愛玲|許含光｜宋柏緯｜VIBER｜吳獻｜Codie｜安柏兒Amber｜蔡明仁｜壞特｜荷爾蒙少年｜and more....."
         },
         {
             "years": 2022,
@@ -160,7 +162,7 @@
             "endDate": "2022/05/28",
             "location": {"locationName": "圓山花博花海廣場​​​", "locationAddress": "台北市中山區玉門街1號​​", "latitude": 25.070568726769416, "longitude": 121.52051954023423},
             "mail": "insidecreative@rovation.com",
-            "latestAttend": "Flesh Juicer 血肉果汁機",
+            "latestAttend": "【神棍樂團 ZenKwun 】",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://instagram.com/hardworkingmusicfestival", "clickable": false},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
@@ -171,7 +173,7 @@
                 { "tickName": "雙人一路發套票", "salePeriod": "~2022/04/28", "price" : 2000, "ticketStatus": "onSale"},
                 { "tickName": "雲端線上同樂票", "salePeriod": "~2022/04/28", "price" : 3500, "ticketStatus": "onSale"}
             ],
-            "lineUp": "康士坦的變化球、FUTURE AFTER A SECOND、達摩樂隊、P!SCO、The Tic Tac、血肉果汁機...and more.敬請期待！"
+            "lineUp": "康士坦的變化球、FUTURE AFTER A SECOND、達摩樂隊、P!SCO、The Tic Tac、血肉果汁機、非人物種、神棍樂團...and more.敬請期待！"
         },
         {
             "years": 2021,
@@ -181,14 +183,14 @@
             "endDate": "2022/05/29",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "滅火器",
+            "latestAttend": "煙雨飄渺 Rain of Sorrow",
             "ticketStatus": "free",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/04/01",
+            "eventLastUpdate": "2022/04/11",
             "eventTicket": null,
-            "lineUp": "滅火器....and more!"
+            "lineUp": "滅火器 | EmptyORio | 海豚刑警 | 夕陽武士 | 孩子王 | 煙雨飄渺 | 昴宿 | 烏賊紳士 | 必順鄉村 | 鐵擊 | 城市雨人 | 慵懶計劃 | 薄荷綠工廠 | 螺紋Rovens | 離岸流  ....and more!"
         },
         {
             "years": 2022,
