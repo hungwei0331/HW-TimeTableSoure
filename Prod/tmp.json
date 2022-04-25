@@ -58,3 +58,29 @@
     "eventTicket": null,
     "lineUp": null
 },
+
+{
+    "years": 2022,
+    "title": "漂遊者森林音樂祭",
+    "imageURL": null,
+    "startDate": "2022/04/29",
+    "endDate": "2022/05/01",
+    "location": null,
+    "mail": "insidecreative@rovation.com",
+    "latestAttend": "➵ 2nd 漂遊者 #全陣容公開​​​",
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
+    "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
+    "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
+    "eventLastUpdate": "2022/04/11",
+    "eventTicket": [
+        { "tickName": "超早鳥三日票券", "salePeriod": "~2022/04/28", "price" : 2400, "ticketStatus": "onSale"},
+        { "tickName": "超早鳥二日票券", "salePeriod": "~2022/04/28", "price" : 2000, "ticketStatus": "soldOut"},
+        { "tickName": "早鳥三日票券", "salePeriod": "~2022/04/28", "price" : 3500, "ticketStatus": "onSale"},
+        { "tickName": "早鳥二日票", "salePeriod": "~2022/04/28", "price" : 3000, "ticketStatus": "onSale"},
+        { "tickName": "愛心票", "salePeriod": "~2022/04/28", "price" : 1900, "ticketStatus": "onSale"},
+        { "tickName": "兒童票", "salePeriod": "~2022/04/28", "price" : 800, "ticketStatus": "onSale"},
+        { "tickName": "原價二日票", "salePeriod": "~2022/04/28", "price" : 4500, "ticketStatus": "commingSoon"}
+    ],
+    "lineUp": "楊乃文、陳建年、滅火器、李友廷、宋柏緯、鄭宜農、Tizzy Bac、麋先生、怕胖團、血肉果汁機、拍謝少年、傷心欲絕、康士坦的變化球、胖虎、OBSESS、李權哲、體熊專科、LINION、溫蒂漫步、溫室雜草、西屯純愛組、Multiverse、雷擎​​​"
+},
