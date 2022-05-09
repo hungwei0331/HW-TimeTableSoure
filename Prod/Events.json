@@ -28,24 +28,20 @@
         },
         {
             "years": 2022,
-            "title": "小人物音樂祭",
+            "title": "六月革命",
             "imageURL": null,
-            "startDate": "2022/05/28",
-            "endDate": "2022/05/28",
-            "location": {"locationName": "圓山花博花海廣場​​​", "locationAddress": "台北市中山區玉門街1號​​", "latitude": 25.070568726769416, "longitude": 121.52051954023423},
-            "mail": "insidecreative@rovation.com",
+            "startDate": "2022/05/21",
+            "endDate": "2022/05/21",
+            "location": {"locationName": "虎尾同心公園​​​", "locationAddress": "雲林縣虎尾鎮中山路2號​​", "latitude": 23.70350132518125, "longitude": 120.43638453081468},
+            "mail": null,
             "latestAttend": "【 神棍樂團 ZenKwun x P!SCO 】",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://instagram.com/hardworkingmusicfestival", "clickable": false},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "北台灣最台最爽的無負擔一日音樂祭\n雙車舞台仙拚仙，精彩節目聽未癬\n精選台式銅板美食，搏感情發財車市集\n雙人友善套票，多人友善衝撞",
-            "eventLastUpdate": "2022/04/28",
-            "eventTicket": [
-                { "tickName": "單人發財預售票", "salePeriod": "~2022/04/28", "price" : 2400, "ticketStatus": "onSale"},
-                { "tickName": "雙人一路發套票", "salePeriod": "~2022/04/28", "price" : 2000, "ticketStatus": "onSale"},
-                { "tickName": "雲端線上同樂票", "salePeriod": "~2022/04/28", "price" : 3500, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "康士坦的變化球、FUTURE AFTER A SECOND、達摩樂隊 feat.固定客、P!SCO、The Tic Tac、血肉果汁機、非人物種、神棍樂團、裝咖人、毀容姐妹會 feat.張秀卿...and more.敬請期待！"
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "以雲林當地大型音樂祭為目標，\n也替社團內即將畢業的學長姐，\n在虎尾當地辦一場盛大的表演。",
+            "eventLastUpdate": "2022/05/09",
+            "eventTicket": null,
+            "lineUp": "虎科大熱音社、甘苦人、草原漂流、Evenfall、鐵擊、hue、老破麻"
         },
         {
             "years": 2022,
@@ -60,14 +56,14 @@
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "City ROARS! Festival\n城市巨響音樂節",
-            "eventLastUpdate": "2022/04/28",
+            "eventLastUpdate": "2022/05/09",
             "eventTicket": [
                 { "tickName": "福袋票", "salePeriod": "~2022/05/27", "price" : 888, "ticketStatus": "soldOut"},
                 { "tickName": "早安夥伴票", "salePeriod": "~2022/05/27", "price" : 1200, "ticketStatus": "soldOut"},
                 { "tickName": "午安朋友票", "salePeriod": "~2022/05/27", "price" : 1400, "ticketStatus": "onSale"},
                 { "tickName": "現場票", "salePeriod": "~2022/05/27", "price" : 1600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "✧ 巨響舞台：持修、康士坦的變化球、無妄合作社、守夜人、icyball冰球樂團、溫妮 WINNI & Onsen Tamago、月宵◇クレシェンテ、昼食彼女 Lunch Girls、震樂堂​\n✧ 甜波舞台：Ruka Banana、陽光◆スペクトラ、日蝕エクリプス、幻色プリンセス、V.V.V.​"
+            "lineUp": "✧ 巨響舞台：持修、康士坦的變化球、無妄合作社、守夜人 ft.吳汶芳、icyball冰球樂團、溫妮 WINNI & Onsen Tamago、月宵◇クレシェンテ、昼食彼女 Lunch Girls、震樂堂​ ft. Ruka Banana\n✧ 甜波舞台：Ruka Banana、陽光◆スペクトラ、日蝕エクリプス、幻色プリンセス、V.V.V.​、李政瀚（特別講座）\n ✧ 線上連線演出：踊ってばかりの国(JP)、春ねむり(JP)、SEQUOiA(JP)​"
         },
         {
             "years": 2022,
@@ -82,7 +78,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/04/28",
+            "eventLastUpdate": "2022/05/09",
             "eventTicket": [
                 { "tickName": "最後關頭單人雙日票", "salePeriod": "~2022/05/28", "price" : 1649, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2022/05/28", "price" : 749, "ticketStatus": "onSale"}
@@ -104,6 +100,29 @@
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。",
             "eventLastUpdate": "2022/04/06",
             "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2022,
+            "title": "貴人散步音樂節",
+            "imageURL": null,
+            "startDate": "2022/11/03",
+            "endDate": "2022/11/06",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "只要問參加過貴人的樂迷，他們一定會跟你說，台南是最多層次城市，每個時刻每個街角都有不同的風貌。\n無論來過多少次，我們可以保證，2022和各位每次參加的貴人散步都不一樣！",
+            "eventLastUpdate": "2022/04/06",
+            "eventTicket": [
+                { "tickName": "貴人3+1日票", "salePeriod": "~2022/11/02", "price" : 2999, "ticketStatus": "onSale"},
+                { "tickName": "限量超優貴人暖鳥票", "salePeriod": "~2022/11/02", "price" : 2500, "ticketStatus": "onSale"},
+                { "tickName": "友愛貴寶地旅宿套裝", "salePeriod": "~2022/11/02", "price" : 5899, "ticketStatus": "onSale"},
+                { "tickName": "貴人PRO PASS", "salePeriod": "~2022/11/02", "price" : 3199, "ticketStatus": "onSale"},
+                { "tickName": "貴人單日票", "salePeriod": "~2022/11/02", "price" : 1500, "ticketStatus": "onSale"}
+            ],
             "lineUp": null
         }
     ],

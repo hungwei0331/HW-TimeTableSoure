@@ -9,6 +9,12 @@
             "status": null
         },
         {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/june.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/insidecreative.jpg",
             "officalUrl": null,
             "type": null,
@@ -25,6 +31,12 @@
             "officalUrl": null,
             "type": null,
             "status": null
-        }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/LUCfest.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
     ]
 }
