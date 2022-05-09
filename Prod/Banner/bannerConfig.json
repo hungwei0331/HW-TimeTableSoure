@@ -33,10 +33,16 @@
             "status": null
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/LUCfest.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/SavageFestival.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
         },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/LUCfest.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        }
     ]
 }
