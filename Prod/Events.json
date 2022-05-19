@@ -68,17 +68,17 @@
             "endDate": "2022/07/31",
             "location": {"locationName": "台北微遠虎山", "locationAddress": "台北市信義區福德街221巷186-1號", "latitude": 25.034416458495304, "longitude": 121.5852470079535},
             "mail": null,
-            "latestAttend": "美秀集團",
+            "latestAttend": "吳青原",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/05/09",
+            "eventLastUpdate": "2022/05/19",
             "eventTicket": [
                 { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "commingSoon"},
                 { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "commingSoon"}
             ],
-            "lineUp": "美秀集團…and more！"
+            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原"
         },
         {
             "years": 2022,
