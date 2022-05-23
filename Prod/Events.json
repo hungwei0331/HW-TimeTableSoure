@@ -3,23 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "六月革命",
-            "imageURL": null,
-            "startDate": "2022/05/21",
-            "endDate": "2022/05/21",
-            "location": {"locationName": "虎尾同心公園​​​", "locationAddress": "雲林縣虎尾鎮中山路2號​​", "latitude": 23.70350132518125, "longitude": 120.43638453081468},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "以雲林當地大型音樂祭為目標，\n也替社團內即將畢業的學長姐，\n在虎尾當地辦一場盛大的表演。",
-            "eventLastUpdate": "2022/05/09",
-            "eventTicket": null,
-            "lineUp": "虎科大熱音社、甘苦人、草原漂流、Evenfall、鐵擊、hue、老破麻"
-        },
-        {
-            "years": 2022,
             "title": "城市巨響音樂節",
             "imageURL": "",
             "startDate": "2022/05/28",
