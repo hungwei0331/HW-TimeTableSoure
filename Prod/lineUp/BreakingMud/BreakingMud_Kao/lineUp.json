@@ -36,7 +36,7 @@
      {
         "stage": "KARAOKE舞台",
         "stageLineUp": [
-            { "bandName": "小黃老師上課啦", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 15}
+            { "bandName": "小黃老師上課啦", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 15},
             { "bandName": "卡拉OK時間", "showStartTime": "3:30 PM", "showEndTime" : "9:40 PM", "showDuration": 370}
         ]
      }
