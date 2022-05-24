@@ -3,6 +3,14 @@
     [
         {
             "years": 2022,
+            "name": "爛泥發芽(高雄)",
+            "period": "2021/05/28 - 2020/05/29",
+            "type":"BreakingMud/BreakingMud_Kao",
+            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
+            "status": ""
+        },
+        {
+            "years": 2022,
             "name": "大港開唱",
             "period": "2022/03/26 - 2021/03/27",
             "type":"Mega",
@@ -31,14 +39,6 @@
             "period": "2021/10/29 - 2021/10/31",
             "type":"Vagabond",
             "location": {"locationName": "觀夕平臺旁大草皮", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99172163725574, "longitude": 120.14608251108169},
-            "status": ""
-        },
-        {
-            "years": 2021,
-            "name": "爛泥發芽(高雄)",
-            "period": "2021/05/15 - 2020/05/16",
-            "type":"BreakingMud/BreakingMud_Kao",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "status": ""
         },
         {
