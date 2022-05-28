@@ -13,12 +13,12 @@
         "stageLineUp": [
             { "bandName": "薄荷綠工廠", "showStartTime": "11:20 AM", "showEndTime" : "00:00 PM", "showDuration": 40},
             { "bandName": "21世紀無聊男子", "showStartTime": "00:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
-            { "bandName": "輻射魚市", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+            { "bandName": "固定客 ft. 謝和弦", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
             { "bandName": "煙雨飄渺", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
             { "bandName": "夕陽武士", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
-            { "bandName": "廢埕", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "輻射魚市", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
             { "bandName": "老破麻", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
-            { "bandName": "滅火器 Fire EX.", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
+            { "bandName": "淺堤.", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
         ]
      },
      {
@@ -45,12 +45,11 @@
         {
             "stage": "橋頭霸王",
             "stageLineUp": [
-                
-                { "bandName": "鐵擊", "showStartTime": "00:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
-                { "bandName": "彼岸曙光", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
-                { "bandName": "城市雨人", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+                { "bandName": "乙水", "showStartTime": "00:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
+                { "bandName": "鐵擊", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+                { "bandName": "無先生", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
                 { "bandName": "普通隊長", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
-                { "bandName": "EmptyORio", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
+                { "bandName": "餵飽豬", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
                 { "bandName": "海豚刑警", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
                 { "bandName": "非人物種", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
             ]
@@ -58,7 +57,6 @@
          {
             "stage": "糖廠暴徒",
             "stageLineUp": [
-                { "bandName": "乙水", "showStartTime": "00:20 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
                 { "bandName": "離岸流", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
                 { "bandName": "末日之猩", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
                 { "bandName": "烏賊紳士", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
