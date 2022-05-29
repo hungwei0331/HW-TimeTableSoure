@@ -3,48 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "城市巨響音樂節",
-            "imageURL": "",
-            "startDate": "2022/05/28",
-            "endDate": "2022/05/28",
-            "location": {"locationName": "Zepp New Taipei​", "locationAddress": "新北市新莊區新北大道四段3號8樓", "latitude": 25.0605357411715, "longitude": 121.4494377775334},
-            "mail": "info@cityroarsfest.com",
-            "latestAttend": "守夜人 ⚡️ 吳汶芳",
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "City ROARS! Festival\n城市巨響音樂節",
-            "eventLastUpdate": "2022/05/09",
-            "eventTicket": [
-                { "tickName": "福袋票", "salePeriod": "~2022/05/27", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "早安夥伴票", "salePeriod": "~2022/05/27", "price" : 1200, "ticketStatus": "soldOut"},
-                { "tickName": "午安朋友票", "salePeriod": "~2022/05/27", "price" : 1400, "ticketStatus": "onSale"},
-                { "tickName": "現場票", "salePeriod": "~2022/05/27", "price" : 1600, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "✧ 巨響舞台：持修、康士坦的變化球、無妄合作社、守夜人 ft.吳汶芳、icyball冰球樂團、溫妮 WINNI & Onsen Tamago、月宵◇クレシェンテ、昼食彼女 Lunch Girls、震樂堂​ ft. Ruka Banana\n✧ 甜波舞台：Ruka Banana、陽光◆スペクトラ、日蝕エクリプス、幻色プリンセス、V.V.V.​、李政瀚（特別講座）\n ✧ 線上連線演出：踊ってばかりの国(JP)、春ねむり(JP)、SEQUOiA(JP)​"
-        },
-        {
-            "years": 2022,
-            "title": "爛泥發芽(高雄)",
-            "imageURL": "",
-            "startDate": "2022/05/28",
-            "endDate": "2022/05/29",
-            "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
-            "mail": "surroundingsound@gmail.com",
-            "latestAttend": "非人物種",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/05/09",
-            "eventTicket": [
-                { "tickName": "最後關頭單人雙日票", "salePeriod": "~2022/05/28", "price" : 1649, "ticketStatus": "onSale"},
-                { "tickName": "愛心票", "salePeriod": "~2022/05/28", "price" : 749, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "滅火器 | 非人物種 | EmptyORio | 海豚刑警 | 老破麻 | 夕陽武士 | 孩子王 | 煙雨飄渺 | 彼岸曙光 | 昴宿 | 烏賊紳士 | 必順鄉村 | 鐵擊 | 城市雨人 | 慵懶計劃 | 薄荷綠工廠 | 海岸乾杯 | 廢埕樂團 | 普通隊長 | 21世紀無聊男子 | 人性先覺 | 末日之猩 | 宇宙計程車 | 輻射魚市 |  莎賓娜大樂隊 | 螺紋Rovens | 離岸流 | FLIN | 乙水 | 沛莉小子"
-        },
-        {
-            "years": 2022,
             "title": "野人祭",
             "imageURL": null,
             "startDate": "2022/07/30",
