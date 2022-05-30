@@ -9,17 +9,18 @@
             "endDate": "2022/07/31",
             "location": {"locationName": "台北微遠虎山", "locationAddress": "台北市信義區福德街221巷186-1號", "latitude": 25.034416458495304, "longitude": 121.5852470079535},
             "mail": null,
-            "latestAttend": "吳青原",
+            "latestAttend": "Σ＞― 鶴 The Crane ―＞",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/05/19",
+            "eventLastUpdate": "2022/05/30",
             "eventTicket": [
-                { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "commingSoon"},
-                { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "commingSoon"}
+                { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "onSale"},
+                { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "onSale"},
+                { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 750, "ticketStatus": "onSale"}
             ],
-            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原"
+            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane…and more！"
         },
         {
             "years": 2022,
@@ -28,15 +29,40 @@
             "startDate": "2022/08/13",
             "endDate": "2022/08/14",
             "location": null,
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "mail": "jurassicfestival@gmail.com",
+            "latestAttend": "夢遊先生 The Dreamer",
+            "ticketStatus": "onSale",
             "instagramUrl": null,
-            "purchaseUrl":  null,
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。",
-            "eventLastUpdate": "2022/04/06",
-            "eventTicket": null,
-            "lineUp": null
+            "eventLastUpdate": "2022/05/30",
+            "eventTicket": [
+                { "tickName": "🔥小龍滿滿的愛", "salePeriod": "~2022/078/12", "price" : 799, "ticketStatus": "onSale"},
+                { "tickName": "🔥就是任性聽團", "salePeriod": "!2022/08/12", "price" : 908, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "子沂、26Restart 、二手菸 Second Wave、台客至上、月下Under The Moon、Bunnlysium、公館青少年GGteens、夢遊先生The Dreamer ...and more！"
+        },
+        {
+            "years": 2022,
+            "title": "政大音樂節",
+            "imageURL": null,
+            "startDate": "2022/09/16",
+            "endDate": "2022/09/17",
+            "location": {"locationName": "國立政治大學四維堂​​​", "locationAddress": "116台北市文山區指南路二段64號​​", "latitude": 24.987970154412455,  "longitude": 121.57737675322423},
+            "mail": "nccumusicfestival@gmail.com",
+            "latestAttend": "▚ :‧ 第七屆政大音樂節｜最後一波卡司釋出 康士坦的變化球KST ‧: ▞ ",
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
+            "description": "政大音樂節\n\n作為媒合新媒體藝術與音樂的平台。\n希望能提供新媒體藝術家和音樂人之間交流的機會，創造不同的感官體驗，讓表演有更多不同的可能。帶著我們重新認識音樂表演、聽見更多不同的聲音。",
+            "eventLastUpdate": "2022/05/30",
+            "eventTicket": [
+                { "tickName": "四人放傘套票", "salePeriod": "~2022/09/15", "price" : 2800, "ticketStatus": "onSale"},
+                { "tickName": "雙人放傘套票", "salePeriod": "~2022/09/15", "price" : 1500, "ticketStatus": "onSale"},
+                { "tickName": "一支小雨傘單人票", "salePeriod": "~2022/09/15", "price" : 800, "ticketStatus": "onSale"},
+                { "tickName": "傘電前夜祭單日票", "salePeriod": "~2022/09/15", "price" : 250, "ticketStatus": "onSale"}
+            ],
+            "lineUp": "⇝ 演出陣容：傷心欲絕｜鄭宜農x VJ徐紹恩｜百合花ft.張藝x VJ吳羿伶｜露波合唱團｜POPO J x 八八男｜五五身x VJ王駝｜COLD DEW x VJ 簡宇｜DJ曾稔文｜DJ阿強｜康士坦的變化球"
         },
         {
             "years": 2022,
@@ -82,6 +108,23 @@
                 { "tickName": "貴人PRO PASS", "salePeriod": "~2022/11/02", "price" : 3199, "ticketStatus": "onSale"},
                 { "tickName": "貴人單日票", "salePeriod": "~2022/11/02", "price" : 1500, "ticketStatus": "onSale"}
             ],
+            "lineUp": null
+        },
+        {
+            "years": 2022,
+            "title": "漂遊者森林音樂祭",
+            "imageURL": null,
+            "startDate": "2022/12/02",
+            "endDate": "2022/12/04",
+            "location": null,
+            "mail": "insidecreative@rovation.com",
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
+            "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
+            "eventLastUpdate": "2022/05/30",
+            "eventTicket": null,
             "lineUp": null
         }
     ],
