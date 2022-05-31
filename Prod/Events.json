@@ -66,6 +66,23 @@
         },
         {
             "years": 2022,
+            "title": "嘉義搖滾音樂祭",
+            "imageURL": null,
+            "startDate": "2022/09/17",
+            "endDate": "2022/09/18",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": null,
+            "eventLastUpdate": "2022/05/31",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2022,
             "title": "爛泥發芽(台北)",
             "imageURL": "",
             "startDate": "2022/10/22",
