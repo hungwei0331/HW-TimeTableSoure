@@ -9,18 +9,18 @@
             "endDate": "2022/07/31",
             "location": {"locationName": "台北微遠虎山", "locationAddress": "台北市信義區福德街221巷186-1號", "latitude": 25.034416458495304, "longitude": 121.5852470079535},
             "mail": null,
-            "latestAttend": "Σ＞― 鶴 The Crane ―＞",
+            "latestAttend": "養正館武道-台灣支部 Yoseikan Budo Taiwan",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/05/30",
+            "eventLastUpdate": "2022/06/07",
             "eventTicket": [
                 { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "onSale"},
                 { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 750, "ticketStatus": "onSale"}
             ],
-            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane…and more！"
+            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane、Cicada、凹與山、Triple Deer、小米 Johnny Tsai、巴奇先生 X 水管阿民、台灣養正館武道…and more！"
         },
         {
             "years": 2022,
@@ -35,12 +35,16 @@
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。",
-            "eventLastUpdate": "2022/05/30",
+            "eventLastUpdate": "2022/06/07",
             "eventTicket": [
                 { "tickName": "🔥小龍滿滿的愛", "salePeriod": "~2022/078/12", "price" : 799, "ticketStatus": "onSale"},
-                { "tickName": "🔥就是任性聽團", "salePeriod": "!2022/08/12", "price" : 908, "ticketStatus": "onSale"}
+                { "tickName": "🔥就是任性聽團", "salePeriod": "!2022/08/12", "price" : 908, "ticketStatus": "onSale"},
+                { "tickName": "🔥有種自己聽團", "salePeriod": "!2022/08/12", "price" : 1299, "ticketStatus": "onSale"},
+                { "tickName": "🔥一個人聽團茫茫組合", "salePeriod": "!2022/08/12", "price" : 1399, "ticketStatus": "onSale"},
+                { "tickName": "🔥單人毛巾組合 ", "salePeriod": "!2022/08/12", "price" : 1599, "ticketStatus": "onSale"},
+                { "tickName": "🔥雙人毛巾組合", "salePeriod": "!2022/08/12", "price" : 2998, "ticketStatus": "onSale"}
             ],
-            "lineUp": "子沂、26Restart 、二手菸 Second Wave、台客至上、月下Under The Moon、Bunnlysium、公館青少年GGteens、夢遊先生The Dreamer ...and more！"
+            "lineUp": "拍謝少年、子沂、26Restart 、二手菸 Second Wave、台客至上、月下Under The Moon、Bunnlysium、公館青少年GGteens、夢遊先生The Dreamer ...and more！ "
         },
         {
             "years": 2022,
