@@ -14,7 +14,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "",
-            "eventLastUpdate": "2022/07/11",
+            "eventLastUpdate": "2022/07/19",
             "eventTicket": [
                 { "tickName": "幹真假盲鳥單日票", "salePeriod": "2022/06/10 - 2022/06/10", "price" : 777, "ticketStatus": "soldOut"},
                 { "tickName": "幹真假盲鳥雙日票", "salePeriod": "2022/06/10 - 2022/06/10", "price" : 1400, "ticketStatus": "soldOut"},
@@ -38,13 +38,13 @@
             "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/07/11",
+            "eventLastUpdate": "2022/07/19",
             "eventTicket": [
                 { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "soldOut"},
                 { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "➳ 愛心票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 750, "ticketStatus": "onSale"}
             ],
-            "lineUp": "美秀集團、非人物種 Inhuman、五五身 Fiftybodyfifty、SADOG、魚條 Fish Stick、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉 The Murky Crows、吳青原、邵勸明 Quanming Shao、雷擎、I am Puzzleman、黑狼黃大旺②、 泊人 ANKR - lemonfacer B2B #Gazer、汝妮 Dungi Sapor、鶴 The Crane、Cicada（Taiwan）、凹與山 Our Shame、Triple Deer、小米 Johnny Tsai、巴奇先生 Papi Bucket X 水管阿民 Amin、養正館武道-台灣支部 Yoseikan Budo Taiwan、Mr.Cube-黃子溢  Circus Artist『愛與立方體LovexCube』、武燄表演工作室、老破麻 - Old Slut Distortion、#滯留落體、#初次見面、傷心欲絕！"
+            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane、Cicada、凹與山、Triple Deer、小米 Johnny Tsai、巴奇先生 X 水管阿民、台灣養正館武道、黃子溢、武燄表演工作室、老破麻、滯留落體 Stranded Falling、初次見面、傷心欲絕！"
         },
         {
             "years": 2022,
@@ -117,12 +117,12 @@
             "endDate": "2022/10/23",
             "location": {"locationName": "新莊運動公園", "locationAddress": "新北市新莊區和興街66號", "latitude": 25.041737931236938, "longitude": 121.44993862623706},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "當代電影大師",
+            "latestAttend": "𝙎𝘼𝘿𝙊𝙂",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/07/11",
+            "eventLastUpdate": "2022/07/19",
             "eventTicket": [
                 { "tickName": "超級鐵粉雙人票", "salePeriod": "~2022/10/21", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世預售票", "salePeriod": "~2022/10/21", "price" : 1314, "ticketStatus": "onSale"},
@@ -130,7 +130,7 @@
                 { "tickName": "一起走吧預售票", "salePeriod": "~2022/10/21", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "愛心票", "salePeriod": "~2022/10/21", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "當代電影大師"
+            "lineUp": "康士坦的變化球、當代電影大師、昏鴉、餵飽豬、老破麻、𝙊𝘽𝙎𝙀𝙎𝙎、𝙎𝘼𝘿𝙊𝙂...𝙖𝙣𝙙 𝙢𝙤𝙧𝙚"
         },
         {
             "years": 2022,
