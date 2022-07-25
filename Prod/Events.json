@@ -14,13 +14,13 @@
             "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/07/19",
+            "eventLastUpdate": "2022/07/26",
             "eventTicket": [
                 { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "soldOut"},
                 { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "onSale"},
                 { "tickName": "➳ 愛心票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 750, "ticketStatus": "onSale"}
             ],
-            "lineUp": "美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane、Cicada、凹與山、Triple Deer、小米 Johnny Tsai、巴奇先生 X 水管阿民、台灣養正館武道、黃子溢、武燄表演工作室、老破麻、滯留落體 Stranded Falling、初次見面、傷心欲絕！"
+            "lineUp": "​🎯 演出陣容｜美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane、Cicada、凹與山、Triple Deer、小米 Johnny Tsai、巴奇先生 X 水管阿民、台灣養正館武道、黃子溢、武燄表演工作室、老破麻、滯留落體 Stranded Falling、初次見面、傷心欲絕！\n\n​🎯 象鼻職人工作坊｜〖金工戒指體驗〗大喬手作工作室、〖虎紋皮件 DIY〗春豬工作室、〖絹版印染課程〗吃到肉羹實業社、〖求生傘繩編織〗STRING MAN 傘繩士、〖手作微型弓箭〗CORNA 30！"
         },
         {
             "years": 2022,
@@ -45,6 +45,23 @@
                 { "tickName": "🔥雙人毛巾組合", "salePeriod": "!2022/08/12", "price" : 2998, "ticketStatus": "onSale"}
             ],
             "lineUp": "老破麻、恕、hue、榕幫、冰球樂團、拍謝少年、子沂、26Restart 、郭子恆、JK凱翔、二手菸 Second Wave、台客至上、月下Under The Moon、Bunnlysium、公館青少年GGteens、夢遊先生The Dreamer ...and more！ "
+        },
+        {
+            "years": 2022,
+            "title": "東風音樂祭",
+            "imageURL": null,
+            "startDate": "2022/08/13",
+            "endDate": "2022/08/14",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/dongfongmusicfestival/", "clickable": false},
+            "purchaseUrl":  null,
+            "description": "音樂的能量隨著東風在新竹刮起了旋風，經過不斷的累積、融合，東風之力越加強大，歷時五年，這股能量即將在今年8月⋯⋯​💥ㄧ 次 爆 發 💥​",
+            "eventLastUpdate": "2022/07/26",
+            "eventTicket": null,
+            "lineUp": "血肉果汁機｜美秀集團｜Asiaboy禁藥王＆Lizi栗子+潮州土狗｜法蘭Fran｜Multiverse｜張伍｜參劈｜王水源x桃子A1J｜固定客｜OBSESS｜火燒島｜FUTURE AFTER A SECOND｜傷心欲絕｜Bremen Entertainment Inc. 布萊梅｜倒車入庫｜體熊專科｜ "
         },
         {
             "years": 2022,
@@ -93,12 +110,12 @@
             "endDate": "2022/10/23",
             "location": {"locationName": "新莊運動公園", "locationAddress": "新北市新莊區和興街66號", "latitude": 25.041737931236938, "longitude": 121.44993862623706},
             "mail": "surroundingsound@gmail.com",
-            "latestAttend": "𝙎𝘼𝘿𝙊𝙂",
+            "latestAttend": "無妄合作社 No-nonsense Collective",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/07/19",
+            "eventLastUpdate": "2022/07/26",
             "eventTicket": [
                 { "tickName": "超級鐵粉雙人票", "salePeriod": "~2022/10/21", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世預售票", "salePeriod": "~2022/10/21", "price" : 1314, "ticketStatus": "onSale"},
@@ -106,7 +123,7 @@
                 { "tickName": "一起走吧預售票", "salePeriod": "~2022/10/21", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "愛心票", "salePeriod": "~2022/10/21", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "康士坦的變化球、當代電影大師、昏鴉、餵飽豬、老破麻、𝙊𝘽𝙎𝙀𝙎𝙎、𝙎𝘼𝘿𝙊𝙂...𝙖𝙣𝙙 𝙢𝙤𝙧𝙚"
+            "lineUp": "康士坦的變化球、無妄合作社、當代電影大師、昏鴉、餵飽豬、老破麻、𝙊𝘽𝙎𝙀𝙎𝙎、𝙎𝘼𝘿𝙊𝙂、逃走鮑伯、八十八顆芭樂籽...𝙖𝙣𝙙 𝙢𝙤𝙧𝙚"
         },
         {
             "years": 2022,
