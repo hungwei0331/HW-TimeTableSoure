@@ -3,30 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "台秋祭",
-            "imageURL": null,
-            "startDate": "2022/07/23",
-            "endDate": "2022/07/24",
-            "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區台灣大道一段1段1號", "latitude": 24.137611727332928, "longitude": 120.68511413068153},
-            "mail": null,
-            "latestAttend": "怕胖團 PA PUN BAND",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "",
-            "eventLastUpdate": "2022/07/19",
-            "eventTicket": [
-                { "tickName": "幹真假盲鳥單日票", "salePeriod": "2022/06/10 - 2022/06/10", "price" : 777, "ticketStatus": "soldOut"},
-                { "tickName": "幹真假盲鳥雙日票", "salePeriod": "2022/06/10 - 2022/06/10", "price" : 1400, "ticketStatus": "soldOut"},
-                { "tickName": "安內啦早鳥單日票 ", "salePeriod": "2022/06/11 - 2022/06/11", "price" : 888, "ticketStatus": "soldOut"},
-                { "tickName": "安內啦早鳥雙日票 ", "salePeriod": "2022/06/11 - 2022/06/11", "price" : 1500, "ticketStatus": "soldOut"},
-                { "tickName": "喔是喔預售單日票", "salePeriod": "2022/06/12 - 2022/07/22", "price" : 999, "ticketStatus": "soldOut"},
-                { "tickName": "喔是喔預售雙日票", "salePeriod": "2022/06/12 - 2022/07/22", "price" : 1600, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "玖壹壹｜拍謝少年｜怕胖團｜神棍樂團｜Multiverse｜魏嘉瑩｜溫室雜草｜老破麻｜OBSESS｜固定客｜西屯純愛組｜Alien Avenge異族亡魂｜PIZZALI｜JAYRoll｜So What｜Wolf Pacc｜步行者｜Pillow｜宋德鶴｜五木｜E1and｜等阮返來｜培特｜緋村宗祐｜王水源｜深深一擊｜胡凱兒｜同理｜黃祝賢儒｜莎賓娜大樂隊｜二十一世紀無聊男子｜兩棲人｜製燥者｜臨界點｜幻雨｜秋山｜Tsukimi月三ナヤミ ｜合鳥｜野蠻人｜手骨樂隊｜薄暮｜龍族扣殺｜無晟子｜Burning Beak｜濫情游泳池｜Traveler旅人 ｜and More！"
-        },
-        {
-            "years": 2022,
             "title": "野人祭",
             "imageURL": null,
             "startDate": "2022/07/30",
