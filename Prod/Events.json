@@ -3,27 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "野人祭",
-            "imageURL": null,
-            "startDate": "2022/07/30",
-            "endDate": "2022/07/31",
-            "location": {"locationName": "台北微遠虎山", "locationAddress": "台北市信義區福德街221巷186-1號", "latitude": 25.034416458495304, "longitude": 121.5852470079535},
-            "mail": null,
-            "latestAttend": "➸ 傷心欲絕➳ 老破麻 - Old Slut Distortion➸ 滯留落體 Stranded Falling➳ 初次見面",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/savagefest.tw", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "野人祭 SAVAGE FESTIVAL，以互動山系音樂節首度亮相，親近自然、關心島嶼樣貌為要，暫別快節奏與忙碌的都市叢林，踏入山林融入大自然。",
-            "eventLastUpdate": "2022/07/26",
-            "eventTicket": [
-                { "tickName": "➳ 極鬥早虎票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1199, "ticketStatus": "soldOut"},
-                { "tickName": "➳ 打野遇獸票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 1499, "ticketStatus": "onSale"},
-                { "tickName": "➳ 愛心票", "salePeriod": "2022/05/16 - 2022/07/29", "price" : 750, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "​🎯 演出陣容｜美秀集團、非人物種、五五身、SADOG、魚條、法蘭 Fran、春麵樂隊ChuNoodle、昏鴉、吳青原、邵勸明、雷擎、PUZZLEMAN、黑狼加開班次那卡西、泊人ANKR - Lemonfacer B2B Gazer、汝妮 DUNGI、鶴 The Crane、Cicada、凹與山、Triple Deer、小米 Johnny Tsai、巴奇先生 X 水管阿民、台灣養正館武道、黃子溢、武燄表演工作室、老破麻、滯留落體 Stranded Falling、初次見面、傷心欲絕！\n\n​🎯 象鼻職人工作坊｜〖金工戒指體驗〗大喬手作工作室、〖虎紋皮件 DIY〗春豬工作室、〖絹版印染課程〗吃到肉羹實業社、〖求生傘繩編織〗STRING MAN 傘繩士、〖手作微型弓箭〗CORNA 30！"
-        },
-        {
-            "years": 2022,
             "title": "諸羅祭",
             "imageURL": null,
             "startDate": "2022/08/13",
