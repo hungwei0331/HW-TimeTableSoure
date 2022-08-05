@@ -4,7 +4,7 @@
         {
             "years": 2022,
             "name": "爛泥發芽(高雄)",
-            "period": "2021/05/28 - 2020/05/29",
+            "period": "2022/05/28 - 2022/05/29",
             "type":"BreakingMud/BreakingMud_Kao",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "status": ""
@@ -12,7 +12,7 @@
         {
             "years": 2022,
             "name": "大港開唱",
-            "period": "2022/03/26 - 2021/03/27",
+            "period": "2022/03/26 - 2022/03/27",
             "type":"Mega",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "status": ""
