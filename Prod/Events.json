@@ -3,47 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "諸羅祭",
-            "imageURL": null,
-            "startDate": "2022/08/13",
-            "endDate": "2022/08/14",
-            "location": null,
-            "mail": "jurassicfestival@gmail.com",
-            "latestAttend": "老破麻、恕solemn",
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
-            "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，打造在地的舞台，領悟諸羅的文化，一起來展現自我享受音樂。",
-            "eventLastUpdate": "2022/07/11",
-            "eventTicket": [
-                { "tickName": "🔥小龍滿滿的愛", "salePeriod": "~2022/078/12", "price" : 799, "ticketStatus": "onSale"},
-                { "tickName": "🔥就是任性聽團", "salePeriod": "!2022/08/12", "price" : 908, "ticketStatus": "onSale"},
-                { "tickName": "🔥有種自己聽團", "salePeriod": "!2022/08/12", "price" : 1299, "ticketStatus": "onSale"},
-                { "tickName": "🔥一個人聽團茫茫組合", "salePeriod": "!2022/08/12", "price" : 1399, "ticketStatus": "onSale"},
-                { "tickName": "🔥單人毛巾組合 ", "salePeriod": "!2022/08/12", "price" : 1599, "ticketStatus": "onSale"},
-                { "tickName": "🔥雙人毛巾組合", "salePeriod": "!2022/08/12", "price" : 2998, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "老破麻、恕、hue、榕幫、冰球樂團、拍謝少年、子沂、26Restart 、郭子恆、JK凱翔、二手菸 Second Wave、台客至上、月下Under The Moon、Bunnlysium、公館青少年GGteens、夢遊先生The Dreamer ...and more！ "
-        },
-        {
-            "years": 2022,
-            "title": "東風音樂祭",
-            "imageURL": null,
-            "startDate": "2022/08/13",
-            "endDate": "2022/08/14",
-            "location": null,
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": {"url": "https://www.instagram.com/dongfongmusicfestival/", "clickable": false},
-            "purchaseUrl":  null,
-            "description": "音樂的能量隨著東風在新竹刮起了旋風，經過不斷的累積、融合，東風之力越加強大，歷時五年，這股能量即將在今年8月⋯⋯​💥ㄧ 次 爆 發 💥​",
-            "eventLastUpdate": "2022/07/26",
-            "eventTicket": null,
-            "lineUp": "血肉果汁機｜美秀集團｜Asiaboy禁藥王＆Lizi栗子+潮州土狗｜法蘭Fran｜Multiverse｜張伍｜參劈｜王水源x桃子A1J｜固定客｜OBSESS｜火燒島｜FUTURE AFTER A SECOND｜傷心欲絕｜Bremen Entertainment Inc. 布萊梅｜倒車入庫｜體熊專科｜ "
-        },
-        {
-            "years": 2022,
             "title": "政大音樂節",
             "imageURL": null,
             "startDate": "2022/09/16",
