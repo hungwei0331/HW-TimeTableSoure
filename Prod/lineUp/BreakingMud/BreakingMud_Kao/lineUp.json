@@ -7,6 +7,8 @@
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
     "stages": ["橋頭霸王", "糖廠暴徒", "卡拉OK舞台"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Kao/day1.jpeg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Kao/day2.jpeg"],
     "firstDayLineUps" :[
      {
         "stage": "橋頭霸王",
