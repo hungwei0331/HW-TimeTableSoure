@@ -7,8 +7,8 @@
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
     "stages": ["南霸天", "海龍王", "女神龍", "卡魔麥", "出頭天", "海波浪", "大雄丸", "藍寶石", "青春夢", "小港祭"],
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/Mega/day1.png",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/Mega/day2.png"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day1.png",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day2.png"],
     "firstDayLineUps" :[
      {
         "stage": "南霸天",
