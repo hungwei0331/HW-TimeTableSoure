@@ -7,6 +7,8 @@
     "startTime": "10:00 AM",
     "endTime": "10:00 PM",
     "stages": ["浮現", "光景", "冒險", "清水", "勇鬥擂台", "嗨風廣場"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/EmergeLive/day1.jpeg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/EmergeLive/day2.jpeg"],
     "firstDayLineUps" :[
      {
         "stage": "浮現",
