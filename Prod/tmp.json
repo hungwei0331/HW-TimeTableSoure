@@ -102,3 +102,25 @@
     "eventTicket": null,
     "lineUp": "滅火器｜魏如萱｜盧廣仲｜楊乃文｜拍謝少年｜Tizzy Bac｜康士坦的變化球｜TRASH｜VH(Vast & Hazy) ｜韋禮安｜美秀集團｜麋先生｜TRASH｜戴愛玲|許含光｜宋柏緯｜VIBER｜吳獻｜Codie｜安柏兒Amber｜蔡明仁｜壞特｜荷爾蒙少年｜and more....."
 },
+{
+    "years": 2022,
+    "title": "政大音樂節",
+    "imageURL": null,
+    "startDate": "2022/09/16",
+    "endDate": "2022/09/17",
+    "location": {"locationName": "國立政治大學四維堂​​​", "locationAddress": "116台北市文山區指南路二段64號​​", "latitude": 24.987970154412455,  "longitude": 121.57737675322423},
+    "mail": "nccumusicfestival@gmail.com",
+    "latestAttend": "▚ :‧ 第七屆政大音樂節｜最後一波卡司釋出 康士坦的變化球KST ‧: ▞ ",
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
+    "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
+    "description": "政大音樂節\n\n作為媒合新媒體藝術與音樂的平台。\n希望能提供新媒體藝術家和音樂人之間交流的機會，創造不同的感官體驗，讓表演有更多不同的可能。帶著我們重新認識音樂表演、聽見更多不同的聲音。",
+    "eventLastUpdate": "2022/05/30",
+    "eventTicket": [
+        { "tickName": "四人放傘套票", "salePeriod": "~2022/09/15", "price" : 2800, "ticketStatus": "onSale"},
+        { "tickName": "雙人放傘套票", "salePeriod": "~2022/09/15", "price" : 1500, "ticketStatus": "onSale"},
+        { "tickName": "一支小雨傘單人票", "salePeriod": "~2022/09/15", "price" : 800, "ticketStatus": "onSale"},
+        { "tickName": "傘電前夜祭單日票", "salePeriod": "~2022/09/15", "price" : 250, "ticketStatus": "onSale"}
+    ],
+    "lineUp": "⇝ 演出陣容：傷心欲絕｜鄭宜農x VJ徐紹恩｜百合花ft.張藝x VJ吳羿伶｜露波合唱團｜POPO J x 八八男｜五五身x VJ王駝｜COLD DEW x VJ 簡宇｜DJ曾稔文｜DJ阿強｜康士坦的變化球"
+},
