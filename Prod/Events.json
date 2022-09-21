@@ -7,7 +7,7 @@
             "imageURL": null,
             "startDate": "2022/09/24",
             "endDate": "2022/09/25",
-            "location": null,
+            "location": {"locationName": "嘉義文化創意產業園區​​​", "locationAddress": "嘉義市西區中山路616號​​", "latitude": 24.53121041223051, "longitude": 120.36293878358912},
             "mail": null,
             "latestAttend": "ゲシュタルト乙女 Gestalt Girl | 溫蒂漫步 Wendy Wander | 董事長樂團",
             "ticketStatus": "free",
