@@ -3,14 +3,6 @@
     [
         {
             "years": 2022,
-            "name": "嘉義搖滾音樂祭",
-            "period": "2022/09/24 - 2022/09/25",
-            "type":"Chiayi",
-            "location": {"locationName": "嘉義文化創意產業園區​​​", "locationAddress": "嘉義市西區中山路616號​​", "latitude": 24.53121041223051, "longitude": 120.36293878358912},
-            "status": ""
-        },
-        {
-            "years": 2022,
             "name": "爛泥發芽(高雄)",
             "period": "2022/05/28 - 2022/05/29",
             "type":"BreakingMud/BreakingMud_Kao",

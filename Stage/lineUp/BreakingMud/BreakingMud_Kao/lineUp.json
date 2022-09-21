@@ -1,46 +1,45 @@
 {
     "days": {
         "totalDays": 2,
-        "dateText": ["05 / 15", "05 / 16"]
+        "dateText": ["05 / 28", "05 / 29"]
     },
     "eventYear": "2021",
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
-    "stages": ["橋頭霸王", "糖廠暴徒", "KARAOKE舞台"],
+    "stages": ["橋頭霸王", "糖廠暴徒", "卡拉OK舞台"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Kao/day1.jpeg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Kao/day2.jpeg"],
     "firstDayLineUps" :[
      {
         "stage": "橋頭霸王",
         "stageLineUp": [
-            { "bandName": "城市雨人", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
-            { "bandName": "煙雨飄渺", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
-            { "bandName": "彼岸曙光", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
-            { "bandName": "謎路人", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
-            { "bandName": "孩子王", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
-            { "bandName": "廢埕", "showStartTime": "6:30 PM", "showEndTime" : "7:10 PM", "showDuration": 40},
-            { "bandName": "老破麻", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
-            { "bandName": "滅火器 Fire EX.", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+            { "bandName": "薄荷綠工廠", "showStartTime": "11:20 AM", "showEndTime" : "00:00 PM", "showDuration": 40},
+            { "bandName": "21世紀無聊男子", "showStartTime": "00:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
+            { "bandName": "固定客 ft. 謝和弦", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+            { "bandName": "煙雨飄渺", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+            { "bandName": "夕陽武士", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+            { "bandName": "輻射魚市", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "老破麻", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
+            { "bandName": "淺堤.", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "糖廠暴徒",
         "stageLineUp": [
-            { "bandName": "一點生", "showStartTime": "11:20 AM", "showEndTime" : "00:00 PM", "showDuration": 40},
-            { "bandName": "莎賓娜大樂隊", "showStartTime": "00:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
-            { "bandName": "離岸流", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-            { "bandName": "羅浮宮的帽子", "showStartTime": "2:50 PM", "showEndTime" : "3:30 PM", "showDuration": 40},
-            { "bandName": "末日之猩", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
-            { "bandName": "札克忍者", "showStartTime": "5:10 PM", "showEndTime" : "5:50 PM", "showDuration": 40},
-            { "bandName": "海岸乾杯", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
-            { "bandName": "昴宿", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
-            { "bandName": "人性先覺", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
+            { "bandName": "螺紋", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
+            { "bandName": "慵懶計畫", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
+            { "bandName": "莎賓娜大樂隊", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
+            { "bandName": "人性先覺", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
+            { "bandName": "海岸乾杯", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
+            { "bandName": "宇宙計程車", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "必順鄉村", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "KARAOKE舞台",
         "stageLineUp": [
             { "bandName": "小黃老師上課啦", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 15},
-            { "bandName": "DJ小宜", "showStartTime": "3:30 PM", "showEndTime" : "5:30 PM", "showDuration": 120},
-            { "bandName": "卡拉OK時間", "showStartTime": "5:30 PM", "showEndTime" : "9:30 PM", "showDuration": 240}
+            { "bandName": "卡拉OK時間", "showStartTime": "3:30 PM", "showEndTime" : "9:40 PM", "showDuration": 370}
         ]
      }
     ],
@@ -48,36 +47,30 @@
         {
             "stage": "橋頭霸王",
             "stageLineUp": [
-                { "bandName": "普通隊長", "showStartTime": "00:00 PM", "showEndTime" : "00:40 PM", "showDuration": 40},
-                { "bandName": "鐵擊", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
-                { "bandName": "奮樂團", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
-                { "bandName": "夕陽武士", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
-                { "bandName": "EmptyORio", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
-                { "bandName": "海豚刑警", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
-                { "bandName": "康士坦的變化球", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
-                { "bandName": "非人物種", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+                { "bandName": "乙水", "showStartTime": "00:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
+                { "bandName": "鐵擊", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+                { "bandName": "無先生", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+                { "bandName": "普通隊長", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+                { "bandName": "餵飽豬", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
+                { "bandName": "海豚刑警", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
+                { "bandName": "非人物種", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
             ]
          },
          {
             "stage": "糖廠暴徒",
             "stageLineUp": [
-                { "bandName": "螺紋", "showStartTime": "11:20 AM", "showEndTime" : "00:00 PM", "showDuration": 40},
-                { "bandName": "烏賊紳士", "showStartTime": "00:30 PM", "showEndTime" : "1:10 PM", "showDuration": 40},
-                { "bandName": "宇宙計程車", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-                { "bandName": "渣男迷幻", "showStartTime": "2:50 PM", "showEndTime" : "3:30 PM", "showDuration": 40},
-                { "bandName": "米老虎", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
-                { "bandName": "21世紀無聊男子", "showStartTime": "5:10 PM", "showEndTime" : "5:50 PM", "showDuration": 40},
-                { "bandName": "深深一擊", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
-                { "bandName": "輻射魚市", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
-                { "bandName": "必順鄉村", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
+                { "bandName": "離岸流", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
+                { "bandName": "末日之猩", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
+                { "bandName": "烏賊紳士", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
+                { "bandName": "沛莉小子", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDuration": 40},
+                { "bandName": "昴宿", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+                { "bandName": "孩子王", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40}
             ]
          },
          {
             "stage": "KARAOKE舞台",
             "stageLineUp": [
-                { "bandName": "快樂的工人調酒教學", "showStartTime": "3:15 PM", "showEndTime" : "3:30 PM", "showDuration": 15},
-                { "bandName": "DJ小宜", "showStartTime": "3:30 PM", "showEndTime" : "5:30 PM", "showDuration": 120},
-                { "bandName": "卡拉OK時間", "showStartTime": "5:30 PM", "showEndTime" : "9:30 PM", "showDuration": 240}
+                { "bandName": "卡拉OK時間", "showStartTime": "3:30 PM", "showEndTime" : "9:40 PM", "showDuration": 370}
             ]
          }
     ],

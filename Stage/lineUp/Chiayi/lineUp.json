@@ -1,0 +1,48 @@
+{
+    "days": {
+        "totalDays": 2,
+        "dateText": ["09 / 24", "09 / 25"]
+    },
+    "eventYear": "2022",
+    "startTime": "15:00 PM",
+    "endTime": "22:00 PM",
+    "stages": ["舞台"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chiayi/chiayi.jpg"],
+    "firstDayLineUps" :[
+     {
+        "stage": "舞台",
+        "stageLineUp": [
+            { "bandName": "Sun Day Night", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
+            { "bandName": "行樂人 The Yolo", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
+            { "bandName": "迷霧小鎮", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
+            { "bandName": "", "showStartTime": "5:00 PM", "showEndTime" : "6:00 PM", "showDuration": 60},
+            { "bandName": "炫風樂團", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "生炒鴨肉羹", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "沈文程", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
+            { "bandName": "飯匙槍", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+            { "bandName": "王彙築", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40},
+            { "bandName": "小男孩樂團", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+        ]
+     }
+    ],
+    "secondDayLineUps" :[
+        {
+           "stage": "舞台",
+           "stageLineUp": [
+            { "bandName": "300s音樂劇場", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
+            { "bandName": "後站人 Made In Back Station", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
+            { "bandName": "LadyTrouble 草包小姐", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
+            { "bandName": "", "showStartTime": "5:00 PM", "showEndTime" : "6:00 PM", "showDuration": 60},
+            { "bandName": "張三李四ft. DAPUN", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "ゲシュタルト乙女 Gestalt Girl", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "溫蒂漫步", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
+            { "bandName": "海豚刑警", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+            { "bandName": "神棍樂團", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40},
+            { "bandName": "董事長樂團", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+           ]
+        }
+    ],
+    "thirdDayLineUps" : null,
+    "fourthDayLineUps" : null,
+    "fifthDayLineUps" : null
+}
