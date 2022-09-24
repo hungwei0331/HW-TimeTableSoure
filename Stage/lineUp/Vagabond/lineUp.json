@@ -30,18 +30,18 @@
             { "bandName": "孩子王", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
             { "bandName": "怕胖團", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
             { "bandName": "國蛋", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
-            { "bandName": "淺堤 ft. 潤少", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+            { "bandName": "淺堤 ft. 潤少", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
         ]
      },
      {
         "stage": "風獅",
         "stageLineUp": [
-            { "bandName": "廢埕樂團", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-            { "bandName": "WolfPacc", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-            { "bandName": "體熊專科", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-            { "bandName": "石青羅林", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-            { "bandName": "A Piece of Cake 256", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-            { "bandName": "SHOOTUP", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40}
+            { "bandName": "廢埕樂團", "showStartTime": "12:00 PM", "showEndTime" : "12:40 PM", "showDuration": 40},
+            { "bandName": "WolfPacc", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
+            { "bandName": "體熊專科", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+            { "bandName": "石青羅林", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
+            { "bandName": "A Piece of Cake 256", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "SHOOTUP", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
         ]
      },
      {
@@ -53,7 +53,7 @@
             { "bandName": "庸俗救星", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
             { "bandName": "PUZZLEMAN", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
             { "bandName": "理化兄弟 P.C.B", "showStartTime": "7:30 PM", "showEndTime" : "8:10 PM", "showDuration": 40},
-            { "bandName": "四四拍 X 民生電器\n漫遊波波 Litro", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+            { "bandName": "四四拍 X 民生電器\n漫遊波波 Litro", "showStartTime": "9:00 PM", "showEndTime" : "10:00 PM", "showDuration": 60}
         ]
      }
     ],
@@ -116,10 +116,10 @@
         {
            "stage": "劍獅",
            "stageLineUp": [
-            { "bandName": "逃走鮑伯", "showStartTime": "1:30 PM", "showEndTime" : "2:10 PM", "showDuration": 40},
-            { "bandName": "禁藥王 & 栗子 X 潮州土狗", "showStartTime": "3:10 PM", "showEndTime" : "3:50 PM", "showDuration": 40},
-            { "bandName": "吳汶芳 ft. VH\n(Vast & Hazy)", "showStartTime": "4:50 PM", "showEndTime" : "5:30 PM", "showDuration": 40},
-            { "bandName": "SKARAOKE ft. 巴奈", "showStartTime": "6:30 PM", "showEndTime" : "7:10 PM", "showDuration": 40}
+            { "bandName": "逃走鮑伯", "showStartTime": "12:50 PM", "showEndTime" : "13:30 PM", "showDuration": 40},
+            { "bandName": "禁藥王 & 栗子 X 潮州土狗", "showStartTime": "2:30 PM", "showEndTime" : "3:10 PM", "showDuration": 40},
+            { "bandName": "吳汶芳 ft. VH\n(Vast & Hazy)", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
+            { "bandName": "SKARAOKE ft. 巴奈", "showStartTime": "5:50 PM", "showEndTime" : "6:50 PM", "showDuration": 60}
            ]
         },
         {
@@ -138,7 +138,7 @@
             { "bandName": "藍婷\nLan Ting", "showStartTime": "12:50 PM", "showEndTime" : "1:30 PM", "showDuration": 40},
             { "bandName": "Siàu-lú khah-lah 少女卡拉", "showStartTime": "2:30 PM", "showEndTime" : "3:10 PM", "showDuration": 40},
             { "bandName": "孝順一族", "showStartTime": "4:10 PM", "showEndTime" : "4:50 PM", "showDuration": 40},
-            { "bandName": "郭力瑋\n沈髒三\n陳瑞凱\nYILE LIN林以樂", "showStartTime": "6:00 PM", "showEndTime" : "9:00 PM", "showDuration": 180}
+            { "bandName": "郭力瑋\n\n沈髒三\n\n陳瑞凱\n\nYILE LIN\n林以樂", "showStartTime": "5:50 PM", "showEndTime" : "9:00 PM", "showDuration": 190}
            ]
         }
        ],
