@@ -3,23 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "嘉義搖滾音樂祭",
-            "imageURL": null,
-            "startDate": "2022/09/24",
-            "endDate": "2022/09/25",
-            "location": {"locationName": "嘉義文化創意產業園區​​​", "locationAddress": "嘉義市西區中山路616號​​", "latitude": 24.53121041223051, "longitude": 120.36293878358912},
-            "mail": null,
-            "latestAttend": "ゲシュタルト乙女 Gestalt Girl | 溫蒂漫步 Wendy Wander | 董事長樂團",
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": null,
-            "eventLastUpdate": "2022/09/19",
-            "eventTicket": null,
-            "lineUp": "Sun Day Night ｜行樂人｜迷霧小鎮｜旋風樂團｜生炒鴨肉羹｜沈文程｜飯匙槍｜王彙筑｜小男孩樂團｜海豚刑警｜旋風樂團 | 張三李四 Chang & Lee ft. DAPUN | 後站人 Made in back station | LadyTrouble 草包小姐 | ゲシュタルト乙女 Gestalt Girl | 溫蒂漫步 Wendy Wander | 董事長樂團 "
-        },
-        {
-            "years": 2022,
             "title": "浪人祭",
             "imageURL": null,
             "startDate": "2022/10/08",
