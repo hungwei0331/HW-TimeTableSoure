@@ -3,6 +3,14 @@
     [
         {
             "years": 2022,
+            "name": "搖滾台中",
+            "period": "2022/10/22 - 2022/10/23",
+            "type": "RockTaichung",
+            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146708421710926, "longitude": 120.64638476875854},
+            "status": ""
+        },
+        {
+            "years": 2022,
             "name": "浪人祭",
             "period": "2022/10/08 - 2022/10/10",
             "type":"Vagabond",
