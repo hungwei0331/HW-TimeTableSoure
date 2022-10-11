@@ -3,30 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "浪人祭",
-            "imageURL": null,
-            "startDate": "2022/10/08",
-            "endDate": "2022/10/10",
-            "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
-            "mail": null,
-            "latestAttend": "📀 ​ 蛋堡 Soft Lipa  💿 ​🔮 ​ 鄭宜農 Enno Cheng 🍰 ​ A Piece of Cake 256 🍷 ​ 假文藝青年俱樂部 (F.L.A.T CLUB) 🧻 ​ Super Napkin ",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2022/09/19",
-            "eventTicket": [
-                { "tickName": "超海鳥票", "salePeriod": "2022/07/04 ~ 2022/07/31", "price" : 1799, "ticketStatus": "soldOut"},
-                { "tickName": "海鳥票", "salePeriod": "2022/07/04 ~ 2022/07/31", "price" : 1999, "ticketStatus": "soldOut"},
-                { "tickName": "快炒雙人票", "salePeriod": "2022/07/04 ~ 2022/10/07", "price" : 2199, "ticketStatus": "onSale"},
-                { "tickName": "溫燉單人票", "salePeriod": "2022/07/04 ~ 2022/10/07", "price" : 2499, "ticketStatus": "onSale"},
-                { "tickName": "愛心票", "salePeriod": "2022/07/04 ~ 2022/10/07", "price" : 1249, "ticketStatus": "onSale"},
-                { "tickName": "野浪超海鳥票", "salePeriod": "2022/08/01 ~ 2022/08/31", "price" : 1799, "ticketStatus": "soldOut"}
-            ],
-            "lineUp": "回聲樂團Echo｜國蛋GorDoN｜馬念先｜無妄合作社｜929樂團｜淺堤Shallow Levée ft. 潤少｜SKARAOKE ft. 巴奈｜八十八顆芭樂籽｜火燒島｜老破麻｜荷爾蒙少年｜EmptyORio｜P!SCO｜孩子王｜粗大Band｜海豚刑警｜YILE LIN 林以樂｜DSPS｜溫蒂漫步｜Codie｜當代電影大師｜晨曦光廊｜逃走鮑伯｜裝咖人｜Siàu-lú khah-lah 少女卡拉｜風籟坊｜SHOOTUP｜SADOG｜廢埕樂團｜孝順一族｜BB彈｜太空蒼蠅｜羅百吉｜PUZZLEMAN｜鹿比∞吠陀｜理化兄弟 P.C.B.｜等大人之夜（郭力瑋、沈髒三、YILE LIN 林以樂、陳瑞凱）｜四四拍Ｘ民生電氣 ​ 台南休假Bro（漫遊波波、Litro）｜芒果醬 Mango Jump｜打倒三明治｜庸俗救星｜COLD DEW｜Bremen Entertainment Inc. 布萊梅｜夢遊旅人｜漂流出口｜高小糕｜石青羅林｜午夜午夜｜Wild Thing野東西｜不幸。機構｜吳汶芳 ft. VH (Vast & Hazy)｜體熊專科。Major in Body Bear｜怕胖團｜庵心自在所｜固定客｜YoungLee-搖擺在浪尖的小李飛刀（特別嘉賓🚀Robot Swing、SOWUT）｜Asiaboy 禁藥王 & Lizi 栗子 X 潮州土狗｜WolfPacc｜藍婷 Lan Ting｜FORMOZA｜鄭宜農｜假文藝青年俱樂部｜A Piece of Cake 256｜Super Napkin｜蛋堡(Soft Lipa)！ ​"
-        },
-        {
-            "years": 2022,
             "title": "秋OUT音樂節",
             "imageURL": null,
             "startDate": "2022/10/14",
@@ -58,7 +34,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/10/11",
             "eventTicket": [
                 { "tickName": "超級鐵粉雙人票", "salePeriod": "~2022/10/21", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世預售票", "salePeriod": "~2022/10/21", "price" : 1314, "ticketStatus": "soldOut"},
@@ -67,7 +43,7 @@
                 { "tickName": "一起走吧預售票", "salePeriod": "~2022/10/21", "price" : 1798, "ticketStatus": "commingSoon"},
                 { "tickName": "愛心票", "salePeriod": "~2022/10/21", "price" : 600, "ticketStatus": "onSale"}
             ],
-            "lineUp": "康士坦的變化球┊無妄合作社┊非人物種┊當代電影大師┊昏鴉┊餵飽豬┊老破麻┊𝙊𝘽𝙎𝙀𝙎𝙎 ┊𝙎𝘼𝘿𝙊𝙂 ┊逃走鮑伯┊八十八顆芭樂籽┊荷爾蒙少年┊反正我很閒┊𝘾𝙊𝙇𝘿 𝘿𝙀𝙒 ┊固定客┊布萊梅┊佬步槍┊少年𝘼 ┊𝙆𝙞𝙙 𝙏𝙤𝙬𝙣 ┊𝙎𝙃𝙊𝙊𝙏 𝙐𝙋 ┊呂杰達搖滾大樂隊┊無先生┊𝟮𝟭世紀無聊男子┊孝順一族┊𝘽𝘽彈┊討口一眾┊海岸乾杯┊莎賓娜大樂隊┊蘭花刀┊深深一擊┊逆瓣膜┊培根巴掌!┊倒車入庫┊普通隊長┊梅西的房間┊烏鴉公寓┊重陽路上小心┊裝咖人┊廢埕┊庫克樂團┊非我┊非典型招待所┊林同學樂團┊夢遺如來┊宇宙計程車┊原味豆​​​"
+            "lineUp": "康士坦的變化球┊無妄合作社┊非人物種┊當代電影大師┊昏鴉┊餵飽豬┊老破麻┊𝙊𝘽𝙎𝙀𝙎𝙎 ┊𝙎𝘼𝘿𝙊𝙂 ┊逃走鮑伯┊八十八顆芭樂籽┊荷爾蒙少年┊反正我很閒┊𝘾𝙊𝙇𝘿 𝘿𝙀𝙒 ┊固定客┊布萊梅┊佬步槍┊少年𝘼 ┊𝙆𝙞𝙙 𝙏𝙤𝙬𝙣 ┊𝙎𝙃𝙊𝙊𝙏 𝙐𝙋 ┊呂杰達搖滾大樂隊┊無先生┊𝟮𝟭世紀無聊男子┊孝順一族┊𝘽𝘽彈┊討口一眾┊海岸乾杯┊莎賓娜大樂隊┊蘭花刀┊深深一擊┊逆瓣膜┊培根巴掌!┊倒車入庫┊普通隊長┊梅西的房間┊烏鴉公寓┊重陽路上小心┊裝咖人┊廢埕┊庫克樂團┊非我┊非典型招待所┊林同學樂團┊夢遺如來┊宇宙計程車┊原味豆​"
         },
         {
             "years": 2022,
@@ -94,14 +70,14 @@
             "endDate": "2022/10/30",
             "location": null,
             "mail": "unlimitedfreedomfestival@gmail.com",
-            "latestAttend": "昆蟲白 insecteens 、離岸流 、追風如何 How About Zhui Feng 、野狗俱樂部 Stray Dog Club 、玖零 、青春催淚彈Youth tear Bomb 、最後一擊阿弄&Shinji",
+            "latestAttend": "巴大雄",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/unlimited_freedom_festival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "Unlimited Freedom FESTIVAL 無限自由音樂節\n創辦於2007年夏末秋至，\n為台中第一個最具有規模的獨立音樂節。\n音樂節口號為「Rock In Taichung 搖滾台中！」\n『Unlimited Freedom FESTIVAL 搖滾台中-無限自由音樂節』為台中獨立廠牌 Roc steady co搖滾開跑音樂社（迴響音樂藝文展演空間前身）於2007年所創辦。\n\n「搖滾台中-無限自由音樂節」的誕生，\n不僅為台中投下了震撼彈，也開啟了整個台中音樂文化的新時代。\n2008年，「搖滾台中-無限自由音樂節」\n參加人數到達上萬人，也為台中的獨立音樂奠下了基礎。\n\n「搖滾台中-無限自由音樂節」從2009年停辦，\n 活動團隊轉型成展演空間（Sound Live House），\n經歷8年的時間，默默為台中音樂耕耘，重新定位新的方向。\n\n『2015年無限自由音樂節』在大家多年的期盼之下回來了。\n正式更名為『無限自由音樂藝術節』。\n這次我們逃離城市，回到大自然，認真的做自己。\n讓音樂節不再只有搖滾樂及舞台演出這麼簡單。\n努力的將各種風格的音樂及藝術呈現給大家，\n是『無限自由音樂藝術節』最大的使命。\n這次將結合更多不同元素的藝術創作，使整個活動更多樣性，更符合『無限自由』的概念。\n\n2016年,無限自由音樂藝術節移師到台灣最中心-南投縣埔里鎮。\n也是台灣地理位置海拔最高的搖滾音樂節。\n\n我們也企圖讓台灣文化以及嬉皮文化於『無限自由音樂藝術節』中做結合，\n希望創造一個前所未有的場景。\n\n無限自由音樂藝術節自創辦以來，\n有來自台灣/日本/美國/韓國/香港/中國/波蘭/瑞士/新加坡/泰國/馬來西亞/印尼/墨西哥…等多個國家的獨立樂團/音樂家/藝術家 共襄盛舉參與過。\n\n朋友們，和我們一起創造新的歷史吧！",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/10/11",
             "eventTicket": null,
-            "lineUp": "infernal chaos、恕、KoOk 庫克、P!SCO、魚條、普通隊長、討口一眾、我是機車少女、非人物種、老破麻、餵飽豬、道德深淵、US：WE、無先生、貓膽汁、0o迌迌o0、黑色收音機派對、微酸的偷窺狂、莎賓娜大樂隊、二十一世紀無聊男子、眠氣、濫情游泳池、台北夜遊、重陽路上小心、男子漢樂團、小護士、餿水、油漬艾莉、鯨魚號、清醒夢、GOTA、慵懶計畫、赤楊、時不我予、庸俗禿鷹、培根巴掌、Obsequial Joy、Xmoraz、YILITH、奔等泰迪、地下道樂團、TOBE、秋山、這不是菸、龍族扣殺、黃花、Burning Beak、鯊魚娃娃機、昴宿、桑諾斯、迷霧吐司、烏兔、神經博士、AROB、鮭魚米漢堡、小麻雀樂團、Aqua Soul、朦朧之光Blurry Lights、Be yeah、USB type-ACG、銀河パルス、我想一想我想想笑死、國境之男－ACG日搖歡樂格鬥團、SemiTone、皆死んじゃった、市立櫻丘高級中學熱門狩獵研習社、運命ルーレット、Uranus -ウラノス、酸素人間、飛行櫻桃-Flight Cherry、雙馬尾、時雨姬 しぐれひめ、王立言、The WAiiT、旅人、甘庶會社、非我、貓咪庫瑪拉、生活實驗室、島嶼都市浪漫譚、潛夢島、遠鄉人、胭脂虎、鞋帶、諾堤、胡鬧戰隊、萬事、晚安費雪、UN AVEC DEUX、Phoenix Island、芥子草、Lele、手骨樂隊、瘋狂公爵、卡尼特、行樂人、黑狼那卡西、野蠻人、SORA、桑尼Sonnie、你我U&I、Viber氣氛人、嚴梵、安妮塔克、昆蟲白、離岸流、追風如何、野狗俱樂部、玖零、青春催淚彈、最後一擊阿弄&Shinji…and more!"
+            "lineUp": "infernal chaos、恕、KoOk 庫克、P!SCO、魚條、普通隊長、討口一眾、我是機車少女、非人物種、老破麻、餵飽豬、道德深淵、US：WE、無先生、貓膽汁、0o迌迌o0、黑色收音機派對、微酸的偷窺狂、莎賓娜大樂隊、二十一世紀無聊男子、眠氣、濫情游泳池、台北夜遊、重陽路上小心、男子漢樂團、小護士、餿水、油漬艾莉、鯨魚號、清醒夢、GOTA、慵懶計畫、赤楊、時不我予、庸俗禿鷹、培根巴掌、Obsequial Joy、Xmoraz、YILITH、奔等泰迪、地下道樂團、TOBE、秋山、這不是菸、龍族扣殺、黃花、Burning Beak、鯊魚娃娃機、昴宿、桑諾斯、迷霧吐司、烏兔、神經博士、AROB、鮭魚米漢堡、小麻雀樂團、Aqua Soul、朦朧之光Blurry Lights、Be yeah、USB type-ACG、銀河パルス、我想一想我想想笑死、國境之男－ACG日搖歡樂格鬥團、SemiTone、皆死んじゃった、市立櫻丘高級中學熱門狩獵研習社、運命ルーレット、Uranus -ウラノス、酸素人間、飛行櫻桃-Flight Cherry、雙馬尾、時雨姬 しぐれひめ、王立言、The WAiiT、旅人、甘庶會社、非我、貓咪庫瑪拉、生活實驗室、島嶼都市浪漫譚、潛夢島、遠鄉人、胭脂虎、鞋帶、諾堤、胡鬧戰隊、萬事、晚安費雪、UN AVEC DEUX、Phoenix Island、芥子草、Lele、手骨樂隊、瘋狂公爵、卡尼特、行樂人、黑狼那卡西、野蠻人、SORA、桑尼Sonnie、你我U&I、Viber氣氛人、嚴梵、安妮塔克、昆蟲白、離岸流、追風如何、野狗俱樂部、玖零、青春催淚彈、最後一擊阿弄&Shinji、巴大雄"
         },
         {
             "years": 2022,
@@ -111,12 +87,12 @@
             "endDate": "2022/10/30",
             "location": null,
             "mail": "takaorock@kpmc.com.tw",
-            "latestAttend": "👾 理想混蛋 Bestards\n👾 拍謝少年 Sorry Youth\n👾 八十八顆芭樂籽 88balaz\n👾 庸俗救星\n👾  以莉．高露 Ilid Kaolo\n👾 黃子軒與山平快 ZiXuan & Slow Train",
+            "latestAttend": "血肉果汁機｜巴大雄",
             "ticketStatus": "onSale",
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "音樂 x 海景x 樂園\n2018年秋天，跟著TAKAO ROCK一起在高雄港三號船渠，盡情狂歡！\n絢麗奪目的視覺元素，搭配著音樂衝擊，整個高雄港，都是我們的音樂祭！",
-            "eventLastUpdate": "2022/09/26",
+            "eventLastUpdate": "2022/10/11",
             "eventTicket": [
                 { "tickName": "打狗星祭雙日盲旅票", "salePeriod": "~2022/10/21", "price" : 1800, "ticketStatus": "soldOut"},
                 { "tickName": "獨遊宇宙單日票", "salePeriod": "~2022/10/21", "price" : 1300, "ticketStatus": "onSale"},
@@ -126,7 +102,7 @@
                 { "tickName": "單日愛心票", "salePeriod": "~2022/10/21", "price" : 650, "ticketStatus": "onSale"},
                 { "tickName": "雙日愛心票", "salePeriod": "~2022/10/21", "price" : 650, "ticketStatus": "onSale"}
             ],
-            "lineUp": "安溥｜HUSH｜大支｜韓森｜小人｜聖夫戰隊｜Multiverse｜西屯純愛組｜告五人｜1976｜麋先生｜康士坦的變化球｜南西肯恩｜怕胖團｜體熊專科｜鱷魚迷幻｜春麵樂隊｜布萊梅｜午夜午夜｜持修｜王水源｜汪定中｜LINION｜wannasleep｜HowZ｜魏嘉瑩｜琳誼｜知更｜淺堤｜孩子王｜夕陽武士｜必順鄉村｜影子計劃｜吾橋有水feat.Leggy｜EmptyORio｜DJ賴皮MR.SKIN ｜理想混蛋｜拍謝少年｜八十八顆芭樂籽｜庸俗救星｜以莉．高露 Ilid Kaolo｜黃子軒與山平快 ﹍ and More！"
+            "lineUp": "安溥｜HUSH｜大支｜韓森｜小人｜聖夫戰隊｜Multiverse｜西屯純愛組｜告五人｜1976｜麋先生｜康士坦的變化球｜南西肯恩｜怕胖團｜體熊專科｜鱷魚迷幻｜春麵樂隊｜布萊梅｜午夜午夜｜持修｜王水源｜汪定中｜LINION｜wannasleep｜HowZ｜魏嘉瑩｜琳誼｜知更｜淺堤｜孩子王｜夕陽武士｜必順鄉村｜影子計劃｜吾橋有水feat.Leggy｜EmptyORio｜DJ賴皮MR.SKIN ｜粗大Band｜逃走鮑伯｜OHAN｜周自從｜絕命青年｜理想混蛋｜拍謝少年｜八十八顆芭樂籽｜庸俗救星｜以莉．高露 Ilid Kaolo｜黃子軒與山平快｜光良｜彭佳慧｜普悠瑪音樂家族（陳建年、南王姐妹花、吳昊恩及家族成員）｜凹與山｜吳獻｜溫室雜草｜甜約翰｜緩緩｜法蘭｜靈魂沙發｜血肉果汁機｜巴大雄 ！"
         },
         {
             "years": 2022,
@@ -202,14 +178,14 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/10/11",
             "eventTicket": [
                 { "tickName": "超級早鳥3日票", "salePeriod": "~2022/12/01", "price" : 2999, "ticketStatus": "onSale"},
                 { "tickName": "超級早鳥2日票", "salePeriod": "~2022/12/01", "price" : 2500, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2022/12/01", "price" : 5899, "ticketStatus": "onSale"},
                 { "tickName": "兒童票", "salePeriod": "~2022/12/01", "price" : 3199, "ticketStatus": "onSale"}
             ],
-            "lineUp": "楊乃文、陳建年、李友廷、告五人、宋柏緯、鄭宜農、美秀集團、Tizzy Bac、麋先生、怕胖團、血肉果汁機、拍謝少年、康士坦的變化球、無妄合作社、OBSESS、李權哲、體熊專科、LINION、溫蒂漫步、溫室雜草、西屯純愛組、Multiverse、雷擎、TRASH、脫拉庫TOLAKU​"
+            "lineUp": "楊乃文・陳建年・李友廷・告五人・宋柏緯・鄭宜農・美秀集團・Tizzy Bac・麋先生・TRASH・怕胖團・血肉果汁機・拍謝少年・脫拉庫・康士坦的變化球・無妄合作社・OBSESS・李權哲・體熊專科・LINION・溫蒂漫步・溫室雜草・西屯純愛組・Multiverse・雷擎​"
         }
     ],
     "nextYearEvents": [
@@ -221,12 +197,12 @@
             "endDate": "2023/02/26",
             "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "老諾×無序樂團｜老破麻 - Old Slut Distortion ",
+            "latestAttend": "董事長樂團｜icyball 冰球樂團 ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "搖滾的喧囂，片刻的寧靜​\n衝突的煙硝，如常的驚醒​\n愛的大燦笑，世界的和平\n☮　 和平維繫愛存在　☮​\n\n從2019年舉辦至今，感謝大家來到台中，陪伴我們成長茁壯。今年下半年開始，我們決定展開新的旅程，邀請大家一起出發世界去冒險！​\n在此之前，想與大家分享一個故事。上個世紀中，台美雙方簽訂了共同防禦條約，而後清泉崗機場誕生於台中海線，伴隨越戰美軍駐紮，搖滾樂也因此傳入台灣。​\n在同一個時空裡，美國進行了一場象徵Love & Peace 的 The Woodstock Festival，「搖滾精神」也由此傳頌至全世界。​\n五十年後，因為疫情影響，世界間的互動僅能停留在雲端上，我們盼望世界重啟交流時，國際音樂能再次從海線輸入，也希望上一世代對於和平與愛的搖滾精神，可以繼續承襲下去。​\n走出戶外享受音樂帶來的美好，感受人與人貼近的溫度，當我們相聚在現場，將再次拉近世界之間的距離。​",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/10/11",
             "eventTicket": [
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "大探險家 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1800, "ticketStatus": "soldOut"},
@@ -234,7 +210,7 @@
                 { "tickName": "冒險小隊 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 3800, "ticketStatus": "soldOut"},
                 { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
             ],
-            "lineUp": "▸ SUGIZO[JP]｜TRASH｜Cody・Lee (李) [JP]｜HYBS[TH]｜麋先生｜拍謝少年｜黃玠｜VH ( Vast & Hazy )｜理想混蛋｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜ and more！"
+            "lineUp": "SUGIZO[JP]｜TRASH｜Cody・Lee (李) [JP]｜HYBS[TH]｜麋先生｜拍謝少年｜黃玠｜董事長樂團｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜ and more！​"
         }
     ]
 }
