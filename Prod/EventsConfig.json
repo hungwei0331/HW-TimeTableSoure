@@ -3,6 +3,14 @@
     [
         {
             "years": 2022,
+            "name": "爛泥發芽(台北)",
+            "period": "2022/10/22 - 2022/10/23",
+            "type":"BreakingMud/BreakingMud_Taipei",
+            "location": {"locationName": "新莊運動公園", "locationAddress": "新北市新莊區和興街66號", "latitude": 25.041737931236938, "longitude": 121.44993862623706},
+            "status": ""
+        }
+        {
+            "years": 2022,
             "name": "搖滾台中",
             "period": "2022/10/22 - 2022/10/23",
             "type": "RockTaichung",
@@ -47,14 +55,6 @@
             "period": "2022/02/12 - 2022/02/13",
             "type": "EmergeLive",
             "location": {"locationName": "清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路70號​​", "latitude": 24.272529922074817, "longitude": 120.58274994177026},
-            "status": ""
-        },
-        {
-            "years": 2022,
-            "name": "爛泥發芽(台北)",
-            "period": "2022/01/01 - 2022/01/02",
-            "type":"BreakingMud/BreakingMud_Taipei",
-            "location": {"locationName": "新北大都會公園(三重婚紗廣場)​", "locationAddress": "新北市三重區疏洪五路二段​​", "latitude": 25.05519783388496, "longitude": 121.4783721},
             "status": ""
         }
     ]
