@@ -1,51 +1,51 @@
 {
     "days": {
         "totalDays": 2,
-        "dateText": ["01 / 01", "01 / 02"]
+        "dateText": ["10 / 22", "10 / 23"]
     },
     "eventYear": "2022",
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
     "stages": ["街頭霸王舞台", "絕處逢生舞台", "夾縫生存舞台"],
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day1.jpeg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day2.jpeg"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/firstDay.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/secondDay.jpg"],
     "firstDayLineUps" :[
      {
         "stage": "街頭霸王舞台",
         "stageLineUp": [
-            { "bandName": "蘭花刀", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
-            { "bandName": "SADOG", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
-            { "bandName": "廢埕", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
-            { "bandName": "當代電影大師", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
-            { "bandName": "八十八顆芭樂籽", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
-            { "bandName": "老破麻", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
-            { "bandName": "謝和弦", "showStartTime": "9:00 PM", "showEndTime" : "9:40 PM", "showDuration": 40}
+            { "bandName": "深深一擊", "showStartTime": "12:00 PM", "showEndTime" : "12:40 PM", "showDuration": 40},
+            { "bandName": "無先生", "showStartTime": "1:20 PM", "showEndTime" : "2:00 PM", "showDuration": 40},
+            { "bandName": "倒車入庫", "showStartTime": "2:40 PM", "showEndTime" : "3:20 PM", "showDuration": 40},
+            { "bandName": "反正我很閒大樂隊", "showStartTime": "4:00 PM", "showEndTime" : "4:40 PM", "showDuration": 40},
+            { "bandName": "賀爾蒙少年", "showStartTime": "5:20 PM", "showEndTime" : "6:00 PM", "showDurat   ion": 40},
+            { "bandName": "昏鴉", "showStartTime": "6:40 PM", "showEndTime" : "7:20 PM", "showDuration": 40},
+            { "bandName": "非人物種", "showStartTime": "8:00 PM", "showEndTime" : "8:40 PM", "showDuration": 40},
+            { "bandName": "無妄合作社", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "絕處逢生舞台",
         "stageLineUp": [
-            { "bandName": "梅西的房間", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
-            { "bandName": "渣男迷幻", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
-            { "bandName": "Wednesday與壞透樂團", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-            { "bandName": "林同學樂團", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
-            { "bandName": "烏鴉公寓", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-            { "bandName": "21世紀無聊男子", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-            { "bandName": "深深一擊", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-            { "bandName": "BB彈", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
+            { "bandName": "裝咖人", "showStartTime": "12:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
+            { "bandName": "呂捷達搖滾大樂隊", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+            { "bandName": "原味豆", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
+            { "bandName": "孝順一族", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+            { "bandName": "BB彈", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
+            { "bandName": "SHOOT UP", "showStartTime": "7:20 PM", "showEndTime" : "8:00 PM", "showDuration": 40},
+            { "bandName": "當代電影大師", "showStartTime": "8:40 PM", "showEndTime" : "9:20 PM", "showDuration": 40}
         ]
      },
      {
         "stage": "夾縫生存舞台",
         "stageLineUp": [
-            { "bandName": "非我", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
-            { "bandName": "培根巴掌!", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
-            { "bandName": "莎賓娜大樂隊", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-            { "bandName": "海岸乾杯", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
-            { "bandName": "宋德鶴", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-            { "bandName": "夢遺如來", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
+            { "bandName": "培根巴掌!", "showStartTime": "12:00 PM", "showEndTime" : "12:40 PM", "showDuration": 40},
+            { "bandName": "非典型招待所", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
+            { "bandName": "重陽路上小心", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+            { "bandName": "莎賓娜大樂隊", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+            { "bandName": "21世紀無聊男子", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+            { "bandName": "非我", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
             { "bandName": "宇宙計程車", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-            { "bandName": "黑色收音機派對", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
+            { "bandName": "普通隊長", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40}
         ]
      }
     ],
@@ -53,40 +53,39 @@
         {
             "stage": "街頭霸王舞台",
             "stageLineUp": [
-                { "bandName": "麥琪麥琪", "showStartTime": "11:40 AM", "showEndTime" : "00:20 PM", "showDuration": 40},
-                { "bandName": "SHOOT UP", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
-                { "bandName": "固定客", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
-                { "bandName": "步行者", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
-                { "bandName": "荒山茉莉", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
-                { "bandName": "OBSESS", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
-                { "bandName": "拍謝少年", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
-                { "bandName": "傷心欲絕", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
+                { "bandName": "海岸乾杯", "showStartTime": "11:40 AM", "showEndTime" : "00:20 PM", "showDuration": 40},
+                { "bandName": "廢埕", "showStartTime": "1:00 PM", "showEndTime" : "1:40 PM", "showDuration": 40},
+                { "bandName": "SADOG", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+                { "bandName": "八十八顆芭樂籽", "showStartTime": "3:40 PM", "showEndTime" : "4:20 PM", "showDuration": 40},
+                { "bandName": "餵飽豬", "showStartTime": "5:00 PM", "showEndTime" : "5:40 PM", "showDuration": 40},
+                { "bandName": "老破麻", "showStartTime": "6:20 PM", "showEndTime" : "7:00 PM", "showDuration": 40},
+                { "bandName": "OBSESS", "showStartTime": "7:40 PM", "showEndTime" : "8:20 PM", "showDuration": 40},
+                { "bandName": "康士坦的變化球", "showStartTime": "9:20 PM", "showEndTime" : "10:00 PM", "showDuration": 40}
             ]
          },
          {
             "stage": "絕處逢生舞台",
             "stageLineUp": [
-                { "bandName": "離岸流", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
-                { "bandName": "佬步槍", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
-                { "bandName": "KID TOWN", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-                { "bandName": "河童鄉", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
-                { "bandName": "少年A", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "普通隊長", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-                { "bandName": "討口一眾", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-                { "bandName": "餵飽豬", "showStartTime": "8:20 PM", "showEndTime" : "9:20 PM", "showDuration": 60}
+                { "bandName": "逆瓣膜", "showStartTime": "12:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
+                { "bandName": "蘭花刀", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
+                { "bandName": "布萊梅", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
+                { "bandName": "COLD DEW", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
+                { "bandName": "討口一眾", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
+                { "bandName": "固定客", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
+                { "bandName": "逃走鮑伯", "showStartTime": "8:20 PM", "showEndTime" : "9:00 PM", "showDuration": 40}
             ]
          },
          {
             "stage": "夾縫生存舞台",
             "stageLineUp": [
-                { "bandName": "時不我予", "showStartTime": "11:00 AM", "showEndTime" : "11:40 AM", "showDuration": 40},
-                { "bandName": "呂杰達搖滾大樂隊", "showStartTime": "00:20 PM", "showEndTime" : "1:00 PM", "showDuration": 40},
-                { "bandName": "徐行", "showStartTime": "1:40 PM", "showEndTime" : "2:20 PM", "showDuration": 40},
-                { "bandName": "逆瓣膜", "showStartTime": "3:00 PM", "showEndTime" : "3:40 PM", "showDuration": 40},
-                { "bandName": "庸俗禿鷹", "showStartTime": "4:20 PM", "showEndTime" : "5:00 PM", "showDuration": 40},
-                { "bandName": "布萊梅", "showStartTime": "5:40 PM", "showEndTime" : "6:20 PM", "showDuration": 40},
-                { "bandName": "石青羅林", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
-                { "bandName": "倒車入庫", "showStartTime": "8:20 PM", "showEndTime" : "9:20 PM", "showDuration": 60}
+                { "bandName": "梅西的房間", "showStartTime": "12:00 PM", "showEndTime" : "12:40 PM", "showDuration": 40},
+                { "bandName": "烏鴉公寓", "showStartTime": "1:10 PM", "showEndTime" : "1:50 PM", "showDuration": 40},
+                { "bandName": "林同學樂團", "showStartTime": "2:20 PM", "showEndTime" : "3:00 PM", "showDuration": 40},
+                { "bandName": "少年A", "showStartTime": "3:30 PM", "showEndTime" : "4:10 PM", "showDuration": 40},
+                { "bandName": "夢遺如來", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
+                { "bandName": "佬步槍", "showStartTime": "5:50 PM", "showEndTime" : "6:30 PM", "showDuration": 40},
+                { "bandName": "庫克樂團", "showStartTime": "7:00 PM", "showEndTime" : "7:40 PM", "showDuration": 40},
+                { "bandName": "Kid Town", "showStartTime": "8:10 PM", "showEndTime" : "8:50 PM", "showDuration": 40}
             ]
          }
     ],
