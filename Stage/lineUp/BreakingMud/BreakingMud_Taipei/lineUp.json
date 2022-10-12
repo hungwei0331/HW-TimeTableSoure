@@ -7,8 +7,8 @@
     "startTime": "11:00 AM",
     "endTime": "10:00 PM",
     "stages": ["街頭霸王舞台", "絕處逢生舞台", "夾縫生存舞台"],
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day2.jpg"],
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/firstDay.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/secondDay.jpg"],
     "firstDayLineUps" :[
      {
         "stage": "街頭霸王舞台",
