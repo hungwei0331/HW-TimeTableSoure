@@ -27,7 +27,7 @@
         "stage": "絕處逢生舞台",
         "stageLineUp": [
             { "bandName": "裝咖人", "showStartTime": "12:40 PM", "showEndTime" : "1:20 PM", "showDuration": 40},
-            { "bandName": "呂捷達搖滾大樂隊", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
+            { "bandName": "呂杰達搖滾大樂隊", "showStartTime": "2:00 PM", "showEndTime" : "2:40 PM", "showDuration": 40},
             { "bandName": "原味豆", "showStartTime": "3:20 PM", "showEndTime" : "4:00 PM", "showDuration": 40},
             { "bandName": "孝順一族", "showStartTime": "4:40 PM", "showEndTime" : "5:20 PM", "showDuration": 40},
             { "bandName": "BB彈", "showStartTime": "6:00 PM", "showEndTime" : "6:40 PM", "showDuration": 40},
