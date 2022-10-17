@@ -5,8 +5,8 @@
             "years": 2022,
             "title": "秋OUT音樂節",
             "imageURL": null,
-            "startDate": "2022/10/14",
-            "endDate": "2022/10/16",
+            "startDate": "2022/10/22",
+            "endDate": "2022/10/23",
             "location": {"locationName": "公館水岸廣場​​​", "locationAddress": "台北市中正區思源街1號​​", "latitude": 25.011931789688546, "longitude": 121.52848703074957},
             "mail": null,
             "latestAttend": null,
@@ -14,11 +14,8 @@
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "禾火ＯＵＴ 音樂節，一個 just for chill 的音樂節。",
-            "eventLastUpdate": "2022/10/03",
-            "eventTicket": [
-                { "tickName": "週六週日預售票 ", "salePeriod": "~ 2022/10/12", "price" : 1400, "ticketStatus": "onSale"},
-                { "tickName": "三日預售票", "salePeriod": "~2022/10/12", "price" : 2400, "ticketStatus": "onSale"}
-            ],
+            "eventLastUpdate": "2022/10/17",
+            "eventTicket": null,
             "lineUp": "➭國蛋、春艷、起秋集團、icyball冰球樂團、甜約翰、海豚刑警、溫蒂漫步、溫室雜草、閃閃閃閃、靈魂沙發、I Mean Us、馬克白、我是機車少女、Robot Swing、恐龍的皮、Bremen Entertainment Inc.布萊梅、COLD DEW、一種心情、Spykee、Valley Hi!、莉莉周她說、露波合唱團、打倒三明治、重陽路上小心You Kids Have Fun、昏鴉、張伍、徐子權、乩童秩序、蕎安ft.王昱、狗才樂團.\n出：連震堂、曼曼、Asa"
         },
         {
@@ -34,7 +31,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "「城市邊緣的自由搏擊戰！」 獨立樂團大鳴大放，不想被圈粉都難，唱著生活唱著厭煩，唱著你我心頭上最柔軟的那塊。 離開繁忙的城市去晃晃吧，文化就在生活，文化就在街頭。",
-            "eventLastUpdate": "2022/10/11",
+            "eventLastUpdate": "2022/10/17",
             "eventTicket": [
                 { "tickName": "超級鐵粉雙人票", "salePeriod": "~2022/10/21", "price" : 1998, "ticketStatus": "soldOut"},
                 { "tickName": "一生一世預售票", "salePeriod": "~2022/10/21", "price" : 1314, "ticketStatus": "soldOut"},
@@ -58,7 +55,7 @@
             "instagramUrl": null,
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2021kaohsiung", "clickable": false},
             "description": "即將邁入15周年的搖滾台中，今年以「Fifteenagers」為主題，象徵搖滾台中就像是進入青春期的15歲少男少女們，充滿了熱情與衝動！​\n衝動的少年、熱情的少女們！這兩年的秋天來到了台中是否覺得少了些什麼？​\n：……(´・Å・`)？​\n沒錯！就是你腦中想的內個！看得到摸得到的搖滾台中回來惹！​",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/10/17",
             "eventTicket": null,
             "lineUp": "魏如萱 waa wei．麋先生．血肉果汁機．美秀集團．持修．怕胖團．康士坦的變化球．甜約翰．南西肯恩．荷爾蒙少年．P!SCO．海豚刑警．I Mean Us．icyball冰球樂團．Crispy脆樂團．溫蒂漫步．OBSESS．吳汶芳．淺堤．Night Keepers 守夜人．老破麻．溫室雜草．Multiverse．潮州土狗．芒果醬．王彙筑．黃玠瑋．固定客．震樂堂．琳誼Ring．BIKE機踏車樂團．溫妮 WINNI．FORMOZA．Alien Avenge 異族亡魂．粗大Band．SADOG．步行者．妮可醬．庸俗救星．遊樂 ULove．暴君．鐵擊．兩棲人．等阮返來．Who Cares 胡凱兒．靈魂咆哮．狗吠火車．21世紀無聊男子"
         },
