@@ -3,68 +3,24 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "貴人散步音樂節",
+            "title": "街角無常音樂節",
             "imageURL": null,
-            "startDate": "2022/11/03",
-            "endDate": "2022/11/06",
-            "location": null,
-            "mail": "hello@lucfest.com",
-            "latestAttend": "Helen Ganya (UK)",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true},
-            "purchaseUrl":   {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "只要問參加過貴人的樂迷，他們一定會跟你說，台南是最多層次城市，每個時刻每個街角都有不同的風貌。\n無論來過多少次，我們可以保證，2022和各位每次參加的貴人散步都不一樣！",
-            "eventLastUpdate": "2022/10/03",
-            "eventTicket": [
-                { "tickName": "貴人3+1日票", "salePeriod": "~2022/11/02", "price" : 2999, "ticketStatus": "onSale"},
-                { "tickName": "限量超優貴人暖鳥票", "salePeriod": "~2022/11/02", "price" : 2500, "ticketStatus": "onSale"},
-                { "tickName": "友愛貴寶地旅宿套裝", "salePeriod": "~2022/11/02", "price" : 5899, "ticketStatus": "onSale"},
-                { "tickName": "貴人PRO PASS", "salePeriod": "~2022/11/02", "price" : 3199, "ticketStatus": "onSale"},
-                { "tickName": "貴人單日票", "salePeriod": "~2022/11/02", "price" : 1500, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "Phum Viphurit (TH) | O3ohn (KR) | Numcha (TH) | TRPP (KR) | .Feast (ID) | COMMON PEOPLE LIKE YOU (TH) | Alec Orachi (TH) | E-Prime (CA) | Coming Up Roses (SG) | 我鳥 Goose (SG) | Helen Ganya (UK) | KUNTARI (ID) | NTsKi (JP) | FreezyBone (KR) | Houg (SG) | 同根生A_Root | 洪安妮 Anni Hung | Beats and Friends | Blueman | 黃寧Botherbones | 布萊梅 Bremen Entertainment Inc. | 陳翰 Chen Han | 笑琴 Chill Qin | COLD DEW | 鶴 The Crane | 達摩樂隊 Dharma | 毀容姐妹會 Disfigured Sisterhood | 汝妮 Dungi Sapor | 破繭而出 EMERGING FROM THE COCOON | 黃宇寒 Han x Rainy Knight | 緩緩 Huan Huan | 黃瑋傑與山寮樂隊Huang Wei Jie & Submontane Band | 王彙筑Hui Chu Wang | hue | 我是機車少女 i'mdifficult | I Mean Us | 島國未來主義 Island Futurism | JADE | Jinbo | 王喬尹 Joyin | 龔德 Kung Ta | 葉穎 Leaf Yeh | Lilidelacrows | 百合花 Lilium | LÜCY | 草本藥師 MANAGONA | MassMan | Molly |周穆 Murky Ghost | Ń7ä ft. RIIN | NIO | OC Experiment | P!SCO | Robot Swing | 鄭雙雙 SHUANG SHUANG | 邱淑蟬 ShuChan Chiu | 少女卡拉 Siàu-lú khah-lah | TFAP | 粹垢 TRAEGO | 裝咖人 Tsng-kha-lâng | Vuize | 萬龍 WANLONG | wannasleep | 尋人啟事The Wanted | The Whisperer | 野東西 Wild Thing | Yappy | Yokkorio | 葉鈺渟 Yu Ting Yeh | 神棍樂團ZenKwun"
-        },
-        {
-            "years": 2022,
-            "title": "萬華大鬧熱",
-            "imageURL": null,
-            "startDate": "2022/11/05",
-            "endDate": "2022/11/05",
-            "location": null,
-            "mail": "kuoyichien@gmail.com",
+            "startDate": "2022/11/12",
+            "endDate": "2022/11/13",
+            "location": {"locationName": "文化部文化資產園區", "locationAddress": "台中市南區復興路三段362號", "latitude": 24.13357081527702, "longitude": 120.68172598650173},
+            "mail": "unsurefest@gmail.com",
             "latestAttend": null,
-            "ticketStatus": "free",
+            "ticketStatus": "onSale",
             "instagramUrl": null,
-            "purchaseUrl":   {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "最受注目的大鬧熱音樂祭節目表來啦！（今年提前釋出～不用客氣！）\n11／5（六）的表團名單和時刻表先給大家先手機存檔！\n今年持續帶來三大舞台： #清水舞台、#直興舞台、#青山舞台，並邀請到20組表演團體與歌手輪番上陣！\n接下來這幾天，我們也會將陸續介紹表演團體給大家。記得 11／5（六）下午𝟏點起，一起HIGH翻萬華！",
-            "eventLastUpdate": "2022/10/25",
-            "eventTicket": null,
-            "lineUp": "大象體操、粗大Band、野東西、Mafana、達摩樂隊、餵飽豬、吳汶芳、凹與山、絕命青年、龔德、PUZZLEMAN、龔敬文、Kivi、隨性、台北爵士大樂隊、先知瑪莉、黃子軒與山平快、DJ MR.GIN、滅火器"
-        },
-        {
-            "years": 2022,
-            "title": "赤聲躁動音樂祭",
-            "imageURL": null,
-            "startDate": "2022/11/05",
-            "endDate": "2022/11/05",
-            "location": null,
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/redhotsummer_fest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台，浩瀚無垠！",
-            "eventLastUpdate": "2022/10/03",
-            "eventTicket": [
-                {"tickName": "冒險旅人 單人雙日票", "salePeriod": "~2023/02/24", "price" : 2100, "ticketStatus": "onSale"},
-                { "tickName": "冒險小隊 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 3800, "ticketStatus": "onSale"},
-                { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "❥演出藝人：wannasleep｜OBSESS｜Multiverse｜老破麻｜PIZZALI｜固定客｜西屯純愛組｜潤少｜悟飛Luffy｜Gambler｜震樂堂｜Wolf Pacc｜高浩哲K-HOW｜and more...​\n\n❥MC：姜傑 × 緋村宗祐​"
+            "description": "好久沒跟大家見面了，我們是街角無常籌備團隊。\n最近正是開學的日子，而街角無常也要邁向下一個階段了。\n這兩年全世界都發生了很多事，當然也包括我們。\n首先因為疫情與校方的碰撞，我們會搬出學校到台中新的場地。 \n再來是我們都畢業進入職場了。\n在離開校園後，這兩年不論是場地、籌備時間、舉辦資金都需要我們自行尋找，比預想中花了更多時間跟心血。\n而進入了社會，一切都不像學生時期自由、沒有壓力；但街角依然是我們的夢，只是這個夢乘載了更多壓力跟現實。\n也因此在我們自己籌錢跟籌備的情況下，要先跟大家說街角不會如往年的規模一樣盛大，這邊先致上最大的歉意。 \n這屆街角像是我們辦給自己以及參加過兩屆街角大家的同樂會。 這次會邀請12團我們很喜歡的樂團，有演過街角的，也有新團，但都是在這兩年曾在某個時刻確確實實接住過我們的力量。 \n雖然可能無法一口氣看見下一個路口，但在今年11月的我們已經走到了街尾，也沒有回頭的理由了。\n今年過後，未來街角會以甚麼方式、甚麼地點出現，這一切都是未知。\n而回看當初街角無常的初衷，「我們不知道轉過這個街角會遇到甚麼，但始終都希望成為大家在面對未知與無常時的一份安慰。」\n這份初衷化為我們正面對的現實，也是我們辦這屆街角最大的動力。\n最後，我們希望能夠邀請大家，一起來到街角，不管是新觀眾還是老觀眾。 \n在大家邁出下一步之前，在面對未來前，希望我們可以聚在一起，再做一次夢、再回憶一次，在音樂下找到屬於我們每個人的快樂。 ",
+            "eventLastUpdate": "2022/11/07",
+            "eventTicket": null,
+            "lineUp": "理想混蛋、怕胖團、好樂團、南西肯恩、荷爾蒙少年、溫室雜草、靈魂沙發、芒果醬、蔡題謙、打倒三明治、林昱君、YILE LIN林以樂​"
         },
         {
             "years": 2022,
-            "title": "秋波音樂祭",
+            "title": "秋波音樂節",
             "imageURL": null,
             "startDate": "2022/11/27",
             "endDate": "2022/11/27",
@@ -75,7 +31,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/cwfest_offcial/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏季，懷抱夢想的人類與夥伴們因此相聚在台中，演奏音樂、驅動火箭，飛往嚮往的星球舞台，浩瀚無垠！",
-            "eventLastUpdate": "2022/10/03",
+            "eventLastUpdate": "2022/11/07",
             "eventTicket": null,
             "lineUp": "聲子蟲 Bugs of phonon｜晨曦光廊｜體熊專科。Major in Body Bear｜TFAP｜Grandson on the Wall｜AROB 樂團​"
         },
@@ -87,7 +43,7 @@
             "endDate": "2022/12/04",
             "location": null,
             "mail": "insidecreative@rovation.com",
-            "latestAttend": "TRASH｜脫拉庫TOLAKU",
+            "latestAttend": null,
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
@@ -99,7 +55,7 @@
                 { "tickName": "愛心票", "salePeriod": "~2022/12/01", "price" : 5899, "ticketStatus": "onSale"},
                 { "tickName": "兒童票", "salePeriod": "~2022/12/01", "price" : 3199, "ticketStatus": "onSale"}
             ],
-            "lineUp": "楊乃文・陳建年・李友廷・告五人・宋柏緯・鄭宜農・美秀集團・Tizzy Bac・麋先生・TRASH・怕胖團・血肉果汁機・拍謝少年・脫拉庫・康士坦的變化球・無妄合作社・OBSESS・李權哲・體熊專科・LINION・溫蒂漫步・溫室雜草・西屯純愛組・Multiverse・雷擎​"
+            "lineUp": "楊乃文・陳建年 Paudull・李友廷・告五人 Accusefive・ 宋柏緯 Edison Song・鄭宜農 Enno Cheng・美秀集團・Tizzy Bac・麋先生 MIXER・ TRASH・怕胖團 PAPUN BAND・Flesh Juicer 血肉果汁機・拍謝少年 Sorry Youth・脫拉庫TOLAKU・康士坦的變化球・無妄合作社 No-nonsense Collective・ OBSESS・李權哲 Jerry Li・體熊專科。Major in Body Bear・LINION・溫蒂漫步 Wendy Wander・溫室雜草 Easy Weeds・ 西屯純愛組 - High Loc & Henry・Multiverse Music・雷擎​"
         },
         {
             "years": 2022,
@@ -114,9 +70,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/piscoband/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "【般若情報】\n演出團體介紹：P!SCO = 般若電司的主辦單位 = 有男性團員的女子樂團 = 兩天都要登板的傢伙們。\n2010結成，來自台北，表演時成員們都會穿著棒球衣搭配熱血的舞台動作讓氣勢如虹，與台下的強力互動感則讓演出氣場加倍精神抖擻，常在各大音樂祭出沒，並誘惑台下的新朋友一起成為企鵝狂舞。\n疫情這兩年遇見了「地下偶像」並感受到其可愛又迷人的地方，舉辦過一些活動想要創造交流，企圖讓更多人可以認識這個熱情又充滿活力的場景。\n這就是般若電司音樂祭誕生的契機，今年進入第二篇章，邀請你們一起書寫這個故事。",
-            "eventLastUpdate": "2022/10/24",
+            "eventLastUpdate": "2022/11/07",
             "eventTicket": null,
-            "lineUp": "​P!SCO、DSPS、打倒三明治、恕 Solemn、庸俗救星、眠氣 Hypersomnia、白頻率、Greedy Black Hole、月宵◇クレシェンテ、陽光◆スペクトラ、Ruka Banana and more"
+            "lineUp": "P!SCO| ゲシュタルト乙女| DSPS| 打倒三明治| 貝克小姐| 恕 Solemn| 庸俗救星| 眠氣 Hypersomnia| 白頻率| Greedy Black Hole| 月宵◇クレシェンテ| 昼食彼女 Lunch Girls| 陽光◆スペクトラ| Ruka Banana| 日蝕エクリプス| CANDY☆STAR| 木苺FRUCTOSE| V.V.V.| Primulav| 萌エリア-絕對萌域 | and more"
         }
     ],
     "nextYearEvents": [
@@ -128,20 +84,21 @@
             "endDate": "2023/02/26",
             "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "✦ 回聲樂團 Echo ✧ 當代電影大師 Modern Cinema Master ✦ 洪佩瑜 Pei-Yu Hung ✧ She Her Her Hers (JP) ",
+            "latestAttend": "✦ 潑猴 MonkeyInsane ✧ 隨性 Random ✦ So What 樂團 ✧ 閃閃閃閃 The Shine&Shine&ShineShine  ",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "搖滾的喧囂，片刻的寧靜​\n衝突的煙硝，如常的驚醒​\n愛的大燦笑，世界的和平\n☮　 和平維繫愛存在　☮​\n\n從2019年舉辦至今，感謝大家來到台中，陪伴我們成長茁壯。今年下半年開始，我們決定展開新的旅程，邀請大家一起出發世界去冒險！​\n在此之前，想與大家分享一個故事。上個世紀中，台美雙方簽訂了共同防禦條約，而後清泉崗機場誕生於台中海線，伴隨越戰美軍駐紮，搖滾樂也因此傳入台灣。​\n在同一個時空裡，美國進行了一場象徵Love & Peace 的 The Woodstock Festival，「搖滾精神」也由此傳頌至全世界。​\n五十年後，因為疫情影響，世界間的互動僅能停留在雲端上，我們盼望世界重啟交流時，國際音樂能再次從海線輸入，也希望上一世代對於和平與愛的搖滾精神，可以繼續承襲下去。​\n走出戶外享受音樂帶來的美好，感受人與人貼近的溫度，當我們相聚在現場，將再次拉近世界之間的距離。​",
-            "eventLastUpdate": "2022/10/24",
+            "eventLastUpdate": "2022/11/07",
             "eventTicket": [
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "大探險家 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1800, "ticketStatus": "soldOut"},
-                { "tickName": "冒險旅人 單人雙日票", "salePeriod": "~2023/02/24", "price" : 2100, "ticketStatus": "onSale"},
+                { "tickName": "冒險旅人 單人雙日票", "salePeriod": "~2023/02/24", "price" : 2300, "ticketStatus": "onSale"},
                 { "tickName": "冒險小隊 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 3800, "ticketStatus": "soldOut"},
+                { "tickName": "冒險俠侶 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 4400, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
             ],
-            "lineUp": "SUGIZO[JP]｜TRASH｜Cody・Lee (李) [JP]｜HYBS[TH]｜麋先生｜拍謝少年｜黃玠｜董事長樂團｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜ and more！​"
+            "lineUp": "▸ SUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜回聲樂團｜潑猴｜TRASH｜麋先生｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜當代電影大師｜洪佩瑜｜SOWHAT｜閃閃閃閃｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜ and more！​"
         }
     ]
 }
