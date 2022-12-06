@@ -3,28 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "漂遊者森林音樂祭",
-            "imageURL": null,
-            "startDate": "2022/12/02",
-            "endDate": "2022/12/04",
-            "location": null,
-            "mail": "insidecreative@rovation.com",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
-            "eventLastUpdate": "2022/10/11",
-            "eventTicket": [
-                { "tickName": "超級早鳥3日票", "salePeriod": "~2022/12/01", "price" : 2999, "ticketStatus": "onSale"},
-                { "tickName": "超級早鳥2日票", "salePeriod": "~2022/12/01", "price" : 2500, "ticketStatus": "onSale"},
-                { "tickName": "愛心票", "salePeriod": "~2022/12/01", "price" : 5899, "ticketStatus": "onSale"},
-                { "tickName": "兒童票", "salePeriod": "~2022/12/01", "price" : 3199, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "楊乃文・陳建年 Paudull・李友廷・告五人 Accusefive・ 宋柏緯 Edison Song・鄭宜農 Enno Cheng・美秀集團・Tizzy Bac・麋先生 MIXER・ TRASH・怕胖團 PAPUN BAND・Flesh Juicer 血肉果汁機・拍謝少年 Sorry Youth・脫拉庫TOLAKU・康士坦的變化球・無妄合作社 No-nonsense Collective・ OBSESS・李權哲 Jerry Li・體熊專科。Major in Body Bear・LINION・溫蒂漫步 Wendy Wander・溫室雜草 Easy Weeds・ 西屯純愛組 - High Loc & Henry・Multiverse Music・雷擎​"
-        },
-        {
-            "years": 2022,
             "title": "般若電司",
             "imageURL": null,
             "startDate": "2022/12/24",
@@ -50,12 +28,12 @@
             "endDate": "2023/02/26",
             "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": " .ᐟ 荷爾蒙少年 Hormone Boys .ᐟ 粗大Band / Thick Big Band .ᐟ FORMOZA .ᐟ Traveller 旅人",
+            "latestAttend": " 怕胖團 PAPUN BAND, 東京初期衝動 [JP], 魚條 Fish Stick, 深深一擊 DepthDot",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "搖滾的喧囂，片刻的寧靜​\n衝突的煙硝，如常的驚醒​\n愛的大燦笑，世界的和平\n☮　 和平維繫愛存在　☮​\n\n從2019年舉辦至今，感謝大家來到台中，陪伴我們成長茁壯。今年下半年開始，我們決定展開新的旅程，邀請大家一起出發世界去冒險！​\n在此之前，想與大家分享一個故事。上個世紀中，台美雙方簽訂了共同防禦條約，而後清泉崗機場誕生於台中海線，伴隨越戰美軍駐紮，搖滾樂也因此傳入台灣。​\n在同一個時空裡，美國進行了一場象徵Love & Peace 的 The Woodstock Festival，「搖滾精神」也由此傳頌至全世界。​\n五十年後，因為疫情影響，世界間的互動僅能停留在雲端上，我們盼望世界重啟交流時，國際音樂能再次從海線輸入，也希望上一世代對於和平與愛的搖滾精神，可以繼續承襲下去。​\n走出戶外享受音樂帶來的美好，感受人與人貼近的溫度，當我們相聚在現場，將再次拉近世界之間的距離。​",
-            "eventLastUpdate": "2022/11/15",
+            "eventLastUpdate": "2022/12/06",
             "eventTicket": [
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "大探險家 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1800, "ticketStatus": "soldOut"},
@@ -65,7 +43,7 @@
                 { "tickName": "冒險俠侶 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 4400, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
             ],
-            "lineUp": "▸ SUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜回聲樂團｜潑猴｜TRASH｜麋先生｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜當代電影大師｜洪佩瑜｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜ and more！\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ​"
+            "lineUp": "✦演出藝人\nSUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜回聲樂團｜潑猴｜TRASH｜麋先生｜怕胖團｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜當代電影大師｜洪佩瑜｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜魚條｜深深一擊｜東京初期衝動 [JP] and more！\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ｜夜瑠☆エピファニー [HK]｜Ruka Banana｜CANDY☆STAR｜姬Revolt｜REBELLiOUS & BRiGHT｜『存在証明』NO FACE NO REaLiTY｜and more！​"
         },
         {
             "years": 2023,
@@ -81,6 +59,23 @@
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "自2006年起，至今已經邁入第十三個年頭，大港開唱，是搖滾男女們對高雄音樂場景的集體記憶，橫跨世代、超越性別，我們相約每年在春天的高雄相見，在港邊帶上最年輕的靈魂、搖滾的血液，一同見證我們最熱血的時刻。\n\n大港開唱多次將我們兒時只能在小小的電視銀幕裡看到的大明星們請上舞台，從《黃金夜總會》的賀一航、《古惑仔》裡的大飛哥-黃秋生，到唱著《少年吔，安啦！》的伍佰以及後來變成姐姐的謝金燕，大明星的風采在大港開唱魅力四射，震懾了台下的男男女女，演出樂團更是集結國內外實力堅強的樂團還有南台灣在地口味的樂團們，每每都讓台下的樂迷驚喜連連，更是創造了南方港都風味的獨特回憶。\n\n人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。\n\n人生的音樂祭，音樂祭的人生。​",
             "eventLastUpdate": "2022/11/28",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2023,
+            "title": "台灣祭",
+            "imageURL": null,
+            "startDate": "2023/04/01",
+            "endDate": "2023/04/02",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "台灣最南端的祭典，一期一會​",
+            "eventLastUpdate": "2022/12/06",
             "eventTicket": null,
             "lineUp": null
         }
