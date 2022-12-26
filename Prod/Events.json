@@ -3,20 +3,20 @@
     "currentYearEvents": [
         {
             "years": 2022,
-            "title": "般若電司",
+            "title": "基隆市跨年晚會",
             "imageURL": null,
-            "startDate": "2022/12/24",
-            "endDate": "2022/12/25",
+            "startDate": "2022/12/31",
+            "endDate": "2023/01/01",
             "location": null,
-            "mail": "piscoband@gmail.com",
+            "mail": null,
             "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/piscoband/", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "【般若情報】\n演出團體介紹：P!SCO = 般若電司的主辦單位 = 有男性團員的女子樂團 = 兩天都要登板的傢伙們。\n2010結成，來自台北，表演時成員們都會穿著棒球衣搭配熱血的舞台動作讓氣勢如虹，與台下的強力互動感則讓演出氣場加倍精神抖擻，常在各大音樂祭出沒，並誘惑台下的新朋友一起成為企鵝狂舞。\n疫情這兩年遇見了「地下偶像」並感受到其可愛又迷人的地方，舉辦過一些活動想要創造交流，企圖讓更多人可以認識這個熱情又充滿活力的場景。\n這就是般若電司音樂祭誕生的契機，今年進入第二篇章，邀請你們一起書寫這個故事。",
-            "eventLastUpdate": "2022/11/07",
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "活動名稱：「2022搖滾基隆城跨年晚會」\n活動地點：國門廣場",
+            "eventLastUpdate": "2022/12/26",
             "eventTicket": null,
-            "lineUp": "P!SCO| ゲシュタルト乙女| DSPS| 打倒三明治| 貝克小姐| 恕 Solemn| 庸俗救星| 眠氣 Hypersomnia| 白頻率| Greedy Black Hole| 月宵◇クレシェンテ| 昼食彼女 Lunch Girls| 陽光◆スペクトラ| Ruka Banana| 日蝕エクリプス| CANDY☆STAR| 木苺FRUCTOSE| V.V.V.| Primulav| 萌エリア-絕對萌域 | and more"
+            "lineUp": "Tizzy Bac、VH (Vast & Hazy)、亥兒樂隊、拍謝少年、雨神樂團、甜約翰、裝咖人"
         }
     ],
     "nextYearEvents": [
@@ -28,12 +28,12 @@
             "endDate": "2023/02/26",
             "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "老王樂隊 ／ 淺堤 Shallow Levée ／ 裝咖人 ／ 狗吠火車 ",
+            "latestAttend": "妮可醬 | 庸俗救星 | 康士坦的變化球| NIKO NIKO TAN TAN [JP]",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "搖滾的喧囂，片刻的寧靜​\n衝突的煙硝，如常的驚醒​\n愛的大燦笑，世界的和平\n☮　 和平維繫愛存在　☮​\n\n從2019年舉辦至今，感謝大家來到台中，陪伴我們成長茁壯。今年下半年開始，我們決定展開新的旅程，邀請大家一起出發世界去冒險！​\n在此之前，想與大家分享一個故事。上個世紀中，台美雙方簽訂了共同防禦條約，而後清泉崗機場誕生於台中海線，伴隨越戰美軍駐紮，搖滾樂也因此傳入台灣。​\n在同一個時空裡，美國進行了一場象徵Love & Peace 的 The Woodstock Festival，「搖滾精神」也由此傳頌至全世界。​\n五十年後，因為疫情影響，世界間的互動僅能停留在雲端上，我們盼望世界重啟交流時，國際音樂能再次從海線輸入，也希望上一世代對於和平與愛的搖滾精神，可以繼續承襲下去。​\n走出戶外享受音樂帶來的美好，感受人與人貼近的溫度，當我們相聚在現場，將再次拉近世界之間的距離。​",
-            "eventLastUpdate": "2022/12/19",
+            "eventLastUpdate": "2022/12/26",
             "eventTicket": [
                 { "tickName": "探險先知 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1450, "ticketStatus": "soldOut"},
                 { "tickName": "大探險家 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1800, "ticketStatus": "soldOut"},
@@ -43,7 +43,7 @@
                 { "tickName": "冒險俠侶 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 4400, "ticketStatus": "onSale"},
                 { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
             ],
-            "lineUp": "✦演出藝人\n⠀⠀▸ SUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜回聲樂團｜潑猴｜TRASH｜麋先生｜持修｜怕胖團｜老王樂隊｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜當代電影大師｜洪佩瑜｜P!SCO｜163 braces｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜淺堤｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜魚條｜深深一擊｜東京初期衝動 [JP]｜ YAJICO GIRL [JP]｜施語庭｜Storyseller [KR]｜6XT7｜yeti let you notice [JP]｜裝咖人｜狗吠火車｜and more！\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ｜夜瑠☆エピファニー [HK]｜Ruka Banana｜CANDY☆STAR｜姬Revolt｜REBELLiOUS & BRiGHT｜『存在証明』NO FACE NO REaLiTY｜and more！​"
+            "lineUp": "​✦演出藝人⠀⠀▸\nSUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜回聲樂團｜潑猴｜TRASH｜麋先生｜持修｜怕胖團｜康士坦的變化球｜老王樂隊｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜icyball冰球樂團｜當代電影大師｜洪佩瑜｜P!SCO｜163 braces｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜淺堤｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜固定客｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜魚條｜深深一擊｜東京初期衝動 [JP]｜ YAJICO GIRL [JP]｜施語庭｜Storyseller [KR]｜6XT7｜yeti let you notice [JP]｜裝咖人｜狗吠火車｜Alien Avenge 異族亡魂｜碎紙花｜混亂之島｜妮可醬｜庸俗救星｜NIKO NIKO TAN TAN [JP]｜and more！\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ｜夜瑠☆エピファニー [HK]｜Ruka Banana｜CANDY☆STAR｜姬Revolt｜REBELLiOUS & BRiGHT｜『存在証明』NO FACE NO REaLiTY｜Night Palette ナイトパレット [HK]｜陽光◆スペクトラ｜日蝕エクリプス｜soda shower!｜昼食彼女 Lunch Girls｜花びラブ-花舞紛飛｜｜V.V.V.｜Primulav｜木苺FRUCTOSE｜and more！"
         },
         {
             "years": 2023,
@@ -53,12 +53,12 @@
             "endDate": "2023/04/02",
             "location": {"locationName": "高雄駁二藝術特區​", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620891421969407, "longitude": 120.28135703863754},
             "mail": "megaportfest@gmail.com",
-            "latestAttend": "ALI (JP)｜Balming Tiger (KR)｜鄭宜農 Enno Cheng ｜康士坦的變化球｜大象體操 Elephant Gym ｜ 風籟坊 windmill X 橙草 Orangegrass 克拉克｜潤少 ft. XL Army｜芒果醬 Mango Jump ｜ The Tic Tac ｜青虫 aoi｜逃走鮑伯｜Dharma 達摩樂隊｜黑狼開水滾燙請小心使用那卡西｜Robot Swing｜So-So Heroes 瘦瘦英雄 ｜莉莉周她說 Lily Chou-Chou Lied｜ 李紅 REDLEE  ｜凹與山 Our Shame｜Kivi｜Endtrocity 暴行終止｜Super Napkin｜Bremen Entertainment Inc. 布萊梅",
+            "latestAttend": "༄༄༄ ​ ​ ALI (JP) ​ ​ ༄༄༄ Balming Tiger  (KR) ༄༄༄",
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "自2006年起，至今已經邁入第十三個年頭，大港開唱，是搖滾男女們對高雄音樂場景的集體記憶，橫跨世代、超越性別，我們相約每年在春天的高雄相見，在港邊帶上最年輕的靈魂、搖滾的血液，一同見證我們最熱血的時刻。\n\n大港開唱多次將我們兒時只能在小小的電視銀幕裡看到的大明星們請上舞台，從《黃金夜總會》的賀一航、《古惑仔》裡的大飛哥-黃秋生，到唱著《少年吔，安啦！》的伍佰以及後來變成姐姐的謝金燕，大明星的風采在大港開唱魅力四射，震懾了台下的男男女女，演出樂團更是集結國內外實力堅強的樂團還有南台灣在地口味的樂團們，每每都讓台下的樂迷驚喜連連，更是創造了南方港都風味的獨特回憶。\n\n人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。\n\n人生的音樂祭，音樂祭的人生。​",
-            "eventLastUpdate": "2022/11/28",
+            "eventLastUpdate": "2022/12/26",
             "eventTicket": null,
             "lineUp": "CHTHONIC 閃靈 ft. 珂拉琪 Collage| ALI (JP)｜Balming Tiger (KR)｜鄭宜農 Enno Cheng ｜康士坦的變化球｜大象體操 Elephant Gym ｜ 風籟坊 windmill X 橙草 Orangegrass 克拉克｜潤少 ft. XL Army｜芒果醬 Mango Jump ｜ The Tic Tac ｜青虫 aoi｜逃走鮑伯｜Dharma 達摩樂隊｜黑狼開水滾燙請小心使用那卡西｜Robot Swing｜So-So Heroes 瘦瘦英雄 ｜莉莉周她說 Lily Chou-Chou Lied｜ 李紅 REDLEE  ｜凹與山 Our Shame｜Kivi｜Endtrocity 暴行終止｜Super Napkin｜Bremen Entertainment Inc. 布萊梅"
         },
@@ -75,9 +75,9 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "台灣最南端的祭典，一期一會​",
-            "eventLastUpdate": "2022/12/21",
+            "eventLastUpdate": "2022/12/26",
             "eventTicket": null,
-            "lineUp": "deca joins｜海豚刑警｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜靈魂沙發｜and More"
+            "lineUp": "deca joins｜1976｜康士坦的變化球｜海豚刑警｜先知瑪莉｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜靈魂沙發｜OBSESS｜老破麻｜固定客｜芒果醬｜逃走鮑伯｜粗大Band｜COLD DEW｜絕命青年｜and More！"
         }
     ]
 }
