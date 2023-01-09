@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2020/12/12",
+    "lastUpdate": "2023/01/09",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -28,14 +28,14 @@
             "endDate": "2023/02/12",
             "location": null,
             "mail": null,
-            "latestAttend": null,
+            "latestAttend": "✧  霧虹 Fogbow ✧ Whale Done 鯨魚號  ✧  我夢見長頸鹿對我說 The Giraffe Told Me In My Dream ✧  潛夢島 Dreamdive Island ✧  The Whisperer ✧ 風籟坊 windmill",
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": null,
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "VOOID|呂杰達搖滾大樂隊|既視感|鬼畜少女組|幹破您子宮。性眾回饋|純平回家了|渣男迷幻psychedelic douchebag|林同學樂團|頭部組成者 Head Composer|NENGU|當代電影大師|再見!奈央! Goodbye Nao|The Tic Tac|馬克白 Macbeth|莉莉周她說 Lily Chou-Chou Lied|Mong Tong|聽天湯 Tin Ten Tan|Super Napkin|COLD DEW|看日早晚 Khuann Jit Tsa Am|WANLONG|秘部痺れ -Hibushibire"
+            "lineUp": "霧虹|鯨魚號|我夢見長頸鹿對我說|潛夢島|The Whisperer|風籟坊|VOOID|呂杰達搖滾大樂隊|既視感|鬼畜少女組|幹破您子宮。性眾回饋|純平回家了|渣男迷幻psychedelic douchebag|林同學樂團|頭部組成者 Head Composer|NENGU|當代電影大師|再見!奈央! Goodbye Nao|The Tic Tac|馬克白 Macbeth|莉莉周她說 Lily Chou-Chou Lied|Mong Tong|聽天湯 Tin Ten Tan|Super Napkin|COLD DEW|看日早晚 Khuann Jit Tsa Am|WANLONG|秘部痺れ -Hibushibire"
         },
         {
             "years": 2023,
@@ -46,14 +46,14 @@
             "endDate": "2023/02/12",
             "location": {"locationName": "烏山頭水庫風景區", "locationAddress": "台南市官田區68-2號", "latitude": 23.20643474324183, "longitude": 120.36376929552983},
             "mail": "ouifes.official@gmail.com",
-            "latestAttend": null,
+            "latestAttend": "宇宙資料庫 @universedatabase | TIE GI鐵擊 @ironpunch_band | 流浪公園 @wanderingpark | 芒果醬 @mangojumptheband ",
             "ticketStatus": "commingSoon",
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "烏山頭水庫作為整個嘉南平原灌溉渠道的源頭，是重要的核心命脈。烏藝祭?",
-            "eventLastUpdate": "2022/12/26",
+            "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "怕胖團| SADOG| 葉穎| Theseus忒修斯| YILITH| OBSESS| 庸俗救星| 康士坦的變化球| 老破麻| 步行者| 布萊梅| JADE| 絕命青年| 𝚑𝚞𝚎| Siàu-lú khah-lah少女卡拉| 非人物種"
+            "lineUp": "宇宙資料庫 | TIE GI鐵擊 | 流浪公園 | 芒果醬 𝙼𝚊𝚗𝚐𝚘 𝙹𝚞𝚖𝚙 | 怕胖團| SADOG| 葉穎| Theseus忒修斯| YILITH| OBSESS| 庸俗救星| 康士坦的變化球| 老破麻| 步行者| 布萊梅| JADE| 絕命青年| 𝚑𝚞𝚎| Siàu-lú khah-lah少女卡拉| 非人物種"
         },
         {
             "years": 2023,
@@ -64,7 +64,7 @@
             "endDate": "2023/02/26",
             "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
             "mail": "emergemusiclive@gmail.com",
-            "latestAttend": "⊚ 溫室雜草 Easy Weeds ⊚ 鹿洐人 ⊚ Multiverse Music ⊚ 潮州土狗 ",
+            "latestAttend": "✪ 四分衛阿山 & 訊號雨 ✪ 震樂堂 ✪ 宝島材料行 PóTó Hardware Store ✪ BROTHER SUN SISTER MOON [JP]",
             "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
@@ -95,7 +95,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
             "description": "自2006年起，至今已經邁入第十三個年頭，大港開唱，是搖滾男女們對高雄音樂場景的集體記憶，橫跨世代、超越性別，我們相約每年在春天的高雄相見，在港邊帶上最年輕的靈魂、搖滾的血液，一同見證我們最熱血的時刻。\n\n大港開唱多次將我們兒時只能在小小的電視銀幕裡看到的大明星們請上舞台，從《黃金夜總會》的賀一航、《古惑仔》裡的大飛哥-黃秋生，到唱著《少年吔，安啦！》的伍佰以及後來變成姐姐的謝金燕，大明星的風采在大港開唱魅力四射，震懾了台下的男男女女，演出樂團更是集結國內外實力堅強的樂團還有南台灣在地口味的樂團們，每每都讓台下的樂迷驚喜連連，更是創造了南方港都風味的獨特回憶。\n\n人生就像音樂祭，不一定能夠看到所有的風景，也曾誤打誤撞被路途中的景色衝擊內心深處，因而留下深刻的印象，趕場的時候有時是一個人、有時是一群人，但真正的朋友總會有默契地在同一個地方遇見，只要一個眼神交會，我們就知道要一起往前衝、大聲吶喊，我們在散場時互相敲杯喝盡手中的啤酒，言語無需太多，此刻已進駐人生。\n\n人生的音樂祭，音樂祭的人生。​",
-            "eventLastUpdate": "2023/01/03",
+            "eventLastUpdate": "2023/01/09",
             "eventTicket": null,
             "lineUp": "閃靈 ft. 珂拉琪｜ALI (JP)｜Balming Tiger (KR)｜STUTS (JP)｜鄭宜農｜落日飛車｜康士坦的變化球｜大象體操｜1976｜ 風籟坊 X 橙草 克拉克｜隨性 Random ft. 柯有倫｜潤少 ft. XL Army｜芒果醬｜閃閃閃閃｜昆蟲白｜SoulFa 靈魂沙發｜wannasleep｜ The Tic Tac ｜FUTURE AFTER A SECOND｜青虫 aoi｜逃走鮑伯｜Dharma 達摩樂隊｜桃子A1J｜當代電影大師｜Manic Sheep｜黑狼開水滾燙請小心使用那卡西｜Lim｜Robot Swing｜So-So Heroes瘦瘦英雄 ｜莉莉周她說｜BEYOND CURE｜老破麻 O.S.D.｜Sauljaljui戴曉君｜ 李紅 REDLEE ​ ｜凹與山 Our Shame｜Kivi｜暴行終止 Endtrocity｜Super Napkin｜Bremen Entertainment Inc. 布萊梅 ｜Sauljaljui戴曉君｜Lilidelacrows｜河豚子｜夕陽武士｜裝咖人｜SADOG｜粗大Band… and more"
         },
@@ -108,14 +108,14 @@
             "endDate": "2023/04/02",
             "location": null,
             "mail": null,
-            "latestAttend": "黃明志 Namewee",
+            "latestAttend": "羅百吉Dj Jerry Official fanpage",
             "ticketStatus": "free",
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "台灣最南端的祭典，一期一會​",
-            "eventLastUpdate": "2022/12/26",
+            "eventLastUpdate": "2023/01/09",
             "eventTicket": null,
-            "lineUp": "黃明志 Namewee | deca joins｜1976｜康士坦的變化球｜怕胖團｜海豚刑警｜神棍樂團｜先知瑪莉｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜靈魂沙發｜OBSESS｜老破麻｜固定客｜芒果醬｜逃走鮑伯｜打倒三明治｜粗大Band｜庸俗救星｜COLD DEW｜絕命青年｜胡凱兒｜and More！"
+            "lineUp": "黃明志｜deca joins｜董事長｜1976｜康士坦的變化球｜怕胖團｜羅百吉｜海豚刑警｜神棍樂團｜OVDS｜先知瑪莉｜P!SCO｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜冰球樂團｜靈魂沙發｜OBSESS｜老破麻｜固定客｜芒果醬｜逃走鮑伯｜打倒三明治｜餵飽豬｜粗大Band｜庸俗救星｜COLD DEW｜絕命青年｜胡凱兒｜and More！"
         }
     ],
     "nextYearEvents": [
