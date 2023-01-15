@@ -27,7 +27,7 @@
             "period": "2022/10/08 - 2022/10/10",
             "startDate": "2022/10/08",
             "endDate": "2022/10/10",
-            "type":"Vagabond",
+            "type": "Vagabond",
             "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
             "ticketStatus": "soldOut"
         },
@@ -47,7 +47,7 @@
             "period": "2022/05/28 - 2022/05/29",
             "startDate": "2022/5/28",
             "endDate": "2022/05/29",
-            "type":"BreakingMud/BreakingMud_Kao",
+            "type": "BreakingMud/BreakingMud_Kao",
             "location": {"locationName": "高雄橋頭糖廠十鼓文化園區", "locationAddress": "高雄市橋頭區糖廠路24號", "latitude": 22.755359, "longitude": 120.313787},
             "ticketStatus": "soldOut"
         },
@@ -57,7 +57,7 @@
             "period": "2022/03/26 - 2022/03/27",
             "startDate": "2022/03/26",
             "endDate": "2022/03/27",
-            "type":"Mega",
+            "type": "Mega",
             "location": {"locationName": "高雄駁二藝術特區", "locationAddress": "高雄市鹽埕區大勇路1號", "latitude": 22.620218, "longitude": 120.281550},
             "ticketStatus": "soldOut"
         },
