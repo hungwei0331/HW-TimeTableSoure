@@ -3,24 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2023,
-            "title": "霓虹綠洲音樂祭",
-            "type": "RockTaichung",
-            "imageURL": null,
-            "startDate": "2023/01/14",
-            "endDate": "2023/01/15",
-            "location": {"locationName": "新北市新店文山農場", "locationAddress": "新北市新店區湖子內路100號", "latitude": 24.93400208979703, "longitude": 121.54112943068375},
-            "mail": "neonoasis.fest@gmail.com",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/neonoasisfest.tw", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "霓虹綠洲音樂祭 Neon Oasis Fest.，希望透過集結不同音樂類型、文化、產業，讓來自台灣、日本、韓國、泰國不同城市的音樂人互相交流，促進彼此關係，打造有別以往、更加具有國際性的台灣音樂祭場景。",
-            "eventLastUpdate": "2022/12/27",
-            "eventTicket": null,
-            "lineUp": "South Penguin (JP)｜YONLAPA (TH) ｜LÜCY (TW) ｜椅子樂團 The Chairs (TW)｜FOLK9 (TH)｜MONO NO AWARE (JP) ｜海豚刑警 (TW)｜荷爾蒙少年 (TW) ｜Rocketman (TH)｜KENT VALLEY (JP)｜大象體操 Elephant Gym (TW)｜我是機車少女 (TW)｜當代電影大師 (TW)｜Safeplanet (TH)｜UCARY & THE VALENTINE (JP)｜MIZ (JP)｜BIALYSTOCKS (JP)｜Sunday Moon (KR)｜HIMI (JP)｜藤江琢磨フジエタクマ (JP)｜沈默紳士 Silent Gentlemen (TW) ｜靜芳 ジン・ファン (TW)｜夜間限定 (TW)｜That's My Shhh (TW)｜DJ 即將釋出"
-        },
-        {
-            "years": 2023,
             "title": "意識不能招待所〖伍〗",
             "type": null,
             "imageURL": null,
