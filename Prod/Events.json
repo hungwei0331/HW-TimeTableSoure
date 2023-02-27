@@ -1,33 +1,7 @@
 {
-    "lastUpdate": "2023/02/20",
+    "lastUpdate": "2023/02/27",
     "currentYearEvents": [
-        {
-            "years": 2023,
-            "title": "浮現祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day1.jpg", 
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2023/02/25",
-            "endDate": "2023/02/26",
-            "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
-            "mail": "emergemusiclive@gmail.com",
-            "latestAttend": " 美秀集團  ｜傻子與白痴",
-            "ticketStatus": "soldOut",
-            "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
-            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "搖滾的喧囂，片刻的寧靜​\n衝突的煙硝，如常的驚醒​\n愛的大燦笑，世界的和平\n☮　 和平維繫愛存在　☮​\n\n從2019年舉辦至今，感謝大家來到台中，陪伴我們成長茁壯。今年下半年開始，我們決定展開新的旅程，邀請大家一起出發世界去冒險！​\n在此之前，想與大家分享一個故事。上個世紀中，台美雙方簽訂了共同防禦條約，而後清泉崗機場誕生於台中海線，伴隨越戰美軍駐紮，搖滾樂也因此傳入台灣。​\n在同一個時空裡，美國進行了一場象徵Love & Peace 的 The Woodstock Festival，「搖滾精神」也由此傳頌至全世界。​\n五十年後，因為疫情影響，世界間的互動僅能停留在雲端上，我們盼望世界重啟交流時，國際音樂能再次從海線輸入，也希望上一世代對於和平與愛的搖滾精神，可以繼續承襲下去。​\n走出戶外享受音樂帶來的美好，感受人與人貼近的溫度，當我們相聚在現場，將再次拉近世界之間的距離。​",
-            "eventLastUpdate": "2023/01/03",
-            "eventTicket": [
-                { "tickName": "探險先知 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1450, "ticketStatus": "soldOut"},
-                { "tickName": "大探險家 單人雙日票", "salePeriod": "~2022/08/31", "price" : 1800, "ticketStatus": "soldOut"},
-                { "tickName": "冒險旅人 單人雙日票", "salePeriod": "~2023/02/24", "price" : 2100, "ticketStatus": "soldOut"},
-                { "tickName": "冒險小隊 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 3800, "ticketStatus": "soldOut"},
-                { "tickName": "冒險勇者 單人雙日票", "salePeriod": "~2023/02/24", "price" : 2300, "ticketStatus": "onSale"},
-                { "tickName": "冒險俠侶 雙人雙日票", "salePeriod": "~2023/02/24", "price" : 4400, "ticketStatus": "onSale"},
-                { "tickName": "愛心票", "salePeriod": "~2023/02/24", "price" : 900, "ticketStatus": "onSale"}
-            ],
-            "lineUp": "✦ 演出藝人\n⠀⠀▸ SUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜美秀集團｜傻子與白痴｜回聲樂團｜潑猴｜TRASH｜麋先生｜持修｜怕胖團｜康士坦的變化球｜老王樂隊｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜溫蒂漫步｜icyball冰球樂團｜當代電影大師｜溫室雜草｜洪佩瑜｜P!SCO｜163 braces｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜淺堤｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜固定客｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜魚條｜深深一擊｜東京初期衝動 [JP]｜ YAJICO GIRL [JP]｜施語庭｜Storyseller [KR]｜6XT7｜yeti let you notice [JP]｜裝咖人｜狗吠火車｜Alien Avenge 異族亡魂｜碎紙花｜混亂之島｜妮可醬｜庸俗救星｜NIKO NIKO TAN TAN [JP]｜ Triple Deer｜步行者｜曾立馨Hug Muzik｜鹿洐人｜Multiverse｜潮州土狗｜陳如山&訊號雨｜震樂堂｜宝島材料行｜BROTHER SUN SISTER MOON [JP]\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ｜夜瑠☆エピファニー [HK]｜Ruka Banana｜CANDY☆STAR｜姬Revolt｜REBELLiOUS & BRiGHT｜『存在証明』NO FACE NO REaLiTY｜Night Palette ナイトパレット [HK]｜陽光◆スペクトラ｜日蝕エクリプス｜soda shower!｜昼食彼女 Lunch Girls｜花びラブ-花舞紛飛｜｜V.V.V.｜Primulav｜木苺FRUCTOSE｜and more！"
-        },
+
         {
             "years": 2023,
             "title": "大港開唱",
@@ -60,9 +34,9 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "台灣最南端的祭典，一期一會​",
-            "eventLastUpdate": "2023/01/09",
+            "eventLastUpdate": "2023/02/27",
             "eventTicket": null,
-            "lineUp": "黃明志｜deca joins｜董事長｜1976｜麋先生｜康士坦的變化球｜怕胖團｜Marz 23｜羅百吉｜無妄合作社｜海豚刑警｜NAP the NAP(THI)｜Head Phone President(JP)｜神棍樂團｜南西肯恩｜OVDS｜先知瑪莉｜胖虎｜P!SCO｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜冰球樂團｜靈魂沙發｜OBSESS｜老破麻｜固定客｜芒果醬｜逃走鮑伯｜打倒三明治｜SHOOT UP｜步行者｜餵飽豬｜貳伍吸菸所｜粗大Band｜鐵擊｜庸俗救星｜COLD DEW｜恕樂團｜絕命青年｜DIZLIKE｜眠氣｜海岸乾杯｜男子漢｜胡凱兒｜震樂堂｜卜星慧｜Alien Avenge｜暴君｜暴弒者｜非我｜月宵◇クレシェンテ feat. 陽光◆スペクトラ-BAND SET- ｜等阮返來｜生炒鴨肉羹｜八青哥｜行樂人｜碎紙花｜昼食彼女 Lunch Girls ｜日蝕エクリプス｜Ruka Banana｜時不我予｜廢埕｜VIBER氣氛人｜蘭花刀｜野蠻人｜胭脂虎 ｜Traveller旅人｜YOKKORIO｜MEØWMEØW(HK)｜0o迌迌o0 ｜Control T｜4FUTURES未來肆｜CANDY☆STAR｜木苺FRUCTOSE｜克里夫｜餿水Swill｜粉內Fi-Né｜薄荷綠工廠｜立秋(HK)｜公館青少年 ｜V.V.V.｜姬Revolt｜Primulav｜TOBE｜王立言樂團｜宝島材料行｜四季春｜伯爵白｜上海ブルドッグ(JP)｜『存在証明』NO FACE NO REaLiTY｜慶記KTV｜DJ Double K｜DJ Roman｜G-TER｜DAPUN大胖｜M3LWA｜NIco｜Zoc｜薄暮｜玖零｜製燥者｜林同學樂團｜城市被忘錄｜卡尼特｜REBELLiOUS & BRiGHT｜花咲＊Chloris｜TOYPLA研修生 ｜海口人｜火熱巨棒｜and More！"
+            "lineUp": "玖壹壹｜黃明志｜deca joins｜董事長｜1976｜麋先生｜康士坦的變化球｜怕胖團｜Marz 23｜羅百吉｜無妄合作社｜GIGO ｜海豚刑警｜NAP the NAP(THI)｜Head Phone President(JP)｜神棍樂團｜南西肯恩｜OVDS｜先知瑪莉｜胖虎｜P!SCO｜荷爾蒙少年｜溫室雜草｜溫蒂漫步｜冰球樂團｜靈魂沙發｜OBSESS｜老破麻｜固定客｜芒果醬｜打倒三明治｜西屯純愛組｜Multiverse｜逃走鮑伯｜wannasleep｜Gummy B｜潮州土狗｜SHOOT UP｜步行者｜餵飽豬｜貳伍吸菸所｜粗大Band｜鐵擊｜PIZZALI｜庸俗救星｜COLD DEW｜恕樂團｜絕命青年｜五木｜阿法｜DIZLIKE｜眠氣｜海岸乾杯｜男子漢｜胡凱兒｜震樂堂｜PEATLE｜SiNNER MOON｜REX｜卜星慧｜Alien Avenge｜暴君｜暴弒者｜非我｜TommyWhipping｜月宵◇クレシェンテ feat. 陽光◆スペクトラ-BAND SET- ｜等阮返來｜生炒鴨肉羹｜八青哥｜行樂人｜碎紙花｜昼食彼女 Lunch Girls ｜日蝕エクリプス｜Ruka Banana｜時不我予｜廢埕｜VIBER氣氛人｜蘭花刀｜野蠻人｜胭脂虎 ｜Traveller旅人｜YOKKORIO｜ZENBØ｜大成｜0o迌迌o0 ｜ MEØWMEØW(HK)｜Control T｜克里夫｜4FUTURES未來肆｜CANDY☆STAR｜木苺FRUCTOSE｜餿水Swill｜粉內Fi-Né｜薄荷綠工廠｜立秋(HK)｜公館青少年 ｜孤兒收容所｜V.V.V.｜姬Revolt｜Primulav｜TOBE｜王立言樂團｜宝島材料行｜四季春｜伯爵白｜上海ブルドッグ(JP)｜『存在証明』NO FACE NO REaLiTY｜慶記KTV｜DJ Double K｜DJ Roman｜G-TER｜DAPUN大胖｜29 Groove｜M3LWA｜NIco｜Zoc｜薄暮｜玖零｜製燥者｜林同學樂團｜城市被忘錄｜卡尼特｜REBELLiOUS & BRiGHT｜花咲＊Chloris｜TOYPLA研修生 ｜海口人｜火熱巨棒。"
         },
         {
             "years": 2023,
@@ -116,7 +90,7 @@
             "description": "台大音樂節至今已邁入第九屆，我們由不同大專院校學生組成，期望作為學生樂團推手，並建構出一套完善音樂節系統，讓「台大音樂節」成為具影響力的學生音樂節品牌，同時提升大眾對音樂文化、產業及價值的重視。​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "Who Cares 胡凱兒、hue...即將解密，敬請期待！"
+            "lineUp": "Who Cares 胡凱兒、hue、公館青少年...即將解密，敬請期待！"
         },
         {
             "years": 2023,
