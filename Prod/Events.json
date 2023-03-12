@@ -1,7 +1,6 @@
 {
-    "lastUpdate": "2023/03/06",
+    "lastUpdate": "2023/03/13",
     "currentYearEvents": [
-
         {
             "years": 2023,
             "title": "大港開唱",
@@ -78,6 +77,24 @@
         },
         {
             "years": 2023,
+            "title": "吱吱祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/04/29",
+            "endDate": "2023/04/30",
+            "location": null,
+            "mail": null,
+            "latestAttend": "無妄合作社 No-nonsense Collective| 南西肯恩| 貳伍吸菸所 Smoking Area 25| 海岸乾杯Coastal Kanpai| 男子漢樂團",
+            "ticketStatus": "onSale",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": null,
+            "eventLastUpdate": "2023/01/09",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2023,
             "title": "湖畔音樂季",
             "tableImages": null,
             "imageURL": null,
@@ -101,7 +118,7 @@
             "imageURL": null,
             "startDate": "2023/05/13",
             "endDate": "2023/05/14",
-            "location": {"locationName": "台大舊體育館​", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.020481818809543, "longitude": 121.53662924602568},
+            "location": {"locationName": "台中捷運-北屯總站旁廣場​", "locationAddress": "台中市北屯區敦富東街100號", "latitude": 25.020481818809543, "longitude": 121.53662924602568},
             "mail": null,
             "latestAttend": null,
             "ticketStatus": "commingSoon",
@@ -111,6 +128,24 @@
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
             "lineUp": "Who Cares 胡凱兒、hue、公館青少年...即將解密，敬請期待！"
+        },
+        {
+            "years": 2023,
+            "title": "赤聲躁動音樂祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/05/27",
+            "endDate": "2023/05/28",
+            "location": {"locationName": "台大舊體育館​", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 24.189069066590196, "longitude": 120.7088210696144},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "赤聲躁動最新研發技術，透過萬物獨特的音波轉化為火箭動能。西元2021年夏​",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": "康士坦的變化球｜老破麻O.S.D｜粗大BAND｜同根生｜and More！"
         },
         {
             "years": 2023,
