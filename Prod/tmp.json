@@ -392,3 +392,22 @@
     ],
     "lineUp": "✦ 演出藝人\n⠀⠀▸ SUGIZO[JP]｜Cody・Lee (李) [JP]｜HYBS[TH]｜美秀集團｜傻子與白痴｜回聲樂團｜潑猴｜TRASH｜麋先生｜持修｜怕胖團｜康士坦的變化球｜老王樂隊｜拍謝少年｜黃玠｜董事長樂團｜隨性 Random｜VH ( Vast & Hazy )｜理想混蛋｜溫蒂漫步｜icyball冰球樂團｜當代電影大師｜溫室雜草｜洪佩瑜｜P!SCO｜163 braces｜SOWHAT｜閃閃閃閃｜荷爾蒙少年｜靈魂沙發｜wannasleep｜淺堤｜老破麻｜老諾×無序樂團｜農村武裝青年｜春ねむり [JP]｜FORMOZA｜固定客｜粗大Band｜芒果醬｜Blueburn｜逃走鮑伯｜絕命青年｜BayBay[TH]｜She Her Her Hers[JP]｜Traveller 旅人｜魚條｜深深一擊｜東京初期衝動 [JP]｜ YAJICO GIRL [JP]｜施語庭｜Storyseller [KR]｜6XT7｜yeti let you notice [JP]｜裝咖人｜狗吠火車｜Alien Avenge 異族亡魂｜碎紙花｜混亂之島｜妮可醬｜庸俗救星｜NIKO NIKO TAN TAN [JP]｜ Triple Deer｜步行者｜曾立馨Hug Muzik｜鹿洐人｜Multiverse｜潮州土狗｜陳如山&訊號雨｜震樂堂｜宝島材料行｜BROTHER SUN SISTER MOON [JP]\n\nꕥ GO!GO! IDOL FEST 演出陣容：Broken By The Scream[JP]｜プランクスターズ[JP]｜RAY[JP]｜月宵◇クレシェンテ｜夜瑠☆エピファニー [HK]｜Ruka Banana｜CANDY☆STAR｜姬Revolt｜REBELLiOUS & BRiGHT｜『存在証明』NO FACE NO REaLiTY｜Night Palette ナイトパレット [HK]｜陽光◆スペクトラ｜日蝕エクリプス｜soda shower!｜昼食彼女 Lunch Girls｜花びラブ-花舞紛飛｜｜V.V.V.｜Primulav｜木苺FRUCTOSE｜and more！"
 },
+
+{
+    "years": 2023,
+    "title": "春浪",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2023/04/22",
+    "endDate": "2023/04/23",
+    "location": {"locationName": "台中森渼原​", "locationAddress": "台中市外埔區二崁路700號", "latitude": 24.330090720173686, "longitude": 120.62064277670662},
+    "mail": null,
+    "latestAttend": "無妄合作社 No-nonsense Collective| 南西肯恩| 貳伍吸菸所 Smoking Area 25| 海岸乾杯Coastal Kanpai| 男子漢樂團",
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/springwavemusic", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "2023 春浪音樂節 山線・台中\n\n4.22 - 4.23 \n台中森渼原\n\n成為山裡的浪​",
+    "eventLastUpdate": "2023/02/27",
+    "eventTicket": null,
+    "lineUp": "4.22 演出卡司｜伍佰 ＆ China Blue・告五人・Nulbarich・怕胖團・TRASH・白安・宇宙人・體熊專科・Robot Swing・聽天湯・夕陽武士・溫室雜草・良式・洪筠惠的夏日出發・泥灘地浪人・黃老酥與黃藥師・西尤島計劃・Angus Lee 手碟・浮可泰・愛希頌缽\n\n4.23 演出卡司｜陳珊妮 ft. GIGO・KREVA・麋先生・Tizzy Bac・拍謝少年・康士坦的變化球・持修・無妄合作社・椅子樂團・I Mean Us・荷爾蒙少年・溫蒂漫步・SKARAOKE・Resa Club・TOKYO GROOVE JYOSHI・巴西音樂計畫・YK 樂團・吳政君四重奏・張小雯"
+},

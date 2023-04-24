@@ -3,24 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2023,
-            "title": "春浪",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2023/04/22",
-            "endDate": "2023/04/23",
-            "location": {"locationName": "台中森渼原​", "locationAddress": "台中市外埔區二崁路700號", "latitude": 24.330090720173686, "longitude": 120.62064277670662},
-            "mail": null,
-            "latestAttend": "無妄合作社 No-nonsense Collective| 南西肯恩| 貳伍吸菸所 Smoking Area 25| 海岸乾杯Coastal Kanpai| 男子漢樂團",
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/springwavemusic", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "2023 春浪音樂節 山線・台中\n\n4.22 - 4.23 \n台中森渼原\n\n成為山裡的浪​",
-            "eventLastUpdate": "2023/02/27",
-            "eventTicket": null,
-            "lineUp": "4.22 演出卡司｜伍佰 ＆ China Blue・告五人・Nulbarich・怕胖團・TRASH・白安・宇宙人・體熊專科・Robot Swing・聽天湯・夕陽武士・溫室雜草・良式・洪筠惠的夏日出發・泥灘地浪人・黃老酥與黃藥師・西尤島計劃・Angus Lee 手碟・浮可泰・愛希頌缽\n\n4.23 演出卡司｜陳珊妮 ft. GIGO・KREVA・麋先生・Tizzy Bac・拍謝少年・康士坦的變化球・持修・無妄合作社・椅子樂團・I Mean Us・荷爾蒙少年・溫蒂漫步・SKARAOKE・Resa Club・TOKYO GROOVE JYOSHI・巴西音樂計畫・YK 樂團・吳政君四重奏・張小雯"
-        },
-        {
-            "years": 2023,
             "title": "B Festival",
             "tableImages": null,
             "imageURL": null,
