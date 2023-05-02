@@ -78,6 +78,30 @@
             "status": "",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"]
+        },
+        {
+            "years": 2023,
+            "name": "湖畔音樂季",
+            "period": "2023/05/04 - 2023/05/07",
+            "startDate": "2023/05/04",
+            "endDate": "2023/05/07",
+            "type": "Mega",
+            "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
+            "status": "",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Lakeside/day1.jpg"]
+        },
+        {
+            "years": 2023,
+            "name": "半線鮭魚音樂祭",
+            "period": "2023/05/06 - 2023/05/07",
+            "startDate": "2023/05/06",
+            "endDate": "2023/05/07",
+            "type": "Mega",
+            "location": {"locationName": "八卦山大佛前", "locationAddress": "彰化縣彰化市溫泉路31號", "latitude": 24.079408654160623, "longitude": 120.54899276136757},
+            "status": "",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Salmon/day1.jpg"]
         }
     ]
 }
