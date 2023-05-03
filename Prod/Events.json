@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/05/02",
+    "lastUpdate": "2023/05/03",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -126,6 +126,24 @@
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
             "lineUp": "T-Brown and 龍真｜八十八顆芭樂籽88balaz｜夕陽武士Sunset Samurai｜非人物種Inhuman｜昴宿Pleiades、哇沙巴非洲鼓團WassaBaa Afro｜草莓救星We Save Strawberries｜紛亂交錯Find The Intersection｜槍擊潑辣Guntzepaula｜餅乾與魏駿（熊寶貝）Bearbabes｜優雅逆轉Posh Inverse｜鯨魚號Whale Done and more......"
+        },
+        {
+            "years": 2023,
+            "title": "台秋祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/07/29",
+            "endDate": "2023/07/30",
+            "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "這是台中 這個城市只有Chill 台秋祭​​",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": "血肉果汁機｜老王樂隊｜Multiverse｜and More！"
         },
         {
             "years": 2023,
