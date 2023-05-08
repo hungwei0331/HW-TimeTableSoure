@@ -113,7 +113,7 @@
             "location": {"locationName": "八卦山大佛前", "locationAddress": "彰化縣彰化市溫泉路31號", "latitude": 24.079408654160623, "longitude": 120.54899276136757},
             "status": "",
             "ticketStatus": "onSale",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Salmon/day1.jpg"]
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ntu/day1.jpg"]
         }
     ]
 }
