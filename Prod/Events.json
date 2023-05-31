@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/05/29",
+    "lastUpdate": "2023/05/31",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -89,7 +89,25 @@
             "description": "「城市邊緣的自由搏擊戰！」\n\n獨立樂團大鳴大放，不想被圈粉都難，唱著?​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "固定客｜老破麻| OBSESS| 餵飽豬"
+            "lineUp": "固定客｜老破麻| OBSESS| 餵飽豬 | 無妄合作社"
+        },
+        {
+            "years": 2023,
+            "title": "浪人祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/10/13",
+            "endDate": "2023/10/15",
+            "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "soldOut",
+            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw", "clickable": true},
+            "purchaseUrl":  null,
+            "description":  "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": null
         },
         {
             "years": 2023,
