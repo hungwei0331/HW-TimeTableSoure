@@ -13,14 +13,15 @@
             "type": null,
             "status": null
         },
+
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/slippa.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/cityFlow.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/cityFlow.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/slippa.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
@@ -33,6 +34,12 @@
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/mud.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/backing.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
