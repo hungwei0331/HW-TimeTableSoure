@@ -150,6 +150,18 @@
             "status": "",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/CityFlow/day1.jpg"]
+        },
+        {
+            "years": 2023,
+            "name": "超犀利趴12",
+            "period": "2023/07/22 - 2023/07/23",
+            "startDate": "2023/07/22",
+            "endDate": "2023/07/23",
+            "type": "Mega",
+            "location": {"locationName": "八卦山大佛前", "locationAddress": "彰化縣彰化市溫泉路31號", "latitude": 24.079408654160623, "longitude": 120.54899276136757},
+            "status": "",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"]
         }
     ]
 }
