@@ -1,24 +1,6 @@
 {
-    "lastUpdate": "2023/07/03",
+    "lastUpdate": "2023/07/10",
     "currentYearEvents": [
-        {
-            "years": 2023,
-            "title": "墾丁草根音樂會",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Grassroots/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2023/07/09",
-            "endDate": "2023/07/10",
-            "location": null,
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/grassroots_music_festival/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "墾丁草根音樂會 Grassroots Music Festival\n一年一度恆春半島在地音樂愛好者,與世界及台灣各地音樂人的同樂會​",
-            "eventLastUpdate": "2023/01/12",
-            "eventTicket": null,
-            "lineUp": "T-Brown and Dj Spinkid 李龍真｜八十八顆芭樂籽 88balaz｜夕陽武士 Sunset Samurai｜非人物種 Inhuman｜昴宿 Pleiades｜哇沙巴非洲鼓團WassaBaa Afro｜We Save Strawberries/ 草莓救星｜紛亂交錯 Find The Intersection｜槍擊潑辣 Guntzepaula｜餅乾與魏駿｜優雅逆轉 Posh Inverse｜Whale Done 鯨魚號｜P!SCO｜Qu(JP)｜少年白 Grey Youth｜你太白了，去曬黑ShyHey｜微醺開根 Radiw Raliw｜幹pro您子宮｜Seaweed 藻 ｜輕鬆玩樂團 relax-One｜白頻率 White Frequency｜FunkyBrothers 放客兄弟｜鐵擊Tie Gi｜草東沒有派對 and more..."
-        },
         {
             "years": 2023,
             "title": "回埕祭",
