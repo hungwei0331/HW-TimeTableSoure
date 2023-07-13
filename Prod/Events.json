@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/07/10",
+    "lastUpdate": "2023/07/13",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -109,6 +109,24 @@
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
             "lineUp": "玖壹壹｜血肉果汁機｜老王樂隊｜夜間限定(Gummy B & wannasleep)｜海豚刑警｜固定客ft潤少｜神棍樂團｜Multiverse｜OBSESS｜冰球ft.賤葆｜Dr.T看你老師｜西屯純愛組｜老破麻O.S.D｜粗大Band｜胡凱兒ft. JIN縉 ｜SmashRegz｜Roman｜Lazyfinga｜SiNNER MOON｜步行者｜五木｜歐吉虎｜Yappy｜艾蜜莉｜阿夫｜YoungLee｜Boogie Tim & Bin -Z｜DJ Green｜JAYRoll ｜Luffy｜IVAN｜FORMOZA｜seasons for change (HK)｜the priceless boat (HK)｜The Tic Tac｜八青哥｜CoCo-Cha｜DJ T Time｜上山｜VIBER氣氛人｜工口紳士｜手骨樂隊｜行樂人｜伯爵白｜大成｜孤兒收容所｜非典型招待所｜秋山ChillSome｜時不我予｜等阮返來｜碎紙花｜眠氣｜笨屁肥臀｜與傑同行｜莎賓娜大樂隊｜製燥者｜獨流音樂｜暴行終止｜油漬艾莉｜KaNiT卡尼特｜Tickle Tickle｜Traveller旅人｜Tsukimi Band月三｜WILIM｜槍擊艾拉｜and More！"
+        },
+        {
+            "years": 2023,
+            "title": "新北市貢寮國際海洋音樂祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/08/04",
+            "endDate": "2023/08/06",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "國際海洋音樂祭（Hohaiyan Rock Festival）是一個台灣每年夏天舉辦的多日音樂表",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": null
         },
         {
             "years": 2023,
@@ -253,6 +271,24 @@
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
             "lineUp": null
+        },
+        {
+            "years": 2022,
+            "title": "貴人散步音樂節",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2022/11/03",
+            "endDate": "2022/11/05",
+            "location": null,
+            "mail": "hello@lucfest.com",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "只要問參加過貴人的樂迷，他們一定會跟你說，台南是最多層次城市，每個時刻每個街角都有不同的風貌。\n無論來過多少次，我們可以保證，2022和各位每次參加的貴人散步都不一樣！",
+            "eventLastUpdate": "2022/10/03",
+            "eventTicket": null,
+            "lineUp": "Cicada、李權哲、黃浩庭、溫蒂漫步、海豚刑警、Salasa（日）以及250（韓）"
         },
         {
             "years": 2023,
