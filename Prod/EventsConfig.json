@@ -175,6 +175,19 @@
             "status": "",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"]
+        },
+        {
+            "years": 2023,
+            "name": "爛泥發芽",
+            "period": "2023/08/12 - 2023/08/13",
+            "startDate": "2023/07/22",
+            "endDate": "2023/07/23",
+            "type": "Mega",
+            "location": {"locationName": "八卦山大佛前", "locationAddress": "彰化縣彰化市溫泉路31號", "latitude": 24.079408654160623, "longitude": 120.54899276136757},
+            "status": "",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day2.jpg"]
         }
     ]
 }
