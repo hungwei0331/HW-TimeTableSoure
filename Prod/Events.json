@@ -3,24 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2023,
-            "title": "2023新北市河海音樂季-淡水漁人舞台",
-            "tableImages": null,
-            "imageURL": null,
-            "startDate": "2023/08/12",
-            "endDate": "2023/08/13",
-            "location": {"locationName": "淡水漁人舞台", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": {"url": "https://www.instagram.com/r_o_music_fest/", "clickable": true},
-            "purchaseUrl": null,
-            "description": "音樂、日落、啤酒、魚，就是「淡水漁人舞台」的一切。快帶著你的熱血精神，跟我們一起在搖滾區裡痛快衝撞放聲吶喊吧！",
-            "eventLastUpdate": "2021/05/10",
-            "eventTicket": null,
-            "lineUp": "陣容 ► ムンヒジュ[JP]｜ゆらぴこ[JP]｜エウロパデリック[JP]｜隨性Random｜胖虎｜怕胖團｜芒果醬Mango Jump"
-        },
-        {
-            "years": 2023,
             "title": "靠山發浪音樂祭",
             "tableImages": null,
             "imageURL": null,
