@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/09/18",
+    "lastUpdate": "2023/09/20",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -165,6 +165,24 @@
         },
         {
             "years": 2023,
+            "title": "簡單生活節",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/12/02",
+            "endDate": "2023/12/03",
+            "location": {"locationName": "台北華山", "locationAddress": "100臺北市中正區八德路一段1號", "latitude": 25.044866848648574, "longitude": 121.52918663862746},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/simplelifetw/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。​",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": null,
+        },
+        {
+            "years": 2023,
             "title": "諸羅祭 Jurassic Festival",
             "tableImages": null,
             "imageURL": null,
@@ -179,7 +197,7 @@
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，用心打造屬於在地的舞台!​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山 ⋯ and more！"
+            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步 ⋯ and more！"
         }
     ],
     "nextYearEvents": [
