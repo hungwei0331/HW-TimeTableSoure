@@ -200,6 +200,18 @@
             "status": "",
             "ticketStatus": "soldOut",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"]
+        },
+        {
+            "years": 2023,
+            "name": "搖滾台中",
+            "period": "2023/10/07 - 2023/10/08",
+            "startDate": "2023/10/07",
+            "endDate": "2023/10/08",
+            "type": "Mega",
+            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
+            "status": "",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg"]
         }
     ]
 }
