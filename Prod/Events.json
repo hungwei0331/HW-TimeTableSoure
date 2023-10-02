@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/09/25",
+    "lastUpdate": "2023/10/02",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -158,7 +158,7 @@
             "location": {"locationName": "台北華山", "locationAddress": "100臺北市中正區八德路一段1號", "latitude": 25.044866848648574, "longitude": 121.52918663862746},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/simplelifetw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。​",
