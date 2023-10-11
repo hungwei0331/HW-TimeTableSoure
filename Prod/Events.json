@@ -3,61 +3,6 @@
     "currentYearEvents": [
         {
             "years": 2023,
-            "title": "2023 搖滾台中 ROCK IN TAICHUNG",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2023/10/07",
-            "endDate": "2023/10/08",
-            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "𝟮𝟬𝟮𝟯 搖滾台中 𝗥𝗢𝗖𝗞 𝗜𝗡 𝗧𝗔𝗜𝗖𝗛𝗨𝗡𝗚\n『𝙁𝙇𝙔 𝙏𝙊 𝙏𝙃𝙀 𝙁𝙐𝙏𝙐𝙍𝙀』",
-            "eventLastUpdate": "2023/01/12",
-            "eventTicket": null,
-            "lineUp": "滅火器 Fire EX.．No Buses [JP]．PERSES [TH]．老王樂隊．拍謝少年．持修．icyball冰球樂團．溫蒂漫步．荷爾蒙少年．鶴 The Crane．163 braces．固定客．OBSESS．潑猴．P!SCO．芒果醬Mango Jump．溫室雜草．Gordon Flanders [HK]．Who Cares胡凱兒．老破麻O.S.D．黃宇寒．震樂堂． ​ DAI [JP] & 狗吠火車 ft.老諾．步行者．SHOOTUP． 混亂之島 ．碎紙花．StorySeller[KR]．秋山．核果人．上山 ．安眠計畫．集夢所．Sabrina胡恂舞．手骨樂隊．行樂人．卡尼特"
-        },
-        {
-            "years": 2023,
-            "title": "諸羅搖滾",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jhuluo/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2023/10/08",
-            "endDate": "2023/10/09",
-            "location": {"locationName": "嘉義文化創意產業園區", "locationAddress": "嘉義市西區中山路616號", "latitude": 23.47779553529323, "longitude": 120.4398530386379},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "嘉義市全新活動品牌WECHIAYI，邀請您一起來體驗豐富的藝文活動及人文風采！",
-            "eventLastUpdate": "2023/01/12",
-            "eventTicket": null,
-            "lineUp": "滅火器｜麋先生｜怕胖團｜無妄合作社｜溫蒂漫步｜溫室雜草｜固定客｜P!SCO｜老破麻O.S.D｜OBSESS｜胖虎｜粗大BAND｜打倒三明治｜體熊專科｜胡凱兒｜庸俗救星｜Tokyo Honey Trap(JP)｜The Tic Tac｜等阮返來｜Traveller旅人"
-        },
-        {
-            "years": 2023,
-            "title": "Takao Rock 打狗祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2023/10/07",
-            "endDate": "2023/10/09",
-            "location": {"locationName": "高雄流行音樂中心", "locationAddress": "高雄市鹽埕區真愛路1號", "latitude": 22.618603115071135, "longitude": 120.28968325730287},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
-            "purchaseUrl": null,
-            "description": "ყ ᥱ ᥉ .ᐟ.ᐟ 2023 Takao Rock 將在 10/8、10/9 登場 .ᐟ.ᐟ ❰10/7 前夜祭❱\n⠿⠷⠦ 演出陣容：coming soon.. ⠴⠾⠿\n⭔ 地點：高雄流行音樂中心",
-            "eventLastUpdate": "2021/05/10",
-            "eventTicket": null,
-            "lineUp": "安溥｜魏如萱｜ABAO阿爆｜鄭宜農｜洪佩瑜｜巴奈｜血肉果汁機｜美秀集團｜拍謝少年｜椅子樂團｜Hello Nico｜VH (Vast&Hazy)｜傻子與白痴｜icyball 冰球樂團｜JADE｜怕胖團｜滅火器 Fire EX.｜大象體操｜淺堤｜孩子王｜必順鄉村｜老貓偵探社｜邱淑蟬｜王立言樂團｜Xmoraz｜煙雨飄渺｜普通隊長｜薄荷綠工廠｜沛莉小子｜Leo王｜SmashRegz｜鶴 The Crane｜葛西瓦 Kasiwa｜潮州土狗＋五木｜榕幫｜BRADD｜聲子蟲 ❰ 前夜祭 ❱｜惘聞 WANGWEN ❰ 前夜祭 ❱｜神はサイコロを振らない｜VannDa｜恐龍的皮｜閃閃閃閃｜A-Root 同根生｜P!SCO｜DSPS｜溫蒂漫步｜妮可醬｜橘子海Orange Ocean｜鄭興｜cotoba｜呂允｜李浩瑋 Howard Lee｜擊沈女孩｜貝克小姐 Miss Bac.｜裝咖人｜貓咪庫瑪拉"
-        },
-        {
-            "years": 2023,
             "title": "浪人祭",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg",
@@ -92,7 +37,7 @@
             "description": "Unlimited Freedom FESTIVAL 無限自由音樂節\n創辦於2007年夏末秋至，\n為台中第一個最具有規模的獨立音樂節。\n音樂節口號為「Rock In Taichung 搖滾台中！」\n『Unlimited Freedom FESTIVAL 搖滾台中-無限自由音樂節』為台中獨立廠牌 Roc steady co搖滾開跑音樂社（迴響音樂藝文展演空間前身）於2007年所創辦。​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "⭐️演出陣容：Mayson’s Party (JP) 、Drinking Boys and Girls Choir (KR)  、MAX'N (JP) 、Captives (AUS) 、G.L.A.M.S (JP) 、johann (JP) 、 Jaigon Orchestra (VN)、INFERNAL CHAOS 、恕 solemn、笨屁肥臀、白華 、DiePression 、蘭花刀 、眠氣、昴宿、秋瀾九十九、夢岸、 夢遊旅人、雨國、麥琪麥琪 、謎路人、 黃花、InFission、紙片人、XMORAZ、Saydie(PH)、PSYCHO SKULL (HK)、Greedy Black Hole、、火熱巨棒、莎賓娜大樂隊、憂憂、Valley Of Chrome(PH)、秋山、行樂人、21世紀無聊男子、生活實驗室、大皮中皮與白麵、奔等泰迪、酸腦、bounce (JP)、伯爵白、桑尼 Sonnie、濫情游泳池、孤寂輔導室、KaNiT卡尼特、毀容姐妹會 之神鵰俠侶、餿水、海岸乾杯、無先生、胡鬧戰隊、粹垢、勁爆羅雷、達文青、Special thanks(JP)、Don’t turn away(JP)、餵飽豬、Shoot up 、混亂之島、碎紙花、黑色收音機派對、頂加集會 M.L.C、Smoking goose(KR)、點22、佬步槍、手骨樂隊、如果電影院、鞋帶、遠鄉人、油漬艾利、Seaweed藻、Jazzy - T(JP)、時不我予、失真率、徐行、非我、潛水浣熊、禾山 … and MORE! "
+            "lineUp": "⭐️演出陣容：Mayson’s Party (JP) 、Drinking Boys and Girls Choir (KR)  、MAX'N (JP) 、Captives (AUS) 、G.L.A.M.S (JP) 、johann (JP) 、 Jaigon Orchestra (VN)、INFERNAL CHAOS 、恕 solemn、笨屁肥臀、白華 、DiePression 、蘭花刀 、眠氣、昴宿、秋瀾九十九、夢岸、 夢遊旅人、雨國、麥琪麥琪 、謎路人、 黃花、InFission、紙片人、XMORAZ、Saydie(PH)、PSYCHO SKULL (HK)、Greedy Black Hole、、火熱巨棒、莎賓娜大樂隊、憂憂、Valley Of Chrome(PH)、秋山、行樂人、21世紀無聊男子、生活實驗室、大皮中皮與白麵、奔等泰迪、酸腦、bounce (JP)、伯爵白、桑尼 Sonnie、濫情游泳池、孤寂輔導室、KaNiT卡尼特、毀容姐妹會 之神鵰俠侶、餿水、海岸乾杯、無先生、胡鬧戰隊、粹垢、勁爆羅雷、達文青、Special thanks(JP)、Don’t turn away(JP)、餵飽豬、Shoot up 、混亂之島、碎紙花、黑色收音機派對、頂加集會 M.L.C、Smoking goose(KR)、點22、佬步槍、手骨樂隊、如果電影院、鞋帶、遠鄉人、油漬艾利、Seaweed藻、Jazzy - T(JP)、時不我予、失真率、徐行、非我、潛水浣熊、禾山 …CustoMood、TOBE、蜉、令晴、企鵝迴旋踢、迷霧吐司、青原FIDA、上山、電波高校 Early Eight Tomorrow、OtaMetaL、縱慾大嬸 ERROR BOB、我想一想我想想笑死、Neon Hops、飛行櫻桃 Flight Cherry、Uranus -ウラノス、皆死んじゃった、雪橇犬、Emo暈船收容所、USB type-ACG、酸素人間、SemiTone、國境之男－ACG日搖歡樂格鬥團、甜點派對スイーツカーニバル、神域エレメンタル、銀河パルス〆、小浜ゆみな-奈奈、走Ma看花 … and MORE!"
         },
         {
             "years": 2022,
@@ -128,7 +73,7 @@
             "description": "「醉可以交朋友的音樂祭🍻」\n2023年底即將回歸 𝙎𝙩𝙖𝙮 𝙏𝙪𝙣𝙚𝙙.",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "イルカポリス 海豚刑警、鶴The Crane、夜間限定、icyball 冰球樂團、DJ Mayà Yuriko、DJ Soung…𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 ◗"
+            "lineUp": "イルカポリス 海豚刑警、鶴The Crane、夜間限定wannasleep/Gummy B、icyball 冰球樂團、鳳小岳、DJ Mayà Yuriko、DJ Soung ◗"
         },
         {
             "years": 2023,
@@ -164,7 +109,7 @@
             "description": "簡單生活 Simple Life」這個品牌，自我期許是個風格化的媒介，我們希望能夠讓創作者與熱愛者在其中相遇，並且彼此扶持成長。創作者可以從生活中萌芽，在生活中成長，直到力量足夠強大。​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "YOASOBI｜徐佳瑩｜楊乃文｜陳珊妮｜Faye 詹雯婷｜生祥樂隊｜乱彈阿翔｜馬念先｜告五人｜老王樂隊｜劉柏辛Lexie｜鄭宜農Enno Cheng｜黃玠｜洪佩瑜｜李權哲｜草莓救星We Save Strawberries｜icyball 冰球樂團｜VH (Vast & Hazy) ｜鶴 The Crane｜鳳小岳｜wannasleep｜LÜCY｜芒果醬Mango Jump｜恐龍的皮 The Dinosaur's Skin｜SoulFa 靈魂沙發｜LINION｜壞特 ?te x Robot Swing｜JADE｜Gummy B｜Theseus忒修斯｜DSPS｜A_Root同根生｜春麵樂隊ChuNoodle｜庸俗救星｜Mong Tong｜烏流oo-Lâu｜蓬萊仙山｜Yappy｜Yufu｜黃宇寒｜看日早晚 Khuann Jit Tsa Am｜裝咖人｜午夜午夜 Midnight Midnight｜布萊梅 Bremen Entertainment Inc.｜and more ... .ᐟ.ᐟ",
+            "lineUp": "▍𝗗𝗔𝗬 𝟭 ⌒ 𝟭𝟮 . 𝟬𝟮（𝗦𝗔𝗧.）徐佳瑩｜楊乃文｜告五人｜乱彈阿翔｜鄭宜農Enno Cheng｜老王樂隊｜黃玠｜洪佩瑜｜草莓救星We Save Strawberries｜icyball 冰球樂團｜鳳小岳｜wannasleep｜LÜCY｜SoulFa 靈魂沙發｜壞特 ?te x Robot Swing｜A_Root同根生｜庸俗救星｜烏流oo-Lâu｜蓬萊仙山｜黃宇寒｜午夜午夜 Midnight Midnight｜布萊梅 Bremen Entertainment Inc.｜\n\n▍𝗗𝗔𝗬 𝟮 ⌒ 𝟭𝟮 . 𝟬𝟯（𝗦𝗨𝗡.）YOASOBI｜陳珊妮｜Faye 詹雯婷｜生祥樂隊｜馬念先｜劉柏辛Lexie｜李權哲｜鶴 The Crane｜VH (Vast & Hazy) ｜芒果醬Mango Jump｜恐龍的皮 The Dinosaur's Skin｜LINION｜JADE｜Gummy B｜Theseus忒修斯｜DSPS｜春麵樂隊ChuNoodle｜Mong Tong｜Yappy｜Yufu｜看日早晚 Khuann Jit Tsa Am｜裝咖人｜",
         },
         {
             "years": 2023,
@@ -182,7 +127,7 @@
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，用心打造屬於在地的舞台!​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、 icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane ⋯ and more！"
+            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、鹿洐人、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane、晨曦光廊 ⋯ and more！"
         }
     ],
     "nextYearEvents": [
@@ -202,7 +147,7 @@
             "description": "▌浮現祭 Emerge Fest 2024 ​ ↬ ​ 全票種開賣▐\n\n浮現祭2024 — 冒險的起點\n全票種正式火熱開賣 .ᐟ.ᐟ​",
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "Tilly Birds [TH]．ヤバイTシャツ屋さん [JP]．草莓救星．馬念先．怕胖團．GDJYB雞蛋蒸肉餅 [HK]．南西肯恩・夜間限定( wannasleep & Gummy B)． 鶴 The Crane・吳志寧．林昱君．BB彈．And more……"
+            "lineUp": "滅火器 Fire EX.．No Buses [JP]．PERSES [TH]．老王樂隊．拍謝少年．持修．icyball冰球樂團．溫蒂漫步．荷爾蒙少年．鶴 The Crane．163 braces．固定客．OBSESS．潑猴．P!SCO．芒果醬Mango Jump．溫室雜草．Gordon Flanders [HK]．Who Cares胡凱兒．老破麻O.S.D．黃宇寒．震樂堂．DAI [JP] & 狗吠火車 ft.老諾．步行者．SHOOTUP． 混亂之島 ．碎紙花．StorySeller[KR]．秋山．核果人．上山 ．安眠計畫．集夢所．Sabrina胡恂舞．手骨樂隊．行樂人．卡尼特"
         }
     ]
 }
