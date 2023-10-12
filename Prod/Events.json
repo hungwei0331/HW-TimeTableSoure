@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/10/02",
+    "lastUpdate": "2023/10/12",
     "currentYearEvents": [
         {
             "years": 2023,
@@ -131,6 +131,24 @@
         }
     ],
     "nextYearEvents": [
+        {
+            "years": 2024,
+            "title": "霓虹綠洲音樂祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/01/19",
+            "endDate": "2024/01/21",
+            "location": {"locationName": "新店文山農場​", "locationAddress": "新北市新店區湖子內路100號", "latitude": 24.93435232767925, "longitude": 121.54065736188572},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/neonoasisfest.tw/", "clickable": true},
+            "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
+            "description": "霓虹綠洲音樂祭 Neon Oasis Fest.，透過集結不同音樂類型、文化、產業，讓來自台灣、日本、韓國、泰國不同城市的音樂人互相交流，促進彼此關係，打造有別以往、更加具有國際性的台灣音樂祭場景。​",
+            "eventLastUpdate": "2023/01/03",
+            "eventTicket": null,
+            "lineUp": "RITTO (OKA)｜CHOUJI (OKA)｜柴田聰子[𝗕𝗔𝗡𝗗 𝗦𝗘𝗧] (JP)｜Otoboke Beaver (JP)｜chilldspot (JP)｜TORAUMA (OKA)｜YEW (TH)｜Jonathan Bree (NZ)｜Valentina Ploy (TH&IT)｜RubberBand (HK)｜mindfreakkk (TH)｜PiNkChAiN紅粉鍊人 (TW)｜maco marets (JP)｜DJ RINOKA (JP)｜SATOH (JP)｜Kaoruko (JP)｜RAKURA (JP)｜Soft Pine (TH)｜LANDOKMAI (TH)｜萬能青年旅店 (CN)… and more!"
+        },
         {
             "years": 2024,
             "title": "浮現祭",
