@@ -261,7 +261,7 @@
             "type": "Mega",
             "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
             "status": "",
-            "ticketStatus": "soldOut",
+            "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day2.jpg"]
         }
