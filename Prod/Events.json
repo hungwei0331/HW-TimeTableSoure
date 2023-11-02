@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2023/10/23",
+    "lastUpdate": "2023/11/02",
     "currentYearEvents": [
         {
             "years": 2022,
@@ -81,16 +81,34 @@
             "imageURL": null,
             "startDate": "2023/12/02",
             "endDate": "2023/12/03",
-            "location": null,
+            "location": {"locationName": "嘉義舊監獄宿舍群", "locationAddress": "嘉義市東區維新路134巷", "latitude": 23.485505813038312, "longitude": 120.45928868193499},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/jurassicfestival/", "clickable": true},
             "purchaseUrl":  null,
             "description": "「諸羅」是嘉義的舊地名，是咱青春綻放的所在，用心打造屬於在地的舞台!​",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue ft.張瑞夫、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、鹿洐人、粗大band、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane、晨曦光廊、艾蜜莉AMILI Ｘ 林潔心 Ｘ Quanzo X Peatle、JOYCE就以斯 X Sabrina胡恂舞⋯ and more！"
+            "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue ft.張瑞夫、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、鹿洐人、粗大band、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane、晨曦光廊、艾蜜莉AMILI Ｘ 林潔心 Ｘ Quanzo X Peatle、JOYCE就以斯 X Sabrina胡恂舞、回聲樂團ft.好樂團"
+        },
+        {
+            "years": 2023,
+            "title": "全糖開唱 Give Me 100% Sugar",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2023/12/08",
+            "endDate": "2023/12/10",
+            "location": {"locationName": "臺南體育公園", "locationAddress": "臺南市南區體育路10號", "latitude": 22.978332609625802, "longitude": 120.20774729576044},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/givesugar100/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "南自1624年荷蘭東印度公司築安平築熱蘭遮城開始，至2024年將屆滿400年，為配合「台南400」而進行的「全糖開唱GIVE ME 100％ SUGAR」音樂祭首部曲，將揭開「台南400」暖身序曲。",
+            "eventLastUpdate": "2023/01/12",
+            "eventTicket": null,
+            "lineUp": "ABAO阿爆、Allyson 陳瑾緗&Zoe衛柔伊、Asiaboy 禁藥王& Lizi 栗子、BRADD、FORMOZA、FRαNKIE阿法、FUTURE AFTER A SECOND、icyball冰球樂團、Matzka、Mong Tong、Nio、RPG&NEOSO、Sabrina 胡恂舞、SmashRegz、U:NUS、イルカポリス海豚刑警、夕陽武士、小人、五五身、布萊梅、宇宙人、守夜人 Night keepers、血肉果汁機、屁孩&水水Mizu98、我是機車少女、玖壹壹、芒果醬Mango Jump、來吧！焙焙！、夜間限定 wannasleep&Gummy B、宝島材料行、花冷え。、阿夫Suhf、阿跨面＆God Øne＆林潔心＆比杰、非人物種、南西肯恩、持修、皇后皮箱、韋禮安、徐暐翔、恐龍的皮The Dinosaur's Skin、神棍樂團、草屯囝仔、問題總部、婁峻碩、淺堤 Shallow Levée、理想混蛋、陳忻玥、鹿洐人、麥琪麥琪 MakeMake、黃宇寒、溫室雜草、葛西瓦、潤少&縉 Jin、潮州土狗&Majin、隨性Random、麋先生、魏買加&4everMe米豪&C GRASS、羅百吉、體熊專科、四四拍唱片行、英語金曲復興運動、國語作業簿、DJ BNB、DJ DOUBLE P、DJ EN 、DJ E-TURN 、DJ QUEENA、DJ Swallow 、DJ ZOE"
         }
     ],
     "nextYearEvents": [
