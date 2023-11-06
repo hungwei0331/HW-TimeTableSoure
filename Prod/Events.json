@@ -2,25 +2,6 @@
     "lastUpdate": "2023/11/02",
     "currentYearEvents": [
         {
-            "years": 2022,
-            "title": "貴人散步音樂節",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2022/11/03",
-            "endDate": "2022/11/05",
-            "location": null,
-            "mail": "hello@lucfest.com",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/lucfest.tw/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "只要問參加過貴人的樂迷，他們一定會跟你說，台南是最多層次城市，每個時刻每個街角都有不同的風貌。\n無論來過多少次，我們可以保證，2022和各位每次參加的貴人散步都不一樣！",
-            "eventLastUpdate": "2022/10/03",
-            "eventTicket": null,
-            "lineUp": "請至官方IG觀看"
-        },
-        {
             "years": 2023,
             "title": "榕樂季",
             "tableImages": null,
@@ -41,8 +22,8 @@
         {
             "years": 2023,
             "title": "FireBall Fest. 火球祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day2.jpg"],,
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg"],
             "imageURL": null,
             "startDate": "2023/11/25",
             "endDate": "2023/11/26",
