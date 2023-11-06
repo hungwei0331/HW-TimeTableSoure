@@ -41,7 +41,8 @@
         {
             "years": 2023,
             "title": "FireBall Fest. 火球祭",
-            "tableImages": null,
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LUCfest/day2.jpg"],,
             "imageURL": null,
             "startDate": "2023/11/25",
             "endDate": "2023/11/26",
