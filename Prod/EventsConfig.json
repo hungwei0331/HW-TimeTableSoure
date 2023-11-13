@@ -280,6 +280,18 @@
         },
         {
             "years": 2023,
+            "name": "萬華大鬧熱",
+            "period": "2023/11/25 - 2023/11/25",
+            "startDate": "2023/11/25",
+            "endDate": "2023/11/25",
+            "type": "Mega",
+            "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
+            "status": "",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Bangkah/day1.jpg"]
+        },
+        {
+            "years": 2023,
             "name": "榕樂季",
             "period": "2023/11/26 - 2023/11/26",
             "startDate": "2023/11/26",
