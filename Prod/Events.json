@@ -77,7 +77,8 @@
         {
             "years": 2023,
             "title": "諸羅祭 Jurassic Festival",
-            "tableImages": null,
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jurassic/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jurassic/day2.jpg"],
             "imageURL": null,
             "startDate": "2023/12/02",
             "endDate": "2023/12/03",
@@ -91,24 +92,6 @@
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
             "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue ft.張瑞夫、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、鹿洐人、粗大band、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane、晨曦光廊、艾蜜莉AMILI Ｘ 林潔心 Ｘ Quanzo X Peatle、JOYCE就以斯 X Sabrina胡恂舞、回聲樂團ft.好樂團"
-        },
-        {
-            "years": 2023,
-            "title": "全糖開唱 Give Me 100% Sugar",
-            "tableImages": null,
-            "imageURL": null,
-            "startDate": "2023/12/08",
-            "endDate": "2023/12/10",
-            "location": {"locationName": "臺南體育公園", "locationAddress": "臺南市南區體育路10號", "latitude": 22.978332609625802, "longitude": 120.20774729576044},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/givesugar100/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "南自1624年荷蘭東印度公司築安平築熱蘭遮城開始，至2024年將屆滿400年，為配合「台南400」而進行的「全糖開唱GIVE ME 100％ SUGAR」音樂祭首部曲，將揭開「台南400」暖身序曲。",
-            "eventLastUpdate": "2023/01/12",
-            "eventTicket": null,
-            "lineUp": "ABAO阿爆、Allyson 陳瑾緗&Zoe衛柔伊、Asiaboy 禁藥王& Lizi 栗子、BRADD、FORMOZA、FRαNKIE阿法、FUTURE AFTER A SECOND、icyball冰球樂團、Matzka、Mong Tong、Nio、RPG&NEOSO、Sabrina 胡恂舞、SmashRegz、U:NUS、イルカポリス海豚刑警、夕陽武士、小人、五五身、布萊梅、宇宙人、守夜人 Night keepers、血肉果汁機、屁孩&水水Mizu98、我是機車少女、玖壹壹、芒果醬Mango Jump、來吧！焙焙！、夜間限定 wannasleep&Gummy B、宝島材料行、花冷え。、阿夫Suhf、阿跨面＆God Øne＆林潔心＆比杰、非人物種、南西肯恩、持修、皇后皮箱、韋禮安、徐暐翔、恐龍的皮The Dinosaur's Skin、神棍樂團、草屯囝仔、問題總部、婁峻碩、淺堤 Shallow Levée、理想混蛋、陳忻玥、鹿洐人、麥琪麥琪 MakeMake、黃宇寒、溫室雜草、葛西瓦、潤少&縉 Jin、潮州土狗&Majin、隨性Random、麋先生、魏買加&4everMe米豪&C GRASS、羅百吉、體熊專科、四四拍唱片行、英語金曲復興運動、國語作業簿、DJ BNB、DJ DOUBLE P、DJ EN 、DJ E-TURN 、DJ QUEENA、DJ Swallow 、DJ ZOE"
         },
         {
             "years": 2023,
@@ -126,7 +109,7 @@
             "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
             "eventLastUpdate": "2023/01/12",
             "eventTicket": null,
-            "lineUp": "ZIP發射樂團 with 魏如昀、Hitsujibungaku 羊文学 (JP)、宇宙人、麋先生 MIXER、Hello Nico、怕胖團 PAPUN BAND、美秀集團、老王樂隊、理想混蛋 Bestards、VH（Vast & Hazy）、血肉果汁機、Marz23、甜約翰 Sweet John、陳惠婷 the Huiting、神棍樂團 ZenKwun 、イルカポリス 海豚刑警 、icyball 冰球樂團、インナージャーニー inner journey (JP)、Glimpse Group (JP)、芒果醬 Mango Jump、溫室雜草、閃閃閃閃、粗大Band、hue、庸俗救星"
+            "lineUp": "ZIP發射樂團 with 魏如昀、Hitsujibungaku 羊文学 (JP)、宇宙人、麋先生 MIXER、Hello Nico、怕胖團 PAPUN BAND、美秀集團、老王樂隊、理想混蛋 Bestards、VH（Vast & Hazy）、血肉果汁機、Marz23、甜約翰 Sweet John、the Huiting 陳惠婷、神棍樂團 ZenKwun 、イルカポリス 海豚刑警 、icyball 冰球樂團、インナージャーニー inner journey (JP)、Glimpse Group (JP)、芒果醬 Mango Jump、溫室雜草、閃閃閃閃、粗大Band、hue、庸俗救星"
         }
     ],
     "nextYearEvents": [
@@ -146,7 +129,7 @@
             "description": "秋波音樂節III 2024/1/13 @ The Wall Live House​",
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "Wings of the ISANG (KR) 、TFAP and more"
+            "lineUp": "Wings of the ISANG (KR) 、TFAP 、Whale Fall、步行者 Pacers and more"
         },
         {
             "years": 2024,
@@ -164,7 +147,7 @@
             "description": "霓虹綠洲音樂祭 Neon Oasis Fest.，透過集結不同音樂類型、文化、產業，讓來自台灣、日本、韓國、泰國不同城市的音樂人互相交流，促進彼此關係，打造有別以往、更加具有國際性的台灣音樂祭場景。​",
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "RITTO (OKA)｜CHOUJI (OKA)｜柴田聰子[𝗕𝗔𝗡𝗗 𝗦𝗘𝗧] (JP)｜Otoboke Beaver (JP)｜chilldspot (JP)｜TORAUMA (OKA)｜YEW (TH)｜Jonathan Bree (NZ)｜Valentina Ploy (TH&IT)｜RubberBand (HK)｜mindfreakkk (TH)｜PiNkChAiN紅粉鍊人 (TW)｜maco marets (JP)｜DJ RINOKA (JP)｜SATOH (JP)｜Kaoruko (JP)｜RAKURA (JP)｜Soft Pine (TH)｜LANDOKMAI (TH)｜萬能青年旅店 (CN)… and more!"
+            "lineUp": "RITTO (OKA)｜CHOUJI (OKA)｜柴田聰子[𝗕𝗔𝗡𝗗 𝗦𝗘𝗧] (JP)｜Otoboke Beaver (JP)｜chilldspot (JP)｜TORAUMA (OKA)｜YEW (TH)｜Valentina Ploy (TH&IT)｜RubberBand (HK)｜mindfreakkk (TH)｜PiNkChAiN紅粉鍊人 (TW)｜maco marets (JP)｜DJ RINOKA (JP)｜SATOH (JP)｜Kaoruko (JP)｜RAKURA (JP)｜Soft Pine (TH)｜LANDOKMAI (TH)｜萬能青年旅店 (CN)｜MIYACHI (JP)｜Bleecker Chrome (JP)｜HUGO (TW)｜新東京 (JP)｜SOWUT (TW)｜That’s My Shhh (TW)｜Daoko (JP) … and more!"
         },
         {
             "years": 2024,
@@ -182,7 +165,7 @@
             "description": "▌浮現祭 Emerge Fest 2024 ​ ↬ ​ 全票種開賣▐\n\n浮現祭2024 — 冒險的起點\n全票種正式火熱開賣 .ᐟ.ᐟ​",
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": "ずっと真夜中でいいのに。[JP]．Tilly Birds [TH]．ヤバイTシャツ屋さん [JP]．麋先生 MIXER．老王樂隊． Nerd Connection [KR]．怕胖團．傷心欲絕．草莓救星．馬念先．GDJYB雞蛋蒸肉餅 [HK]．南西肯恩．海豚刑警・夜間限定(wannasleep & Gummy B)．鶴 The Crane・吳志寧．林昱君．BB彈．163 Braces．Limi．Who Cares 胡凱兒．OC experiment．And more……"
+            "lineUp": "ずっと真夜中でいいのに。[JP]．TRASH．Tilly Birds [TH]．ヤバイTシャツ屋さん [JP]．麋先生 MIXER．拍謝少年．老王樂隊． Nerd Connection [KR]．怕胖團．傷心欲絕．草莓救星．馬念先．荷爾蒙少年 ft. 卜學亮．GDJYB雞蛋蒸肉餅 [HK]．南西肯恩．海豚刑警・夜間限定(wannasleep & Gummy B)．鶴 The Crane・吳志寧．林昱君．BB彈．163 Braces．Limi．Who Cares 胡凱兒．OC experiment．徐子權．王立言．楊宜蓉Wooly．邵勸明．番薯囝仔．Daisy Jaine[JP]．ステミレイツ(STMLT)[JP]．And more……"
         },
         {
             "years": 2023,
