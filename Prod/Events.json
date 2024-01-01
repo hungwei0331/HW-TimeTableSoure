@@ -1,7 +1,6 @@
 {
-    "lastUpdate": "2023/12/27",
-    "currentYearEvents": [ ],
-    "nextYearEvents": [
+    "lastUpdate": "2024/01/01",
+    "currentYearEvents": [ 
         {
             "years": 2024,
             "title": "秋波音樂節",
@@ -92,5 +91,6 @@
             "eventTicket": null,
             "lineUp": "草東沒有派對、 極限荷爾蒙 マキシマム ザ ホルモン( maximum the hormone ) "
         }
-    ]
+    ],
+    "nextYearEvents": [ ]
 }
