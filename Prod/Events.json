@@ -4,9 +4,7 @@
         {
             "years": 2024,
             "title": "霓虹綠洲音樂祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NeonOasis/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NeonOasis/day2.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NeonOasis/day3.jpg"],
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NeonOasis/day1.jpg"],
             "imageURL": null,
             "startDate": "2024/01/19",
             "endDate": "2024/01/21",
