@@ -50,9 +50,7 @@
             "ticketStatus": "soldOut",
             "instagramUrl": {"url": "https://www.instagram.com/springwavemusic", "clickable": true},
             "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-            "description": "2024春浪音樂節 coming soon!
-            \n走進山 ⛰・奔向海 🌊
-            \n✦ 音樂 ✦ 露營 ✦ 市集 ✦ 裝置 ✦​",
+            "description": "2024春浪音樂節 coming soon!\n走進山 ⛰・奔向海 🌊\n✦ 音樂 ✦ 露營 ✦ 市集 ✦ 裝置 ✦​",
             "eventLastUpdate": "2023/01/24",
             "eventTicket": null,
             "lineUp": null
@@ -92,7 +90,7 @@
             "eventLastUpdate": "2024/01/12",
             "eventTicket": null,
             "lineUp": null
-        },
+        }
     ],
     "nextYearEvents": [ ]
 }
