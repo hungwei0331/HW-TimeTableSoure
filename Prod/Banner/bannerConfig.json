@@ -30,6 +30,12 @@
             "officalUrl": null,
             "type": null,
             "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/ntu.png",
+            "officalUrl": null,
+            "type": null,
+            "status": null
         }
     ]
 }
