@@ -36,7 +36,7 @@
             "status": "",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"],
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"]
         }
     ]
 }
