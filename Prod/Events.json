@@ -1,24 +1,6 @@
 {
-    "lastUpdate": "2024/03/04",
+    "lastUpdate": "2024/03/11",
     "currentYearEvents": [ 
-        {
-            "years": 2024,
-            "title": "卡卡音樂祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2024/03/09",
-            "endDate": "2024/03/10",
-            "location": {"locationName": "國立中央大學 國泰樹草坪​", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968778271770972, "longitude": 121.195212969313},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/ncukakamusicfestival/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "☪︎·̩͙*｡ ✧︎ 要做夢就做清醒夢 ✧︎ *｡☪︎·̩͙\n… 𝟮𝟬𝟮𝟰 coming soon ⁺◟︎ ♬︎°​",
-            "eventLastUpdate": "2024/03/04",
-            "eventTicket": null,
-            "lineUp": "老王樂隊 / 夜間限定 / 恐龍的皮 / 靈魂沙發 / 體熊專科 / icyball冰球樂團 / 海豚刑警 / JADE / 怕胖團 / 五五身 / 無妄合作社 / hue / P!SCO / 問題總部 "
-        },
         {
             "years": 2023,
             "title": "春浪音樂節",
@@ -101,7 +83,7 @@
             "location": {"locationName": "台大舊體育館", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.02036515468222, "longitude": 121.53688673808813},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival", "clickable": true},
             "purchaseUrl":  null,
             "description": "醉樂計畫：001月潮間隔\n\n◆全台灣最大的學生音樂節活動\n◆活動時間：2024/04/20、04/21\n◆活動地點：台大舊體育館\n◆主辦單位：第十屆台大音樂節與音樂產業發展社​​",
