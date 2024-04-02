@@ -36,7 +36,7 @@
             "endDate": "2024/03/31",
             "ticketStatus": "soldOut",
             "tableImages":["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day1.jpg",
-                          "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day2.jpg"],
+                          "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day2.jpg"]
         },
         {
             "name": "台灣祭",
