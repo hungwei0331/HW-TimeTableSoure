@@ -76,6 +76,20 @@
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day2.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day3.jpg"]
+        },
+        {
+            "name": "吉姆hen醉音樂節",
+            "startDate": "2024/04/20",
+            "endDate": "2024/04/20",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Gimmy/day1.jpg"]
+        },
+        {
+            "name": "醉樂計畫",
+            "startDate": "2024/04/04",
+            "endDate": "2024/04/06",
+            "ticketStatus": "onSale",
+            "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ntu/day1.jpg"]
         }
     ]
 }

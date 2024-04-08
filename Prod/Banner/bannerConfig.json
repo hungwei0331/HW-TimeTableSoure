@@ -36,6 +36,12 @@
             "officalUrl": null,
             "type": null,
             "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/takao.png",
+            "officalUrl": null,
+            "type": null,
+            "status": null
         }
     ]
 }
