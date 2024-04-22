@@ -1,42 +1,6 @@
 {
-    "lastUpdate": "2024/04/15",
+    "lastUpdate": "2024/04/22",
     "currentYearEvents": [ 
-        {
-            "years": 2024,
-            "title": "吉姆hen醉音樂節",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Gimmy/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2024/04/20",
-            "endDate": "2024/04/20",
-            "location": {"locationName": "吉姆老爹啤酒工場", "locationAddress": "宜蘭縣員山鄉員山路二段411號", "latitude": 24.708461385023202, "longitude": 121.683639},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "free",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "Let’s Beer Together!\n一杯精心釀造的好酒，最重要的還是要與愛你的親朋好友一起分享，才是真正的幸福。\n「酒廠開放參觀，並提供經典美式餐點」\nBeautiful Local Brewery in Scenic Yilan​​",
-            "eventLastUpdate": "2024/04/08",
-            "eventTicket": null,
-            "lineUp": "拍謝少年、Little Shy on Allen Street、迌迌、SHOOT UP、同根生、海豚刑警、DJ PS6、DJ GOLDSIDE."
-        },
-        {
-            "years": 2024,
-            "title": "醉樂計畫",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ntu/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2024/04/20",
-            "endDate": "2024/04/21",
-            "location": {"locationName": "台大舊體育館", "locationAddress": "台北市大安區羅斯福路四段1號", "latitude": 25.02036515468222, "longitude": 121.53688673808813},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/ntumusicfestival", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "醉樂計畫：001月潮間隔\n\n◆全台灣最大的學生音樂節活動\n◆活動時間：2024/04/20、04/21\n◆活動地點：台大舊體育館\n◆主辦單位：第十屆台大音樂節與音樂產業發展社​​",
-            "eventLastUpdate": "2024/04/08",
-            "eventTicket": null,
-            "lineUp": "溫蒂漫步、一種心情、怡岑、露波合唱團、我是機車少女、Robot Swing、普通隊長、問題總部、公館青少年、南西肯恩、Leo王、邵勸明、伯爵白、來者何人、拎北、老大不小、安小博、DEW、DSPS、icyball 冰球樂團"
-        },
         {
             "years": 2024,
             "title": "上岸音樂節",
@@ -71,7 +35,7 @@
             "description": "#音樂　#搖滾　#自由 \n\n以雲林當地大型音樂祭為目標​",
             "eventLastUpdate": "2024/04/15",
             "eventTicket": null,
-            "lineUp": "虎科熱音 @nfu_hot_music 、虎科吉他 @nfu_guitar_club、彰師大白沙吉他社 @ncueguitar、吳鳳弦情吉他 @wfuguitar 嘉義大學民雄原音吉他社 @mx_acoustic_guitar 、魚翔/多情牛奶糖 @liaoxiang.yu、Traveller旅人  @travellerband 、倒吊子@daodizzy_band"
+            "lineUp": "虎科熱音 @nfu_hot_music 、虎科吉他 @nfu_guitar_club、彰師大白沙吉他社 @ncueguitar、吳鳳弦情吉他 @wfuguitar 嘉義大學民雄原音吉他社 @mx_acoustic_guitar 、魚翔/多情牛奶糖 @liaoxiang.yu、Traveller旅人  @travellerband 、倒吊子 @daodizzy_band"
         },
         {
             "years": 2024,
@@ -123,9 +87,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/carnival_fever.tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "【Y2K大爆炸。赤聲躁動2024】\n把糖果穿在身上、大聲唱歌，\n和冰友跳著最in的舞步並肩搖擺！\n\n0518 💜 0519\n​把浪漫留給我們​​",
-            "eventLastUpdate": "2024/04/15",
+            "eventLastUpdate": "2024/04/22",
             "eventTicket": null,
-            "lineUp": "icyball冰球樂團、溫蒂漫步、海豚刑警、南西肯恩、Multiverse、露波合唱團、庸俗救星、P!SCO、莉莉周她說、Who Cares 胡凱兒、公館青少年、阿橘 Ahh G、上山、Tickle Tickle、林潔心、大成 DACHENG、Billyrrom [JP]、DJ IKE [JP]、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、神奇膠 [HK]、ROVER [HK]、Bike…...and more"
+            "lineUp": "MEAN [TH]、怕胖團、icyball冰球樂團、溫蒂漫步、海豚刑警、夜間限定(wannasleep & Gummy B)、南西肯恩、Multiverse、露波合唱團、庸俗救星、P!SCO、莉莉周她說、Who Cares 胡凱兒、我是機車少女、Enfants [JP]、公館青少年、阿橘 Ahh G、上山、Tickle Tickle、林潔心、大成 DACHENG、Billyrrom [JP]、DJ IKE [JP]、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、神奇膠 [HK]、ROVER [HK]、Bike、Limi、昴宿、 桑尼Sonnie、伯爵白、平行宇宙（黃茵琪、萌吶麗莎Lisa）…...and more"
         },
         {
             "years": 2024,
@@ -141,7 +105,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/lhbackground0519/", "clickable": true},
             "purchaseUrl":  null,
             "description": "梨鄉背景，是以民雄鄉的特色鳳梨取名。希望重新讓學生們瞭解土地的故事，瞭解歷史背景與人文脈絡。希望以這片島嶼的不同語言，展現多元音樂的匯流，讓創作者講述自己的創作故事。​​",
-            "eventLastUpdate": "2024/04/15",
+            "eventLastUpdate": "2024/04/22",
             "eventTicket": null,
             "lineUp": "百合花｜夕陽武士 Sunset Samurai｜淺堤 Shallow Levée｜ 王彙筑 Hui Chu Wang｜ 裝咖人｜ 核果人｜滅火器 Fire EX.｜黃子軒｜江晟榮｜藍尼霍Laninord｜JUBAH  HITAM| 野東西｜"
         },
@@ -177,9 +141,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
             "purchaseUrl": null,
             "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
-            "eventLastUpdate": "2024/04/15",
+            "eventLastUpdate": "2024/04/22",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "王品Freestyle（Leo王 & PiNkChAiN紅粉鍊人 & 7.2.8）、Los coronados、癮君子......and more !!!"
         }
     ],
     "nextYearEvents": [ ]
