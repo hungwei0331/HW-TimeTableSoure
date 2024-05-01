@@ -1,24 +1,6 @@
 {
-    "lastUpdate": "2024/04/22",
+    "lastUpdate": "2024/05/01",
     "currentYearEvents": [ 
-        {
-            "years": 2024,
-            "title": "上岸音樂節",
-            "tableImages": null,
-            "imageURL": null,
-            "startDate": "2024/04/27",
-            "endDate": "2024/04/28",
-            "location": {"locationName": "國立中央大學棒壘球場、教研大樓大禮堂", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968875532700725, "longitude": 121.19551337671562},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/www___ashore/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "上岸之名承載著對彼此的祝福，\n更是我們對自己的期許。​​",
-            "eventLastUpdate": "2024/04/15",
-            "eventTicket": null,
-            "lineUp": "滅火器 Fire EX.｜9m88｜芒果醬Mango Jump｜理想混蛋Bestards｜Julia Wu 吳卓源｜icyball 冰球樂團｜溫蒂漫步 Wendy Wander｜VH (Vast & Hazy)｜南西肯恩｜阿夫Suhf｜Who Cares 胡凱兒｜老破麻 O.S.D | Theseus 忒修斯｜陳忻玥｜Gummy B｜Trout Fresh/呂士軒｜呂允Lu Yun｜趙翊帆｜wannasleep｜粗大Band / Thick Big Band｜鹿洐人｜SADOG | 北迴線 Northern｜阿帕卡UPPERCUT｜狀態船｜Voicemail語音信箱｜傷心露比｜RECording｜微光樂台｜上岸台大醫990hiphop｜培力英檢｜居寶盆"
-        },
         {
             "years": 2024,
             "title": "【六月革命】",
@@ -69,9 +51,9 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "我們是一群來自東吳大學的學生，身兼獨立音樂供應商，提供音樂迷幻藥。​​",
-            "eventLastUpdate": "2024/04/15",
+            "eventLastUpdate": "2024/05/01",
             "eventTicket": null,
-            "lineUp": "我是機車少女、庸俗救星、午夜乒乓"
+            "lineUp": "洪申豪、吳思岑、林昱君、我是機車少女、庸俗救星、午夜乒乓"
         },
         {
             "years": 2024,
@@ -87,9 +69,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/carnival_fever.tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "【Y2K大爆炸。赤聲躁動2024】\n把糖果穿在身上、大聲唱歌，\n和冰友跳著最in的舞步並肩搖擺！\n\n0518 💜 0519\n​把浪漫留給我們​​",
-            "eventLastUpdate": "2024/04/22",
+            "eventLastUpdate": "2024/065/01",
             "eventTicket": null,
-            "lineUp": "MEAN [TH]、怕胖團、icyball冰球樂團、溫蒂漫步、海豚刑警、夜間限定(wannasleep & Gummy B)、南西肯恩、Multiverse、露波合唱團、庸俗救星、P!SCO、莉莉周她說、Who Cares 胡凱兒、我是機車少女、Enfants [JP]、公館青少年、阿橘 Ahh G、上山、Tickle Tickle、林潔心、大成 DACHENG、Billyrrom [JP]、DJ IKE [JP]、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、神奇膠 [HK]、ROVER [HK]、Bike、Limi、昴宿、 桑尼Sonnie、伯爵白、平行宇宙（黃茵琪、萌吶麗莎Lisa）…...and more"
+            "lineUp": "5月18日\nicyball冰球樂團、海豚刑警、露波合唱團、Multiverse、P!SCO、我是機車少女、公館青少年、阿橘 Ahh G、Tickle Tickle、林潔心、大成 DACHENG、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、Bike、桑尼Sonnie、Burning Beak 、Traveller 旅人 、工口紳士 、好大一把勇者劍/swords of brave 、宇宙資料庫 、安眠計畫 、秋波愛麗 、滑倒少年隊GoodBoiZ、溪流 Dingxi Music Center 、夢遊旅人 Sleeping Walkers 、獨流音樂 WTM Studio、T0ilet Alien、DJ COKAJI、H$1N\n\n5月19日\nMEAN [TH]、怕胖團、溫蒂漫步、夜間限定(wannasleep & Gummy B)、南西肯恩、庸俗救星、莉莉周她說、Who Cares 胡凱兒、DJ IKE [JP]、Enfants [JP]、上山、Billyrrom [JP]、神奇膠 [HK]、ROVER [HK]、Limi、昴宿、 伯爵白、平行宇宙（黃茵琪、萌吶麗莎Lisa）、Alaska Jam [JP]、HomeRich & Jimmy H. & WILIM & DJ NICO、DJ西村ひよこちゃん [JP]、 DJかずま丸水産 [JP]"
         },
         {
             "years": 2024,
@@ -105,27 +87,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/lhbackground0519/", "clickable": true},
             "purchaseUrl":  null,
             "description": "梨鄉背景，是以民雄鄉的特色鳳梨取名。希望重新讓學生們瞭解土地的故事，瞭解歷史背景與人文脈絡。希望以這片島嶼的不同語言，展現多元音樂的匯流，讓創作者講述自己的創作故事。​​",
-            "eventLastUpdate": "2024/04/22",
+            "eventLastUpdate": "2024/05/01",
             "eventTicket": null,
             "lineUp": "百合花｜夕陽武士 Sunset Samurai｜淺堤 Shallow Levée｜ 王彙筑 Hui Chu Wang｜ 裝咖人｜ 核果人｜滅火器 Fire EX.｜黃子軒｜江晟榮｜藍尼霍Laninord｜JUBAH  HITAM| 野東西｜"
-        },
-        {
-            "years": 2024,
-            "title": "B Festival",
-            "tableImages": null,
-            "imageURL": null,
-            "startDate": "2024/06/09",
-            "endDate": "2024/06/09",
-            "location": {"locationName": "樂悠悠之口 光復南＋CORNER MAX", "locationAddress": "光復南路100號（華視光復大樓)", "latitude": 25.042023305355286, "longitude": 121.55741157116387},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": null,
-            "purchaseUrl":  null,
-            "description": "轟龍龍！衝衝衝！國農拉風！\n最感性也最性感的音樂派對又回來了🔥\n俗話說，辦活動實在太累了，所以今年「B級音樂節」決定跟上科技潮流，此屆所有活動內容，都是經由「chatGBT」AI智障科技＆工人智慧嚴選，將不負眾望地給汝位最B、最讚的shit！\n🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉\n課本說，宇宙來自一場大爆炸\n達爾文的祖父說，生命起源於貝殼\n但實情是，B造就了我們，B才是你來的地方，也是你該去的地方\n🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉 🐉\n2024是龍出巡的一年\n6/9 (日) 端午節前一天，記得空下來\n這裡有你最愛的搖滾樂，還有你每年最愛的B\n逼費斯特佛給你滿滿的B，恨意交叉，回到愛的故里！​",
-            "eventLastUpdate": "2024/04/15",
-            "eventTicket": null,
-            "lineUp": "Leo王 & PiNkChAiN紅粉鍊人 &  Sogare曾我黎 aka 7.2.8"
         },
         {
             "years": 2024,
@@ -141,7 +105,43 @@
             "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
             "purchaseUrl": null,
             "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
-            "eventLastUpdate": "2024/04/22",
+            "eventLastUpdate": "2024/05/01",
+            "eventTicket": null,
+            "lineUp": "王品Freestyle（Leo王 & PiNkChAiN紅粉鍊人 & 7.2.8）、Los coronados、癮君子......and more !!!"
+        },
+        {
+            "years": 2024,
+            "title": "愛嶼搖滾-暖嶼祭LOVE ROCK",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/05/25",
+            "endDate": "2024/05/26",
+            "location": {"locationName": "基隆 國門廣場", "locationAddress": "基隆市仁愛區港西街6-2號號", "latitude": 25.13206759998591,  "longitude": 121.74017926009856},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "5月25日-26日\n基隆國門廣場｜免費入場\n愛嶼搖滾LOVE ROCK音樂節​",
+            "eventLastUpdate": "2024/05/01",
+            "eventTicket": null,
+            "lineUp": "怕胖團｜無妄合作社｜溫蒂漫步｜JADE｜南西肯恩｜夜間限定｜Multiverse｜艾蜜莉AMILI｜固定客｜P!SCO｜福夢｜庸俗救星｜就以斯｜胡凱兒｜林潔心｜公館青少年｜宝島材料行｜農村武裝青年｜徐行｜眠氣｜and More！"
+        },
+        {
+            "years": 2024,
+            "title": "Takao Rock 打狗祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/10/07",
+            "endDate": "2024/10/09",
+            "location": null,
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
+            "eventLastUpdate": "2024/05/01",
             "eventTicket": null,
             "lineUp": "王品Freestyle（Leo王 & PiNkChAiN紅粉鍊人 & 7.2.8）、Los coronados、癮君子......and more !!!"
         }
