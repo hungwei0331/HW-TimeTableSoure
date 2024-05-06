@@ -90,6 +90,21 @@
             "endDate": "2024/04/21",
             "ticketStatus": "onSale",
             "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ntu/day1.jpg"]
+        },
+        {
+            "name": "赤聲躁動音樂祭",
+            "startDate": "2024/05/18",
+            "endDate": "2024/05/19",
+            "ticketStatus": "onSale",
+            "tableImages":["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day1.jpg",
+                           "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day1.jpg"]
+        },
+        {
+            "name": "梨鄉背景",
+            "startDate": "2024/05/19",
+            "endDate": "2024/05/19",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LaiHiongBackground/day1.jpg"]
         }
     ]
 }
