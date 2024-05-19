@@ -3,24 +3,6 @@
     "currentYearEvents": [ 
         {
             "years": 2024,
-            "title": "梨鄉背景",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LaiHiongBackground/day1.jpg"],
-            "imageURL": null,
-            "startDate": "2024/05/19",
-            "endDate": "2024/05/19",
-            "location": {"locationName": "中正大學鳳凰大道", "locationAddress": "嘉義縣民雄鄉大學路一段168號", "latitude": 23.565210856438622, "longitude": 120.47150998064413},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/lhbackground0519/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "梨鄉背景，是以民雄鄉的特色鳳梨取名。希望重新讓學生們瞭解土地的故事，瞭解歷史背景與人文脈絡。希望以這片島嶼的不同語言，展現多元音樂的匯流，讓創作者講述自己的創作故事。​​",
-            "eventLastUpdate": "2024/05/01",
-            "eventTicket": null,
-            "lineUp": "百合花｜夕陽武士 Sunset Samurai｜淺堤 Shallow Levée｜ 王彙筑 Hui Chu Wang｜ 裝咖人｜ 核果人｜滅火器 Fire EX.｜黃子軒｜江晟榮｜藍尼霍Laninord｜JUBAH  HITAM| 野東西｜"
-        },
-        {
-            "years": 2024,
             "title": "愛嶼搖滾-暖嶼祭",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"],
             "imageURL": null,
