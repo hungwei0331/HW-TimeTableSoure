@@ -1,25 +1,6 @@
 {
-    "lastUpdate": "2024/05/13",
+    "lastUpdate": "2024/05/20",
     "currentYearEvents": [ 
-        {
-            "years": 2024,
-            "title": "赤聲躁動音樂祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2024/05/18",
-            "endDate": "2024/05/19",
-            "location": {"locationName": "台中烏日啤酒廠", "locationAddress": "臺中市烏日區光華街1號", "latitude": 24.11169683714309, "longitude": 120.62239884417893},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/carnival_fever.tw/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "【Y2K大爆炸。赤聲躁動2024】\n把糖果穿在身上、大聲唱歌，\n和冰友跳著最in的舞步並肩搖擺！\n\n0518 💜 0519\n​把浪漫留給我們​​",
-            "eventLastUpdate": "2024/05/01",
-            "eventTicket": null,
-            "lineUp": "5月18日\nicyball冰球樂團、海豚刑警、露波合唱團、Multiverse、P!SCO、我是機車少女、公館青少年、阿橘 Ahh G、Tickle Tickle、林潔心、大成 DACHENG、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、Bike、桑尼Sonnie、Burning Beak 、Traveller 旅人 、工口紳士 、好大一把勇者劍/swords of brave 、宇宙資料庫 、安眠計畫 、秋波愛麗 、滑倒少年隊GoodBoiZ、溪流 Dingxi Music Center 、夢遊旅人 Sleeping Walkers 、獨流音樂 WTM Studio、T0ilet Alien、DJ COKAJI、H$1N\n\n5月19日\nMEAN [TH]、怕胖團、溫蒂漫步、夜間限定(wannasleep & Gummy B)、南西肯恩、庸俗救星、莉莉周她說、Who Cares 胡凱兒、DJ IKE [JP]、Enfants [JP]、上山、Billyrrom [JP]、神奇膠 [HK]、ROVER [HK]、Limi、昴宿、 伯爵白、平行宇宙（黃茵琪、萌吶麗莎Lisa）、Alaska Jam [JP]、HomeRich & Jimmy H. & WILIM & DJ NICO、DJ西村ひよこちゃん [JP]、 DJかずま丸水産 [JP]"
-        },
         {
             "years": 2024,
             "title": "梨鄉背景",
@@ -107,6 +88,24 @@
             "purchaseUrl": null,
             "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
             "eventLastUpdate": "2024/05/01",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2024,
+            "title": "搖滾台中",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/10/26",
+            "endDate": "2024/10/27",
+            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
+            "eventLastUpdate": "2024/05/20",
             "eventTicket": null,
             "lineUp": null
         }
