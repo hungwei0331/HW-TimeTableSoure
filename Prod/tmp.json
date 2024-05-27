@@ -657,3 +657,22 @@
     "eventTicket": null,
     "lineUp": "百合花｜夕陽武士 Sunset Samurai｜淺堤 Shallow Levée｜ 王彙筑 Hui Chu Wang｜ 裝咖人｜ 核果人｜滅火器 Fire EX.｜黃子軒｜江晟榮｜藍尼霍Laninord｜JUBAH  HITAM| 野東西｜"
 },
+
+{
+    "years": 2024,
+    "title": "愛嶼搖滾-暖嶼祭",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2024/05/25",
+    "endDate": "2024/05/26",
+    "location": {"locationName": "基隆 國門廣場", "locationAddress": "基隆市仁愛區港西街6-2號號", "latitude": 25.13206759998591,  "longitude": 121.74017926009856},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "free",
+    "instagramUrl": {"url": "https://www.instagram.com/keelungloverock/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "5月25日-26日\n基隆國門廣場｜免費入場\n愛嶼搖滾LOVE ROCK音樂節​",
+    "eventLastUpdate": "2024/05/13",
+    "eventTicket": null,
+    "lineUp": "高爾宣｜麋先生｜怕胖團｜無妄合作社｜溫蒂漫步｜JADE｜南西肯恩｜夜間限定｜Multiverse｜艾蜜莉AMILI｜固定客｜粗大Band｜P!SCO｜福夢｜庸俗救星｜就以斯｜胡凱兒｜林潔心｜公館青少年｜宝島材料行｜農村武裝青年｜徐行｜眠氣｜Endorphin-W｜VÖDKA｜無垠漫遊｜許哲誠"
+},
