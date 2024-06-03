@@ -82,6 +82,13 @@
             "endDate": "2024/05/26",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"]
+        },
+        {
+            "name": "B級音樂節",
+            "startDate": "2024/06/08",
+            "endDate": "2024/06/09",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BFestival/day1.jpg"]
         }
     ]
 }
