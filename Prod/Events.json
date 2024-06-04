@@ -80,7 +80,7 @@
             "imageURL": null,
             "startDate": "2024/09/28",
             "endDate": "2024/09/29",
-            "location": null,
+            "location": {"locationName": "公館水岸廣場 & PIPE Live House", "locationAddress": "台北市中正區思源街一號", "latitude": 25.011449811295027, "longitude": 121.5289944},
             "mail": null,
             "latestAttend": null,
             "ticketStatus": "commingSoon",
