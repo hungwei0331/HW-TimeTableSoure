@@ -3,6 +3,24 @@
     "currentYearEvents": [ 
         {
             "years": 2024,
+            "title": "將軍吼音樂節",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/07/20",
+            "endDate": "2024/07/21",
+            "location": {"locationName": "將軍漁港", "locationAddress": "臺南市將軍區平沙里156號", "latitude": 23.211917253765048,  "longitude": 120.08171711846896},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl":  null,
+            "description": "【臺南夏日音樂節-將軍吼】\n每年暑假在充滿歷史與海鮮美食的將軍漁港舉辦​​",
+            "eventLastUpdate": "2024/06/11",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2024,
             "title": "港動噪浪",
             "tableImages": null,
             "imageURL": null,
@@ -126,7 +144,25 @@
             "eventLastUpdate": "2024/06/11",
             "eventTicket": null,
             "lineUp": "新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜粗大Band｜倒車入庫｜𝐀𝐧𝐝 𝐦𝐨𝐫𝐞......"
-        }
+        },
+        {
+            "years": 2024,
+            "title": "FireBall Fest. 火球祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/11/30",
+            "endDate": "2024/12/01",
+            "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "📢「咳咳，This is 火焰先生 Speaking…」\n雖然總說地球太危險，但！2024 火球祭 is Coming ❤️‍🔥\n我準備好帶新的火星夥伴來long stay了\n你各位地球人準備好了嗎？時間留好等你來啦！\n✷ 𝟮𝟬𝟮𝟰 𝗙𝗶𝗿𝗲𝗕𝗮𝗹𝗹 𝗙𝗲𝘀𝘁. 火球祭 ✷\n𝗥𝗢𝗖𝗞𝗜𝗡’ 𝗪𝗢𝗡𝗗𝗘𝗥𝗟𝗔𝗡𝗗\n𝟭𝟭/𝟯𝟬－𝟭𝟮/𝟬𝟭 樂天桃園棒球場\n不見不散！",
+            "eventLastUpdate": "2024/06/11",
+            "eventTicket": null,
+            "lineUp": null
+        },
     ],
     "nextYearEvents": [ ]
 }
