@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "2024/06/11",
+    "lastUpdate": "2024/06/17",
     "currentYearEvents": [ 
         {
             "years": 2024,
@@ -15,7 +15,7 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "【臺南夏日音樂節-將軍吼】\n每年暑假在充滿歷史與海鮮美食的將軍漁港舉辦​​",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
             "lineUp": null
         },
@@ -33,7 +33,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/dynamicwave_tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "台中港區運動公園，台中海線第一座標準型運動場。​​",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
             "lineUp": "海豚刑警 | Peatle | PIZZALI | 胡凱兒 | 老破麻 O.S.D | Traveller 旅人 | 製燥者 StoryMaker | HomeRich | and more..."
         },
@@ -51,9 +51,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "這是台中 這個城市只有Chill 台秋祭​​",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
-            "lineUp": "TRASH｜傷心欲絕｜芒果醬Mango Jump｜福夢FUMON｜夜の本気ダンス(JP)｜ 無妄合作社｜胖虎｜EmptyORio｜hue｜鹿洐人｜OBSESS｜老破麻O.S.D｜溫室雜草｜粗大Band｜P!SCO｜ANNALYNN(TH)｜神使轟く、激情の如く。(JP)｜SpecialThanks （JP)｜質感流氓｜固定客｜蛋頭BG8LOCC｜Barry Chen｜Multiverse｜西屯純愛組JOYCE 就以斯｜Who Cares胡凱兒｜餵飽豬｜tokyo honey trap(JP)｜公館青少年｜Traveller旅人｜宋德鶴｜等阮返來｜黑色收音機派對｜Seasons for Change (HK)｜Wantamnam 我地希望(HK)｜震樂堂｜薄暮 EVENFALL｜Slowing Oscillation 斯洛頻率｜Tickle Tickle｜李紅REDLEE｜Peatle｜SiNNER MOON｜Taji｜孤兒收容所｜POPO J｜K-HOW高浩哲｜JAYRoll｜中部管轄區｜Small Ay 小眼｜B-Alan & Highchen｜悟飛Luffy｜ROMAN｜偉雄電台｜DJ YU｜DJ Double K ｜LilHAO｜Vigoz｜LOCK G｜…and more！"
+            "lineUp": "TRASH｜玖壹壹｜傷心欲絕｜芒果醬Mango Jump｜福夢FUMON｜夜の本気ダンス(JP)｜ 無妄合作社｜胖虎｜EmptyORio｜hue｜鹿洐人｜OBSESS｜老破麻O.S.D｜溫室雜草｜粗大Band｜P!SCO｜ANNALYNN(TH)｜神使轟く、激情の如く。(JP)｜SpecialThanks （JP)｜質感流氓｜固定客｜蛋頭BG8LOCC｜Barry Chen｜Multiverse｜西屯純愛組JOYCE 就以斯｜Who Cares胡凱兒｜餵飽豬｜tokyo honey trap(JP)｜公館青少年｜Traveller旅人｜宋德鶴｜等阮返來｜黑色收音機派對｜Seasons for Change (HK)｜Wantamnam 我地希望(HK)｜震樂堂｜薄暮 EVENFALL｜Slowing Oscillation 斯洛頻率｜步行者｜徐行｜海口人｜DrunkMonk撞克茫客、NeaR Band 你阿伯｜Tickle Tickle｜眠氣Hypersomnia｜Sabrina 胡恂舞｜阿橘Ahh G｜李紅REDLEE｜Peatle｜SiNNER MOON｜Taji｜孤兒收容所｜POPO J｜K-HOW高浩哲｜JAYRoll｜中部管轄區｜Small Ay 小眼｜B-Alan & Highchen｜悟飛Luffy｜ROMAN｜偉雄電台｜DJ YU｜DJ Double K ｜LilHAO｜Vigoz｜LOCK G｜…and more！"
         },
         {
             "years": 2024,
@@ -65,11 +65,11 @@
             "location": {"locationName": "麗寶國際賽車場", "locationAddress": "台中市后里區月眉東路一段185號", "latitude": 24.31870980253305, "longitude": 120.68511782883554},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/lihpaoracing/", "clickable": true},
             "purchaseUrl":  null,
             "description": "今年暑假最熱血 ‼️\n🏎麗寶賽道搖滾嘉年華💨\n音樂節Ｘ市集Ｘ路跑Ｘ賽道巡禮​​",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
             "lineUp": "滅火器、老破麻、SHOOTUP、Dizlike...and more"
         },
@@ -101,7 +101,7 @@
             "location": {"locationName": "公館水岸廣場 & PIPE Live House", "locationAddress": "台北市中正區思源街一號", "latitude": 25.011449811295027, "longitude": 121.5289944},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/chillout_fest/", "clickable": true},
             "purchaseUrl": null,
             "description": "🌝 2024 秋OUT音樂節 🌝\n第五屆...有史以來最大規模...\n𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕠𝕟...",
@@ -123,7 +123,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
             "purchaseUrl": null,
             "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
             "lineUp": null
         },
@@ -141,7 +141,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
             "purchaseUrl": null,
             "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/06/17",
             "eventTicket": null,
             "lineUp": "新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜粗大Band｜倒車入庫｜𝐀𝐧𝐝 𝐦𝐨𝐫𝐞......"
         },
