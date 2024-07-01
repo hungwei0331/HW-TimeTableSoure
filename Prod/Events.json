@@ -1,6 +1,23 @@
 {
-    "lastUpdate": "2024/06/17",
+    "lastUpdate": "2024/07/01",
     "currentYearEvents": [ 
+        {
+            "years": 2024,
+            "title": "貢寮國際海洋音樂祭",
+            "imageURL": null,
+            "startDate": "2024/07/19",
+            "endDate": "2024/07/21",
+            "location": {"locationName": "新北市貢寮區海水浴場", "locationAddress": "新北市貢寮區福隆里福隆街40號", "latitude": 25.02191817118796,  "longitude": 121.94418975055152},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "國際海洋音樂祭（Hohaiyan Rock Festival）是一個台灣每年夏天舉辦的多日音樂表演活動，首次舉行是在2000年時。",
+            "eventLastUpdate": "2021/05/10",
+            "eventTicket": null,
+            "lineUp": null
+        },
         {
             "years": 2024,
             "title": "將軍吼音樂節",
@@ -15,7 +32,25 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "【臺南夏日音樂節-將軍吼】\n每年暑假在充滿歷史與海鮮美食的將軍漁港舉辦​​",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
+            "eventTicket": null,
+            "lineUp": "🌊07/20（六）台饒有港覺\n玖壹壹、婁峻碩、日光之橙、Shawn尚融、潤少、AcQUA源少年、洪暐哲\n🌊07/21（日）將軍BAND³\n楊乃文、芒果醬Mango Jump、怕胖團PAPUN BAND、JOYCE就以斯、晨悠CHENYO、柏霖PoLin"
+        },
+        {
+            "years": 2021,
+            "title": "新北市河海音樂季",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/07/27",
+            "endDate": "2024/07/28",
+            "location": {"locationName": "淡水漁人舞台", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "音樂、日落、啤酒、魚，就是「淡水漁人舞台」的一切。快帶著你的熱血精神，跟我們一起在搖滾區裡痛快衝撞放聲吶喊吧！",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": null
         },
@@ -33,7 +68,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/dynamicwave_tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "台中港區運動公園，台中海線第一座標準型運動場。​​",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": "海豚刑警 | Peatle | PIZZALI | 胡凱兒 | 老破麻 O.S.D | Traveller 旅人 | 製燥者 StoryMaker | HomeRich | and more..."
         },
@@ -51,9 +86,27 @@
             "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "這是台中 這個城市只有Chill 台秋祭​​",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
-            "lineUp": "TRASH｜玖壹壹｜傷心欲絕｜芒果醬Mango Jump｜福夢FUMON｜夜の本気ダンス(JP)｜ 無妄合作社｜胖虎｜EmptyORio｜hue｜鹿洐人｜OBSESS｜老破麻O.S.D｜溫室雜草｜粗大Band｜P!SCO｜ANNALYNN(TH)｜神使轟く、激情の如く。(JP)｜SpecialThanks （JP)｜質感流氓｜固定客｜蛋頭BG8LOCC｜Barry Chen｜Multiverse｜西屯純愛組JOYCE 就以斯｜Who Cares胡凱兒｜餵飽豬｜tokyo honey trap(JP)｜公館青少年｜Traveller旅人｜宋德鶴｜等阮返來｜黑色收音機派對｜Seasons for Change (HK)｜Wantamnam 我地希望(HK)｜震樂堂｜薄暮 EVENFALL｜Slowing Oscillation 斯洛頻率｜步行者｜徐行｜海口人｜DrunkMonk撞克茫客、NeaR Band 你阿伯｜Tickle Tickle｜眠氣Hypersomnia｜Sabrina 胡恂舞｜阿橘Ahh G｜李紅REDLEE｜Peatle｜SiNNER MOON｜Taji｜孤兒收容所｜POPO J｜K-HOW高浩哲｜JAYRoll｜中部管轄區｜Small Ay 小眼｜B-Alan & Highchen｜悟飛Luffy｜ROMAN｜偉雄電台｜DJ YU｜DJ Double K ｜LilHAO｜Vigoz｜LOCK G｜…and more！"
+            "lineUp": "滅火器｜TRASH｜玖壹壹｜傷心欲絕｜芒果醬Mango Jump｜福夢FUMON｜夜の本気ダンス(JP)｜ 無妄合作社｜胖虎｜EmptyORio｜hue｜鹿洐人｜OBSESS｜老破麻O.S.D｜溫室雜草｜粗大Band｜P!SCO｜ANNALYNN (TH)｜神使轟く、激情の如く。(JP)｜SpecialThanks (JP)｜質感流氓｜固定客｜蛋頭BG8LOCC｜Barry Chen｜Multiverse｜西屯純愛組｜JOYCE 就以斯｜Who Cares 胡凱兒｜餵飽豬｜tokyo honey trap (JP)｜公館青少年｜Traveller旅人｜宋德鶴｜等阮返來｜黑色收音機派對｜Seasons for Change (HK)｜Wantamnam 我地希望 (HK)｜震樂堂｜薄暮 EVENFALL｜Slowing Oscillation 斯洛頻率｜步行者｜徐行｜海口人｜DrunkMonk撞克茫客｜NeaR Band 你阿伯｜Tickle Tickle｜眠氣Hypersomnia｜Sabrina 胡恂舞｜阿橘Ahh G｜李紅REDLEE｜Peatle｜SiNNER MOON｜Taji｜孤兒收容所｜POPO J｜K-HOW高浩哲｜JAYRoll｜中部管轄區｜Small Ay 小眼｜B-Alan & Highchen｜悟飛Luffy｜Roman｜偉雄電台｜DJ YU｜DJ Double K ｜LilHAO｜Vigoz｜LOCK G｜…and more！"
+        },
+        {
+            "years": 2021,
+            "title": "新北市河海音樂季",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/08/03",
+            "endDate": "2024/08/03",
+            "location": {"locationName": "淡水漁人舞台", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "音樂、日落、啤酒、魚，就是「淡水漁人舞台」的一切。快帶著你的熱血精神，跟我們一起在搖滾區裡痛快衝撞放聲吶喊吧！",
+            "eventLastUpdate": "2024/07/01",
+            "eventTicket": null,
+            "lineUp": null
         },
         {
             "years": 2024,
@@ -69,9 +122,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/lihpaoracing/", "clickable": true},
             "purchaseUrl":  null,
             "description": "今年暑假最熱血 ‼️\n🏎麗寶賽道搖滾嘉年華💨\n音樂節Ｘ市集Ｘ路跑Ｘ賽道巡禮​​",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
-            "lineUp": "滅火器、老破麻、SHOOTUP、Dizlike...and more"
+            "lineUp": "滅火器、高爾宣、麋先生、王ADEN、P!SCO、無妄合作社、老破麻、Multiverse、福夢、SHOOTUP、莉莉周她說、Dizlike...and more"
         },
         {
             "years": 2024,
@@ -87,7 +140,25 @@
             "instagramUrl": {"url": "https://www.instagram.com/streetvoice_tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "2024 叭叭嘉年華 ╳ 來趴來叭叭\n𝕊𝕥𝕣𝕖𝕖𝕥𝕍𝕠𝕚𝕔𝕖 ℙ𝕒𝕣𝕜 ℙ𝕒𝕣𝕜 ℂ𝕒𝕣𝕟𝕚𝕧𝕒𝕝\n2024.8.24 (六) - 25 (日)\n地點┋臺北花博公園​",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/07/01",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2024,
+            "title": "超犀利趴13",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/08/24",
+            "endDate": "2024/08/25",
+            "location": {"locationName": "台北小巨蛋​", "locationAddress": "臺北市松山區南京東路4段2號", "latitude": 25.05128751450222, "longitude": 121.5501199},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/superslippa/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "一三一三亮晶晶\n夏天都是🦖🦖🦖\n\n11不捨 33來遲\n每年盛夏「超犀利趴」偶爾遲到，但一定會到！\n我趴故我在 ! 我在犀利趴 !\n\n𝟚𝟘𝟚𝟜 𝕊𝕌ℙ𝔼ℝ 𝕊𝕃𝕀ℙℙ𝔸 超犀利趴𝟙𝟛\n演出日期：𝟮𝟬𝟮𝟰/𝟬𝟴/𝟮𝟰 ㊅、𝟬𝟴/𝟮𝟱 ㊐\n演出地點：台北小巨蛋​",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": null
         },
@@ -105,7 +176,25 @@
             "instagramUrl": {"url": "https://www.instagram.com/chillout_fest/", "clickable": true},
             "purchaseUrl": null,
             "description": "🌝 2024 秋OUT音樂節 🌝\n第五屆...有史以來最大規模...\n𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕠𝕟...",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/07/01",
+            "eventTicket": null,
+            "lineUp": "Mong Tong"
+        },
+        {
+            "years": 2023,
+            "title": "浪人祭",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/10/13",
+            "endDate": "2024/10/15",
+            "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw", "clickable": true},
+            "purchaseUrl":  null,
+            "description":  "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": null
         },
@@ -123,7 +212,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
             "purchaseUrl": null,
             "description": "⠿⠷⠦ 2024 Takao Rock 打狗祭 ⠴⠾⠿\n⭓ 日期：10.12 (六) - 10.13 (日) ❰10/11 前夜祭❱\n⭔ 地點：高雄流行音樂中心\n⭓ 官網：takaorock.tw",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": null
         },
@@ -141,7 +230,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
             "purchaseUrl": null,
             "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
-            "eventLastUpdate": "2024/06/17",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": "新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜粗大Band｜倒車入庫｜𝐀𝐧𝐝 𝐦𝐨𝐫𝐞......"
         },
@@ -159,7 +248,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "📢「咳咳，This is 火焰先生 Speaking…」\n雖然總說地球太危險，但！2024 火球祭 is Coming ❤️‍🔥\n我準備好帶新的火星夥伴來long stay了\n你各位地球人準備好了嗎？時間留好等你來啦！\n✷ 𝟮𝟬𝟮𝟰 𝗙𝗶𝗿𝗲𝗕𝗮𝗹𝗹 𝗙𝗲𝘀𝘁. 火球祭 ✷\n𝗥𝗢𝗖𝗞𝗜𝗡’ 𝗪𝗢𝗡𝗗𝗘𝗥𝗟𝗔𝗡𝗗\n𝟭𝟭/𝟯𝟬－𝟭𝟮/𝟬𝟭 樂天桃園棒球場\n不見不散！",
-            "eventLastUpdate": "2024/06/11",
+            "eventLastUpdate": "2024/07/01",
             "eventTicket": null,
             "lineUp": null
         }

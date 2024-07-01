@@ -2,6 +2,12 @@
     "banners":
     [
         {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/hohai.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/tainanmusic.jpg",
             "officalUrl": null,
             "type": null,
@@ -26,13 +32,25 @@
             "status": null
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/takao.png",
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/skippa.jpg",
             "officalUrl": null,
             "type": null,
             "status": null
         },
         {
             "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/chillout.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/vagabond.jpg",
+            "officalUrl": null,
+            "type": null,
+            "status": null
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/Banner/bannerImage/takao.png",
             "officalUrl": null,
             "type": null,
             "status": null
