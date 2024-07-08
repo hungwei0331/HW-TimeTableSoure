@@ -89,6 +89,13 @@
             "endDate": "2024/06/09",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BFestival/day1.jpg"]
+        },
+        {
+            "name": "超犀利趴13",
+            "startDate": "2024/08/24",
+            "endDate": "2024/08/25",
+            "ticketStatus": "soldOut",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"],
         }
     ]
 }
