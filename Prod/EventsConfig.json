@@ -95,14 +95,22 @@
             "startDate": "2024/07/27",
             "endDate": "2024/07/28",
             "ticketStatus": "soldOut",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg"],
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg"]
+        },
+        {
+            "name": "麗寶賽道搖滾嘉年華",
+            "startDate": "2024/08/10",
+            "endDate": "2024/08/11",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day2.jpg"]
         },
         {
             "name": "超犀利趴13",
             "startDate": "2024/08/24",
             "endDate": "2024/08/25",
             "ticketStatus": "soldOut",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"],
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"]
         }
     ]
 }
