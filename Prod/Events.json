@@ -3,25 +3,6 @@
     "currentYearEvents": [ 
         {
             "years": 2024,
-            "title": "麗寶賽道搖滾嘉年華",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2024/08/10",
-            "endDate": "2024/08/11",
-            "location": {"locationName": "麗寶國際賽車場", "locationAddress": "台中市后里區月眉東路一段185號", "latitude": 24.31870980253305, "longitude": 120.68511782883554},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/lihpaoracing/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "今年暑假最熱血 ‼️\n🏎麗寶賽道搖滾嘉年華💨\n音樂節Ｘ市集Ｘ路跑Ｘ賽道巡禮​​",
-            "eventLastUpdate": "2024/08/05",
-            "eventTicket": null,
-            "lineUp": "滅火器、高爾宣OSN、麋先生、王ADEN、董事長樂團、P!SCO、無妄合作社、老破麻O.S.D、Multiverse、福夢FUMON、胖虎 punkhoo、粗大BAND、SHOOTUP、莉莉周她說、Dizlike、EmptyORio"
-        },
-        {
-            "years": 2024,
             "title": "PARK PARK Carnvial(叭叭嘉年華)",
             "tableImages": null,
             "imageURL": null,

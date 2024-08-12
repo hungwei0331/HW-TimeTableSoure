@@ -730,3 +730,23 @@
     "eventTicket": null,
     "lineUp": "🌟7.27 SAT TRASH｜玖壹壹｜Barry Chen｜芒果醬Mango Jump｜固定客ft.謝和弦｜OBSESS｜tokyo honey trap(JP)｜ANNALYNN(TH)｜EmptyORio｜胖虎｜P!SCO｜餵飽豬｜公館青少年ft.林昱君｜神使轟＜、激情の如<。(JP)｜黑色收音機派對｜hue｜Seasons for Change (HK)ft.魏小｜震樂堂｜Traveller旅人｜K-HOW高浩哲｜Peatle｜李紅REDLEE｜質感流氓｜等阮返來｜Tickle Tickle｜偉雄電台｜DJ Double K｜薄暮 EVENFALL ft.陳廷曜｜NeaR Band 你阿伯｜孤兒收容所G2SLS｜LilHAO ｜Vigoz｜LOCK G\n\n🌟7.28 SUN滅火器｜傷心欲絕｜無妄合作社｜夜の本気 (JP)｜溫室雜草｜老破麻O.S.D｜SpecialThanks(JP)｜福夢 FUMON｜Who Cares 胡凱兒ft.趙翊帆｜Wantamnam我地希望(HK)｜粗大Band｜宋德鶴｜BG8LOCC｜Multiverse｜西屯純爱組｜鹿洐人｜JOYCE就以斯｜JAYRoll｜悟飛Luffy｜步行者｜Sabrina胡恂舞｜眠氣Hypersomnia｜SiNNERMOON & Tajii ｜DJYU｜Roman｜阿橘AhhG｜徐行｜海口人｜DrunkMonk撞克茫客｜Slowing Oscillation斯洛頻率｜POPO J｜中部管轄區｜B-Alan & Highchen ｜Small Ay小眼"
 },
+
+{
+    "years": 2024,
+    "title": "麗寶賽道搖滾嘉年華",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day1.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day2.jpg"],
+    "imageURL": null,
+    "startDate": "2024/08/10",
+    "endDate": "2024/08/11",
+    "location": {"locationName": "麗寶國際賽車場", "locationAddress": "台中市后里區月眉東路一段185號", "latitude": 24.31870980253305, "longitude": 120.68511782883554},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/lihpaoracing/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "今年暑假最熱血 ‼️\n🏎麗寶賽道搖滾嘉年華💨\n音樂節Ｘ市集Ｘ路跑Ｘ賽道巡禮​​",
+    "eventLastUpdate": "2024/08/05",
+    "eventTicket": null,
+    "lineUp": "滅火器、高爾宣OSN、麋先生、王ADEN、董事長樂團、P!SCO、無妄合作社、老破麻O.S.D、Multiverse、福夢FUMON、胖虎 punkhoo、粗大BAND、SHOOTUP、莉莉周她說、Dizlike、EmptyORio"
+},
