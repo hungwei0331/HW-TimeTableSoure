@@ -106,6 +106,14 @@
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LihpaoRacing/day2.jpg"]
         },
         {
+            "name": "PARK PARK Carnvial(叭叭嘉年華)",
+            "startDate": "2024/08/24",
+            "endDate": "2024/08/25",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day2.jpg"],
+        },
+        {
             "name": "超犀利趴13",
             "startDate": "2024/08/24",
             "endDate": "2024/08/25",
