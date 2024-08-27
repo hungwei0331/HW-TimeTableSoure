@@ -44,7 +44,7 @@
             "imageURL": null,
             "startDate": "2024/10/12",
             "endDate": "2024/10/13",
-            "location": null,
+            "location": {"locationName": "高雄流行音樂中心​​​", "locationAddress": "803高雄市鹽埕區真愛路1號​​", "latitude": 22.61823392106214, "longitude": 120.28870314356398 },
             "mail": null,
             "latestAttend": null,
             "ticketStatus": "onSale",
@@ -54,6 +54,24 @@
             "eventLastUpdate": "2024/08/19",
             "eventTicket": null,
             "lineUp": "請詳閱官方FB或官網"
+        },
+        {
+            "years": 2024,
+            "title": "諸羅搖滾",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/10/12",
+            "endDate": "2024/10/13",
+            "location": {"locationName": "嘉義文化創意產業園區​​​", "locationAddress": "嘉義市西區中山路616號​​", "latitude": 23.47716696710152, "longitude": 120.44000876730205},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/wechiayi/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "穿越阿里山走入繁華的文化創業產業園區\n音樂再次回響在文化創業產業園區的每個角落  \n雞肉飯的香氣依舊，是嘉義專屬的記憶  \n藝術在古廊間綻放，心臟隨器樂聲響跳動\n無限可能，自由奔放，這是屬於嘉義的搖滾精神  \n國慶連假，帶著期待與熱情，來參與這場年度盛事  \n兩天雙舞台，28組頂尖表演，將再次點燃這座城市的激情\n在諸羅山下重逢吧，一起回嘉，熱血重燃",
+            "eventLastUpdate": "2024/08/26",
+            "eventTicket": null,
+            "lineUp": "Coming Soon.."
         },
         {
             "years": 2024,
