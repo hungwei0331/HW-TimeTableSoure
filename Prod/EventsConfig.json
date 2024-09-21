@@ -131,6 +131,15 @@
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day4.jpg"],
         },
         {
+            "name": "浪人祭",
+            "startDate": "2024/10/04",
+            "endDate": "2024/10/06",
+            "ticketStatus": "soldOut",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day3.jpg"]
+        },
+        {
             "name": "Takao Rock 打狗祭",
             "startDate": "2024/10/11",
             "endDate": "2024/10/13",
