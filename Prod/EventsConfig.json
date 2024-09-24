@@ -147,6 +147,13 @@
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day2.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day3.jpg"],
+        },
+        {
+            "name": "諸羅搖滾",
+            "startDate": "2024/10/12",
+            "endDate": "2024/10/13",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jurassic/day1.jpg"]
         }
     ]
 }
