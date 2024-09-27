@@ -2,6 +2,27 @@
     "lastUpdate": "2024/09/23",
     "currentYearEvents": [ 
         {
+            "years": 2024,
+            "title": "秋out音樂節",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day3.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day4.jpg"],
+            "imageURL": null,
+            "startDate": "2024/09/28",
+            "endDate": "2024/09/29",
+            "location": {"locationName": "公館水岸廣場 & PIPE Live House", "locationAddress": "台北市中正區思源街一號", "latitude": 25.011449811295027, "longitude": 121.5289944},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/chillout_fest/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "🌝 2024 秋OUT音樂節 🌝\n第五屆...有史以來最大規模...\n𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕠𝕟...",
+            "eventLastUpdate": "2024/09/23",
+            "eventTicket": null,
+            "lineUp": "🌇 #售票舞台陣容\n蛋堡 SOFT LIPA｜Leo王船 X 幻術大仙 feat. PiNkChAiN紅粉鍊人｜OYAT / 思い出野郎Aチーム (JP)｜YOUR SONG IS GOOD (JP)｜DJ KRUSH (JP)｜Alec Orachi (TH)｜Amaiwana (JP)｜Yangbans (KR) ｜海豚刑警｜昏鴉｜庵心自在所｜COLD DEW｜Dac Band｜someshiit 山姆｜小本生燈 XSGACHA (HK)｜Wantamnam 我地希望 (HK)｜畫室The WLTZ｜河豚子｜心頭肉 MindBodySoul｜珍盤亭娛樂師匠 (JP)｜Saito “JxJx” Jun (JP)｜Spykee｜陳涵｜宅邦戰隊｜DOJA DOG｜DJ PEPSI​\n\n🌠 #免費舞台陣容\nicyball冰球樂團｜庸俗救星 Vulgar Savior｜好樂團｜趙翊帆｜FRαNKIE阿法｜公館青少年｜JOYCE 就以斯｜DEW｜西屯純愛組｜LAWA｜KHOW高浩哲｜諧幫GeeMafia｜林潔心｜鄒序｜Sabrina胡恂舞｜呂允 Lu Yun｜Andr｜debloop｜塑膠Boy(s)｜憂憂 Yō-Yō｜蔡題謙 Tee Train｜野巢 Yaseinosu ｜第三象限｜桑尼 SONNIE｜應聲倒地 ｜PALLAS-帕拉斯｜鯊魚煙囪｜辣鄰居｜源源不絕2024嘻研CYPHER大賞社團｜嚴梵 Fan Yen｜The Plane Plan｜元宇炘XINA｜童心Valentina＆江柏翰Jumbo｜Danny & Cen Cen｜JB｜(Ar)Tone｜守夜人｜PANJA｜龐克木吉他Duo：蘿蔔Ｘ安娜｜童心Valentina＆米拉Milla｜陳少青 & 阿威｜鄭小韻｜江晟榮｜安小博 Amber｜江泰德｜孫一軒Sun｜8G8｜VENSON｜ZYRO｜SOCO｜AARON｜MA-KAI｜KUO KUO｜HAMBURGER｜TOFU LEE｜UX"
+        },
+        {
             "years": 2023,
             "title": "浪人祭",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",
