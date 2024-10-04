@@ -111,7 +111,7 @@
             "endDate": "2024/08/25",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day2.jpg"],
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day2.jpg"]
         },
         {
             "name": "超犀利趴13",
@@ -128,7 +128,7 @@
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day2.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day3.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day4.jpg"],
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Chillout/day4.jpg"]
         },
         {
             "name": "浪人祭",
@@ -136,8 +136,7 @@
             "endDate": "2024/10/06",
             "ticketStatus": "soldOut",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day3.jpg"]
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg"]
         },
         {
             "name": "Takao Rock 打狗祭",
@@ -146,7 +145,7 @@
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day2.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day3.jpg"],
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day3.jpg"]
         },
         {
             "name": "諸羅搖滾",
