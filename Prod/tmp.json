@@ -792,11 +792,10 @@
 },
 
 {
-    "years": 2023,
+    "years": 2024,
     "title": "浪人祭",
     "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day3.jpg"],
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg"],
     "imageURL": null,
     "startDate": "2024/10/04",
     "endDate": "2024/10/06",
