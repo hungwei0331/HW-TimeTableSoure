@@ -1,25 +1,6 @@
 
 
 
-{
-    "years": 2023,
-    "title": "雨山祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2023/09/24",
-    "endDate": "2023/09/24",
-    "location": {"locationName": "國立政治大學", "locationAddress": "台北市文山區指南路二段", "latitude": 24.988009046575776, "longitude": 121.57744112547641},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "soldOut",
-    "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "雨山祭，一場政大學生所自發起的音樂爆炸性實驗，期望結合文山在地特色，突破現場音樂與藝術展演之平台，打造專屬於這座雨山的專屬音樂場景，嘗試完成當今音樂節自我再定義。​",
-    "eventLastUpdate": "2023/01/12",
-    "eventTicket": null,
-    "lineUp": "椅子樂團、南西肯恩、庸俗救星、靈魂沙發、JADE、鶴 The Crane、國蛋GorDoN、當代電影大師、無妄合作社、非人物種、布萊梅 Bremen Entertainment Inc.、VH (Vast & Hazy)"
-},
-
 
 
 {
