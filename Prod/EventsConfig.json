@@ -153,6 +153,13 @@
             "endDate": "2024/10/13",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jurassic/day1.jpg"]
+        },
+        {
+            "name": "春浪音樂節",
+            "startDate": "2024/11/02",
+            "endDate": "2024/11/03",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"]
         }
     ]
 }
