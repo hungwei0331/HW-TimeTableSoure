@@ -155,6 +155,15 @@
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Jurassic/day1.jpg"]
         },
         {
+            "name": "搖滾台中",
+            "startDate": "2024/10/26",
+            "endDate": "2024/10/27",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day3.jpg"]
+        },
+        {
             "name": "春浪音樂節",
             "startDate": "2024/11/02",
             "endDate": "2024/11/03",
