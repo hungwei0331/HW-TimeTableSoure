@@ -2,65 +2,6 @@
 
 
 
-
-{
-    "years": 2024,
-    "title": "搖滾台中",
-    "tableImages": null,
-    "imageURL": null,
-    "startDate": "2024/10/26",
-    "endDate": "2024/10/27",
-    "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "free",
-    "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
-    "purchaseUrl": null,
-    "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
-    "eventLastUpdate": "2024/06/17",
-    "eventTicket": null,
-    "lineUp": "新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜粗大Band｜倒車入庫｜𝐀𝐧𝐝 𝐦𝐨𝐫𝐞......"
-},
-
-
-
-{
-    "years": 2023,
-    "title": "春浪",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2023/04/22",
-    "endDate": "2023/04/23",
-    "location": {"locationName": "台中森渼原​", "locationAddress": "台中市外埔區二崁路700號", "latitude": 24.330090720173686, "longitude": 120.62064277670662},
-    "mail": null,
-    "latestAttend": "無妄合作社 No-nonsense Collective| 南西肯恩| 貳伍吸菸所 Smoking Area 25| 海岸乾杯Coastal Kanpai| 男子漢樂團",
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/springwavemusic", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "2023 春浪音樂節 山線・台中\n\n4.22 - 4.23 \n台中森渼原\n\n成為山裡的浪​",
-    "eventLastUpdate": "2023/02/27",
-    "eventTicket": null,
-    "lineUp": "4.22 演出卡司｜伍佰 ＆ China Blue・告五人・Nulbarich・怕胖團・TRASH・白安・宇宙人・體熊專科・Robot Swing・聽天湯・夕陽武士・溫室雜草・良式・洪筠惠的夏日出發・泥灘地浪人・黃老酥與黃藥師・西尤島計劃・Angus Lee 手碟・浮可泰・愛希頌缽\n\n4.23 演出卡司｜陳珊妮 ft. GIGO・KREVA・麋先生・Tizzy Bac・拍謝少年・康士坦的變化球・持修・無妄合作社・椅子樂團・I Mean Us・荷爾蒙少年・溫蒂漫步・SKARAOKE・Resa Club・TOKYO GROOVE JYOSHI・巴西音樂計畫・YK 樂團・吳政君四重奏・張小雯"
-},
-
-{
-    "years": 2023,
-    "title": "B Festival",
-    "tableImages": null,
-    "imageURL": null,
-    "startDate": "2023/04/29",
-    "endDate": "2023/04/30",
-    "location": null,
-    "mail": null,
-    "latestAttend": "倒車入庫/暴君/Smoking Goose(KR)/黑色收音機派對/宅邦戰隊/討口一眾/微酸的偷窺狂/諧幫/少年白 feat. 阿顯/無妄合作社⋯⋯and more!!!",
-    "ticketStatus": "onSale",
-    "instagramUrl": null,
-    "purchaseUrl":  null,
-    "description": "ALRIGHT！ALRIGHT！ALRIGHT！\n\n今年是兔年，NICE 兔 MEET YOU！我們把賽制稍微做了一點改變，時間也稍微做了一點改變，但是絕對一樣B！\n\n之前的兩天活動現在會濃縮成一天半，音樂更濃，派對更濃，酒精更濃，你濃我濃，雖然企劃還沒有全部確認，但是B的貴族盲目票現在馬上開賣，已經開賣！要撿便宜就等現在！\n\n然後我們就順其自然，就是這樣胡搞一通的音樂祭，歡迎大家來到B的世界盡情玩樂吧！共！勉！之！​",
-    "eventLastUpdate": "2023/01/09",
-    "eventTicket": null,
-    "lineUp": "倒車入庫 Reversing into Garage / Bloody Tyrant 暴君 / Smoking Goose(스모킹구스) (KR) / 黑色收音機派對 Black Radio Party / 宅邦戰隊/otakuni/オタク二 / 討口一眾 Kenkaaaaaa / 微酸的偷窺狂 Acidy Peeping Tom / 諧幫 / 少年白 Grey Youth feat. 阿顯 / 無妄合作社 No-nonsense Collective / 0o迌迌o0 / Billy Carter (빌리카터) (KR) / The Octopuss * (TH) / The Loophole 露波合唱團/A Root 同根生/88balaz八十八顆芭樂籽/DJ Yowæi"
-},
 {
     "years": 2023,
     "title": "吱吱祭",
@@ -215,26 +156,6 @@
 
 {
     "years": 2023,
-    "title": "Takao Rock 打狗祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Takao/day2.jpg"],
-    "imageURL": null,
-    "startDate": "2023/10/07",
-    "endDate": "2023/10/09",
-    "location": {"locationName": "高雄流行音樂中心", "locationAddress": "高雄市鹽埕區真愛路1號", "latitude": 22.618603115071135, "longitude": 120.28968325730287},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
-    "purchaseUrl": null,
-    "description": "ყ ᥱ ᥉ .ᐟ.ᐟ 2023 Takao Rock 將在 10/8、10/9 登場 .ᐟ.ᐟ ❰10/7 前夜祭❱\n⠿⠷⠦ 演出陣容：coming soon.. ⠴⠾⠿\n⭔ 地點：高雄流行音樂中心",
-    "eventLastUpdate": "2021/05/10",
-    "eventTicket": null,
-    "lineUp": "安溥｜魏如萱｜ABAO阿爆｜鄭宜農｜洪佩瑜｜巴奈｜血肉果汁機｜美秀集團｜拍謝少年｜椅子樂團｜Hello Nico｜VH (Vast&Hazy)｜傻子與白痴｜icyball 冰球樂團｜JADE｜怕胖團｜滅火器 Fire EX.｜大象體操｜淺堤｜孩子王｜必順鄉村｜老貓偵探社｜邱淑蟬｜王立言樂團｜Xmoraz｜煙雨飄渺｜普通隊長｜薄荷綠工廠｜沛莉小子｜Leo王｜SmashRegz｜鶴 The Crane｜葛西瓦 Kasiwa｜潮州土狗＋五木｜榕幫｜BRADD｜聲子蟲 ❰ 前夜祭 ❱｜惘聞 WANGWEN ❰ 前夜祭 ❱｜神はサイコロを振らない｜VannDa｜恐龍的皮｜閃閃閃閃｜A-Root 同根生｜P!SCO｜DSPS｜溫蒂漫步｜妮可醬｜橘子海Orange Ocean｜鄭興｜cotoba｜呂允｜李浩瑋 Howard Lee｜擊沈女孩｜貝克小姐 Miss Bac.｜裝咖人｜貓咪庫瑪拉"
-},
-
-{
-    "years": 2023,
     "title": "無限自由音樂節",
     "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day1.jpg",
                     "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day2.jpg"],
@@ -311,25 +232,7 @@
     "eventTicket": null,
     "lineUp": "イルカポリス 海豚刑警、鶴The Crane、夜間限定wannasleep/Gummy B、icyball 冰球樂團、鳳小岳、DJ Mayà Yuriko、DJ Soung ◗"
 },
-{
-    "years": 2023,
-    "title": "FireBall Fest. 火球祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg"],
-    "imageURL": null,
-    "startDate": "2023/11/25",
-    "endDate": "2023/11/26",
-    "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "📣 地球人請注意 📣重返愛的主場，火球祭正式回歸！\n\n距離上次火球祭已經過了 1,344 天但！有些記憶不管過多久還是難忘\n\n還記得播放著搖滾樂的旋轉木馬上，她的笑容讓我暈到現在人生中第一次踏上紅土、在音樂聲中滾草皮時不時被感動到哭得像個傻瓜、下一秒又笑得像個笨蛋\n\n在雨中熱舞、在太陽下的草皮曬乾自己直接拿著感應手環、買個外帶坐到看台區爽吃爽喝爽聽團❤\n\n48 小時裡不間斷的快樂現在回想起來都會笑，太爽了吧？有夠夢幻\n\n準備好重返我們的搖滾遊樂園嗎？",
-    "eventLastUpdate": "2023/01/12",
-    "eventTicket": null,
-    "lineUp": "滅火器 ft. 馬克SAVAGE.M＆阿跨面、10-FEET (JP)、LEE YOUNGJI 李泳知 (KR)、envy (JP)、The BONEZ (JP)、血肉果汁機 ft. Julia 吳卓源、美秀集團 ft. 浣熊俠、宇宙人、鄭宜農、國蛋GorDoN、 TRASH、大象體操、康士坦的變化球、TOTALFAT (JP)、Silica Gel (KR)、怕胖團 PAPUN BAND、勸世三姊妹、圖騰樂團、海豚刑警、JADE、芒果醬 Mango Jump、EmptyORio、百合花、周自從、SmashRegz ft. BRADD、隨性、KoOk 庫克、SKARAOKE、A_Root同根生、粗大Band、胖虎、夕陽武士、普通隊長、Robot Swing、Yokkorio、DJ MR.GIN、黃浩庭 HAOTING、SHOOTUP、絕命青年、樂天女孩"
-},
+
 
 {
     "years": 2023,
@@ -370,26 +273,7 @@
     "lineUp": "恐龍的皮ft. 許含光、工一計畫Plana、可愛虎小島、史東Ston、未知過敏原、好大一把勇者劍、李浩然的返鄉專機、阿克沃Awkward、孤寂輔導室、MINT、Out of focus 失焦、KARRY、鄭興、hue ft.張瑞夫、Theseus忒修斯、八青哥、公館青少年、裝咖人、王彙筑、克里夫、吳青原、JADE、Who Cares 胡凱兒、Hello Nico、icyball冰球樂團、好樂團、庸俗救星、凹與山、溫蒂漫步、Robot Swing、鹿洐人、粗大band、後站人 X 桃子A1J、 Akuba Funk、鶴The Crane、晨曦光廊、艾蜜莉AMILI Ｘ 林潔心 Ｘ Quanzo X Peatle、JOYCE就以斯 X Sabrina胡恂舞、回聲樂團ft.好樂團"
 },
 
-{
-    "years": 2023,
-    "title": "漂遊者森林音樂祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Roving/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Roving/day2.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Roving/day3.jpg"],
-    "imageURL": null,
-    "startDate": "2023/12/08",
-    "endDate": "2023/12/10",
-    "location": {"locationName": "麗寶樂園渡假區_東區落羽松森林​", "locationAddress": "台中市后里區福容路8號", "latitude": 24.32621039579814, "longitude": 120.6966044774299},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "Roving Nation FEST. 漂遊者\n各種政治不正確 / 本來想好好辦音樂祭，不小心變成迷因社群。",
-    "eventLastUpdate": "2023/01/12",
-    "eventTicket": null,
-    "lineUp": "ZIP發射樂團 with 魏如昀、Hitsujibungaku 羊文学 (JP)、宇宙人、麋先生 MIXER、Hello Nico、怕胖團 PAPUN BAND、美秀集團、老王樂隊、理想混蛋 Bestards、VH（Vast & Hazy）、血肉果汁機、Marz23、甜約翰 Sweet John、the Huiting 陳惠婷、神棍樂團 ZenKwun 、イルカポリス 海豚刑警 、icyball 冰球樂團、インナージャーニー inner journey (JP)、Glimpse Group (JP)、芒果醬 Mango Jump、溫室雜草、閃閃閃閃、粗大Band、hue、庸俗救星"
-}
+
 
 {
     "years": 2024,
@@ -793,4 +677,25 @@
     "eventLastUpdate": "2024/10/07",
     "eventTicket": null,
     "lineUp": "🌟演出陣容：血肉果汁機｜麋先生 MIXER｜南西肯恩｜凡枯 Faan Fu（HK)｜宋德鶴｜固定客｜餵飽豬｜Tickle Tickle癢癢｜等阮返來｜公館青少年｜SHOOTUP｜時不我予｜旅人｜步行者｜工口紳士｜阿橘Ahh G｜男子漢｜碎紙花 ｜DIZLIKE ｜Sabrina胡恂舞｜眠氣Hypersomnia｜無先生｜烏兔 WUTU｜LifeHaze生活黑｜桑尼 SONNIE｜DrunkMonk撞克茫客｜夢遊旅人  Sleeping Walkers ｜薄暮 EVENFALL"
+},
+
+{
+    "years": 2024,
+    "title": "搖滾台中",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day2.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day3.jpg"],
+    "imageURL": null,
+    "startDate": "2024/10/26",
+    "endDate": "2024/10/27",
+    "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "free",
+    "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
+    "purchaseUrl": null,
+    "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
+    "eventLastUpdate": "2024/10/21",
+    "eventTicket": null,
+    "lineUp": "TRASH｜怕胖團｜血肉果汁機｜傻子與白痴｜甜約翰｜溫蒂漫步 Wendy Wander｜芒果醬 Mango Jump｜JADE｜新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜PassCode (JP)｜P!SCO｜粗大Band｜倒車入庫｜OBSESS｜老破麻 O.S.D｜福夢 FUMON｜BSB｜庸俗救星｜固定客｜震樂堂｜FUTURE AFTER A SECOND｜公館青少年｜DUMB.RONG(TH)｜憂憂 Yō-Yō｜吳汶芳｜工口紳士｜秋波愛麗｜Funkindustry (FR) ft.阿橘 Ahh G｜DAI (JP) × 狗吠火車｜碎紙花｜KANIT卡尼特｜The Salitus｜白日夢廚房｜企鵝迴旋踢｜核果人NUTS｜薄暮 EVENFALL｜BUMJIN(KR)｜步行者｜李晉瑋｜off the menu (KR)｜深深一擊｜秋山｜手骨樂隊｜製燥者｜Bike機踏車｜兩棲人｜龍族扣殺｜伯爵先生｜混亂之島｜かずき山盛り(JP)｜12.8 twelve.eight (HK)"
 },
