@@ -3,25 +3,6 @@
     "currentYearEvents": [ 
         {
             "years": 2024,
-            "title": "無限自由音樂藝術節",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2024/11/01",
-            "endDate": "2024/11/03",
-            "location": {"locationName": "台灣埔里 顏氏牧場", "locationAddress": "南投縣埔里鎮桃米生態村水上巷28號", "latitude": 23.932576819694408, "longitude": 120.9063597246631},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/unlimited_freedom_festival/", "clickable": true},
-            "purchaseUrl": null,
-            "description": "2024 無限自由音樂藝術節\n\n▫️11/1(五)前夜祭、11/2(六)、11/3(日）\n▫️台灣埔里 顏氏牧場\n\n眾多個不同主題舞台/海內外獨立樂團&藝術家/獨立音樂/ACG/露營部落/楓樹林市集/迴響食堂/放空森林/kids Land/And more…..",
-            "eventLastUpdate": "2024/10/28",
-            "eventTicket": null,
-            "lineUp": "Johnny Pandora｜雨國|眠氣|白頻率|Easy Shen|夢遊旅人|沈默紳士|斯洛頻率|秋山ChillSome|DrunkMonk撞克茫客|步行者|漫遊年代俱樂部|帕崎拉Pachila|Abandon Teddy 奔等泰迪|潛水浣熊 Diving Raccoon|薄暮 EVENFALL|製燥者StoryMaker|The Salitus|𝑳𝒊𝒇𝒆 𝑯𝒂𝒛𝒆生活黑|Xmoraz|我們的日子有限公司|島嶼都市浪漫譚|你我U&I|佬步槍|遠鄉人|妹妹派奇|深深一擊|My Cat Eats My Hand||GOTA|奏手侯（JP) |SINDOSI (新都市)|CVPTIAN MORGANS|chirrp.!Vamos|萬物心沉|黑袍樂隊|濫情游泳池|光學虎鯨|青原Fida|SOBBOY|Smoking Goose|白華|火熱巨棒|Polyvirus|From the day on|厄夜咒章|VENEZ(KR)|Silky Warms(KR)|YOUAEPO (KR)|nufehtin(JP)|紛亂交錯|黃黑大樂隊|伯爵先生|貓拳|城市被忘錄|莎賓娜大樂隊|夢遊者|失真率|月下|夜バクband|SkewDriver|二度寢樂團|SHIROYOI 白酔|Uranus -ウラノス|國境之男－ACG日搖歡樂格鬥團|SemiTone|皆死んじゃった|縱慾大嬸 ERROR BOB|這不是菸|紅燈右轉|KaNiT卡尼特|幻雨|桑尼|清醒夢|東部壞男孩|混亂之島|越軌樂隊|朦朧之光|飛行櫻桃|砂漠に生まれた音楽 / 七曜日|酸素人間|電波高校Early Eight Tomorrow|我想一想我想想笑死|時雨姬 しぐれひめ|悠洛YoLo-OvO|天乃絵空|宋徳鶴|恕樂團|手骨樂隊|爛漫遊子|Jazzy - T|RAPRIN"
-        },
-        {
-            "years": 2024,
             "title": "春浪音樂節",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"],
             "imageURL": null,
@@ -54,7 +35,7 @@
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
             "eventLastUpdate": "2024/10/28",
             "eventTicket": null,
-            "lineUp": "麋先生 𝘔𝘐𝘟𝘌𝘙・董事長樂團 𝘛𝘩𝘦 𝘊𝘩𝘢𝘪𝘳𝘮𝘢𝘯・康士坦的變化球 𝘒𝘚𝘛 𝘧𝘵.GIGO・怕胖團 𝘗𝘈𝘗𝘜𝘕 𝘉𝘈𝘕𝘋・GEZAN (𝘑𝘗)・ENTH (𝘑𝘗)・拍謝少年 𝘚𝘰𝘳𝘳𝘺 𝘠𝘰𝘶𝘵𝘩・傷心欲絕 𝘞𝘢𝘺𝘯𝘦'𝘴 𝘴𝘰 𝘴𝘢𝘥・傻子與白痴・芒果醬 𝘔𝘢𝘯𝘨𝘰 𝘑𝘶𝘮𝘱・𝘪𝘤𝘺𝘣𝘢𝘭𝘭 冰球樂團・溫蒂漫步 𝘞𝘦𝘯𝘥𝘺 𝘞𝘢𝘯𝘥𝘦𝘳・JOYCE 就以斯・163braces・POT (𝘑𝘗)・hue・老破麻 O.S.D・福夢FUMON・公館青少年 𝘎𝘎𝘵𝘦𝘦𝘯𝘴・莉莉周她說 𝘓𝘪𝘭𝘺 𝘊𝘩𝘰𝘶-𝘊𝘩𝘰𝘶 𝘓𝘪𝘦𝘥・SHOOT UP・DIZLIKE・TORO (𝘑𝘗)・郭子恆 𝘑𝘦𝘮𝘮𝘺・上山 𝘖𝘷𝘦𝘳 𝘛𝘩𝘦 𝘛𝘰𝘱・桑尼 𝘚𝘰𝘯𝘯𝘪𝘦・島嶼都市浪漫譚 𝘜𝘳𝘣𝘢𝘯𝘐𝘴𝘭𝘢𝘯𝘥𝘙𝘰𝘮𝘢𝘯𝘤𝘦・工口紳士 𝘌𝘳𝘰 𝘎𝘦𝘯𝘵・好大一把勇者劍 𝘚𝘸𝘰𝘳𝘥 𝘰𝘧 𝘉𝘳𝘢𝘷𝘦・伯爵白 𝘌𝘢𝘳𝘭 𝘉𝘭𝘢𝘯𝘤・MAX'N (𝘑𝘗)・核果人 𝘕𝘜𝘛𝘚・GUJI 孤寂輔導室・NeaR Band 你阿伯....解壓縮中"
+            "lineUp": "告五人 𝘈𝘤𝘤𝘶𝘴𝘦𝘧𝘪𝘷𝘦・麋先生 𝘔𝘐𝘟𝘌𝘙・董事長樂團 𝘛𝘩𝘦 𝘊𝘩𝘢𝘪𝘳𝘮𝘢𝘯・康士坦的變化球 𝘒𝘚𝘛 𝘧𝘵.GIGO・怕胖團 𝘗𝘈𝘗𝘜𝘕 𝘉𝘈𝘕𝘋・鳳小岳 𝘙𝘩𝘺𝘥𝘪𝘢𝘯 𝘝𝘢𝘶𝘨𝘩𝘢𝘯・GEZAN (𝘑𝘗)・ENTH (𝘑𝘗)・拍謝少年 𝘚𝘰𝘳𝘳𝘺 𝘠𝘰𝘶𝘵𝘩・傷心欲絕 𝘞𝘢𝘺𝘯𝘦'𝘴 𝘴𝘰 𝘴𝘢𝘥・傻子與白痴・芒果醬 𝘔𝘢𝘯𝘨𝘰 𝘑𝘶𝘮𝘱・𝘪𝘤𝘺𝘣𝘢𝘭𝘭 冰球樂團・溫蒂漫步 𝘞𝘦𝘯𝘥𝘺 𝘞𝘢𝘯𝘥𝘦𝘳・JOYCE 就以斯・163braces・culenasm (𝘑𝘗)・POT (𝘑𝘗)・hue・老破麻 O.S.D・福夢FUMON・粗大Band 𝘛𝘩𝘪𝘤𝘬 𝘉𝘪𝘨 𝘉𝘢𝘯𝘥・P!SCO 𝘧𝘵. LEIGHT NINE・公館青少年 𝘎𝘎𝘵𝘦𝘦𝘯𝘴・莉莉周她說 𝘓𝘪𝘭𝘺 𝘊𝘩𝘰𝘶-𝘊𝘩𝘰𝘶 𝘓𝘪𝘦𝘥・SHOOT UP・DIZLIKE・TORO (𝘑𝘗)・郭子恆 𝘑𝘦𝘮𝘮𝘺・上山・SONNIE桑尼・島嶼都市浪漫譚 𝘜𝘳𝘣𝘢𝘯𝘐𝘴𝘭𝘢𝘯𝘥𝘙𝘰𝘮𝘢𝘯𝘤𝘦・工口紳士 𝘌𝘳𝘰 𝘎𝘦𝘯𝘵・好大一把勇者劍 𝘚𝘸𝘰𝘳𝘥 𝘰𝘧 𝘉𝘳𝘢𝘷𝘦・伯爵白 𝘌𝘢𝘳𝘭 𝘉𝘭𝘢𝘯𝘤・MAX'N (𝘑𝘗)・核果人・孤寂輔導室・沈默紳士 𝘚𝘪𝘭𝘦𝘯𝘵 𝘎𝘦𝘯𝘵𝘭𝘦𝘮𝘦𝘯・非我 𝘍𝘦𝘦𝘭 𝘕𝘰𝘯-𝘦𝘨𝘰・清醒夢 𝘞𝘢𝘬𝘦-𝘣𝘢𝘤𝘬-𝘵𝘰-𝘣𝘦𝘥・NeaR Band你阿伯"
         },
         {
             "years": 2024,
@@ -84,13 +65,13 @@
             "location": {"locationName": "新莊新月廣場", "locationAddress": "新北市新莊區大漢溪自行車道", "latitude": 25.03111140787824, "longitude": 121.44941869205705},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "「城市邊緣的自由搏擊戰！」\n\n獨立樂團大鳴大放，不想被圈粉都難，唱著?​",
             "eventLastUpdate": "2024/10/28",
             "eventTicket": null,
-            "lineUp": "老破麻｜OBSESS｜固定客⋯and more!!!"
+            "lineUp": "老破麻｜OBSESS｜固定客｜餵飽豬｜SHOOTUP｜無先生⋯and more!!!"
         }
     ],
     "nextYearEvents": [

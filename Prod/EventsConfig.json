@@ -164,12 +164,11 @@
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day3.jpg"]
         },
         {
-            "name": "無限自由音樂藝術節",
-            "startDate": "2024/11/01",
+            "name": "無限自由‘24 in 迴響 感謝祭",
+            "startDate": "2024/11/02",
             "endDate": "2024/11/03",
             "ticketStatus": "onSale",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day1.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day2.jpg"]
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day1.jpg"]
         },
         {
             "name": "春浪音樂節",
