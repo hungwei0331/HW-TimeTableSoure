@@ -176,6 +176,14 @@
             "endDate": "2024/11/03",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg"]
+        },
+        {
+            "name": "火球祭",
+            "startDate": "2024/11/30",
+            "endDate": "2024/12/01",
+            "ticketStatus": "soldOut",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg"]
         }
     ]
 }

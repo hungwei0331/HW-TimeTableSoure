@@ -21,8 +21,9 @@
         },
         {
             "years": 2024,
-            "title": "FireBall Fest. 火球祭",
-            "tableImages": null,
+            "title": "火球祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg"],
             "imageURL": null,
             "startDate": "2024/11/30",
             "endDate": "2024/12/01",
