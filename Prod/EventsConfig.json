@@ -14,8 +14,7 @@
             "startDate": "2024/02/24",
             "endDate": "2024/02/25",
             "ticketStatus": "onSale",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"]
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"]
         }
     ]
 }
