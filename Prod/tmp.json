@@ -1,7 +1,5 @@
 
 
-
-
 {
     "years": 2023,
     "title": "吱吱祭",
@@ -95,26 +93,6 @@
     "eventTicket": null,
     "lineUp": null
 },
-
-{
-    "years": 2023,
-    "title": "台秋祭",
-    "tableImages": null,
-    "imageURL": null,
-    "startDate": "2023/07/29",
-    "endDate": "2023/07/30",
-    "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "這是台中 這個城市只有Chill 台秋祭​​",
-    "eventLastUpdate": "2023/01/12",
-    "eventTicket": null,
-    "lineUp": "玖壹壹｜血肉果汁機｜老王樂隊｜怕胖團｜夜間限定(Gummy B & wannasleep)｜海豚刑警｜固定客ft潤少｜神棍樂團｜Multiverse｜OBSESS｜ babychair｜冰球ft.賤葆｜Dr.T看你老師｜西屯純愛組｜老破麻O.S.D｜粗大Band｜胡凱兒ft. JIN縉 ｜步行者｜SmashRegz｜Roman｜Lazyfinga｜SiNNER MOON｜步行者｜五木｜歐吉虎｜Yappy｜艾蜜莉｜阿夫｜YoungLee｜Boogie Tim & Bin -Z｜PIZZALI & Peatle｜Gambler ｜李紅｜培特｜DJ KAZULA & 方品融｜DAPUN 大胖 ft. 張伍｜Zoc & Nico｜Double K｜DJ YU｜DJ Green｜JAYRoll ｜Luffy｜IVAN｜FORMOZA｜seasons for change (HK)｜the priceless boat (HK)｜The Tic Tac｜八青哥｜CoCo-Cha｜DJ T Time｜上山｜VIBER氣氛人｜工口紳士｜手骨樂隊｜行樂人｜伯爵白｜大成｜孤兒收容所｜非典型招待所｜秋山ChillSome｜時不我予｜等阮返來｜碎紙花｜眠氣｜笨屁肥臀｜與傑同行｜莎賓娜大樂隊｜製燥者｜獨流音樂｜暴行終止｜油漬艾莉｜KaNiT卡尼特｜Tickle Tickle｜Traveller旅人｜RECall｜毛毛兄弟幫｜Tsukimi Band月三｜WILIM｜槍擊艾拉"
-},
-
 
 
 {
@@ -276,26 +254,6 @@
     "lineUp": "RITTO (OKA)｜CHOUJI (OKA)｜柴田聰子[𝗕𝗔𝗡𝗗 𝗦𝗘𝗧] (JP)｜Otoboke Beaver (JP)｜chilldspot (JP)｜TORAUMA (OKA)｜YEW (TH)｜Valentina Ploy (TH&IT)｜RubberBand｜mindfreakkk (TH)｜PiNkChAiN紅粉鍊人｜maco marets (JP)｜DJ RINOKA (JP)｜SATOH (JP)｜Kaoruko (JP)｜RAKURA (JP)｜Soft Pine (TH)｜LANDOKMAI (TH)｜萬能青年旅店｜MIYACHI (JP)｜Bleecker Chrome (JP)｜HUGO (TW)｜新東京 (JP)｜SOWUT｜That’s My Shhh｜Daoko (JP) ｜美秀集團｜Dasutt (KR)｜JADE EYES 孔雀眼｜Cicada｜ZOC (JP)｜月宵◇クレシェンテ&陽光◆スペクトラ｜Julia 吳卓源｜熊仔｜南瓜妮歌迷俱樂部｜甜約翰 Sweet John｜I Don’t Like Mondays. (JP)｜RYOTA 片山凉太(MY)｜163braces｜Sabrina 胡恂舞｜葵剛｜禪波ZENBØ｜郭真榕 Candle Kuo｜史東Ston｜DEW｜Harry Teardrop (US)｜SOMAOTA (JP)｜RICCHO (OKA)… and DJ coming soon!"
 },
 
-
-{
-    "years": 2024,
-    "title": "赤聲躁動音樂祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day2.jpg"],
-    "imageURL": null,
-    "startDate": "2024/05/18",
-    "endDate": "2024/05/19",
-    "location": {"locationName": "台中烏日啤酒廠", "locationAddress": "臺中市烏日區光華街1號", "latitude": 24.11169683714309, "longitude": 120.62239884417893},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/carnival_fever.tw/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "【Y2K大爆炸。赤聲躁動2024】\n把糖果穿在身上、大聲唱歌，\n和冰友跳著最in的舞步並肩搖擺！\n\n0518 💜 0519\n​把浪漫留給我們​​",
-    "eventLastUpdate": "2024/05/01",
-    "eventTicket": null,
-    "lineUp": "5月18日\nicyball冰球樂團、海豚刑警、露波合唱團、Multiverse、P!SCO、我是機車少女、公館青少年、阿橘 Ahh G、Tickle Tickle、林潔心、大成 DACHENG、EAERAN [JP] ft. Sheng tai、月宵◇クレシェンテ × 陽光◆スペクトラ、Bike、桑尼Sonnie、Burning Beak 、Traveller 旅人 、工口紳士 、好大一把勇者劍/swords of brave 、宇宙資料庫 、安眠計畫 、秋波愛麗 、滑倒少年隊GoodBoiZ、溪流 Dingxi Music Center 、夢遊旅人 Sleeping Walkers 、獨流音樂 WTM Studio、T0ilet Alien、DJ COKAJI、H$1N\n\n5月19日\nMEAN [TH]、怕胖團、溫蒂漫步、夜間限定(wannasleep & Gummy B)、南西肯恩、庸俗救星、莉莉周她說、Who Cares 胡凱兒、DJ IKE [JP]、Enfants [JP]、上山、Billyrrom [JP]、神奇膠 [HK]、ROVER [HK]、Limi、昴宿、 伯爵白、平行宇宙（黃茵琪、萌吶麗莎Lisa）、Alaska Jam [JP]、HomeRich & Jimmy H. & WILIM & DJ NICO、DJ西村ひよこちゃん [JP]、 DJかずま丸水産 [JP]"
-},
 {
     "years": 2024,
     "title": "梨鄉背景",
@@ -683,3 +641,23 @@
     "eventTicket": null,
     "lineUp": "12/28\n無妄合作社｜當代電影大師｜明日の叙景Asunojokei｜粗大Band｜餵飽豬｜SHOOTUP｜打倒三明治｜COLD DEW｜擊沈女孩｜someshiit 山姆｜FunkyMo｜BB彈｜皮衣遊俠｜達文青 ft.神秘人｜精神幻象｜Saydie｜酸腦Acid Brain｜徐行｜非我Feel Non-ego｜派拉瑞｜貓拳｜阿顯｜龐克木吉他10分鐘｜B級舞廳＿THE BAR present\n\n12/29\n血肉果汁機｜午夜乒乓｜老破麻｜OBSESS｜固定客｜FAAS｜廢埕｜謎路人｜震樂堂｜麥琪麥琪｜SADOG｜無先生｜深深一擊｜眠氣Hypersomnia｜頂加集會｜粹垢TRAEGO｜薄暮EVENFALL｜Tickle Tickle癢癢｜辣鄰居｜Funnynoise｜紙鳶｜阿強｜呂杰達｜慶記KTV"
 }
+
+{
+    "years": 2025,
+    "title": "浮現祭",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day1.jpg",  
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"],
+    "imageURL": null,
+    "startDate": "2025/02/22",
+    "endDate": "2025/02/23",
+    "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "soldOut",
+    "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "𖢨✫ 浮現祭 𝙀𝙈𝙀𝙍𝙂𝙀 𝙁𝙀𝙎𝙏 𝟮𝟬𝟮𝟱：冒險遊樂園 ✫𖢨\n\n 　浮現祭，一場名為冒險的音樂祭。　 \n\n　▎記憶\n總有一個只有好朋友\n才知曉的秘密基地\n\n　▎夢境\n總有一座只有你自己\n創造的夢幻遊樂園\n\n✪ ​ 藏寶的秘密基地・華麗變身 ​ ✨\n✪ ​ 搖滾冒險遊樂園・熱鬧開張 ​ 🎢\n\n這些年來，踏入浮現祭的樂團和樂迷朋友們，不論是化身為發掘新聲音的音樂遊俠、來海線擴充好料圖鑑的美食獵人，還是漫遊在小鎮街道巷弄裡的探險家，每個人在浮現祭裡都有屬於自己的冒險故事集，一個無法被取代的回憶存檔。\n2025年，浮現祭將變身為「搖滾冒險遊樂園」！在這裡，你會遇見更多世界各地直送的新鮮音樂；解鎖更多尚未被味蕾收錄的海線美食；發掘更多小鎮文化秘境；探索更多驚奇的限定跨域合作，更多更多超乎想像的驚喜，正等你收藏。​\n百怪千奇的場景、千變萬化的遊樂園，唯有親身體驗，才能寫下新篇章。帶上冒險裝備，與我們一起啟動搖滾旅程，在這座冒險遊樂園裡邊聽邊玩，探尋屬於你的音樂寶藏 .ᐟ.ᐟ​",
+    "eventLastUpdate": "2025/02/17",
+    "eventTicket": null,
+    "lineUp": "KANA-BOON｜美秀集團｜HUSH｜THE TOYS + YOURMOOD｜麋先生 MIXER｜Kroi｜神聖かまってちゃん（神聖放逐樂隊）｜拍謝少年 Sorry Youth｜Dragon Pony｜Mirrr｜老王樂隊｜The Chairs 椅子樂團｜icyball冰球樂團｜溫蒂漫步 Wendy Wander｜甜約翰 Sweet John｜守夜人 ft. 白安｜muque｜動物園釘子戶｜INK WARUNTORN｜芒果醬 Mango Jump｜無妄合作社｜當代電影大師｜福夢 FUMON｜Rolling Quartz｜溫室雜草｜我是機車少女 I'mdifficult｜IKE (BAND SET)｜a子｜Regallily｜Helsinki Lambda Club｜庸俗救星｜hue｜粗大Band｜P!SCO｜老破麻O.S.D｜SHOOTUP｜林潔心 ddkogi88｜Sasanomaly ササノマリイ｜Redoor｜Shye｜公館青少年｜秋波愛麗｜心頭肉 MindBodySoul｜DAI × 狗吠火車｜步行者 ft. 莊啟馨 Anna｜THE BOOTLEGS 靴腿｜Death of Heather｜Praesun × paiiinntt｜87dance｜Quubi｜O-VER-KiLL｜Pure makeR｜日蝕エクリプス｜Ruka Banana｜溟海オシアナス｜布萊梅 Bremen Entertainment Inc.｜Science Noodles｜白頻率｜Geloomy｜水中スピカ｜紙鳶 Seizer｜ガガガSP｜夕陽武士｜八德路人｜Tickle Tickle 癢癢｜工口紳士｜カネヨリマサル｜超☆社会的サンダル｜Traveller 旅人｜薄暮 EVENFALL｜核果人NUTS｜苦瓜老大｜KOLOR｜擊沈女孩Destroyers ｜震樂堂｜"
+},

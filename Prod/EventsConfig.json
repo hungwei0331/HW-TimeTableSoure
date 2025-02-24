@@ -13,7 +13,7 @@
             "name": "雨山祭",
             "startDate": "2024/03/08",
             "endDate": "2024/03/08",
-            "ticketStatus": "onSale",
+            "ticketStatus": "soldOut",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"]
         }
     ]
