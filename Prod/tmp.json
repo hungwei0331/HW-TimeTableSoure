@@ -235,24 +235,7 @@
     "lineUp": "INSPIRATIVE (TH)、Wings of the ISANG (KR)、話梅鹿 (HK)、步行者、TFAP、Whale Fall"
 },
 
-{
-    "years": 2024,
-    "title": "霓虹綠洲音樂祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NeonOasis/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2024/01/19",
-    "endDate": "2024/01/21",
-    "location": {"locationName": "新店文山農場​", "locationAddress": "新北市新店區湖子內路100號", "latitude": 24.93435232767925, "longitude": 121.54065736188572},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/neonoasisfest.tw/", "clickable": true},
-    "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-    "description": "霓虹綠洲音樂祭 Neon Oasis Fest.，透過集結不同音樂類型、文化、產業，讓來自台灣、日本、韓國、泰國不同城市的音樂人互相交流，促進彼此關係，打造有別以往、更加具有國際性的台灣音樂祭場景。​",
-    "eventLastUpdate": "2023/01/03",
-    "eventTicket": null,
-    "lineUp": "RITTO (OKA)｜CHOUJI (OKA)｜柴田聰子[𝗕𝗔𝗡𝗗 𝗦𝗘𝗧] (JP)｜Otoboke Beaver (JP)｜chilldspot (JP)｜TORAUMA (OKA)｜YEW (TH)｜Valentina Ploy (TH&IT)｜RubberBand｜mindfreakkk (TH)｜PiNkChAiN紅粉鍊人｜maco marets (JP)｜DJ RINOKA (JP)｜SATOH (JP)｜Kaoruko (JP)｜RAKURA (JP)｜Soft Pine (TH)｜LANDOKMAI (TH)｜萬能青年旅店｜MIYACHI (JP)｜Bleecker Chrome (JP)｜HUGO (TW)｜新東京 (JP)｜SOWUT｜That’s My Shhh｜Daoko (JP) ｜美秀集團｜Dasutt (KR)｜JADE EYES 孔雀眼｜Cicada｜ZOC (JP)｜月宵◇クレシェンテ&陽光◆スペクトラ｜Julia 吳卓源｜熊仔｜南瓜妮歌迷俱樂部｜甜約翰 Sweet John｜I Don’t Like Mondays. (JP)｜RYOTA 片山凉太(MY)｜163braces｜Sabrina 胡恂舞｜葵剛｜禪波ZENBØ｜郭真榕 Candle Kuo｜史東Ston｜DEW｜Harry Teardrop (US)｜SOMAOTA (JP)｜RICCHO (OKA)… and DJ coming soon!"
-},
+
 
 {
     "years": 2024,
@@ -641,4 +624,23 @@
     "eventLastUpdate": "2025/02/17",
     "eventTicket": null,
     "lineUp": "KANA-BOON｜美秀集團｜HUSH｜THE TOYS + YOURMOOD｜麋先生 MIXER｜Kroi｜神聖かまってちゃん（神聖放逐樂隊）｜拍謝少年 Sorry Youth｜Dragon Pony｜Mirrr｜老王樂隊｜The Chairs 椅子樂團｜icyball冰球樂團｜溫蒂漫步 Wendy Wander｜甜約翰 Sweet John｜守夜人 ft. 白安｜muque｜動物園釘子戶｜INK WARUNTORN｜芒果醬 Mango Jump｜無妄合作社｜當代電影大師｜福夢 FUMON｜Rolling Quartz｜溫室雜草｜我是機車少女 I'mdifficult｜IKE (BAND SET)｜a子｜Regallily｜Helsinki Lambda Club｜庸俗救星｜hue｜粗大Band｜P!SCO｜老破麻O.S.D｜SHOOTUP｜林潔心 ddkogi88｜Sasanomaly ササノマリイ｜Redoor｜Shye｜公館青少年｜秋波愛麗｜心頭肉 MindBodySoul｜DAI × 狗吠火車｜步行者 ft. 莊啟馨 Anna｜THE BOOTLEGS 靴腿｜Death of Heather｜Praesun × paiiinntt｜87dance｜Quubi｜O-VER-KiLL｜Pure makeR｜日蝕エクリプス｜Ruka Banana｜溟海オシアナス｜布萊梅 Bremen Entertainment Inc.｜Science Noodles｜白頻率｜Geloomy｜水中スピカ｜紙鳶 Seizer｜ガガガSP｜夕陽武士｜八德路人｜Tickle Tickle 癢癢｜工口紳士｜カネヨリマサル｜超☆社会的サンダル｜Traveller 旅人｜薄暮 EVENFALL｜核果人NUTS｜苦瓜老大｜KOLOR｜擊沈女孩Destroyers ｜震樂堂｜"
+},
+
+{
+    "years": 2025,
+    "title": "雨山祭",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2025/03/08",
+    "endDate": "2025/03/08",
+    "location": {"locationName": "國立政治大學", "locationAddress": "台北市文山區指南路二段", "latitude": 24.988009046575776, "longitude": 121.57744112547641},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "soldOut",
+    "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "雨山祭，一場政大學生所自發起的音樂爆炸性實驗，期望結合文山在地特色，突破現場音樂與藝術展演之平台，打造專屬於這座雨山的專屬音樂場景，嘗試完成當今音樂節自我再定義。​",
+    "eventLastUpdate": "2025/03/03",
+    "eventTicket": null,
+    "lineUp": "𝗵𝘂𝗲、𝘄𝗮𝗻𝗻𝗮𝘀𝗹𝗲𝗲𝗽、莉莉周她說、𝗦𝗔𝗗𝗢𝗚、凹與山、溫室雜草、老王樂隊、𝘀𝗼𝗺𝗲𝘀𝗵𝗶𝗶𝘁 山姆、荒山茉莉、𝗜 𝗠𝗲𝗮𝗻 𝗨𝘀、康士坦的變化球、忘憂水⊛"
 },
