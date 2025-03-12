@@ -22,6 +22,15 @@
             "endDate": "2024/03/16",
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"]
+        },
+        {
+            "name": "大港開唱",
+            "startDate": "2024/03/29",
+            "endDate": "2024/03/30",
+            "ticketStatus": "soldOut",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day1.jpg", 
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Mega/day3.jpg"]
         }
     ]
 }
