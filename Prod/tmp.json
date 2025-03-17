@@ -75,25 +75,6 @@
     "lineUp": "YELLOW黃宣｜鄭宜農｜甜約翰ft.黃韻玲｜馬念先｜脫拉庫ft.瑪菲司Mavis｜金智娟 Band Set｜Kroi [JP]｜Cö shu Nie[JP]｜荷爾蒙少年｜hue ft.姚可傑｜DSPS｜莉莉周她說｜雷擎｜恐龍的皮｜Blueburn｜靈魂沙發｜icyball冰球樂團｜TELEx TELEXs[TH]｜芒果醬Mango Jump｜溫室雜草｜HowZ｜黃號｜艾蜜莉AMILI｜阿夫Suhf｜Savage.M/馬克｜FRaNKIE阿法｜蛋頭BG8LOCC｜Peatle｜培特Petter｜DJ林貓王｜Sincere[JP]｜王建騏｜蝗蟲警報｜DrunkMonk撞客茫客｜烏兔WUTU｜桑尼Sonnie｜DIZLIKE｜香腸咆哮｜非典型招待所｜阿橘｜胡家誠"
 },
 
-{
-    "years": 2023,
-    "title": "༄ 超犀利趴12 ༄ ",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Slippa/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2023/07/22",
-    "endDate": "2023/07/23",
-    "location": {"locationName": "台北南港展覽館 ​", "locationAddress": "台北市南港區經貿二路1號", "latitude": 25.05714617082424, "longitude": 121.61798715397508},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/superslippa/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "2萬分期待 12萬分激動\n12級大咖颶風開始躁動！​\n\n༄ 超犀利趴12 ༄ \n時間┋2023 / 07 / 22 (sᴀᴛ.)、07 / 23 (sᴜɴ.)\n地點┋台北南港展覽館 \n卡司┋即將公佈​​",
-    "eventLastUpdate": "2023/01/12",
-    "eventTicket": null,
-    "lineUp": null
-},
-
 
 {
     "years": 2023,
@@ -134,7 +115,6 @@
     "eventTicket": null,
     "lineUp": "請至官方IG觀看"
 },
-
 
 
 {
@@ -643,4 +623,23 @@
     "eventLastUpdate": "2025/03/03",
     "eventTicket": null,
     "lineUp": "𝗵𝘂𝗲、𝘄𝗮𝗻𝗻𝗮𝘀𝗹𝗲𝗲𝗽、莉莉周她說、𝗦𝗔𝗗𝗢𝗚、凹與山、溫室雜草、老王樂隊、𝘀𝗼𝗺𝗲𝘀𝗵𝗶𝗶𝘁 山姆、荒山茉莉、𝗜 𝗠𝗲𝗮𝗻 𝗨𝘀、康士坦的變化球、忘憂水⊛"
+},
+
+{
+    "years": 2025,
+    "title": "卡卡音樂祭",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2025/03/15",
+    "endDate": "2025/03/16",
+    "location": {"locationName": "國立中央大學​", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968394795991554, "longitude": 121.19441341124968},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/ncukakamusicfestival/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "꒰ঌ⋆.˚⟡ 迷茫的人 醒著做夢˚˖𓍢ִ✧˚໒꒱\n› 日期｜𝟮𝟬𝟮𝟱 𝟯/𝟭𝟱 𝗦𝗔𝗧. -𝟯/𝟭𝟲 𝗦𝗨𝗡\n› 地點｜國立中央大學​",
+    "eventLastUpdate": "2025/03/17",
+    "eventTicket": null,
+    "lineUp": "滅火器 𝐅𝐢𝐫𝐞 𝐄𝐗. / 晨曦光廊 / 血肉果汁機 / 老王樂隊 / 溫蒂漫步 / 溫室雜草 / 𝐖𝐡𝐨 𝐂𝐚𝐫𝐞𝐬 胡凱兒 / 庸俗救星 / 公館青少年𝐆𝐆𝐭𝐞𝐞𝐧𝐬 / 宋德鶴 / 𝐏!𝐒𝐂𝐎 / 𝐃𝐒𝐏𝐒 /𝐁𝐥𝐮𝐞𝐛𝐮𝐫𝐧 /鶴 𝐓𝐡𝐞 𝐂𝐫𝐚𝐧𝐞 "
 },
