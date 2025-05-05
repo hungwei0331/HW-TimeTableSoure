@@ -347,24 +347,7 @@
     "eventTicket": null,
     "lineUp": "海豚刑警 | Peatle | PIZZALI | 胡凱兒 | 老破麻 O.S.D | Traveller 旅人 | 製燥者 StoryMaker | HomeRich | and more..."
 },
-{
-    "years": 2024,
-    "title": "台秋祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2024/07/27",
-    "endDate": "2024/07/28",
-    "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "soldOut",
-    "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "這是台中 這個城市只有Chill 台秋祭​​",
-    "eventLastUpdate": "2024/07/15",
-    "eventTicket": null,
-    "lineUp": "🌟7.27 SAT TRASH｜玖壹壹｜Barry Chen｜芒果醬Mango Jump｜固定客ft.謝和弦｜OBSESS｜tokyo honey trap(JP)｜ANNALYNN(TH)｜EmptyORio｜胖虎｜P!SCO｜餵飽豬｜公館青少年ft.林昱君｜神使轟＜、激情の如<。(JP)｜黑色收音機派對｜hue｜Seasons for Change (HK)ft.魏小｜震樂堂｜Traveller旅人｜K-HOW高浩哲｜Peatle｜李紅REDLEE｜質感流氓｜等阮返來｜Tickle Tickle｜偉雄電台｜DJ Double K｜薄暮 EVENFALL ft.陳廷曜｜NeaR Band 你阿伯｜孤兒收容所G2SLS｜LilHAO ｜Vigoz｜LOCK G\n\n🌟7.28 SUN滅火器｜傷心欲絕｜無妄合作社｜夜の本気 (JP)｜溫室雜草｜老破麻O.S.D｜SpecialThanks(JP)｜福夢 FUMON｜Who Cares 胡凱兒ft.趙翊帆｜Wantamnam我地希望(HK)｜粗大Band｜宋德鶴｜BG8LOCC｜Multiverse｜西屯純爱組｜鹿洐人｜JOYCE就以斯｜JAYRoll｜悟飛Luffy｜步行者｜Sabrina胡恂舞｜眠氣Hypersomnia｜SiNNERMOON & Tajii ｜DJYU｜Roman｜阿橘AhhG｜徐行｜海口人｜DrunkMonk撞克茫客｜Slowing Oscillation斯洛頻率｜POPO J｜中部管轄區｜B-Alan & Highchen ｜Small Ay小眼"
-},
+
 
 {
     "years": 2024,
