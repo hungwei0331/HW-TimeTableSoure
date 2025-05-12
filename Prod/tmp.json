@@ -728,3 +728,22 @@
     "eventTicket": null,
     "lineUp": "Hello Nico、honeydip、無妄合作社No-nonesense Collective、福夢FUMON、hue、蛋堡 Soft Lipa、午夜乒乓、體熊專科、山姆someshiit、2CHANGE、Phum Viphurit、YonYon with PEAVIS、TOSH（band set）、FunkyMo、畫室The WLTZ、Beach Fossils、Within Destruction、BB彈、餵飽豬、SHOOTUP、Solitude Is Bliss、鳳小岳&壓克力柿子 ft. 阿強(88balaz)、Johnnivan、Bremen Entertainment Inc.布萊梅、緩緩 Huan Huan、Random隨性、百合花 Lilium、鬼畜少女組 ft. 黑狼黃大旺、嬉班子樂團Sibongie、Skaraoke、蓬萊仙山 ft. YonYon, PEAVIS、那我懂你意思了"
 },
+
+{
+    "years": 2025,
+    "title": "湖畔音樂祭",
+    "tableImages": null,
+    "imageURL": null,
+    "startDate": "2025/05/10",
+    "endDate": "2025/05/11",
+    "location": {"locationName": "中興大學​", "locationAddress": "台中市南區興大路145號", "latitude": 24.123747836778183,  "longitude": 120.67537964418057},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "free",
+    "instagramUrl": {"url": "https://www.instagram.com/lakeside_fest.9/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "︴2025湖畔音樂季 Lakeside Fest.---初星 ︴\n◇日　　期：5月10 - 11日\n◇地　　點：中興大學\n假日 14:00-21:30​",
+    "eventLastUpdate": "2025/05/05",
+    "eventTicket": null,
+    "lineUp": null
+},
