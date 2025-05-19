@@ -747,3 +747,42 @@
     "eventTicket": null,
     "lineUp": null
 },
+
+{
+    "years": 2025,
+    "title": "上岸音樂節",
+    "tableImages":["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ashore/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2025/05/17",
+    "endDate": "2025/05/18",
+    "location": {"locationName": "國立中央大學​", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968394795991554, "longitude": 121.19441341124968},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/www___ashore/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "♪ o‧° 天光尚暗，潮起逐浪𓂃𓂃​",
+    "eventLastUpdate": "2025/05/12",
+    "eventTicket": null,
+    "lineUp": "美秀集團、芒果醬 Mango Jump、宇宙人、溫蒂漫步、謝和弦、Who Cares 胡凱兒、南西肯恩、Karencici、老破麻 O.S.D、Gummy B、163braces、公館青少年GGteens、守夜人、wannasleep 、粗大Band、呂允、艾蜜莉 AMILI 、海豚刑警、鹿洐人、Theseus忒修斯、林潔心、打倒三明治、狀態船、Good COMBO！好的康寶、微光樂台...and more"
+},
+
+{
+    "years": 2025,
+    "title": "赤聲躁動音樂祭",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Carnivalfever/day1.jpg",
+                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Carnivalfever/day2.jpg"],
+    "imageURL": null,
+    "startDate": "2024/05/17",
+    "endDate": "2024/05/18",
+    "location": {"locationName": "台中烏日啤酒廠", "locationAddress": "臺中市烏日區光華街1號", "latitude": 24.11169683714309, "longitude": 120.62239884417893},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "onSale",
+    "instagramUrl": {"url": "https://www.instagram.com/carnival_fever.tw/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": "赤聲：赤子之聲\n躁動：我們生於躁動年代\n\n最早誕生於2009東海聖誕夜，由浮現音樂與東海搖研社、鯤島起義共同舉辦。之後停辦，於十年後2019年復辦於東海聖誕夜，隔年擴大至洲際棒球場舉辦並轉型成售票音樂祭。\n\n赤聲躁動音樂祭，主要是想要讓更多年輕的聲音在這躁動年代，可以有自己初試啼聲、吶喊演出的機會，忠於自己赤裸裸呈現。\n\n2023年更進一步與國際知名能量飲料Monster Energy合作首屆赤子之聲音樂大賽選拔！對於培養台灣獨立音樂新秀不遺餘力。​​",
+    "eventLastUpdate": "2025/05/12",
+    "eventTicket": null,
+    "lineUp": "DAY1｜05月17日\nSIX LOUNGE [JP]｜血肉果汁機｜陳嫺靜｜溫蒂漫步 Wendy Wander｜無妄合作社｜溫室雜草｜KawanishiNatsuki 川西奈月 [JP] ｜HARD BOY [TH]｜震樂堂｜上山｜公館青少年｜憂憂Yō-Yō｜秋波愛麗｜DrunkMonk 撞克茫客｜COLD DEW｜ Newton（NWTN）[KR]｜ORCA [PH]｜monda(e) [SG]｜MINH [VN]｜BIKE機踏車樂團｜Peatle｜SiNNER MOON｜QUANZO｜質感流氓｜Taji｜HomeRich｜Jimmy H.｜BØBØ博 aka B.O Young Fly｜\n\nDAY2｜05月18日\n怕胖團｜傻子與白痴｜傷心欲絕｜First Love is Never Returned [JP]｜VH｜ SoulFa靈魂沙發｜hue｜Tuesday Beach Club [KR]｜FUTURE AFTER A SECOND｜ペルシカリア persicaria [JP]｜FunkyMo｜DIZLIKE｜御姉紳士｜CANDY☆STAR｜ Pure makeR｜soda shower!｜ THEΔRAREz\n\nDAY2 赤子之聲決賽（依演出順序排列）\n越野快餐車 Wild Fast Food｜夢岸 Bāng Huānn｜銀河1966｜偏執狂樂團｜手骨樂隊｜Holotropics｜跳躍號SCAMPER [MO]｜blu mush｜夢遊旅人｜HALLEY [JP]｜應聲倒地｜孤寂輔導室"
+},
