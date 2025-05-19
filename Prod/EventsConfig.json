@@ -88,6 +88,13 @@
             "ticketStatus": "onSale",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Carnivalfever/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Carnivalfever/day2.jpg"]
+        },
+        {
+            "name": "愛嶼搖滾",
+            "startDate": "2025/05/24",
+            "endDate": "2025/05/25",
+            "ticketStatus": "free",
+            "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"]
         }
     ]
 }
