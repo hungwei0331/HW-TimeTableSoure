@@ -369,25 +369,7 @@
     "lineUp": "滅火器、高爾宣OSN、麋先生、王ADEN、董事長樂團、P!SCO、無妄合作社、老破麻O.S.D、Multiverse、福夢FUMON、胖虎 punkhoo、粗大BAND、SHOOTUP、莉莉周她說、Dizlike、EmptyORio"
 },
 
-{
-    "years": 2024,
-    "title": "PARK PARK Carnvial(叭叭嘉年華)",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day2.jpg"],
-    "imageURL": null,
-    "startDate": "2024/08/24",
-    "endDate": "2024/08/25",
-    "location": {"locationName": "台北花博公園​", "locationAddress": "台北市中山區玉門街1號", "latitude": 25.06941089014031, "longitude": 121.5204790220008},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "free",
-    "instagramUrl": {"url": "https://www.instagram.com/streetvoice_tw/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "2024 叭叭嘉年華 ╳ 來趴來叭叭\n𝕊𝕥𝕣𝕖𝕖𝕥𝕍𝕠𝕚𝕔𝕖 ℙ𝕒𝕣𝕜 ℙ𝕒𝕣𝕜 ℂ𝕒𝕣𝕟𝕚𝕧𝕒𝕝\n2024.8.24 (六) - 25 (日)\n地點┋臺北花博公園​",
-    "eventLastUpdate": "2024/08/05",
-    "eventTicket": null,
-    "lineUp": "陣容┋傷心欲絕、餵飽豬、OBSESS、老王樂隊、Yappy、春麵樂隊ChuNoodle、Salad ✈️、Chucky Factory Land ✈️、VVAS ✈️、PANICIAN ✈️、浪味仙貝 ✈️、SADOG、Thermostat恆溫人員 ✈️、鹿洐人 HumanHart、JAY WANG王子慧 ✈️ x Yeekee ✈️、胡家誠 x 蕎Chiao、公館青少年 GGteens、林潔心、秋波愛麗、一種心情、Acid Brain、徐行、KHOW 高浩哲、Peatle、諧幫出任務：質感流氓+CY堂炒&more……、諧幫出任務：包魚連線+阿力&謝小狂、粹垢 TRAEGO、頂加集會M.LC、愛の急救小隊 DIZLIKE、愛の急救小隊 夢遊旅人、五五身 FiftyBodyFifty、堯虫trio、畫室 The WLTZ、鯨魚號、打倒三明治、夢已如來、BB彈、佬步槍、直男與他們的產道、馬克 SAVAGE.M、艾蜜莉AMILI、蛋頭BG8LOCC、林同學樂團、三眼皮、Seaweed藻、Whale Fall 𝕒𝕟𝕕 𝕩𝕩𝕩\n\n猩人類陣容┋范宥弦 Fan Ocean、Karei & ooo、Wavy、awen886 𝕒𝕟𝕕 𝕩𝕩𝕩\n\nDJ 陣容┋Roman羅曼迪克、DJ YU、Dj unkle Jun (台製靈魂老學校）、ChiLL 𝕒𝕟𝕕 𝕩𝕩𝕩"
-},
+
 {
     "years": 2024,
     "title": "超犀利趴13",
@@ -785,4 +767,23 @@
     "eventLastUpdate": "2025/05/12",
     "eventTicket": null,
     "lineUp": "DAY1｜05月17日\nSIX LOUNGE [JP]｜血肉果汁機｜陳嫺靜｜溫蒂漫步 Wendy Wander｜無妄合作社｜溫室雜草｜KawanishiNatsuki 川西奈月 [JP] ｜HARD BOY [TH]｜震樂堂｜上山｜公館青少年｜憂憂Yō-Yō｜秋波愛麗｜DrunkMonk 撞克茫客｜COLD DEW｜ Newton（NWTN）[KR]｜ORCA [PH]｜monda(e) [SG]｜MINH [VN]｜BIKE機踏車樂團｜Peatle｜SiNNER MOON｜QUANZO｜質感流氓｜Taji｜HomeRich｜Jimmy H.｜BØBØ博 aka B.O Young Fly｜\n\nDAY2｜05月18日\n怕胖團｜傻子與白痴｜傷心欲絕｜First Love is Never Returned [JP]｜VH｜ SoulFa靈魂沙發｜hue｜Tuesday Beach Club [KR]｜FUTURE AFTER A SECOND｜ペルシカリア persicaria [JP]｜FunkyMo｜DIZLIKE｜御姉紳士｜CANDY☆STAR｜ Pure makeR｜soda shower!｜ THEΔRAREz\n\nDAY2 赤子之聲決賽（依演出順序排列）\n越野快餐車 Wild Fast Food｜夢岸 Bāng Huānn｜銀河1966｜偏執狂樂團｜手骨樂隊｜Holotropics｜跳躍號SCAMPER [MO]｜blu mush｜夢遊旅人｜HALLEY [JP]｜應聲倒地｜孤寂輔導室"
+},
+
+{
+    "years": 2025,
+    "title": "愛嶼搖滾",
+    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"],
+    "imageURL": null,
+    "startDate": "2024/05/25",
+    "endDate": "2024/05/26",
+    "location": {"locationName": "基隆國門廣場", "locationAddress": "200基隆市仁愛區港西街6-2號", "latitude": 25.132084752493398,  "longitude": 121.74012832410372},
+    "mail": null,
+    "latestAttend": null,
+    "ticketStatus": "free",
+    "instagramUrl": {"url": "https://www.instagram.com/keelungloverock/", "clickable": true},
+    "purchaseUrl":  null,
+    "description": null,
+    "eventLastUpdate": "2025/05/19",
+    "eventTicket": null,
+    "lineUp": "宇宙人｜怕胖團｜傻子與白痴｜甜約翰｜福夢FUMON｜固定客｜上山｜紙鳶｜Traveller旅人｜羊米人 ｜Tickle Tickle癢癢｜你阿伯｜溫室雜草｜粗大BAND｜公館青少年｜打倒三明治｜深深一擊｜鄒序 ｜眠氣Hypersomia ｜DrunkMonk撞克茫客｜徐行｜薄暮EVENFALL｜靈魂沙發｜忒修斯｜庸俗救星｜沈默紳士｜DIZLIKE｜時不我予｜昴宿 Pleiades｜烈鷹｜聽天湯 Tin Ten Tan｜東部壞男孩 Bad Boys From The East｜22.5｜The Salitus｜白頻率 Whitefrequency｜海岸乾杯｜Hbun河紋｜Uncle Motto\n\n2025愛嶼搖滾校際音樂大賽入選十強： 浪犬｜Chondriac｜無極西瓜刀｜吐司貓 Tosuto Neko｜好麻球｜出事團長擔｜離岸嶺 Nowhere Atlas｜停錶錯覺｜單先生＆Varsam｜微醺暴徒"
 },
