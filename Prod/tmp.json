@@ -198,27 +198,6 @@
 
 {
     "years": 2024,
-    "title": "秋波音樂節",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ChillWave/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2024/01/13",
-    "endDate": "2024/01/13",
-    "location": {"locationName": "The Wall Live House​", "locationAddress": "台北市羅斯福路四段200號B1", "latitude": 25.01158056487601, "longitude": 121.53686093068924},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/cwfest_offcial/", "clickable": true},
-    "purchaseUrl":  {"url": "https://sslive.kktix.cc/events/breakingmudfest2022kaohsiung", "clickable": false},
-    "description": "秋波音樂節III 2024/1/13 @ The Wall Live House​",
-    "eventLastUpdate": "2023/01/03",
-    "eventTicket": null,
-    "lineUp": "INSPIRATIVE (TH)、Wings of the ISANG (KR)、話梅鹿 (HK)、步行者、TFAP、Whale Fall"
-},
-
-
-
-{
-    "years": 2024,
     "title": "梨鄉背景",
     "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/LaiHiongBackground/day1.jpg"],
     "imageURL": null,
