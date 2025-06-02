@@ -1,13 +1,13 @@
 {
-    "lastUpdate": "2025/05/26",
+    "lastUpdate": "2025/06/02",
     "currentYearEvents": [ 
         {
-            "years": 2024,
+            "years": 2025,
             "title": "台秋祭",
             "tableImages": null,
             "imageURL": null,
-            "startDate": "2024/07/27",
-            "endDate": "2024/07/28",
+            "startDate": "2025/07/27",
+            "endDate": "2025/07/28",
             "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
             "mail": null,
             "latestAttend": null,
@@ -15,17 +15,35 @@
             "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "這是台中 這個城市只有Chill 台秋祭​​",
-            "eventLastUpdate": "2025/05/26",
+            "eventLastUpdate": "2025/06/02",
             "eventTicket": null,
-            "lineUp": "美秀集團｜怕胖團｜國蛋GorDoN｜福夢FUMON｜固定客｜KNOCK OUT MONKEY（JP）｜OBSESS ｜老破麻O.S.D｜Who Cares 胡凱兒｜…and more"
+            "lineUp": "美秀集團｜怕胖團｜國蛋GorDoN｜福夢FUMON｜KUZIRA (JP)｜Tokyo Honey Trap (JP)｜晨曦光廊｜溫蒂漫步｜Multiverse ｜馬克SAVAGE.M｜OBSESS ｜Who Cares 胡凱兒｜粗大Band｜EmptyORio｜普通隊長｜夕陽武士｜FUTURE AFTER A SECOND｜TRAGEDY OF MURDER（TH）｜秋山ChillSome｜製燥者StoryMaker｜林潔心｜O.Dkizzya & Quanzo｜JTM｜Seasons for Change(HK)｜The Hertz (HK)｜榕幫｜KoOk｜NeaR Band你阿伯｜The Salitus｜羊米人｜…and more"
         },
         {
-            "years": 2024,
+            "years": 2025,
+            "title": "秋波音樂節",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2025/08/02",
+            "endDate": "2025/08/02",
+            "location": {"locationName": "The Wall Live House​", "locationAddress": "台北市羅斯福路四段200號B1", "latitude": 25.01158056487601, "longitude": 121.53686093068924},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/cwfest_offcial/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "秋波音樂節 2025/8/02 @ The Wall Live House​",
+            "eventLastUpdate": "2023/01/03",
+            "eventTicket": null,
+            "lineUp": null
+        },
+        {
+            "years": 2025,
             "title": "StreetVoice PARK PARK Carnvial",
             "tableImages": null,
             "imageURL": null,
-            "startDate": "2024/08/24",
-            "endDate": "2024/08/25",
+            "startDate": "2025/08/24",
+            "endDate": "2025/08/25",
             "location": {"locationName": "台北花博公園​", "locationAddress": "台北市中山區玉門街1號", "latitude": 25.06941089014031, "longitude": 121.5204790220008},
             "mail": null,
             "latestAttend": null,
@@ -33,7 +51,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/streetvoice_tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "2025 StreetVoice Park Park Carnival\n來趴來叭叭 彡 🎁 開箱倒數 🎁\n\n➤ 時間┋2025.8.23 (六) - 24 (日)\n➤ 地點┋臺北花博公園 (捷運圓山站) #免費入場\n➤ 合作贊助洽詢┋hello@streetvoice.com​​",
-            "eventLastUpdate":  "2025/05/26",
+            "eventLastUpdate":  "2025/06/02",
             "eventTicket": null,
             "lineUp": null
         },
@@ -51,7 +69,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/chillout_fest/", "clickable": true},
             "purchaseUrl": null,
             "description": "𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕠𝕟...",
-            "eventLastUpdate": "2025/05/26",
+            "eventLastUpdate": "2025/06/02",
             "eventTicket": null,
             "lineUp": null
         },
@@ -69,7 +87,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "冬日裡的暖陽和煦\n屬於火伴的搖滾遊樂園\n展開全壘打級的派對體驗！\n\n「別再退縮 擦乾眼淚 還沒有結束」\n讓我們一起繼續成為更好的自己\n火球祭我們明年11/22-11/23見！",
-            "eventLastUpdate": "2025/05/26",
+            "eventLastUpdate": "2025/06/02",
             "eventTicket": null,
             "lineUp": null
         },
@@ -87,7 +105,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl": null,
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
-            "eventLastUpdate": "2025/05/26",
+            "eventLastUpdate": "2025/06/02",
             "eventTicket": null,
             "lineUp": ""
         }
