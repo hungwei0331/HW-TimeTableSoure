@@ -1,6 +1,24 @@
 {
-    "lastUpdate": "2025/06/02",
+    "lastUpdate": "2025/06/09",
     "currentYearEvents": [ 
+        {
+            "years": 2025,
+            "title": "新北市貢寮國際海洋音樂祭 ",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2025/07/26",
+            "endDate": "2025/07/27",
+            "location": {"locationName": "福隆海水浴場沙灘", "locationAddress": "新北市貢寮區", "latitude": 25.0224067434062, "longitude": 121.94292236677154},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": null,
+            "purchaseUrl": null,
+            "description": "海洋音樂祭（Hohaiyan Rock Festival）是一個台灣每年夏天舉辦的多日音樂表演活動，首次舉行是在2000年。",
+            "eventLastUpdate": "2024/07/15",
+            "eventTicket": null,
+            "lineUp": null
+        },
         {
             "years": 2025,
             "title": "台秋祭",
@@ -15,9 +33,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "這是台中 這個城市只有Chill 台秋祭​​",
-            "eventLastUpdate": "2025/06/02",
+            "eventLastUpdate": "2025/06/09",
             "eventTicket": null,
-            "lineUp": "美秀集團｜怕胖團｜國蛋GorDoN｜福夢FUMON｜KUZIRA (JP)｜Tokyo Honey Trap (JP)｜晨曦光廊｜溫蒂漫步｜Multiverse ｜馬克SAVAGE.M｜OBSESS ｜Who Cares 胡凱兒｜粗大Band｜EmptyORio｜普通隊長｜夕陽武士｜FUTURE AFTER A SECOND｜TRAGEDY OF MURDER（TH）｜秋山ChillSome｜製燥者StoryMaker｜林潔心｜O.Dkizzya & Quanzo｜JTM｜Seasons for Change(HK)｜The Hertz (HK)｜榕幫｜KoOk｜NeaR Band你阿伯｜The Salitus｜羊米人｜…and more"
+            "lineUp": "美秀集團｜怕胖團｜國蛋GorDoN｜傻子與白痴｜福夢FUMON｜KUZIRA (JP)｜KNCK OUT MONKEY(JP）｜Tokyo Honey Trap (JP)｜老破麻O.S.D｜固定客｜溫室雜草｜晨曦光廊｜溫蒂漫步Wendy Wander｜Multiverse ｜公館青少年｜馬克SAVAGE.M｜OBSESS ｜Who Cares 胡凱兒｜粗大Band｜EmptyORio｜普通隊長｜夕陽武士｜FUTURE AFTER A SECOND｜TRAGEDY OF MURDER（TH）｜吾橋有水｜秋山ChillSome｜製燥者StoryMaker｜林潔心｜O.Dkizzya & Quanzo｜JTM｜Seasons for Change(HK)｜The Hertz (HK)｜榕幫｜沈默紳士｜KoOk庫克｜NeaR Band你阿伯｜The Salitus｜羊米人｜趙翊凡｜袁語笙｜禪波ZENBØ｜Denzel Cheng｜孤兒收容所G2SLS｜賴奕弘｜單先生＆Varsam｜…and more"
         },
         {
             "years": 2025,
@@ -35,7 +53,24 @@
             "description": "秋波音樂節 2025/8/02 @ The Wall Live House​",
             "eventLastUpdate": "2023/01/03",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "ᴛʀɪᴘʟᴇ ᴅᴇᴇʀ、ᴜꜱ:ᴡᴇ 直到看見鯨魚的眼睛、非我 ꜰᴇᴇʟ ɴᴏɴ-ᴇɢo…ᴀɴᴅ ᴍᴏʀᴇ"
+        },
+        {
+            "years": 2024,
+            "title": "新北市河海音樂季",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2025/08/23",
+            "endDate": "2025/08/24",
+            "location": {"locationName": "新北大都會公園", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/r.o.music.fest", "clickable": true},
+            "purchaseUrl": null,
+            "description": "歌迷敲碗已久的🔥2025新北市河海音樂季大壓軸🔥\n新北大都會公園舞台🌇\n8/23(六)~8/24(日)\n將在新北大都會公園再度與樂迷見面！😍\n邀請大家一同來到大台北地區最大的親水綠地空間\n在廣闊的河濱草地上💚\n與我們一同享受都會感十足的夏日音樂盛會！",
+            "eventTicket": null,
+            "lineUp": "倒車入庫、男子漢樂團、SHOOT U、碎紙花樂團、董事長樂團、八青哥、庸俗救星、南西肯恩、公館青少年、四分衛"
         },
         {
             "years": 2025,
@@ -51,7 +86,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/streetvoice_tw/", "clickable": true},
             "purchaseUrl":  null,
             "description": "2025 StreetVoice Park Park Carnival\n來趴來叭叭 彡 🎁 開箱倒數 🎁\n\n➤ 時間┋2025.8.23 (六) - 24 (日)\n➤ 地點┋臺北花博公園 (捷運圓山站) #免費入場\n➤ 合作贊助洽詢┋hello@streetvoice.com​​",
-            "eventLastUpdate":  "2025/06/02",
+            "eventLastUpdate":  "2025/06/09",
             "eventTicket": null,
             "lineUp": null
         },
@@ -68,10 +103,10 @@
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/chillout_fest/", "clickable": true},
             "purchaseUrl": null,
-            "description": "𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕠𝕟...",
-            "eventLastUpdate": "2025/06/02",
+            "description": "onSale",
+            "eventLastUpdate": "2025/06/09",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "Cornelius(JP)、9m88、Karencici、陳嫺靜、Andr, and more…"
         },
         {
             "years": 2025,
@@ -83,11 +118,11 @@
             "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "冬日裡的暖陽和煦\n屬於火伴的搖滾遊樂園\n展開全壘打級的派對體驗！\n\n「別再退縮 擦乾眼淚 還沒有結束」\n讓我們一起繼續成為更好的自己\n火球祭我們明年11/22-11/23見！",
-            "eventLastUpdate": "2025/06/02",
+            "eventLastUpdate": "2025/06/09",
             "eventTicket": null,
             "lineUp": null
         },
@@ -105,7 +140,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl": null,
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
-            "eventLastUpdate": "2025/06/02",
+            "eventLastUpdate": "2025/06/09",
             "eventTicket": null,
             "lineUp": ""
         }
