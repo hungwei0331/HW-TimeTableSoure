@@ -80,7 +80,7 @@
             "imageURL": null,
             "startDate": "2025/08/23",
             "endDate": "2025/08/24",
-            "location": {"locationName": "新北大都會公園", "locationAddress": "新北市新北市淡水區觀海路83號", "latitude": 25.181811486287803, "longitude": 121.41596522686255},
+            "location": {"locationName": "新北大都會公園", "locationAddress": "新北市三重區水漾路一段", "latitude": 25.055736116043406,  "longitude": 121.48072443911018},
             "mail": null,
             "latestAttend": null,
             "ticketStatus": "free",
