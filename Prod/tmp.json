@@ -410,26 +410,7 @@
     "lineUp": "🌟演出陣容：血肉果汁機｜麋先生 MIXER｜南西肯恩｜凡枯 Faan Fu（HK)｜宋德鶴｜固定客｜餵飽豬｜Tickle Tickle癢癢｜等阮返來｜公館青少年｜SHOOTUP｜時不我予｜旅人｜步行者｜工口紳士｜阿橘Ahh G｜男子漢｜碎紙花 ｜DIZLIKE ｜Sabrina胡恂舞｜眠氣Hypersomnia｜無先生｜烏兔 WUTU｜LifeHaze生活黑｜桑尼 SONNIE｜DrunkMonk撞克茫客｜夢遊旅人  Sleeping Walkers ｜薄暮 EVENFALL"
 },
 
-{
-    "years": 2024,
-    "title": "搖滾台中",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day2.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day3.jpg"],
-    "imageURL": null,
-    "startDate": "2024/10/26",
-    "endDate": "2024/10/27",
-    "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "free",
-    "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
-    "purchaseUrl": null,
-    "description": "𝟐𝟎𝟐𝟒 搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2024年10月26日～10月27日\n⟣ 地點 ｜ 文心森林公園",
-    "eventLastUpdate": "2024/10/21",
-    "eventTicket": null,
-    "lineUp": "TRASH｜怕胖團｜血肉果汁機｜傻子與白痴｜甜約翰｜溫蒂漫步 Wendy Wander｜芒果醬 Mango Jump｜JADE｜新東京 (JP)｜Ålborg (JP)｜DNA GAINZ (JP)｜SPENSR (JP)｜水中スピカ (JP)｜PassCode (JP)｜P!SCO｜粗大Band｜倒車入庫｜OBSESS｜老破麻 O.S.D｜福夢 FUMON｜BSB｜庸俗救星｜固定客｜震樂堂｜FUTURE AFTER A SECOND｜公館青少年｜DUMB.RONG(TH)｜憂憂 Yō-Yō｜吳汶芳｜工口紳士｜秋波愛麗｜Funkindustry (FR) ft.阿橘 Ahh G｜DAI (JP) × 狗吠火車｜碎紙花｜KANIT卡尼特｜The Salitus｜白日夢廚房｜企鵝迴旋踢｜核果人NUTS｜薄暮 EVENFALL｜BUMJIN(KR)｜步行者｜李晉瑋｜off the menu (KR)｜深深一擊｜秋山｜手骨樂隊｜製燥者｜Bike機踏車｜兩棲人｜龍族扣殺｜伯爵先生｜混亂之島｜かずき山盛り(JP)｜12.8 twelve.eight (HK)"
-},
+
 
 {
     "years": 2024,

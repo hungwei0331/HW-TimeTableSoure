@@ -110,6 +110,24 @@
             "lineUp": null
         },
         {
+            "years": 2024,
+            "title": "搖滾台中",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2025/10/11",
+            "endDate": "2025/10/12",
+            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "2025搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ Coming soon\n⟣ 地點 ｜ 文心森林公園及圓滿戶外劇場\n⟣ 免費入場",
+            "eventLastUpdate": "2025/06/23",
+            "eventTicket": null,
+            "lineUp": "HUSH｜VH｜P!SCO｜Night Keepers 守夜人｜𝘈𝘯𝘥 𝘮𝘰𝘳𝘦 ......"
+        },
+        {
             "years": 2025,
             "title": "秋out音樂節",
             "tableImages": null,
@@ -161,7 +179,7 @@
             "description": "冬日裡的暖陽和煦\n屬於火伴的搖滾遊樂園\n展開全壘打級的派對體驗！\n\n「別再退縮 擦乾眼淚 還沒有結束」\n讓我們一起繼續成為更好的自己\n火球祭我們明年11/22-11/23見！",
             "eventLastUpdate": "2025/06/23",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "滅火器、WANIMA (JP) …and more!"
         },
         {
             "years": 2025,
