@@ -95,6 +95,14 @@
             "endDate": "2025/05/25",
             "ticketStatus": "free",
             "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"]
+        },
+        {
+            "name": "台秋祭",
+            "startDate": "2025/07/12",
+            "endDate": "2025/07/13",
+            "ticketStatus": "onSale",
+            "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg",
+                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day2.jpg"]
         }
     ]
 }
