@@ -3,6 +3,24 @@
     "currentYearEvents": [ 
         {
             "years": 2025,
+            "title": "濱海祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BinHai/day1.jpg"],
+            "imageURL": null,
+            "startDate": "2025/08/23",
+            "endDate": "2025/08/24",
+            "location": {"locationName": "MITSUI OUTLET PARK 台中港 ", "locationAddress": "台中市梧棲區臺灣大道十段168號", "latitude": 24.257148806022833,  "longitude": 120.52104591843131 },
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/oursea_chill_fest/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "濱海祭 Oursea Chill Fest.\n﹏⊹ ࣪ ˖濱海搖滾音樂祭 2025⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ​\n 日期｜8.23（六）- ​ 8.24（日）\n☼ 地點｜MITSUI OUTLET PARK 台中港 （北口）\n（台中市梧棲區臺灣大道十段168號） ​",
+            "eventLastUpdate":  "2025/08/20",
+            "eventTicket": null,
+            "lineUp": "美秀集團｜怕胖團 PAPUN BAND｜ icyball冰球樂團｜芒果醬 Mango Jump｜福夢 FUMON｜溫室雜草｜庸俗救星｜公館青少年｜粗大Band｜老破麻O.S.D｜西屯純愛組(High Loc & Henry)&培特｜上山｜薄暮 EVENFALL｜Apartment Khunpa [TH]｜李晉瑋｜神奇膠 [HK]｜DEADKAT [TH]｜Pure makeR｜Ruka Banana｜月宵◇クレシェンテ｜紫苑アスター｜Happy Holiday!!｜Jimmy H.｜JustJaewin[SG] ｜御姉紳士｜BØBØ博 aka B.O Young Fly｜SERUMA｜WILIM｜邪淫小子Roy ft Rose44｜laNwel｜Kyle書愷｜Alexloadingup｜"
+        },
+        {
+            "years": 2025,
             "title": "新北市河海音樂季",
             "tableImages": null,
             "imageURL": null,
