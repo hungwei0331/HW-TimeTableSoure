@@ -108,7 +108,7 @@
             "name": "PARK PARK Carnival",
             "startDate": "2025/08/23",
             "endDate": "2025/08/24",
-            "ticketStatus": "onSale",
+            "ticketStatus": "free",
             "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day1.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/ParkPark/day2.jpg"]
         }
