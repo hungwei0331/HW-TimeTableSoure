@@ -411,28 +411,6 @@
 },
 
 
-
-{
-    "years": 2024,
-    "title": "無限自由音樂藝術節",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day1.jpg",
-                    "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/UnlimitedFreedom/day2.jpg"],
-    "imageURL": null,
-    "startDate": "2024/11/01",
-    "endDate": "2024/11/03",
-    "location": {"locationName": "台灣埔里 顏氏牧場", "locationAddress": "南投縣埔里鎮桃米生態村水上巷28號", "latitude": 23.932576819694408, "longitude": 120.9063597246631},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/unlimited_freedom_festival/", "clickable": true},
-    "purchaseUrl": null,
-    "description": "2024 無限自由音樂藝術節\n\n▫️11/1(五)前夜祭、11/2(六)、11/3(日）\n▫️台灣埔里 顏氏牧場\n\n眾多個不同主題舞台/海內外獨立樂團&藝術家/獨立音樂/ACG/露營部落/楓樹林市集/迴響食堂/放空森林/kids Land/And more…..",
-    "eventLastUpdate": "2024/10/28",
-    "eventTicket": null,
-    "lineUp": "Johnny Pandora｜雨國|眠氣|白頻率|Easy Shen|夢遊旅人|沈默紳士|斯洛頻率|秋山ChillSome|DrunkMonk撞克茫客|步行者|漫遊年代俱樂部|帕崎拉Pachila|Abandon Teddy 奔等泰迪|潛水浣熊 Diving Raccoon|薄暮 EVENFALL|製燥者StoryMaker|The Salitus|𝑳𝒊𝒇𝒆 𝑯𝒂𝒛𝒆生活黑|Xmoraz|我們的日子有限公司|島嶼都市浪漫譚|你我U&I|佬步槍|遠鄉人|妹妹派奇|深深一擊|My Cat Eats My Hand||GOTA|奏手侯（JP) |SINDOSI (新都市)|CVPTIAN MORGANS|chirrp.!Vamos|萬物心沉|黑袍樂隊|濫情游泳池|光學虎鯨|青原Fida|SOBBOY|Smoking Goose|白華|火熱巨棒|Polyvirus|From the day on|厄夜咒章|VENEZ(KR)|Silky Warms(KR)|YOUAEPO (KR)|nufehtin(JP)|紛亂交錯|黃黑大樂隊|伯爵先生|貓拳|城市被忘錄|莎賓娜大樂隊|夢遊者|失真率|月下|夜バクband|SkewDriver|二度寢樂團|SHIROYOI 白酔|Uranus -ウラノス|國境之男－ACG日搖歡樂格鬥團|SemiTone|皆死んじゃった|縱慾大嬸 ERROR BOB|這不是菸|紅燈右轉|KaNiT卡尼特|幻雨|桑尼|清醒夢|東部壞男孩|混亂之島|越軌樂隊|朦朧之光|飛行櫻桃|砂漠に生まれた音楽 / 七曜日|酸素人間|電波高校Early Eight Tomorrow|我想一想我想想笑死|時雨姬 しぐれひめ|悠洛YoLo-OvO|天乃絵空|宋徳鶴|恕樂團|手骨樂隊|爛漫遊子|Jazzy - T|RAPRIN"
-},
-
-
 {
     "years": 2024,
     "title": "爛泥發芽",
