@@ -127,6 +127,15 @@
             "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",  
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day3.jpg"]
+        },
+        {
+            "name": "火球祭",
+            "startDate": "2025/11/22",
+            "endDate": "2025/11/23",
+            "ticketStatus": "onSale",
+            "tableImages":  ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg", 
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day3.jpg"]
         }
     ]
 }

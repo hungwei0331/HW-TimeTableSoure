@@ -433,25 +433,6 @@
 
 {
     "years": 2025,
-    "title": "雨山祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/NccuMusicFestival/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2025/03/08",
-    "endDate": "2025/03/08",
-    "location": {"locationName": "國立政治大學", "locationAddress": "台北市文山區指南路二段", "latitude": 24.988009046575776, "longitude": 121.57744112547641},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "soldOut",
-    "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "雨山祭，一場政大學生所自發起的音樂爆炸性實驗，期望結合文山在地特色，突破現場音樂與藝術展演之平台，打造專屬於這座雨山的專屬音樂場景，嘗試完成當今音樂節自我再定義。​",
-    "eventLastUpdate": "2025/03/03",
-    "eventTicket": null,
-    "lineUp": "𝗵𝘂𝗲、𝘄𝗮𝗻𝗻𝗮𝘀𝗹𝗲𝗲𝗽、莉莉周她說、𝗦𝗔𝗗𝗢𝗚、凹與山、溫室雜草、老王樂隊、𝘀𝗼𝗺𝗲𝘀𝗵𝗶𝗶𝘁 山姆、荒山茉莉、𝗜 𝗠𝗲𝗮𝗻 𝗨𝘀、康士坦的變化球、忘憂水⊛"
-},
-
-{
-    "years": 2025,
     "title": "卡卡音樂祭",
     "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"],
     "imageURL": null,
