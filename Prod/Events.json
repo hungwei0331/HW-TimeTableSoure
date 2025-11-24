@@ -1,26 +1,6 @@
 {
-    "lastUpdate": "2025/11/17",
+    "lastUpdate": "2025/11/24",
     "currentYearEvents": [ 
-        {
-            "years": 2025,
-            "title": "火球祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg", 
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day3.jpg"],
-            "imageURL": null,
-            "startDate": "2025/11/22",
-            "endDate": "2025/11/23",
-            "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "冬日裡的暖陽和煦\n屬於火伴的搖滾遊樂園\n展開全壘打級的派對體驗！\n\n「別再退縮 擦乾眼淚 還沒有結束」\n讓我們一起繼續成為更好的自己\n火球祭我們明年11/22-11/23見！",
-            "eventLastUpdate": "2025/11/17",
-            "eventTicket": null,
-            "lineUp": "✧ 11/22 Sat. ———\n滅火器、Se So Neon (KR) 、MATZKA、血肉果汁機、04 Limited Sazabys (JP)、拍謝少年、黃玠 ft. PUZZLEMAN、無妄合作社、이랑 李瀧 Lang Lee (KR) ft. 鄭宜農、GDJYB 雞蛋蒸肉餅 (HK)、八十八顆芭樂籽、EmptyORio、胖虎、粗大Band、FunkyMo、周自從、餵飽豬、BUTTER RIOT…and more!\n\n✧ 11/23 Sun. ———\n滅火器 ft.？？？、WANIMA (JP)、玖壹壹、While She Sleeps (UK)、美秀集團、Tizzy Bac、Age Factory (JP)、鶴 The Crane、當代電影大師、YOUR SONG IS GOOD (JP)、隨性 ft. SKARAOKE、溫蒂漫步 Wendy Wander、黃子軒與山平快 ZiXuan & Slow Train、someshiit 山姆、凹與山、Bremen Entertainment Inc. 布萊梅、鳳小岳＆壓克力柿子、普通隊長、COLD DEW…and more!"
-        },
         {
             "years": 2025,
             "title": "龐克折返跑",
@@ -35,7 +15,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/punkstrikefes.taiwan/", "clickable": true},
             "purchaseUrl": null,
             "description": "台灣龐克折返跑音樂節\nPunk strike festival (Taiwan)\n台灣龐克新浪潮",
-            "eventLastUpdate": "2025/11/17",
+            "eventLastUpdate": "2025/11/24",
             "eventTicket": null,
             "lineUp": "BACK LIFT(JP) 、LONGMAN(JP)、COPES(JP) 、DONT TURN AWAY(JP)、Jimmy Revolt(TH) 、The Republicats(PH)  、The broken flowers 碎紙花 、Greasy Alley 油漬艾莉 、The Salitus 、DropStack "
         },
@@ -53,12 +33,30 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl": null,
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
-            "eventLastUpdate": "2025/11/17",
+            "eventLastUpdate": "2025/11/24",
             "eventTicket": null,
-            "lineUp": "✺ 血肉果汁機 Flesh Juicer \n✺ 傻子與白痴 FOOL AND IDIOT〔feat〕163braces \n✺ 椅子樂團 The Chairs \n✺ 回聲樂團 Echo of Your Soul \n✺ 粗大Band Thick Big Band〔feat〕 E1and ​ \n✺ 阿克沃 Awkward \n✺ 憂憂 Yō-Yō\n✺ 帕崎拉 PACHILA \n✺ 你我 U&I \n✺ NPO法人音育プレママパーティ presents 音育ランド Music by Luckyfull楽団 (JP) "
+            "lineUp": "✺ 血肉果汁機 Flesh Juicer \n✺ 傻子與白痴 FOOL AND IDIOT〔feat〕163braces \n✺ 椅子樂團 The Chairs \n✺ 回聲樂團 Echo of Your Soul \n✺ 粗大Band Thick Big Band〔feat〕 E1and ​ \n✺ 阿克沃 Awkward \n✺ 憂憂 Yō-Yō\n✺ 帕崎拉 PACHILA \n✺ 你我 U&I \n✺ NPO法人音育プレママパーティ presents 音育ランド Music by Luckyfull楽団 (JP) ✺ 孫盛希 Shi Shi\n✺ TRASH\n✺ 冨岡愛 TOMIOKA Al (𝙅𝙋)\n✺ 芒果醬 MangoJump\n✺ 甜約翰 Sweet John\n✺ 南西肯恩 NeciKen\n✺ hue\n✺ Who Cares 胡凱兒\n✺ Miao Miao Flow\n✺ 梁河懸 Liang Chord\n✺ 東部壞男孩 BBFTE\n 鐵皮貓 IronMeow"
         }
     ],
     "nextYearEvents": [
+        {
+            "years": 2026,
+            "title": "爛泥發芽",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2026/01/24",
+            "endDate": "2026/01/25",
+            "location": {"locationName": "新莊新月廣場", "locationAddress": "新北市新莊區大漢溪自行車道", "latitude": 25.03111140787824, "longitude": 121.44941869205705},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "commingSoon",
+            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "🌱 2026 爛泥發芽 Breakingmudfest 🌱\n📅 𝟭𝟮/𝟮𝟴 - 𝟭𝟮/𝟮�｜新莊新月橋廣場\n#不看卡司全是感情\n#泥今年最後一場音樂節​",
+            "eventLastUpdate": "2025/11/24",
+            "eventTicket": null,
+            "lineUp": null
+        },
         {
             "years": 2026,
             "title": "浮現祭",
@@ -73,9 +71,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  null,
             "description": "【 浮現祭 𝐄𝐌𝐄𝐑𝐆𝐄 𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟔：冒險新基地 】\n⭓ 日期　　｜2026.02.28 - 03.01\n⭓ 地點　　｜台中清水鰲峰山運動公園\n⭓ 地址搜尋｜台中市清水區鰲海路70號\n⭓ 陣容、售票資訊｜陸續解鎖中……ᐟ​",
-            "eventLastUpdate": "2025/11/17",
+            "eventLastUpdate": "2025/11/24",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "美秀集團｜터치드(TOUCHED)｜滅火器 Fire EX.｜怕胖團 PAPUN BAND｜go!go!vanillas｜すりぃ THREEE｜SERIOUS BACON｜pami｜the cabs｜Haku.｜CAN'T BE BLUE｜kurayamisaka｜雪国｜Ghost Bookstore｜梁河懸｜孤獨的利裡｜And More……！"
         },
         {
             "years": 2026,
@@ -87,13 +85,13 @@
             "location": {"locationName": "國立政治大學", "locationAddress": "台北市文山區指南路二段", "latitude": 24.988009046575776, "longitude": 121.57744112547641},
             "mail": null,
             "latestAttend": null,
-            "ticketStatus": "commingSoon",
+            "ticketStatus": "onSale",
             "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
             "purchaseUrl":  null,
             "description": "雨山祭，一場政大學生所自發起的音樂爆炸性實驗，期望結合文山在地特色，突破現場音樂與藝術展演之平台，打造專屬於這座雨山的專屬音樂場景，嘗試完成當今音樂節自我再定義。​",
-            "eventLastUpdate": "2025/11/17",
+            "eventLastUpdate": "2025/11/24",
             "eventTicket": null,
-            "lineUp": "體熊專科...and more 〆"
+            "lineUp": "一種心情、體熊專科…… 〆"
         },
         {
             "years": 2026,
@@ -109,7 +107,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "有時候，\n會想起一些人，會想起一些事，\n會想起一些曾經陪伴的時光。\n可能是某年的初春，開往國境之南車上，那段我們都莞爾的談話。\n可能是那次的春假前，港邊萬頭攢動裡，一起跳動、鼓譟的那些歡暢。\n可能是暖風撲面的那夜，老城區旁的巷口，一群人有點微醺、有點荒唐的笑鬧。\n\n回過頭才發現，\n來時路已經那麼長，\n腳步已經踏了那麼遠。\n突然地，嘴角不知何時勾起了笑，\n被這些記憶片段，勾起了笑。\n\n笑裡繞著很多很多的曾經，\n那些曾經裡，有酸、有鹹、有辣、有甜，\n有港口的氣味，\n有海湧的顏色，\n有汗水的觸感，\n還有激情後的聲嘶力竭。\n\n再一次吧！\n再一次，讓身體流過溫熱，\n再一次，讓視線隨著聽覺震動，\n再一次，一起創造難以取代的曾經。​",
-            "eventLastUpdate": "2025/11/17",
+            "eventLastUpdate": "2025/11/24",
             "eventTicket": null,
             "lineUp": null
         }
