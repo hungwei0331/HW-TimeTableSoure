@@ -47,7 +47,7 @@
             "startDate": "2026/01/24",
             "endDate": "2026/01/25",
             "location": {"locationName": "新莊新月廣場", "locationAddress": "新北市新莊區大漢溪自行車道", "latitude": 25.03111140787824, "longitude": 121.44941869205705},
-            "mail": null,
+            "mail": "onSale",
             "latestAttend": null,
             "ticketStatus": "commingSoon",
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
