@@ -40,6 +40,24 @@
         },
         {
             "years": 2026,
+            "title": "南國趴",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/02/27",
+            "endDate": "2024/02/28",
+            "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁里", "latitude": 21.944808844390298, "longitude": 120.7951684824692},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/taiwanmusicfest/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "🌟台灣祭行前派對-南國趴​​",
+            "eventLastUpdate": "2025/03/24",
+            "eventTicket": null,
+            "lineUp": "宇宙人｜美秀集團｜芒果醬Mango Jump｜原子邦妮｜公館青少年｜八青哥｜O.Dkizzya｜Juice Boy｜DJ YU from慶記KTV｜南方大唱全國樂團大獎賽複賽"
+        },
+        {
+            "years": 2026,
             "title": "雨山祭",
             "tableImages":null,
             "imageURL": null,
@@ -90,7 +108,7 @@
             "description": "台灣最南端的祭典，一期一會\n\n4月4日至4月5日 墾丁地區｜免費入場​​",
             "eventLastUpdate": "2025/03/24",
             "eventTicket": null,
-            "lineUp": "盧廣仲｜怕胖團 PAPUN BAND｜The Dinosaur’s Skin 恐龍的皮｜溫室雜草｜P!SCO Ft.海洋家族｜…and more!"
+            "lineUp": "盧廣仲｜怕胖團 PAPUN BAND｜The Dinosaur’s Skin 恐龍的皮｜傻子與白痴｜溫室雜草｜無妄合作社 ｜P!SCO Ft.海洋家族｜工口紳士Ero Gent｜紙鳶｜核果人NUTS｜…and more!"
         },
         {
             "years": 2026,
