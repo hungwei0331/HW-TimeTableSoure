@@ -1,25 +1,6 @@
 {
-    "lastUpdate": "2026/01/19",
+    "lastUpdate": "2026/01/26",
     "currentYearEvents": [ 
-        {
-            "years": 2026,
-            "title": "爛泥發芽",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/BreakingMud/BreakingMud_Taipei/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2026/01/24",
-            "endDate": "2026/01/25",
-            "location": {"locationName": "新莊新月廣場", "locationAddress": "新北市新莊區大漢溪自行車道", "latitude": 25.03111140787824, "longitude": 121.44941869205705},
-            "mail": "onSale",
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "🌱 2026 爛泥發芽 Breakingmudfest 🌱\n📅 𝟭𝟮/𝟮𝟴 - 𝟭𝟮/𝟮�｜新莊新月橋廣場\n#不看卡司全是感情\n#泥今年最後一場音樂節​",
-            "eventLastUpdate": "2026/01/19",
-            "eventTicket": null,
-            "lineUp": "傷心欲絕｜拍謝少年｜當代電影大師｜OBSESS｜固定客｜薄暮｜SADOG｜貓膽汁｜無先生｜餵飽豬｜BB彈｜SHOOTUP｜徐行｜酸腦｜眠氣｜COLD DEW｜波羅密｜應聲倒地｜九月高校｜The Salitus｜貓拳｜頂加集會｜深深一擊｜少年A｜聽天湯｜心頭肉｜BB Dance ＿THE WALL present｜DJ YU｜台北市模範市民｜吉他車輪戰"
-        },
         {
             "years": 2026,
             "title": "浮現祭",
@@ -34,9 +15,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  null,
             "description": "【 浮現祭 𝐄𝐌𝐄𝐑𝐆𝐄 𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟔：冒險新基地 】\n⭓ 日期　　｜2026.02.28 - 03.01\n⭓ 地點　　｜台中清水鰲峰山運動公園\n⭓ 地址搜尋｜台中市清水區鰲海路70號\n⭓ 陣容、售票資訊｜陸續解鎖中……ᐟ​",
-            "eventLastUpdate": "2026/01/19",
+            "eventLastUpdate": "2026/01/26",
             "eventTicket": null,
-            "lineUp": "美秀集團｜deca joins｜JAURIM｜터치드(TOUCHED)｜滅火器 Fire EX.｜麋先生 MIXER｜怕胖團 PAPUN BAND｜フレデリック(FREDERIC)｜go!go!vanillas｜The Chairs 椅子樂團｜芒果醬 MangoJump｜溫蒂漫步 Wendy Wander × Billyrrom｜我是機車少女 I'mdifficult｜拍謝少年 Sorry Youth｜傻子與白痴｜Dragon Pony｜旺福｜VH｜すりぃ THREEE｜とた(Tota)｜Cosmo's Midnight｜SERIOUS BACON｜pami｜the cabs｜音羽-otoha-｜溫室雜草｜庸俗救星｜公館青少年｜P!SCO｜粗大Band｜Haku.｜チョーキューメイ（Cho Q May）｜berry meet｜원위(ONEWE)｜Redoor｜CAN'T BE BLUE｜kurayamisaka｜雪国｜Ghost Bookstore｜SHOOTUP｜梁河懸｜孤獨的利裡｜REJAY｜本能實業｜凹與山｜JOYCE就以斯｜野巢 Nosu｜KIK｜林潔心｜震樂堂 ft. 老諾｜パスピエ PASSEPIED｜INUWASI｜Quubi with 九尾Band｜NEO JAPONISM｜yosugala｜soda shower!｜Pure makeR｜月宵◇クレシェンテ｜THEΔRAREz｜Happy Holiday!!｜debloop｜共振效應｜Hammer Head Shark｜3markets[ ]｜薄暮 EVENFALL｜憂憂 Yō-Yō｜sucola｜隨性Random｜上山｜步行者 Pacers｜Black petrol｜Wantamnam 我地希望｜Night Keepers 守夜人 ft. XinU｜Kumu Basaw 姑慕.巴紹｜GOOD BYE APRIL｜liquid people｜GOODMOOD｜before the night ends｜And More……！"
+            "lineUp": "美秀集團｜deca joins｜JAURIM｜터치드(TOUCHED)｜滅火器 Fire EX.｜麋先生 MIXER｜怕胖團 PAPUN BAND｜フレデリック(FREDERIC)｜go!go!vanillas｜The Chairs 椅子樂團｜芒果醬 MangoJump｜溫蒂漫步 Wendy Wander × Billyrrom｜我是機車少女 I'mdifficult｜拍謝少年 Sorry Youth｜傻子與白痴｜Dragon Pony｜旺福｜VH｜すりぃ THREEE｜とた(Tota)｜Cosmo's Midnight｜SERIOUS BACON｜pami｜the cabs｜音羽-otoha-｜溫室雜草｜庸俗救星｜公館青少年｜P!SCO｜粗大Band｜Haku.｜チョーキューメイ（Cho Q May）｜berry meet｜원위(ONEWE)｜Redoor｜CAN'T BE BLUE｜kurayamisaka｜雪国｜Ghost Bookstore｜SHOOTUP｜梁河懸｜孤獨的利裡｜REJAY｜本能實業｜凹與山｜JOYCE就以斯｜野巢 Nosu｜KIK｜林潔心｜震樂堂 ft. 老諾｜パスピエ PASSEPIED｜INUWASI｜Quubi with 九尾Band｜NEO JAPONISM｜yosugala｜soda shower!｜Pure makeR｜月宵◇クレシェンテ｜THEΔRAREz｜Happy Holiday!!｜debloop｜共振效應｜Hammer Head Shark｜3markets[ ]｜薄暮 EVENFALL｜憂憂 Yō-Yō｜sucola｜隨性Random｜上山｜步行者 Pacers｜Black petrol｜Wantamnam 我地希望｜Night Keepers 守夜人 ft. XinU｜Kumu Basaw 姑慕.巴紹｜GOOD BYE APRIL｜liquid people｜GOODMOOD｜before the night ends｜羊駝小姐 Malpaca｜睿雞 RIKI｜Quanzo & O.Dkizzya｜Jimmy H. & HomeRich｜Lavi 翁彤薰｜O-VER-KiLL｜AKIRA KURØ"
         },
         {
             "years": 2026,
@@ -70,9 +51,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/nccumusicfestival/", "clickable": true},
             "purchaseUrl":  null,
             "description": "雨山祭，一場政大學生所自發起的音樂爆炸性實驗，期望結合文山在地特色，突破現場音樂與藝術展演之平台，打造專屬於這座雨山的專屬音樂場景，嘗試完成當今音樂節自我再定義。​",
-            "eventLastUpdate": "2026/01/19",
+            "eventLastUpdate": "2026/01/26",
             "eventTicket": null,
-            "lineUp": "COLD DEW、debloop、OBSESS、馬克SΛVΛGΞ.M、無妄合作社、That’s My Shhh、一種心情、體熊專科...and more 〆"
+            "lineUp": "ho Cares 胡凱兒、debloop、傷心欲絕、OBSESS、馬克SΛVΛGΞ.M、無妄合作社、That’s My Shhh、一種心情、體熊專科...and more 〆"
         },
         {
             "years": 2026,
@@ -88,9 +69,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "有時候，\n會想起一些人，會想起一些事，\n會想起一些曾經陪伴的時光。\n可能是某年的初春，開往國境之南車上，那段我們都莞爾的談話。\n可能是那次的春假前，港邊萬頭攢動裡，一起跳動、鼓譟的那些歡暢。\n可能是暖風撲面的那夜，老城區旁的巷口，一群人有點微醺、有點荒唐的笑鬧。\n\n回過頭才發現，\n來時路已經那麼長，\n腳步已經踏了那麼遠。\n突然地，嘴角不知何時勾起了笑，\n被這些記憶片段，勾起了笑。\n\n笑裡繞著很多很多的曾經，\n那些曾經裡，有酸、有鹹、有辣、有甜，\n有港口的氣味，\n有海湧的顏色，\n有汗水的觸感，\n還有激情後的聲嘶力竭。\n\n再一次吧！\n再一次，讓身體流過溫熱，\n再一次，讓視線隨著聽覺震動，\n再一次，一起創造難以取代的曾經。​",
-            "eventLastUpdate": "2026/01/19",
+            "eventLastUpdate": "2026/01/26",
             "eventTicket": null,
-            "lineUp": "結束バンド (JP)｜落日飛車｜怕胖團 PAPUN BAND ft. 陽帆｜滅火器 Fire EX. ｜血肉果汁機 Flesh Juicer ​ ​ ft. 陳亞蘭｜拍謝少年 Sorry Youth ft. AYUNi D (from PEDRO) ｜AiNA THE END (JP)｜Hiromi's Sonicwonder（JP, US, FR)｜The Birthday (Kazuyuki Kuhara, Haruki Hirai, Kenji Fujii)｜the band apart(JP)｜南瓜妮歌迷俱樂部｜康士坦的變化球 KST｜椅子樂團｜Aooo （JP)｜當代電影大師Modern Cinema Master｜same Sam but different. ( Samjoo 鄭敬儒 X someshiit 山姆 X Sam Yang 楊世暄 )｜NOVELISTS(FR)｜BAND-MAID(JP)｜隨性 Random ft. 婷文｜ゲシュタルト乙女 (urban session) ft. yurinasia｜無妄合作社｜FunkyMo ft. 小尾巴｜NEE(JP)｜五月五日 OWALLOIL (KR)｜貓膽汁 CAT’s Bile｜Infernal Chaos｜粉紅噪音｜忘憂水 Wonder Water｜打倒三明治｜COLD DEW｜倒車入庫｜共振效應｜陳以恆｜LEIGHT NINE｜帕崎拉｜漂流出口 Outlet Drift｜DSPS｜KINAKO & 東京中央線｜薄荷葉 ft. JB｜黃宇寒 Han｜debloop｜沈默紳士｜LAWA ft. Angie安吉｜MOTIF HIVE ｜Crescent Lament 恆月三途｜畫室The WLTZ ...and more"
+            "lineUp": "結束バンド (JP)｜落日飛車｜怕胖團 PAPUN BAND ft. 陽帆｜滅火器 Fire EX. ｜血肉果汁機 ​ ft. 陳亞蘭｜拍謝少年 Sorry Youth ft. AYUNi D (from PEDRO) ｜鄭宜農 Enno Cheng｜AiNA THE END (JP)｜Hiromi's Sonicwonder（JP, US, FR)｜The Birthday (Kazuyuki Kuhara, Haruki Hirai, Kenji Fujii)｜the band apart(JP)｜南瓜妮歌迷俱樂部｜康士坦的變化球 KST｜椅子樂團｜Aooo （JP)｜EmptyORio｜HUSH｜TOOBOE(JP)｜イルカポリス 海豚刑警｜TSS(FR)｜當代電影大師Modern Cinema Master｜same Sam but different. ( Samjoo 鄭敬儒 X someshiit 山姆 X Sam Yang 楊世暄 )｜NOVELISTS(FR)｜BAND-MAID(JP)｜隨性 Random ft. 婷文｜ゲシュタルト乙女 (urban session) ft. yurinasia｜無妄合作社｜FunkyMo ft. 小尾巴｜NEE(JP)｜五月五日 OWALLOIL (KR)｜貓膽汁 CAT’s Bile｜Infernal Chaos｜粉紅噪音｜忘憂水 Wonder Water｜打倒三明治｜COLD DEW｜倒車入庫｜共振效應｜陳以恆｜LEIGHT NINE｜帕崎拉｜漂流出口 Outlet Drift｜DSPS｜KINAKO & 東京中央線｜薄荷葉 ft. JB｜黃宇寒 Han｜debloop｜沈默紳士｜LAWA ft. Angie安吉｜MOTIF HIVE ｜Crescent Lament 恆月三途｜畫室The WLTZ｜Yappy｜Yokkorio｜多米多羅 ft. 可凡｜體熊專科。Major in Body Bear｜黃雨晴｜震樂堂 JhenYueTang｜洪安妮 Anni Hung｜美麗本人 ft. 異鄉人｜馬尾 ft. 立長 ...and more"
         },
         {
             "years": 2026,
@@ -108,7 +89,7 @@
             "description": "台灣最南端的祭典，一期一會\n\n4月4日至4月5日 墾丁地區｜免費入場​​",
             "eventLastUpdate": "2025/03/24",
             "eventTicket": null,
-            "lineUp": "盧廣仲｜怕胖團 PAPUN BAND｜The Dinosaur’s Skin 恐龍的皮｜傻子與白痴｜溫室雜草｜無妄合作社 ｜P!SCO Ft.海洋家族｜工口紳士Ero Gent｜紙鳶｜核果人NUTS｜…and more!"
+            "lineUp": "盧廣仲｜怕胖團 PAPUN BAND｜The Dinosaur’s Skin 恐龍的皮｜傻子與白痴｜福夢FUMON｜溫室雜草｜無妄合作社 ｜固定客Ft.馬克 SAVAGE.M ｜Multiverse Music(M.V.M) Ft. 百合花｜OBSESS ｜P!SCO Ft.海洋家族｜工口紳士Ero Gent｜Traveller旅人｜紙鳶｜核果人NUTS｜…and more!"
         },
         {
             "years": 2026,
