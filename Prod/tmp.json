@@ -413,24 +413,7 @@
 
 
 
-{
-    "years": 2025,
-    "title": "卡卡音樂祭",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2025/03/15",
-    "endDate": "2025/03/16",
-    "location": {"locationName": "國立中央大學​", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968394795991554, "longitude": 121.19441341124968},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "onSale",
-    "instagramUrl": {"url": "https://www.instagram.com/ncukakamusicfestival/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": "꒰ঌ⋆.˚⟡ 迷茫的人 醒著做夢˚˖𓍢ִ✧˚໒꒱\n› 日期｜𝟮𝟬𝟮𝟱 𝟯/𝟭𝟱 𝗦𝗔𝗧. -𝟯/𝟭𝟲 𝗦𝗨𝗡\n› 地點｜國立中央大學​",
-    "eventLastUpdate": "2025/03/17",
-    "eventTicket": null,
-    "lineUp": "滅火器 𝐅𝐢𝐫𝐞 𝐄𝐗. / 晨曦光廊 / 血肉果汁機 / 老王樂隊 / 溫蒂漫步 / 溫室雜草 / 𝐖𝐡𝐨 𝐂𝐚𝐫𝐞𝐬 胡凱兒 / 庸俗救星 / 公館青少年𝐆𝐆𝐭𝐞𝐞𝐧𝐬 / 宋德鶴 / 𝐏!𝐒𝐂𝐎 / 𝐃𝐒𝐏𝐒 /𝐁𝐥𝐮𝐞𝐛𝐮𝐫𝐧 /鶴 𝐓𝐡𝐞 𝐂𝐫𝐚𝐧𝐞 "
-},
+
 
 
 
