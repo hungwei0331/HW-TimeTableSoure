@@ -844,3 +844,42 @@
             "eventTicket": null,
             "lineUp": "傷心欲絕｜拍謝少年｜當代電影大師｜OBSESS｜固定客｜薄暮｜SADOG｜貓膽汁｜無先生｜餵飽豬｜BB彈｜SHOOTUP｜徐行｜酸腦｜眠氣｜COLD DEW｜波羅密｜應聲倒地｜九月高校｜The Salitus｜貓拳｜頂加集會｜深深一擊｜少年A｜聽天湯｜心頭肉｜BB Dance ＿THE WALL present｜DJ YU｜台北市模範市民｜吉他車輪戰"
         },
+
+
+        {
+            "years": 2026,
+            "title": "南國趴",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2024/02/27",
+            "endDate": "2024/02/28",
+            "location": {"locationName": "墾丁大灣遊憩區", "locationAddress": "屏東縣恆春鎮墾丁里", "latitude": 21.944808844390298, "longitude": 120.7951684824692},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/taiwanmusicfest/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "🌟台灣祭行前派對-南國趴​​",
+            "eventLastUpdate": "2025/03/24",
+            "eventTicket": null,
+            "lineUp": "宇宙人｜美秀集團｜芒果醬Mango Jump｜原子邦妮｜公館青少年｜八青哥｜O.Dkizzya｜Juice Boy｜DJ YU from慶記KTV｜光學虎鯨｜槍擊艾拉ChangeEra｜DragonSmash龍族扣殺｜浪犬｜夢迴｜emoment｜羅浮宮的帽子｜莎賓娜大樂隊 Sabrina tuā ga̍k tuī｜十一月初juuihatsu｜好國民｜RIKI｜THE EON｜四腳獸｜奇洛波士多Kiiroposto｜宇宙資料庫｜洛奇洛克Rocket Rock｜InFission｜無極西瓜刀｜鯊魚煙囪Shark Chimney｜技術病毒"
+        },
+        {
+            "years": 2026,
+            "title": "浮現祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/EmergeLive/day2.jpg"],
+            "imageURL": null,
+            "startDate": "2026/02/28",
+            "endDate": "2026/03/01",
+            "location": {"locationName": "台中清水鰲峰山運動公園​", "locationAddress": "台中市清水區鰲海路100號", "latitude": 24.273819241553653, "longitude": 120.58388598467523},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "【 浮現祭 𝐄𝐌𝐄𝐑𝐆𝐄 𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟔：冒險新基地 】\n⭓ 日期　　｜2026.02.28 - 03.01\n⭓ 地點　　｜台中清水鰲峰山運動公園\n⭓ 地址搜尋｜台中市清水區鰲海路70號\n⭓ 陣容、售票資訊｜陸續解鎖中……ᐟ​",
+            "eventLastUpdate": "2026/02/23",
+            "eventTicket": null,
+            "lineUp": "美秀集團｜deca joins｜JAURIM｜터치드(TOUCHED)｜滅火器 Fire EX.｜麋先生 MIXER｜怕胖團 PAPUN BAND｜フレデリック(FREDERIC)｜go!go!vanillas｜The Chairs 椅子樂團｜芒果醬 MangoJump｜溫蒂漫步 Wendy Wander × Billyrrom｜我是機車少女 I'mdifficult｜拍謝少年 Sorry Youth｜傻子與白痴｜Dragon Pony｜旺福｜VH｜すりぃ THREEE｜とた(Tota)｜Cosmo's Midnight｜SERIOUS BACON｜pami｜the cabs｜音羽-otoha-｜溫室雜草｜庸俗救星｜公館青少年｜P!SCO｜粗大Band｜Haku.｜チョーキューメイ（Cho Q May）｜berry meet｜원위(ONEWE)｜Redoor｜CAN'T BE BLUE｜kurayamisaka｜雪国｜Ghost Bookstore｜SHOOTUP｜梁河懸｜孤獨的利裡｜REJAY｜本能實業｜凹與山｜JOYCE就以斯｜野巢 Nosu｜KIK｜林潔心｜震樂堂 ft. 老諾｜パスピエ PASSEPIED｜INUWASI｜Quubi with 九尾Band｜NEO JAPONISM｜yosugala｜soda shower!｜Pure makeR｜月宵◇クレシェンテ｜THEΔRAREz｜Happy Holiday!!｜debloop｜共振效應｜Hammer Head Shark｜3markets[ ]｜薄暮 EVENFALL｜憂憂 Yō-Yō｜sucola｜隨性Random｜上山｜步行者 Pacers｜Black petrol｜Wantamnam 我地希望｜Night Keepers 守夜人 ft. XinU｜Kumu Basaw 姑慕.巴紹｜GOOD BYE APRIL｜liquid people｜GOODMOOD｜before the night ends｜羊駝小姐 Malpaca｜睿雞 RIKI｜Quanzo & O.Dkizzya｜Jimmy H. & HomeRich｜Lavi 翁彤薰｜O-VER-KiLL｜AKIRA KURØ"
+        },
