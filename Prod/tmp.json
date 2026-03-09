@@ -538,24 +538,7 @@
     "lineUp": "DAY1｜05月17日\nSIX LOUNGE [JP]｜血肉果汁機｜陳嫺靜｜溫蒂漫步 Wendy Wander｜無妄合作社｜溫室雜草｜KawanishiNatsuki 川西奈月 [JP] ｜HARD BOY [TH]｜震樂堂｜上山｜公館青少年｜憂憂Yō-Yō｜秋波愛麗｜DrunkMonk 撞克茫客｜COLD DEW｜ Newton（NWTN）[KR]｜ORCA [PH]｜monda(e) [SG]｜MINH [VN]｜BIKE機踏車樂團｜Peatle｜SiNNER MOON｜QUANZO｜質感流氓｜Taji｜HomeRich｜Jimmy H.｜BØBØ博 aka B.O Young Fly｜\n\nDAY2｜05月18日\n怕胖團｜傻子與白痴｜傷心欲絕｜First Love is Never Returned [JP]｜VH｜ SoulFa靈魂沙發｜hue｜Tuesday Beach Club [KR]｜FUTURE AFTER A SECOND｜ペルシカリア persicaria [JP]｜FunkyMo｜DIZLIKE｜御姉紳士｜CANDY☆STAR｜ Pure makeR｜soda shower!｜ THEΔRAREz\n\nDAY2 赤子之聲決賽（依演出順序排列）\n越野快餐車 Wild Fast Food｜夢岸 Bāng Huānn｜銀河1966｜偏執狂樂團｜手骨樂隊｜Holotropics｜跳躍號SCAMPER [MO]｜blu mush｜夢遊旅人｜HALLEY [JP]｜應聲倒地｜孤寂輔導室"
 },
 
-{
-    "years": 2025,
-    "title": "愛嶼搖滾",
-    "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg"],
-    "imageURL": null,
-    "startDate": "2024/05/25",
-    "endDate": "2024/05/26",
-    "location": {"locationName": "基隆國門廣場", "locationAddress": "200基隆市仁愛區港西街6-2號", "latitude": 25.132084752493398,  "longitude": 121.74012832410372},
-    "mail": null,
-    "latestAttend": null,
-    "ticketStatus": "free",
-    "instagramUrl": {"url": "https://www.instagram.com/keelungloverock/", "clickable": true},
-    "purchaseUrl":  null,
-    "description": null,
-    "eventLastUpdate": "2025/05/19",
-    "eventTicket": null,
-    "lineUp": "宇宙人｜怕胖團｜傻子與白痴｜甜約翰｜福夢FUMON｜固定客｜上山｜紙鳶｜Traveller旅人｜羊米人 ｜Tickle Tickle癢癢｜你阿伯｜溫室雜草｜粗大BAND｜公館青少年｜打倒三明治｜深深一擊｜鄒序 ｜眠氣Hypersomia ｜DrunkMonk撞克茫客｜徐行｜薄暮EVENFALL｜靈魂沙發｜忒修斯｜庸俗救星｜沈默紳士｜DIZLIKE｜時不我予｜昴宿 Pleiades｜烈鷹｜聽天湯 Tin Ten Tan｜東部壞男孩 Bad Boys From The East｜22.5｜The Salitus｜白頻率 Whitefrequency｜海岸乾杯｜Hbun河紋｜Uncle Motto\n\n2025愛嶼搖滾校際音樂大賽入選十強： 浪犬｜Chondriac｜無極西瓜刀｜吐司貓 Tosuto Neko｜好麻球｜出事團長擔｜離岸嶺 Nowhere Atlas｜停錶錯覺｜單先生＆Varsam｜微醺暴徒"
-},
+
 
         {
             "years": 2025,
