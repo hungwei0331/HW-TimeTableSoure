@@ -866,3 +866,22 @@
             "eventTicket": null,
             "lineUp": "傷心欲絕、傻子與白痴、無妄合作社、Who Cares 胡凱兒 、OBSESS、體熊專科、百合花、That’s My Shhh、馬克SΛVΛGΞ.M 、一種心情、COLD DEW、debloop、芒果街老爸、blu mush、Spaceoutcomet、emoment、 Sour Jaws 〆"
         },
+
+                {
+            "years": 2026,
+            "title": "卡卡音樂祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/𝗞aka/day1.jpg"],
+            "imageURL": null,
+            "startDate": "2025/03/14",
+            "endDate": "2025/03/15",
+            "location": {"locationName": "國立中央大學​", "locationAddress": "桃園市中壢區中大路300號", "latitude": 24.968394795991554, "longitude": 121.19441341124968},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "soldOut",
+            "instagramUrl": {"url": "https://www.instagram.com/ncukakamusicfestival/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "｡ ˚⋆˚☾˚ 裝睡有理 做夢無罪 ˚☽˚⋆˚˚｡\n› 日期｜𝟮𝟬𝟮𝟲 𝟯/𝟭𝟰 𝗦𝗔𝗧.- 𝟯/𝟭𝟱 𝗦𝗨𝗡\n› 地點｜. 𖥧 𖥧 𖧧 ˒˒. . 𖡼.𖤣​",
+            "eventLastUpdate": "2026/03/09",
+            "eventTicket": null,
+            "lineUp": "福夢 FUMON / 溫室雜草 / 公館青少年 GGteens / 好樂團 GoodBand /傷心欲絕 / 魚條FISH STICK / 康士坦的變化球 KST / 忘憂水 Wonder Water / 浪犬BillowMutt / hue / 莉莉周她說 / 滅火器 Fire EX. / DSPS / VH "
+        },
