@@ -49,6 +49,14 @@
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day1.jpg",  
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day2.jpg",
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Taiwan/day3.jpg"]
+        },
+        {
+            "name": "赤聲躁動音樂祭",
+            "startDate": "2026/05/30",
+            "endDate": "2026/05/31",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RedSound/day2.jpg"]
         }
     ]
 }
