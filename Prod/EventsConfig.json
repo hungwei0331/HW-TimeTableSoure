@@ -59,6 +59,14 @@
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Ashore/day2.jpg"]
         },
         {
+            "name": "愛嶼搖滾",
+            "startDate": "2026/05/23",
+            "endDate": "2026/05/24",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day2.jpg"]
+        },
+        {
             "name": "赤聲躁動音樂祭",
             "startDate": "2026/05/30",
             "endDate": "2026/05/31",
