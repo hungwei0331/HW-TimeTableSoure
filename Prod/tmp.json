@@ -891,3 +891,42 @@
             "eventTicket": null,
             "lineUp": "椅子樂團The Chairs｜血肉果汁機｜怕胖團PAPUN BAND｜康士坦的變化球KST｜謝和弦｜Marz23｜溫蒂漫步Wendy Wander｜甜約翰Sweet John｜Crispy脆樂團｜SoulFa靈魂沙發｜無妄合作社｜Who Cares 胡凱兒｜庸俗救星Vulgar Savior｜持修｜趙翊帆｜粗大Band｜忘憂水WonderWater｜163braces｜C.Holly｜E1and｜Ann白安｜PIZZALI｜八青哥｜DJ Alan Dust x DJ Jill x DJ EK｜王彥棠｜臣洋CY｜崴崴孟孟｜康庭瑋Konnie｜童雲晞Bessy ｜熱飲｜草南北｜日文怪物"
         },
+
+
+                {
+            "years": 2026,
+            "title": "鹽琉趴",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2026/05/22",
+            "endDate": "2026/05/24",
+            "location": {"locationName": "新園海洋航運園區​", "locationAddress": "屏東縣新園鄉新興路二段1號", "latitude": 22.471388513093018,  "longitude": 120.43821910184978},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/YANLIUPARTY_2026", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "活動時間｜5/22（五）－5/24（日）1500-2100\n活動地點｜Taiwan Hi 新園海洋航運園區\n主辦單位｜屏東縣政府\n協辦單位｜新園鄉公所\n執行單位｜从聲藝術有限公司​",
+            "eventLastUpdate": "2026/05/18",
+            "eventTicket": null,
+            "lineUp": "滅火器 Fire EX. | 溫蒂漫步 Wendy Wander | 無妄合作社 | 許富凱 | 怕胖團 PAPUN BAND | 林希子 | 芒果醬 Mango Jump | 公館青少年 | 卜星慧 Emily Pu | イルカポリス 海豚刑警 | BRBP | Crispy 脆樂團 | NeaR Band 你阿伯 | VH"
+        },
+        {
+            "years": 2026,
+            "title": "愛嶼搖滾",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/KeelungLoverock/day2.jpg"],
+            "imageURL": null,
+            "startDate": "2026/05/23",
+            "endDate": "2026/05/24",
+            "location": {"locationName": "基隆國門廣場", "locationAddress": "200基隆市仁愛區港西街6-2號", "latitude": 25.132084752493398,  "longitude": 121.74012832410372},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/keelungloverock/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "基隆港灣，海風綿延不斷在山海之間\n讓我們用自由與愛再次征服這個港灣\n\n今年是愛嶼搖滾的第三年\n\n這一次我們帶回來更強大的陣容\n要在這片海港上乘著雨都的熱情\n一起締造基隆更好玩有趣的場景\n\n5月讓我們在國門廣場、海洋廣場集合吧",
+            "eventLastUpdate": "2026/05/18",
+            "eventTicket": null,
+            "lineUp": "血肉果汁機｜傷心欲絕｜イルカポリス海豚刑警｜福夢FUMON｜無妄合作社｜固定客｜庸俗救星｜Who Cares 胡凱兒｜普通隊長 CAPTAIN ORDINARY｜P!SCO ft.海洋家族｜SHOOTUP｜旅人｜薄暮EVENFALL｜眠氣 𝙃𝙮𝙥𝙚𝙧𝙨𝙤𝙢𝙣𝙞𝙖｜畫室｜秋波愛麗｜時不我予｜ 羊米人 YUMMY MAN｜白頻率 White Frequency｜宇宙資料庫｜文明人 The civilized｜白色｜Snake樂團｜微醺暴徒｜…解鎖中…"
+        },
