@@ -87,8 +87,8 @@
             "startDate": "2026/06/26",
             "endDate": "2026/06/28",
             "ticketStatus": "onSale",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringScream/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringScream/day2.jpg"]
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/SpringWave/day2.jpg"]
         }
     ]
 }
