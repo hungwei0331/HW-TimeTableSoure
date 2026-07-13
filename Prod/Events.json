@@ -4,9 +4,9 @@
         {
             "years": 2026,
             "title": "台秋祭",
-            "tableImages": null,
-            "imageURL": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg",  
-                         "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day2.jpg"],
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day2.jpg"],
+            "imageURL": null,
             "startDate": "2026/07/18",
             "endDate": "2026/07/19",
             "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
