@@ -1,25 +1,6 @@
 {
-    "lastUpdate": "2026/07/13",
+    "lastUpdate": "2026/07/20",
     "currentYearEvents": [ 
-        {
-            "years": 2026,
-            "title": "台秋祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/TaiChill/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2026/07/18",
-            "endDate": "2026/07/19",
-            "location": {"locationName": "台中驛鐵道文化園區", "locationAddress": "台中市中區臺灣大道一段1號", "latitude": 24.13765110874123, "longitude": 120.6849609613714},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/taichillcityfest/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "【2026 台秋祭 𝐓𝐀𝐈𝐂𝐇𝐈𝐋𝐋 𝐂𝐈𝐓𝐘 𝐅𝐄𝐒𝐓𝐕𝐀𝐋】 ​\n·━━━ · 五週年· 龍馬搖滾家 ·━━━ · ​\n\n𒀭活動時間｜ 2026年7月18日- 19日\n𒀭活動地點｜台中驛鐵道文化園區\n\n【 ▼ 更多資訊·即將解鎖 ▼ 】\n售票資訊｜五大舞台｜周邊活動｜LINEUP​​",
-            "eventLastUpdate": "2026/07/13",
-            "eventTicket": null,
-            "lineUp": "7/18：\n康士坦的變化球KST｜KNOCK OUT MONKEY（JP） ｜名誉伝説（JP）｜溫室雜草｜福夢FUMON ｜粗大Band ｜SpecialThanks（JP）｜潑猴｜EMNW（JP）｜AIRFLIP（JP）｜MAZ UNIVERZE（LU）｜紙鳶｜王謙Goatak｜薄暮｜帕崎拉 PACHILA｜青原FIDA｜等阮返來｜mindfreakk!（TH）｜月追う彼方（JP）｜REVERY（HK）｜製燥者StoryMaker｜秋山ChillSome｜四馬幫｜CJ504｜RedTank & Vanta｜DREW｜Bu$Y｜Paper Jim｜LYNZI (0) 零｜Vincent Wang｜DOTS｜DJ GAN3DA｜JOSH｜KEY｜PUMP Z｜Philcozy｜BD｜Quanzo & O.DKIZZYA｜R-Pon｜SiNNERMOON｜SOWUT｜Johnnyboi｜Tofu｜KUOKUO｜Multiverse Music｜西屯純愛組｜JUBEE (JP) ｜Taiyoh (JP) ｜Shurkn pap (JP) ｜慶記KTV\n\n7/19：\n怕胖團 PAPUN BAND ｜血肉果汁機｜GOOD4NOTHING（JP）｜dustbox（JP）｜固定客｜公館青少年｜Who Cares 胡凱兒｜OBSESS｜腦體馬戲團｜Traveller旅人｜普通隊長Captain Ordinary ｜BUTTER RIOT｜烈鷹｜眠氣Hypersomnia｜應聲倒地 On the Floor｜MAZE（JP）｜Leerix 李瑞｜白頻率｜BELISH ｜SABOTEN（JP)｜隨性Random｜海岸乾杯｜The Salitus｜彰東嘻PIEMIA｜亥柏龍｜300Monkey｜VEWS｜質感流氓｜Raco G｜Host by LAZYFINGA｜WILIM｜POINPAN｜\nGARY｜DIN｜JTM｜Beek｜Ting ｜艾蜜莉AMILI｜神經元｜Peatle｜DJ TOFU｜慶記KTV"
-        },
         {
             "years": 2026,
             "title": "貢寮海洋音樂祭",
@@ -34,7 +15,7 @@
             "instagramUrl": null,
             "purchaseUrl":  null,
             "description": "海洋音樂祭（Hohaiyan Rock Festival）是一個台灣每年夏天舉辦的多日音樂表演活動，首次舉行是在2000年。​​",
-            "eventLastUpdate": "2026/07/13",
+            "eventLastUpdate": "2026/07/20",
             "eventTicket": null,
             "lineUp": "🏆【海洋獨立音樂大賞｜決賽十強名單】\n來者何人 𝐖𝐡𝐨𝐨𝐮!／共振效應／迷海艾當／頂加集會 𝐌.𝐋.𝐂／莎賓娜大樂隊 𝐒𝐚𝐛𝐫𝐢𝐧𝐚 𝐭𝐮𝐚̄ 𝐠𝐚̍𝐤 𝐭𝐮𝐢̄／辣鄰居／應聲倒地／𝐉𝐚𝐳𝐳𝐰𝐞𝐞𝐝.芥子草／𝐌𝐎𝐑𝐄 𝐁𝐄 𝐔𝐒／𝐒𝐨𝐮𝐥 𝐬𝐨𝐫𝐫𝐲 ✨\n🎸【兩日舞台完整卡司陣容】\n\n📅 𝟕月𝟐𝟓日（星期六）\n🔥 大舞台\n𝐌𝐚𝐳𝐁𝐚𝐫&𝐋𝐚𝐥𝐚𝐧／𝐃𝐫𝐮𝐧𝐤𝐌𝐨𝐧𝐤撞克茫客／𝐌𝐀𝐓𝐙𝐊𝐀\n🎧 小舞台\n𝐃𝐉 𝐄 𝐒𝐡𝐨𝐰／𝐁𝐥𝐚𝐜𝐤𝐂𝐡𝐨𝐜𝐨𝐥𝐚𝐭𝐞（𝐃𝐉 𝐀𝐈＋𝐅𝐢𝐨𝐧）／𝐃𝐉 𝐌𝐲𝐤𝐚𝐥林哲儀／𝐂 𝐇𝐨𝐥𝐥𝐲／羅百吉＋寶貝、𝐌𝐂金老師\n\n📅 𝟕月𝟐𝟔日（星期日）\n🔥 大舞台\n八青哥／𝐕𝐞 𝐕𝐞 𝐍𝐮 𝐊𝐮𝐬𝐚𝐤𝐚𝐢𝐠𝐚𝐫／帕崎拉𝐏𝐀𝐂𝐇𝐈𝐋𝐀／𝐃𝐈𝐙𝐋𝐈𝐊𝐄／隨性𝐑𝐚𝐧𝐝𝐨𝐦／芒果醬𝐌𝐚𝐧𝐠𝐨 𝐉𝐮𝐦𝐩／血肉果汁機\n🎧 小舞台\n𝐃𝐉 𝐃𝐫𝐢𝐧𝐧／𝐃𝐉汝妮 𝐃𝐮𝐧𝐠𝐢𝐒𝐚𝐩𝐨𝐫／𝐃𝐉大衛／𝐒𝐩𝐚𝐜𝐞 𝐃𝐢𝐬𝐤𝐨（愛波哥＋𝐁𝐥𝐮𝐞𝐦𝐚𝐧）／𝐐𝐮𝐞𝐞𝐧𝐌𝐚𝐟𝐢𝐚（𝐌𝐨𝐥𝐥𝐲＋𝐇𝐞𝐫）"
         },
@@ -52,7 +33,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/oursea_chill_fest/", "clickable": true},
             "purchaseUrl": null,
             "description": "濱海祭 Oursea Chill Fest.\n﹏⊹ ࣪ ˖濱海搖滾音樂祭 2026⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ​\n 日期｜8.23（六）- ​ 8.24（日）\n☼ 地點｜MITSUI OUTLET PARK 台中港 （北口）\n（台中市梧棲區臺灣大道十段168號） ​",
-            "eventLastUpdate":  "2026/07/13",
+            "eventLastUpdate":  "2026/07/20",
             "eventTicket": null,
             "lineUp": "⚓08.15（六）\n白安 ANN｜南西肯恩 NeciKen｜IRIS MONDO[JP]｜應聲倒地｜HomeRich ft.TN+Jimmy H.+JustJaewin [SG]｜天国地獄｜終焉Rebirth｜AXIA ...and more! ​\n\n⚓08.16（日）\n麋先生 MIXER｜溫室雜草｜公館青少年｜艾蜜莉AMILI+Quanzo｜SADOG｜A_Root 同根生｜黃宇寒 Han｜ana｜Pure makeR｜月宵◇クレシェンテ｜Happy Holiday!!｜THEΔRAREz｜虹星iRiSTELLA ...and more! "
         },
@@ -70,7 +51,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/takaorocktw/", "clickable": true},
             "purchaseUrl": null,
             "description": "2026 Takao Rock 打狗祭 ➤ Hi-ing 5\n🐙  10/10、10/11全新主題玩法解鎖！\n1 專場 × 2日限定 × 3 大舞臺 × 21 組卡司\n來自七百多天等待淬鍊，擁有自由靈魂的小怪獸，\n在海音、海風、海膽、珊瑚舞臺間遨遊飛翔！\n🚀週末可以自選購票到海音館看拍謝少年，或免費入場打狗祭Hi-ing 5 三大舞台聽團！今年秋天，一起漫遊回歸音樂宇宙星樂園！",
-            "eventLastUpdate": "2026/07/13",
+            "eventLastUpdate": "2026/07/20",
             "eventTicket": null,
             "lineUp": null
         },
@@ -106,9 +87,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/rockintaichung/", "clickable": true},
             "purchaseUrl": null,
             "description": "2026搖滾台中 𝐑𝐎𝐂𝐊 𝐈𝐍 𝐓𝐀𝐈𝐂𝐇𝐔𝐍𝐆\n⟣ 時間 ｜ 2026年10月31日～11月1日\n⟣ 地點 ｜ 文心森林公園及圓滿戶外劇場\n⟣ 免費入場",
-            "eventLastUpdate": "2026/07/13",
+            "eventLastUpdate": "2026/07/20",
             "eventTicket": null,
-            "lineUp": "拍謝少年 Sorry Youth｜甜約翰 Sweet John｜芒果醬 Mango Jump｜粗大Band｜hue｜普通隊長 Captain Ordinary｜Tickle Tickle 癢癢｜RIKI｜薄暮 EVENFALL｜紙鳶 Seizer｜......𝑨𝒏𝒅 𝒎𝒐𝒓𝒆！"
+            "lineUp": "拍謝少年 Sorry Youth｜甜約翰 Sweet John｜芒果醬 Mango Jump｜粗大Band｜hue｜普通隊長 Captain Ordinary｜Tickle Tickle 癢癢｜RIKI｜薄暮 EVENFALL｜紙鳶 Seizer｜ハシリコミーズ [JP]｜yubiori [JP]｜......𝑨𝒏𝒅 𝒎𝒐𝒓𝒆！"
         },
         {
             "years": 2026,
@@ -124,7 +105,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw", "clickable": true},
             "purchaseUrl":  null,
             "description":  "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2026/07/13",
+            "eventLastUpdate": "2026/07/20",
             "eventTicket": null,
             "lineUp": "ano、落日飛車 Sunset Rollercoaster、coldrain、理想混蛋 Bestards、拍謝少年 ft.謝銘祐、美秀集團、NELL、Sunny Day Service、大象體操 ft. someshiit 山姆、紫 今、君島大空、Been Stellar、傷心欲絕 Wayne's So Sad、無妄合作社、我是機車少女I'mdifficult、こっちのけんと Kocchi no Kento、血肉果汁機 Flesh Juicer、溫蒂漫步 Wendy Wander ft. JABBERLOOP、雀斑 Freckles、淺堤 Shallow Levée ft. Kim Sawol、Laura day romance、Anamanaguchi、C.Holly、A_Root同根生Ｘ三牲獻藝 ft. 柔米、溫室雜草、公館青少年、庸俗救星 Vulgar Savior、上山、普通隊長 Captain Ordinary、薄暮 EVENFALL、Tickle Tickle 癢癢…and more！"
         },
@@ -142,7 +123,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "每年 11 月，我們相聚在桃園棒球場\n每一次合唱、每一次跳躍、每一次大笑\n都彷彿定格畫面般，留存在我們的腦海裡\n\n2026，一期一會\n期待地球人們再度集合，一起創造今年最棒的回憶\n\n我們到時見！🔥🔥",
-            "eventLastUpdate": "2026/07/13",
+            "eventLastUpdate": "2026/07/20",
             "eventTicket": null,
             "lineUp": "滅火器、Dragon Ash (JP)、Sambomaster (JP)、Crystal Lake (JP)、Isyana Sarasvati (ID)、血肉果汁機 Flesh Juicer、鄭宜農、淺堤、固定客、普通隊長 Captain Ordinary、BUTTER RIOT...and more!"
         }
