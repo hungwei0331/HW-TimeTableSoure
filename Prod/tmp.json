@@ -919,3 +919,41 @@
             "eventTicket": null,
             "lineUp": "🏆【海洋獨立音樂大賞｜決賽十強名單】\n來者何人 𝐖𝐡𝐨𝐨𝐮!／共振效應／迷海艾當／頂加集會 𝐌.𝐋.𝐂／莎賓娜大樂隊 𝐒𝐚𝐛𝐫𝐢𝐧𝐚 𝐭𝐮𝐚̄ 𝐠𝐚̍𝐤 𝐭𝐮𝐢̄／辣鄰居／應聲倒地／𝐉𝐚𝐳𝐳𝐰𝐞𝐞𝐝.芥子草／𝐌𝐎𝐑𝐄 𝐁𝐄 𝐔𝐒／𝐒𝐨𝐮𝐥 𝐬𝐨𝐫𝐫𝐲 ✨\n🎸【兩日舞台完整卡司陣容】\n\n📅 𝟕月𝟐𝟓日（星期六）\n🔥 大舞台\n𝐌𝐚𝐳𝐁𝐚𝐫&𝐋𝐚𝐥𝐚𝐧／𝐃𝐫𝐮𝐧𝐤𝐌𝐨𝐧𝐤撞克茫客／𝐌𝐀𝐓𝐙𝐊𝐀\n🎧 小舞台\n𝐃𝐉 𝐄 𝐒𝐡𝐨𝐰／𝐁𝐥𝐚𝐜𝐤𝐂𝐡𝐨𝐜𝐨𝐥𝐚𝐭𝐞（𝐃𝐉 𝐀𝐈＋𝐅𝐢𝐨𝐧）／𝐃𝐉 𝐌𝐲𝐤𝐚𝐥林哲儀／𝐂 𝐇𝐨𝐥𝐥𝐲／羅百吉＋寶貝、𝐌𝐂金老師\n\n📅 𝟕月𝟐𝟔日（星期日）\n🔥 大舞台\n八青哥／𝐕𝐞 𝐕𝐞 𝐍𝐮 𝐊𝐮𝐬𝐚𝐤𝐚𝐢𝐠𝐚𝐫／帕崎拉𝐏𝐀𝐂𝐇𝐈𝐋𝐀／𝐃𝐈𝐙𝐋𝐈𝐊𝐄／隨性𝐑𝐚𝐧𝐝𝐨𝐦／芒果醬𝐌𝐚𝐧𝐠𝐨 𝐉𝐮𝐦𝐩／血肉果汁機\n🎧 小舞台\n𝐃𝐉 𝐃𝐫𝐢𝐧𝐧／𝐃𝐉汝妮 𝐃𝐮𝐧𝐠𝐢𝐒𝐚𝐩𝐨𝐫／𝐃𝐉大衛／𝐒𝐩𝐚𝐜𝐞 𝐃𝐢𝐬𝐤𝐨（愛波哥＋𝐁𝐥𝐮𝐞𝐦𝐚𝐧）／𝐐𝐮𝐞𝐞𝐧𝐌𝐚𝐟𝐢𝐚（𝐌𝐨𝐥𝐥𝐲＋𝐇𝐞𝐫）"
         },
+
+            "currentYearEvents": [ 
+        {
+            "years": 2026,
+            "title": "濱海祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Oursea/day1.jpg"],
+            "imageURL": null,
+            "startDate": "2026/08/15",
+            "endDate": "2026/08/16",
+            "location": {"locationName": "MITSUI OUTLET PARK 台中港 ", "locationAddress": "台中市梧棲區臺灣大道十段168號", "latitude": 24.257148806022833,  "longitude": 120.52104591843131 },
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/oursea_chill_fest/", "clickable": true},
+            "purchaseUrl": null,
+            "description": "濱海祭 Oursea Chill Fest.\n﹏⊹ ࣪ ˖濱海搖滾音樂祭 2026⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ​\n 日期｜8.23（六）- ​ 8.24（日）\n☼ 地點｜MITSUI OUTLET PARK 台中港 （北口）\n（台中市梧棲區臺灣大道十段168號） ​",
+            "eventLastUpdate":  "2026/08/10",
+            "eventTicket": null,
+            "lineUp": "⚓08.15（六）\n白安 ANN｜南西肯恩 NeciKen｜IRIS MONDO[JP]｜應聲倒地｜HomeRich ft.TN+Jimmy H.+JustJaewin [SG]｜天国地獄｜終焉Rebirth｜AXIA ...and more! ​\n\n⚓08.16（日）\n麋先生 MIXER｜溫室雜草｜公館青少年｜艾蜜莉AMILI+Quanzo｜SADOG｜A_Root 同根生｜黃宇寒 Han｜ana｜Pure makeR｜月宵◇クレシェンテ｜Happy Holiday!!｜THEΔRAREz｜虹星iRiSTELLA ...and more! "
+        },
+        {
+            "years": 2026,
+            "title": "新北市河海音樂季(淡水場)",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2026/08/15",
+            "endDate": "2026/08/16",
+            "location": {"locationName": "新北大都會公園", "locationAddress": "新北市三重區水漾路一段", "latitude": 25.055736116043406,  "longitude": 121.48072443911018},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "free",
+            "instagramUrl": {"url": "https://www.instagram.com/r.o.music.fest", "clickable": true},
+            "purchaseUrl": null,
+            "description": "2026新北市河海音樂季",
+            "eventLastUpdate":  "2026/08/10",
+            "eventTicket": null,
+            "lineUp": "📅 𝟎𝟖/𝟏𝟓 (星期六) ⚡\n來者何人 𝐖𝐡𝐨𝐨𝐮!／派拉瑞 𝐁𝐀𝐃𝐋𝐀𝐑𝐑／莉莉周她說／𝐏!𝐒𝐂𝐎／𝐂𝐫𝐢𝐬𝐩𝐲脆樂團 ​\n\n📅 𝟎𝟖/𝟏𝟔 (星期日) ⚡️ \n打倒三明治／偏執狂／阿卡西檔案局／腦體馬戲團／怕胖團 𝐏𝐀𝐏𝐔𝐍 𝐁𝐀𝐍𝐃 "
+        },
