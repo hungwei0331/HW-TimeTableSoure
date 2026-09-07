@@ -100,8 +100,8 @@
         },
         {
             "name": "濱海祭",
-            "startDate": "2026/03/14",
-            "endDate": "2026/03/15",
+            "startDate": "2026/08/15",
+            "endDate": "2026/08/16",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Oursea/day1.jpg"]
         }
