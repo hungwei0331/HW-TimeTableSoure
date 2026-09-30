@@ -104,6 +104,14 @@
             "endDate": "2026/08/16",
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Oursea/day1.jpg"]
+        },
+        {
+            "name": "搖滾台中",
+            "startDate": "2026/10/31",
+            "endDate": "2026/11/01",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day2.jpg"]
         }
     ]
 }
