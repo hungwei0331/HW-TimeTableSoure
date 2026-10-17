@@ -112,6 +112,14 @@
             "ticketStatus": "free",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day1.jpg",  
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/RockTaichung/day2.jpg"]
+        },
+        {
+            "name": "浪人祭",
+            "startDate": "2026/11/07",
+            "endDate": "2026/11/08",
+            "ticketStatus": "free",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg"]
         }
     ]
 }
