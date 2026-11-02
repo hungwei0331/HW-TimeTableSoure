@@ -117,9 +117,18 @@
             "name": "浪人祭",
             "startDate": "2026/11/07",
             "endDate": "2026/11/08",
-            "ticketStatus": "free",
+            "ticketStatus": "soldOut",
             "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",  
                             "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg"]
+        },
+        {
+            "name": "火球祭",
+            "startDate": "2026/11/14",
+            "endDate": "2026/11/15",
+            "ticketStatus": "onSale",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day3.jpg"]
         }
     ]
 }
