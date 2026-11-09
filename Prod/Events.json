@@ -1,25 +1,6 @@
 {
-    "lastUpdate": "2026/11/02",
+    "lastUpdate": "2026/11/09",
     "currentYearEvents": [ 
-        {
-            "years": 2026,
-            "title": "浪人祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Vagabond/day2.jpg"],
-            "imageURL": null,
-            "startDate": "2026/11/07",
-            "endDate": "2026/11/08",
-            "location": {"locationName": "台南安平觀夕平台旁大草皮​​​", "locationAddress": "台南市安平區漁濱路​​", "latitude": 22.99038634808121, "longitude": 120.14710902626585},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "soldOut",
-            "instagramUrl": {"url": "https://www.instagram.com/vagabondfest.tw", "clickable": true},
-            "purchaseUrl":  null,
-            "description":  "浪人祭VAGABOND FESTIVAL，結合「音樂、淨灘」透過在地、藝術、特別企劃等形式，講述『環境循環永續』的核心理念，在音樂下舞動、在岸邊踏浪，為台灣獨立音樂及環境永續盡一份心力。",
-            "eventLastUpdate": "2026/11/02",
-            "eventTicket": null,
-            "lineUp": "🍀 演出陣容｜ano、落日飛車 Sunset Rollercoaster、coldrain、理想混蛋 Bestards、拍謝少年 ft. 謝銘祐、美秀集團、NELL、Sunny Day Service、大象體操 ft. someshiit 山姆、紫 今、君島大空、Been Stellar、傷心欲絕 Wayne’s So Sad、無妄合作社、我是機車少女I‘mdifficult、こっちのけんと Kocchi no Kento、血肉果汁機 Flesh Juicer、溫蒂漫步 Wendy Wander ft. JABBERLOOP、雀斑 Freckles、淺堤 Shallow Levée ft. Kim Sawol、Laura day romance、Anamanaguchi、C.Holly、A_Root同根生Ｘ三牲獻藝 ft. 柔米、溫室雜草、公館青少年、庸俗救星 Vulgar Savior、上山、普通隊長 Captain Ordinary、薄暮 EVENFALL、Tickle Tickle 癢癢、國蛋 GorDoN、Asiaboy禁藥王、Multiverse Music、袁語笙、Azikazin Magic World、Vuize王鍾惟、鄭宜農 Enno Cheng、OGRE YOU ASSHOLE、好日HoNi、ana、YaMon Social Club 壓滿俱樂部、RIBINGU、孫淑媚、DSPS、Srirajah Rockers ft. Leo王、永井琳子、貓膽汁、白頻率、ผ้าอ้อม99999、Andy Maker、盧廣仲、B&ZAI、Milena、0WAVE、呂允、INFERNAL CHAOS、Band Nah、Iga Nana 、Fi-Né 粉內、椅子樂團 The Chairs、VOOID X ZAZEN BOYS、Robot Swing (¾ trio) X JABBERLOOP、倒車入庫 R.I.G Ｘ COMMON PEOPLE LIKE YOU、SADOG X ONE CLICK STRAIGHT\n\n🍀 DJ 陣容｜高小糕、安豬 ANJUWU、馬摳、官靖剛、YΣNBøï、DJ Drug The Beat\n\n🍀 浪人塾｜小尾巴 ft. 怡岑、高小糕、童話裡都是騙人的 Nana&Eddie X A_Root同根生 智博＆小綠、壯壯（陳彥壯）"
-        },
         {
             "years": 2026,
             "title": "火球祭",
@@ -36,7 +17,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "每年 11 月，我們相聚在桃園棒球場\n每一次合唱、每一次跳躍、每一次大笑\n都彷彿定格畫面般，留存在我們的腦海裡\n\n2026，一期一會\n期待地球人們再度集合，一起創造今年最棒的回憶\n\n我們到時見！🔥🔥",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
             "lineUp": "✧ 11/14 (Sat.)\n滅火器、FEVER 333 (US)、Sambomaster (JP)、Northern19 (JP)、蛋堡、血肉果汁機 Flesh Juicer ft. Tatsuya Amano (Crossfaith)、鄭宜農 Enno Cheng、生祥樂隊、Gummy B、葛西瓦Kasiwa、Isyana Sarasvati (ID)、淺堤Shallow Levée ft. 鄭宜農 Enno Cheng、GYMV (TH)、Ureuk and The Gypsies (KR)、隨性 Random、PiA吳蓓雅 ft. 邱淑蟬、黃宇寒 Han、憂憂 Yō-Yō、BUTTER RIOT\n\n✧ 11/15 (Sun.)\n滅火器、Dragon Ash (JP)、EGO-WRAPPIN’ (JP) 、HANA (JP)、Crystal Lake (JP) ft. GIGO、TRASH、美秀集團、洪佩瑜 Pei-Yu Hung ft. ???、陳嫺靜 HSIEN CHING、公館青少年GGteens、DSPS、EmptyORio ft. Yappy、陳以恆、C.Holly、胖虎、擊沈女孩 DESTROYERS、固定客GOODICK、普通隊長 Captain Ordinary、debloop\n\n✧ 火球村\n卡祖大帝國 KAZOO KINGDOM－台灣通勤第一品牌｜異鄉人的憤怒舞鼓教室｜珞亦不絕 ft. 貴智、Yoyo 臺澎金馬使用說明書｜跩姬、小花的濃妝龐克 time｜MOMO 家族歡樂會（泡芙姐姐 & 柚子哥哥）｜三個不結婚的女人 Talk & Show｜讓夢轉動 楊元慶｜客家就是你家－黃子軒 x 王鍾錡 x 王鍾惟｜經期似超人－小紅帽 X 宅女小紅｜爵犬 Joe Trane Timberland Booth PARADE 踢不爛大遊行"
         },
@@ -54,7 +35,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl": null,
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
             "lineUp": "麋先生 MIXER．怕胖團 PAPUN BAND．icyball冰球樂團．芒果醬 Mango Jump．白安Ann．Brandy Senki (JP)．PIZZALI．溫蒂漫步 Wendy Wander．傻子與白痴 Fool and Idiot．yutori (JP)．無妄合作社 No-nonsense Collective．柯泯薰 Misi Ke FT 黃玠瑋 Zooey Wonder．7thVega (JP)．粗大Band Thick Big Band．KARDI (KR)．腦體馬戲團 circusbraintly．LAWA．OBSESS．REJAY (JP) ．上山．THE FIX (KR)．brkfstblend (JP)．cephalo (JP) ．烈鷹 LieYing．後站人 Made In Back Station．THE EON永夜．𝐋𝐞𝐞𝐫𝐢𝐱 李瑞．Mango Street Papa 芒果街老爸．逐火 Flint and Steel．Lane 140.．老大不小．吐司貓 Tosuto Neko．鐵皮貓 Ironmeow…….and more"
         },
@@ -72,9 +53,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/punkstrikefes.taiwan/", "clickable": true},
             "purchaseUrl": null,
             "description": "台灣龐克折返跑音樂節\nPunk strike festival (Taiwan)\n台灣龐克新浪潮",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "詳情請參考官方資訊"
         },
         {
             "years": 2026,
@@ -90,9 +71,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "🎀₊⊹.𖧧.⋆˚𖥸｜爛泥發芽𝟭𝟬週年｜𐙚⁺˖⸝⸝༝⁺໒꒱ིྀ ✧˚೯⁺🧩\n📅活動時間：𝟮𝟬𝟮𝟲.𝟭𝟮.𝟭𝟵 — 𝟮𝟬𝟮𝟲.𝟭𝟮.𝟮𝟬\n🗺️活動地點：新莊運動公園・陽光草坪\n🎫購票連結：遠大售票 https://reurl.cc/Ym3Z30​",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
-            "lineUp": "傷心欲絕、無妄合作社、罷黜者、普通隊長、BUTTER RIOT、鯊魚娃娃機、The Salitus、貓拳、梅西的房間、上山、貳伍吸菸所、荒山茉莉、徐行、眠氣、SHOOTUP、BB彈、SADOG、應聲倒地、頂加集會、固定客feat 謝和弦、OBSESS、腦體馬戲團、旅人、白頻率、MOTIF HIVE、隨性、八十八顆芭樂籽、胖虎punkhoo、一點生、碎紙花、粹垢TRAEGO、貓膽汁、無先生、少年A 、薩圖提嘎、倒車入庫、DEFEAT THE GIANT、老貓偵探社、廢埕、銀杏中年、深深一擊、emoment、輻射魚市、龐蟹、九月高校、みみ ⋯and more"
+            "lineUp": "傷心欲絕、無妄合作社、罷黜者、普通隊長、BUTTER RIOT、鯊魚娃娃機、The Salitus、貓拳、梅西的房間、上山、貳伍吸菸所、荒山茉莉、徐行、眠氣、SHOOTUP、BB彈、SADOG、應聲倒地、頂加集會、固定客feat 謝和弦、OBSESS、腦體馬戲團、旅人、白頻率、MOTIF HIVE、隨性、八十八顆芭樂籽、胖虎punkhoo、一點生、碎紙花、粹垢TRAEGO、貓膽汁、無先生、少年A 、薩圖提嘎、倒車入庫、DEFEAT THE GIANT、老貓偵探社、廢埕、銀杏中年、深深一擊、emoment、輻射魚市、龐蟹、九月高校、みみ、溫室雜草、打倒三明治、梁河懸、酸腦、波羅密ボロメ、blu mush"
         }
     ],
     "nextYearEvents": [
@@ -110,9 +91,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  null,
             "description": "一載相逢春暖時分，四方旅人齊聚一城\n千里追尋冒險之聲，萬聲共鳴同盟小鎮\n\n━━━━━━━━━━━━━━━━━━━━━━\n浮現祭 2027｜02月20日 ➤ 02月21日，正式啟動\n━━━━━━━━━━━━━━━━━━━━━━​",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
-            "lineUp": "TRASH｜康士坦的變化球 KST｜溫蒂漫步 Wendy Wander｜イルカポリス 海豚刑警｜Tele [JP]｜luv [JP]｜ねぎ塩豚丼 [JP]｜다다다 DADADA [KR]｜𝗔𝗡𝗗 𝗠𝗢𝗥𝗘！"
+            "lineUp": "秀集團｜TRASH｜康士坦的變化球 KST｜Crispy脆樂團｜溫蒂漫步 Wendy Wander｜イルカポリス 海豚刑警｜淺堤 Shallow Levée｜我是機車少女 I’mdifficult｜Who Cares 胡凱兒｜上山｜Tele [JP]｜luv [JP]｜FCO. [JP]｜ねぎ塩豚丼 [JP]｜NEK! [JP]｜다다다 DADADA [KR]｜......𝗔𝗡𝗗 𝗠𝗢𝗥𝗘！"
         },
         {
             "years": 2027,
@@ -128,9 +109,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "有時候，\n會想起一些人，會想起一些事，\n會想起一些曾經陪伴的時光。\n可能是某年的初春，開往國境之南車上，那段我們都莞爾的談話。\n可能是那次的春假前，港邊萬頭攢動裡，一起跳動、鼓譟的那些歡暢。\n可能是暖風撲面的那夜，老城區旁的巷口，一群人有點微醺、有點荒唐的笑鬧。\n\n回過頭才發現，\n來時路已經那麼長，\n腳步已經踏了那麼遠。\n突然地，嘴角不知何時勾起了笑，\n被這些記憶片段，勾起了笑。\n\n笑裡繞著很多很多的曾經，\n那些曾經裡，有酸、有鹹、有辣、有甜，\n有港口的氣味，\n有海湧的顏色，\n有汗水的觸感，\n還有激情後的聲嘶力竭。\n\n再一次吧！\n再一次，讓身體流過溫熱，\n再一次，讓視線隨著聽覺震動，\n再一次，一起創造難以取代的曾經。​",
-            "eventLastUpdate": "2026/11/02",
+            "eventLastUpdate": "2026/11/09",
             "eventTicket": null,
-            "lineUp": null
+            "lineUp": "洪榮宏"
         }
     ]
 }
