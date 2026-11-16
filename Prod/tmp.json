@@ -1003,3 +1003,24 @@
             "eventTicket": null,
             "lineUp": "🍀 演出陣容｜ano、落日飛車 Sunset Rollercoaster、coldrain、理想混蛋 Bestards、拍謝少年 ft. 謝銘祐、美秀集團、NELL、Sunny Day Service、大象體操 ft. someshiit 山姆、紫 今、君島大空、Been Stellar、傷心欲絕 Wayne’s So Sad、無妄合作社、我是機車少女I‘mdifficult、こっちのけんと Kocchi no Kento、血肉果汁機 Flesh Juicer、溫蒂漫步 Wendy Wander ft. JABBERLOOP、雀斑 Freckles、淺堤 Shallow Levée ft. Kim Sawol、Laura day romance、Anamanaguchi、C.Holly、A_Root同根生Ｘ三牲獻藝 ft. 柔米、溫室雜草、公館青少年、庸俗救星 Vulgar Savior、上山、普通隊長 Captain Ordinary、薄暮 EVENFALL、Tickle Tickle 癢癢、國蛋 GorDoN、Asiaboy禁藥王、Multiverse Music、袁語笙、Azikazin Magic World、Vuize王鍾惟、鄭宜農 Enno Cheng、OGRE YOU ASSHOLE、好日HoNi、ana、YaMon Social Club 壓滿俱樂部、RIBINGU、孫淑媚、DSPS、Srirajah Rockers ft. Leo王、永井琳子、貓膽汁、白頻率、ผ้าอ้อม99999、Andy Maker、盧廣仲、B&ZAI、Milena、0WAVE、呂允、INFERNAL CHAOS、Band Nah、Iga Nana 、Fi-Né 粉內、椅子樂團 The Chairs、VOOID X ZAZEN BOYS、Robot Swing (¾ trio) X JABBERLOOP、倒車入庫 R.I.G Ｘ COMMON PEOPLE LIKE YOU、SADOG X ONE CLICK STRAIGHT\n\n🍀 DJ 陣容｜高小糕、安豬 ANJUWU、馬摳、官靖剛、YΣNBøï、DJ Drug The Beat\n\n🍀 浪人塾｜小尾巴 ft. 怡岑、高小糕、童話裡都是騙人的 Nana&Eddie X A_Root同根生 智博＆小綠、壯壯（陳彥壯）"
         },
+
+                {
+            "years": 2026,
+            "title": "火球祭",
+            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",  
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg",
+                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day3.jpg"],
+            "imageURL": null,
+            "startDate": "2026/11/14",
+            "endDate": "2026/11/15",
+            "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
+            "mail": null,
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "每年 11 月，我們相聚在桃園棒球場\n每一次合唱、每一次跳躍、每一次大笑\n都彷彿定格畫面般，留存在我們的腦海裡\n\n2026，一期一會\n期待地球人們再度集合，一起創造今年最棒的回憶\n\n我們到時見！🔥🔥",
+            "eventLastUpdate": "2026/11/09",
+            "eventTicket": null,
+            "lineUp": "✧ 11/14 (Sat.)\n滅火器、FEVER 333 (US)、Sambomaster (JP)、Northern19 (JP)、蛋堡、血肉果汁機 Flesh Juicer ft. Tatsuya Amano (Crossfaith)、鄭宜農 Enno Cheng、生祥樂隊、Gummy B、葛西瓦Kasiwa、Isyana Sarasvati (ID)、淺堤Shallow Levée ft. 鄭宜農 Enno Cheng、GYMV (TH)、Ureuk and The Gypsies (KR)、隨性 Random、PiA吳蓓雅 ft. 邱淑蟬、黃宇寒 Han、憂憂 Yō-Yō、BUTTER RIOT\n\n✧ 11/15 (Sun.)\n滅火器、Dragon Ash (JP)、EGO-WRAPPIN’ (JP) 、HANA (JP)、Crystal Lake (JP) ft. GIGO、TRASH、美秀集團、洪佩瑜 Pei-Yu Hung ft. ???、陳嫺靜 HSIEN CHING、公館青少年GGteens、DSPS、EmptyORio ft. Yappy、陳以恆、C.Holly、胖虎、擊沈女孩 DESTROYERS、固定客GOODICK、普通隊長 Captain Ordinary、debloop\n\n✧ 火球村\n卡祖大帝國 KAZOO KINGDOM－台灣通勤第一品牌｜異鄉人的憤怒舞鼓教室｜珞亦不絕 ft. 貴智、Yoyo 臺澎金馬使用說明書｜跩姬、小花的濃妝龐克 time｜MOMO 家族歡樂會（泡芙姐姐 & 柚子哥哥）｜三個不結婚的女人 Talk & Show｜讓夢轉動 楊元慶｜客家就是你家－黃子軒 x 王鍾錡 x 王鍾惟｜經期似超人－小紅帽 X 宅女小紅｜爵犬 Joe Trane Timberland Booth PARADE 踢不爛大遊行"
+        },

@@ -1,26 +1,6 @@
 {
-    "lastUpdate": "2026/11/09",
+    "lastUpdate": "2026/11/16",
     "currentYearEvents": [ 
-        {
-            "years": 2026,
-            "title": "火球祭",
-            "tableImages": ["https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day1.jpg",  
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day2.jpg",
-                            "https://raw.githubusercontent.com/hungwei0331/HW-TimeTableSoure/master/Prod/lineUp/Fireball/day3.jpg"],
-            "imageURL": null,
-            "startDate": "2026/11/14",
-            "endDate": "2026/11/15",
-            "location": {"locationName": "樂天桃園棒球場", "locationAddress": "320桃園市中壢區領航北路一段1號", "latitude": 25.00110249591588, "longitude": 121.2003846368204},
-            "mail": null,
-            "latestAttend": null,
-            "ticketStatus": "onSale",
-            "instagramUrl": {"url": "https://www.instagram.com/fireball_fest/", "clickable": true},
-            "purchaseUrl":  null,
-            "description": "每年 11 月，我們相聚在桃園棒球場\n每一次合唱、每一次跳躍、每一次大笑\n都彷彿定格畫面般，留存在我們的腦海裡\n\n2026，一期一會\n期待地球人們再度集合，一起創造今年最棒的回憶\n\n我們到時見！🔥🔥",
-            "eventLastUpdate": "2026/11/09",
-            "eventTicket": null,
-            "lineUp": "✧ 11/14 (Sat.)\n滅火器、FEVER 333 (US)、Sambomaster (JP)、Northern19 (JP)、蛋堡、血肉果汁機 Flesh Juicer ft. Tatsuya Amano (Crossfaith)、鄭宜農 Enno Cheng、生祥樂隊、Gummy B、葛西瓦Kasiwa、Isyana Sarasvati (ID)、淺堤Shallow Levée ft. 鄭宜農 Enno Cheng、GYMV (TH)、Ureuk and The Gypsies (KR)、隨性 Random、PiA吳蓓雅 ft. 邱淑蟬、黃宇寒 Han、憂憂 Yō-Yō、BUTTER RIOT\n\n✧ 11/15 (Sun.)\n滅火器、Dragon Ash (JP)、EGO-WRAPPIN’ (JP) 、HANA (JP)、Crystal Lake (JP) ft. GIGO、TRASH、美秀集團、洪佩瑜 Pei-Yu Hung ft. ???、陳嫺靜 HSIEN CHING、公館青少年GGteens、DSPS、EmptyORio ft. Yappy、陳以恆、C.Holly、胖虎、擊沈女孩 DESTROYERS、固定客GOODICK、普通隊長 Captain Ordinary、debloop\n\n✧ 火球村\n卡祖大帝國 KAZOO KINGDOM－台灣通勤第一品牌｜異鄉人的憤怒舞鼓教室｜珞亦不絕 ft. 貴智、Yoyo 臺澎金馬使用說明書｜跩姬、小花的濃妝龐克 time｜MOMO 家族歡樂會（泡芙姐姐 & 柚子哥哥）｜三個不結婚的女人 Talk & Show｜讓夢轉動 楊元慶｜客家就是你家－黃子軒 x 王鍾錡 x 王鍾惟｜經期似超人－小紅帽 X 宅女小紅｜爵犬 Joe Trane Timberland Booth PARADE 踢不爛大遊行"
-        },
         {
             "years": 2026,
             "title": "Roving Nation FEST. 漂遊者",
@@ -35,9 +15,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/roving.nation.festival/", "clickable": true},
             "purchaseUrl": null,
             "description": "Roving Nation FEST.\n漂遊在森林中_未來最大規模的光合作用\nOn a road to nowhere.",
-            "eventLastUpdate": "2026/11/09",
+            "eventLastUpdate": "2026/11/16",
             "eventTicket": null,
-            "lineUp": "麋先生 MIXER．怕胖團 PAPUN BAND．icyball冰球樂團．芒果醬 Mango Jump．白安Ann．Brandy Senki (JP)．PIZZALI．溫蒂漫步 Wendy Wander．傻子與白痴 Fool and Idiot．yutori (JP)．無妄合作社 No-nonsense Collective．柯泯薰 Misi Ke FT 黃玠瑋 Zooey Wonder．7thVega (JP)．粗大Band Thick Big Band．KARDI (KR)．腦體馬戲團 circusbraintly．LAWA．OBSESS．REJAY (JP) ．上山．THE FIX (KR)．brkfstblend (JP)．cephalo (JP) ．烈鷹 LieYing．後站人 Made In Back Station．THE EON永夜．𝐋𝐞𝐞𝐫𝐢𝐱 李瑞．Mango Street Papa 芒果街老爸．逐火 Flint and Steel．Lane 140.．老大不小．吐司貓 Tosuto Neko．鐵皮貓 Ironmeow…….and more"
+            "lineUp": "麋先生 MIXER．怕胖團 PAPUN BAND．康士坦的變化球 KST．icyball冰球樂團．芒果醬 Mango Jump．白安Ann．Brandy Senki (JP)．PIZZALI．溫蒂漫步 Wendy Wander．傻子與白痴 Fool and Idiot．yutori (JP)．無妄合作社 No-nonsense Collective．柯泯薰 Misi Ke ft. 黃玠瑋 Zooey Wonder．7thVega (JP)．粗大Band Thick Big Band．KARDI (KR)．腦體馬戲團 circusbraintly．八十八顆芭樂籽 88balaz ft. Top Girls．LAWA．OBSESS．REJAY (JP) ．上山．THE FIX (KR)．brkfstblend (JP)．cephalo (JP) ．烈鷹 LieYing．步行者 Pacers．紙鳶 Seizer．後站人 Made In Back Station．Niki the Unicorn．Hernia．THE EON永夜．𝐋𝐞𝐞𝐫𝐢𝐱 李瑞．Soul Sorry．Mango Street Papa 芒果街老爸．逐火 Flint and Steel．Lane 140.．老大不小．吐司貓 Tosuto Neko．荒鳴 Wild Cry．鐵皮貓 Ironmeow"
         },
         {
             "years": 2026,
@@ -53,7 +33,7 @@
             "instagramUrl": {"url": "https://www.instagram.com/punkstrikefes.taiwan/", "clickable": true},
             "purchaseUrl": null,
             "description": "台灣龐克折返跑音樂節\nPunk strike festival (Taiwan)\n台灣龐克新浪潮",
-            "eventLastUpdate": "2026/11/09",
+            "eventLastUpdate": "2026/11/16",
             "eventTicket": null,
             "lineUp": "詳情請參考官方資訊"
         },
@@ -71,9 +51,27 @@
             "instagramUrl": {"url": "https://www.instagram.com/breakingmudfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "🎀₊⊹.𖧧.⋆˚𖥸｜爛泥發芽𝟭𝟬週年｜𐙚⁺˖⸝⸝༝⁺໒꒱ིྀ ✧˚೯⁺🧩\n📅活動時間：𝟮𝟬𝟮𝟲.𝟭𝟮.𝟭𝟵 — 𝟮𝟬𝟮𝟲.𝟭𝟮.𝟮𝟬\n🗺️活動地點：新莊運動公園・陽光草坪\n🎫購票連結：遠大售票 https://reurl.cc/Ym3Z30​",
-            "eventLastUpdate": "2026/11/09",
+            "eventLastUpdate": "2026/11/16",
             "eventTicket": null,
-            "lineUp": "傷心欲絕、無妄合作社、罷黜者、普通隊長、BUTTER RIOT、鯊魚娃娃機、The Salitus、貓拳、梅西的房間、上山、貳伍吸菸所、荒山茉莉、徐行、眠氣、SHOOTUP、BB彈、SADOG、應聲倒地、頂加集會、固定客feat 謝和弦、OBSESS、腦體馬戲團、旅人、白頻率、MOTIF HIVE、隨性、八十八顆芭樂籽、胖虎punkhoo、一點生、碎紙花、粹垢TRAEGO、貓膽汁、無先生、少年A 、薩圖提嘎、倒車入庫、DEFEAT THE GIANT、老貓偵探社、廢埕、銀杏中年、深深一擊、emoment、輻射魚市、龐蟹、九月高校、みみ、溫室雜草、打倒三明治、梁河懸、酸腦、波羅密ボロメ、blu mush"
+            "lineUp": "12/19\n傷心欲絕、無妄合作社、溫室雜草、普通隊長Captain Ordinary、BB彈、荒山茉莉、SHOOTUP、SADOG、上山、打倒三明治、頂加集會、梁河懸、無先生、徐行、DEFEAT THE GIANT、BUTTER RIOT、老貓偵探社、blu mush、輻射魚市、MOTIF HIVE、少年A、酸腦、貓拳、梅西的房間、九月高校、みみ\n\n12/20\n固定客feat 謝和弦、OBSESS、八十八顆芭樂籽、隨性 Random、胖虎 punkhoo、腦體馬戲團、眠氣、罷黜者、倒車入庫、一點生、碎紙花、貳伍吸菸所、 粹垢TRAEGO、貓膽汁、旅人、白頻率、廢埕、深深一擊、emoment、波羅密ボロメ、鯊魚娃娃機、應聲倒地、The Salitus、銀杏中年、薩圖提嘎、龐蟹"
+        },
+        {
+            "years": 2026,
+            "title": "FOREVER YOUNG 2627",
+            "tableImages": null,
+            "imageURL": null,
+            "startDate": "2026/12/31",
+            "endDate": "2027/01/01",
+            "location": {"locationName": "文心森林公園", "locationAddress": "台中市南屯區文心路一段289號", "latitude": 24.146282361558082,  "longitude": 120.6457958288364},
+            "mail": "onSale",
+            "latestAttend": null,
+            "ticketStatus": "onSale",
+            "instagramUrl": {"url": "https://www.instagram.com/fadaproductionstw/", "clickable": true},
+            "purchaseUrl":  null,
+            "description": "嗨！過去這一年，辛苦了，您過的好嗎？\n\n我們好像在墾丁南國的沙灘旁，見到大笑的你，\n在基隆老鷹盤旋的海邊，看到驚喜拍照的妳，\n在淡水河邊的煙火盛景下，看到仰望的妳。\n在台中的火車月台旁，看到獨自落淚的你，\n\n也有是日月潭旁，深情擁抱的你們，\n在南北貳路的野餐墊旁，一夥人大跳奔放的你。\n還有在網路上看著一年來的種種，好生羨慕的你們。\n\n這些，都是我們眼中的你們。\n\n謝謝大家這一年來的青春，帶著我們勇往直前。\n\n最後這一天，是我們對大家滿滿的感謝，\n最後這一天，充滿我們對新一年的想像，\n所以我們繼續任性的，想打造好玩的樂團跨年。\n\n今年我們找齊了精選八組最炸裂的名單，\n裡面也會延續台中道地風味，\n也會有專屬跨年的派對環節，\n以及引人入勝的合作橋段！\n\n所以來吧！今年再讓我們用自己的方式迎接新年！\n\n只要我們永遠在一起，我們就永遠年輕！\n只要我們永遠在一起，搖滾就永遠袂死！\n\n這一年來謝謝你們，跨年現場見！​",
+            "eventLastUpdate": "2026/11/16",
+            "eventTicket": null,
+            "lineUp": "主持人 阿強｜美秀集團｜溫蒂漫步 Wendy Wander｜公館青少年｜IRIS MONDO｜…and more!"
         }
     ],
     "nextYearEvents": [
@@ -91,9 +89,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/emerge_fest", "clickable": true},
             "purchaseUrl":  null,
             "description": "一載相逢春暖時分，四方旅人齊聚一城\n千里追尋冒險之聲，萬聲共鳴同盟小鎮\n\n━━━━━━━━━━━━━━━━━━━━━━\n浮現祭 2027｜02月20日 ➤ 02月21日，正式啟動\n━━━━━━━━━━━━━━━━━━━━━━​",
-            "eventLastUpdate": "2026/11/09",
+            "eventLastUpdate": "2026/11/16",
             "eventTicket": null,
-            "lineUp": "秀集團｜TRASH｜康士坦的變化球 KST｜Crispy脆樂團｜溫蒂漫步 Wendy Wander｜イルカポリス 海豚刑警｜淺堤 Shallow Levée｜我是機車少女 I’mdifficult｜Who Cares 胡凱兒｜上山｜Tele [JP]｜luv [JP]｜FCO. [JP]｜ねぎ塩豚丼 [JP]｜NEK! [JP]｜다다다 DADADA [KR]｜......𝗔𝗡𝗗 𝗠𝗢𝗥𝗘！"
+            "lineUp": "美秀集團｜TRASH｜康士坦的變化球 KST｜Crispy脆樂團｜血肉果汁機 Flesh Juicer｜溫蒂漫步 Wendy Wander｜イルカポリス 海豚刑警｜淺堤 Shallow Levée｜我是機車少女 I’mdifficult｜Who Cares 胡凱兒｜上山｜回聲樂團 Echo of Your Soul｜梁河懸｜薄暮 EVENFALL｜ハンブレッダーズ [JP]｜Tele [JP]｜luv [JP]｜FCO. [JP]｜NEK! [JP]｜ねぎ塩豚丼 [JP]｜ひとひら [JP]｜까치산 KACHISAN [KR]｜다다다 DADADA [KR]｜SONG NING [MY]｜......𝗔𝗡𝗗 𝗠𝗢𝗥𝗘！"
         },
         {
             "years": 2027,
@@ -109,9 +107,9 @@
             "instagramUrl": {"url": "https://www.instagram.com/megaportfest/", "clickable": true},
             "purchaseUrl":  null,
             "description": "有時候，\n會想起一些人，會想起一些事，\n會想起一些曾經陪伴的時光。\n可能是某年的初春，開往國境之南車上，那段我們都莞爾的談話。\n可能是那次的春假前，港邊萬頭攢動裡，一起跳動、鼓譟的那些歡暢。\n可能是暖風撲面的那夜，老城區旁的巷口，一群人有點微醺、有點荒唐的笑鬧。\n\n回過頭才發現，\n來時路已經那麼長，\n腳步已經踏了那麼遠。\n突然地，嘴角不知何時勾起了笑，\n被這些記憶片段，勾起了笑。\n\n笑裡繞著很多很多的曾經，\n那些曾經裡，有酸、有鹹、有辣、有甜，\n有港口的氣味，\n有海湧的顏色，\n有汗水的觸感，\n還有激情後的聲嘶力竭。\n\n再一次吧！\n再一次，讓身體流過溫熱，\n再一次，讓視線隨著聽覺震動，\n再一次，一起創造難以取代的曾經。​",
-            "eventLastUpdate": "2026/11/09",
+            "eventLastUpdate": "2026/11/16",
             "eventTicket": null,
-            "lineUp": "洪榮宏"
+            "lineUp": "洪榮宏 | The HU (MN)❞"
         }
     ]
 }
